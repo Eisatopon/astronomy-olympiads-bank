@@ -601,7 +601,7 @@ dialog p { color: var(--muted); font-size: .92rem; }
 // Local copies (python -m http.server) read the files next to the page; the published site reads the raw files.
 const BASE = /^(localhost|127\.)/.test(location.hostname) ? './' : 'https://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/';
 // Bump on every data change so browsers never mix old and new files.
-const DATA_VERSION = '20261021-iao-baao-r1';
+const DATA_VERSION = '20261021-iao-apao';
 const FIRST = 1990, LAST = 2026;
 const REGIONS = [['europe', 'Europe'], ['asia', 'Asia'], ['americas', 'Americas'], ['africa', 'Africa'], ['oceania', 'Oceania'], ['world', 'World'], ['other', 'Other']];
 const REGION_OF = {
@@ -613,7 +613,8 @@ const REGION_OF = {
     usaaao: 'americas',
     usaaao1: 'americas',
     iao: 'world',
-    baao1: 'europe'
+    baao1: 'europe',
+    apao: 'asia'
 };
 const regionOf = key => REGION_OF[key] || 'other';
 const PAGE = 20;
@@ -628,6 +629,7 @@ const COUNTRIES = [
     { key: 'usaaao1', name: 'USA USAAAO First Round', flag: '🇺🇸', file: 'USA-usaaao-first-round-problems.json', kind: 'years', full: 'USA Astronomy and Astrophysics Olympiad (USAAAO), First Round' },
     { key: 'iao', name: 'IAO', flag: '🌐', file: 'IAO-problems.json', kind: 'years', scope: 'international', full: 'International Astronomy Olympiad (Euro-Asian Astronomical Society); English texts from the official web site' },
     { key: 'baao1', name: 'UK BAAO Round 1', flag: '🇬🇧', file: 'UK-baao-round1-problems.json', kind: 'years', full: 'British Astronomy and Astrophysics Olympiad, Round 1' },
+    { key: 'apao', name: 'APAO', flag: '🌏', file: 'APAO-problems.json', kind: 'years', scope: 'regional', full: 'Asian-Pacific Astronomy Olympiad; English problem sheets from the official IAO web site' },
     { key: 'gecaa', name: 'GeCAA', flag: '🌐', file: 'GeCAA-problems.json', kind: 'years', scope: 'international', full: 'Global e-Competition on Astronomy and Astrophysics (online, 2020), theory and data analysis' }
 ];
 COUNTRIES.sort((a, b) => a.name.localeCompare(b.name, 'en', { sensitivity: 'base' }));

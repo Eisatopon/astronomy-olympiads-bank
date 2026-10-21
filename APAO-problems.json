@@ -1,0 +1,278 @@
+{
+ "competition": "Asian-Pacific Astronomy Olympiad (APAO)",
+ "years": [
+  {
+   "year": 2012,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "1. Canopus. Canopus was a very popular star in problems set of the XVII IAO in Gwangju, Korea (October 16-24, 2012). But nobody had success seeing it during that Olympiad. Maybe here you will be lucky? Calculate time for the best conditions for observation of Canopus during the next 24 hours. Bangladesh time should be used.",
+     "paper_label": "Theoretical round – Group α"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "2. Image of Eclipse. Two weeks ago, in the morning of November 14, 2012, a Total Solar Eclipse was observed in the North-East Australia. The photo (the whole size displayed) was taken by a Canon SX50 HS camera, which has 3000 x 4000 pixels CCD, and the distance between the centres of the adjustant pixels is 1.54 $\\mu$m ( = $1.54\\cdot10^{-6}$ m). Calculate the focal distance of the camera's objective used to get the image.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/apao-2012-d1-q2-1.png",
+     "paper_label": "Theoretical round – Group α"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "3. Sunspot. Astronauts who arrived at Mercury observe the Sun. They see a sunspot located just in the center of the visible solar disk. After what time will this spot be in the centre of the solar disk once again? The sidereal period of the equatorial regions of the Sun is 25.38 days.",
+     "paper_label": "Theoretical round – Group α"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "4. Bear and satellite. The Polar Bear is sitting at the North Pole of the Earth, philosophizes and watches celestial objects. An artificial satellite moving in a circular polar orbit appeared in his vision. The first time the satellite disappeared over the horizon at the longitude of Gwangju, and the next time it disappeared over the horizon at the longitude of Cox's Bazar. At what height above the head of the Polar Bear the satellite flies? The solution has to include an artistic picture with an image of the Polar Bear-observer at the North Pole.",
+     "paper_label": "Theoretical round – Group α"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "5. Comet Holmes. Comet Holmes (17P Holmes) has been known since 1892, being an unremarkable object of $17^\\mathrm{th}$ magnitude for many years. Based on computations, the diameter of comet's nucleus was estimated to $d_0$ = 3.4 km. And a few years ago it presented a surprise for all astronomers. In two days on October 23-25, 2007, its brightness suddenly increased many thousands times. As per one of the first versions, of the nucleus of the comet collided with some microcosmic celestial body, and as a result, there was a great explosion, and the nucleus fell apart into many small fragments. The graph shows the magnitude of the comet versus time for the days of outburst. Estimate approximately in how many fragments Comet Holmes was disintegrated according to this model. What was the average size of a fragment?\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/apao-2012-d1-q5-1.png",
+     "paper_label": "Theoretical round – Group α"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "problem": "6. Planet Bangladeya. Engineers of Bangladesh created a new planet Bangladeya from a part of the Earth substance. Total area of surface of Bangladeya equals to the area of Bangladesh country (S = 147 600 km$^2$). Estimate the acceleration of gravity at the planet Bangladeya.",
+     "paper_label": "Theoretical round – Group α"
+    },
+    {
+     "day": 2,
+     "number": 1,
+     "problem": "1. Canopus. Canopus was a very popular star in problems set of the XVII IAO in Gwangju, Korea (October 16-24, 2012). But nobody had success seeing it during that Olympiad. Maybe here you will be lucky? Calculate time for the best conditions for observation of Canopus during the next 24 hours. Bangladesh time should be used.",
+     "paper_label": "Theoretical round – Group β"
+    },
+    {
+     "day": 2,
+     "number": 2,
+     "problem": "2. Image of Eclipse. Two weeks ago, in the morning of November 14, 2012, a Total Solar Eclipse was observed in the North-East Australia. The photo (the whole size displayed) was taken by a Canon SX50 HS camera, which has 3000 x 4000 pixels CCD, and the distance between the centres of the adjustant pixels is 1.54 $\\mu$m ( = $1.54\\cdot10^{-6}$ m). Calculate the focal distance of the camera's objective used to get the image.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/apao-2012-d2-q2-1.png",
+     "paper_label": "Theoretical round – Group β"
+    },
+    {
+     "day": 2,
+     "number": 3,
+     "problem": "3. Remote galaxy. Research of a remote galaxy showed us that the H$\\alpha$ line in its spectrum is observed at a wavelength of 34000 Å. Roughly (with an accuracy of 20%) estimate:\n\n3.1. The receding speed of the galaxy.\n\n3.2. The distance to the galaxy.",
+     "paper_label": "Theoretical round – Group β"
+    },
+    {
+     "day": 2,
+     "number": 4,
+     "problem": "4. Bear and satellite. The Polar Bear is sitting at the North Pole of the Earth, philosophizes and watches celestial objects. An artificial satellite moving in a circular polar orbit appeared in his vision. The first time the satellite disappeared over the horizon at the longitude of Gwangju, and the next time it disappeared over the horizon at the longitude of Cox's Bazar. At what height above the head of the Polar Bear the satellite flies? The solution has to include an artistic picture with an image of the Polar Bear-observer at the North Pole.",
+     "paper_label": "Theoretical round – Group β"
+    },
+    {
+     "day": 2,
+     "number": 5,
+     "problem": "5. Comet Holmes. Comet Holmes (17P Holmes) has been known since 1892, being an unremarkable object of $17^\\mathrm{th}$ magnitude for many years. Based on computations, the diameter of comet's nucleus was estimated to $d_0$ = 3.4 km. And a few years ago it presented a surprise for all astronomers. In two days on October 23-25, 2007, its brightness suddenly increased many thousands times. As per one of the first versions, of the nucleus of the comet collided with some microcosmic celestial body, and as a result, there was a great explosion, and the nucleus fell apart into many small fragments. The graph shows the magnitude of the comet versus time for the days of outburst. Estimate approximately in how many fragments Comet Holmes was disintegrated according to this model. What was the average size of a fragment?\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/apao-2012-d2-q5-1.png",
+     "paper_label": "Theoretical round – Group β"
+    },
+    {
+     "day": 2,
+     "number": 6,
+     "problem": "6. Planet Bangladeya. Engineers of Bangladesh created a new planet Bangladeya from a part of the Earth substance. Total area of surface of Bangladeya equals to the area of Bangladesh country (S = 147 600 km$^2$). The planet is rotating around the Sun by circular orbit so that the mean climate on Bangladeya is the same as in Bangladesh country (the average temperature is 25.6 °C that is 10.5 degrees higher than average on the Earth).\n\n6.1. Estimate the acceleration of gravity at the planet Bangladeya.\n\n6.2. Calculate the duration (in Earth days) of the year on the planet Bangladeya.",
+     "paper_label": "Theoretical round – Group β"
+    },
+    {
+     "day": 3,
+     "number": 1,
+     "problem": "7. Noon. An observer based in some city in Bangladesh monitored time of local noon on each day in the year 2012. In table 1, first column is serial number, second column is date of observation (D), third column is time of local noon (T) as per observer's clock and the last column is measured altitude of the Sun at local noon (a) in degrees. Bangladesh follows UT+6 hours timezone, and it is known that on $15^\\mathrm{th}$ April every year, the mean sun's position matches exactly with the true sun. Use this data to find:\n\n7.1. Longitude of the Observatory.\n\n7.2. Latitude of the Observatory.\n\n7.3. Use the given map of Bangladesh, to identify the city. Write the name of city exactly as given in the Map.\n\n7.4. Draw a graph showing equation of time (EoT) correction required (in minutes) for each day.\n\n7.5. Date on which the Sun culminates at the earliest and difference in minutes from local noon.\n\n7.6. Date on which the Sun culminates at the latest and difference in minutes from local noon.\n\n7.7. Dates apart from $15^\\mathrm{th}$ April when the Sun culminates exactly at local noon.\n\nNote: write all dates in DD.MM.YYYY format using Arabic numerals only.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/apao-2012-d3-q1-1.png",
+     "paper_label": "Practical round – both groups"
+    },
+    {
+     "day": 4,
+     "number": 1,
+     "problem": "8. The black cloud. In science fiction novel \"The black cloud\", written by Sir Fred Hoyle in 1957, an interstellar dark cloud is discovered approaching the solar system. We will try to retrace the steps explained in the novel to estimate motion of the cloud. Two photographs given below show a small region inside the constellation of Orion. The photographs are taken exactly 2 years apart. The grid in the image has the size of $1^\\circ \\times 1^\\circ$.\n\n8.1. In how many years (after the second image) the cloud will entirely cover the belt of Orion (seen on the left)?\n\n8.2. In how many years (after the second image) the cloud will arrive at the Earth? Assume the cloud to have uniform velocity throughout the journey.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/apao-2012-d4-q1-1.png",
+     "paper_label": "Practical round – Group α"
+    },
+    {
+     "day": 5,
+     "number": 1,
+     "problem": "8. Variable stars. An enthusiastic astronomer in Dhaka found the data given in table 2 about variable stars in Large Magellanic Cloud (LMC) from virtual observatory. In the table, first column is serial number of star, second column is its Right Ascension ($\\alpha$), third column is Declination ($\\delta$), fourth column is period of pulsation in days and last column is its observed magnitude (m).\n\n8.1. Help the observer to classify the variables as classical Cepheids (C1), type II Cepheids (C2) and RR Lyrae stars (R). You should write these symbols in front of each star in the table. You may or may not use graph paper.\n\n8.2. Period-luminosity relation for Cepheids takes the form $M = A\\cdot\\log_{10}(p) + B$, where M is absolute magnitude of the star and A and B are some constants. For LMC, find value of A and B for both types of Cepheids. You can assume distance of LMC as 48 kpc.\n\n8.3. Identify foreground (mark \"F\") and background (mark \"B\") stars (if any) in the data.\n\n8.4. Estimate distance to the stars which are not part of LMC.\n\nNotes:\n\n• Classical Cepheid stars are a type of pulsating variable stars, which show linear relationship between period of pulsation and absolute luminosity in a log-log plot.\n\n• Type II Cepheid stars show exactly similar kind of relationship as classical Cepheids but are fainter than a classical Cepheids for a given period.\n\n• RR Lyrae stars are another type of pulsating variable stars which show very short period (less than 1 day) of pulsation and for all RR Lyrae stars, the absolute luminosity is nearly constant.",
+     "paper_label": "Practical round – Group β"
+    }
+   ]
+  },
+  {
+   "year": 2014,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "General note. Maybe not all problems have correct questions. Some questions (maybe the main question of the problem, maybe one of the subquestions) may make no real sense. In this case you have to write in your answer (in English or Russian): «impossible situation – ситуация невозможна». Of course, this answer has to be explained numerically or logically. Data from the tables (Planetary data, stars, constants, etc.) may be used for solving every problem. The answers «Да-Yes» or «Нет-No» have to be written in English or Russian.\n\n1. Footstep of babr. Babr is a local representative of the biological family of cats (felidae) depicted on the coat of arms of Irkutsk, and the emblem of the X APAO (with a telescope in his mouth). On June 6, 2012, Irkutsk astronomers have photographed the transit of the planet Venus passing across the solar disk (fig. 1). And on November 19, 2014, they saw a sunspot, like a paw print of babr, and named this spot \"footstep of babr\" (fig. 2). The surface of the Sun is shown in the same scale in both images.\n\n1.1. Find which is larger and how much larger: the area of a sunspot \"footstep of babr\" or the area of the Earth's surface.\n\n1.2. Estimate, what mass would a felid have, which may print footsteps of such size on the solar surface. Consider the structure of the space felid to be similar to one of the Siberian felidae. With the mass of what cosmic body can the result be compared? Recollect for yourself the required information about the felidae.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/apao-2014-d1-q1-1.png",
+     "paper_label": "Theoretical round – Group α"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "General note. Maybe not all problems have correct questions. Some questions (maybe the main question of the problem, maybe one of the subquestions) may make no real sense. In this case you have to write in your answer (in English or Russian): «impossible situation – ситуация невозможна». Of course, this answer has to be explained numerically or logically. Data from the tables (Planetary data, stars, constants, etc.) may be used for solving every problem. The answers «Да-Yes» or «Нет-No» have to be written in English or Russian.\n\n2. LSVT and babr. The Large Solar Vacuum Telescope (LSVT) of the Institute of Solar-Terrestrial Physics, located in Listvyanka, has the main mirror 760 mm in diameter and focal length 40 m. One of the main activities of the scientists observing with the LSVT is the research of active features in solar atmosphere. Scientists regularly observe sunspots.\n\n2.1. Draw in real scale a picture of image of the sunspot \"footstep of babr\" (see picture and condition of the previous problem) obtained in the focal plane of the LSVT.\n\n2.2. When observing the Sun during sunset scientists have seen a running animal on the hill on the opposite side of the Angara river (approximately 5 km away). Scientists have suggested it is a babr, cat's like animal (felidae) about the size of a tiger. Estimate how far you need to move the screen on which the Sun was recorded to clearly see on it the silhouette image of the animal.\n\n2.3. Draw in actual scale in your notebook something (a point, spot, silhouette, image or something else) that will be visible on the screen.",
+     "paper_label": "Theoretical round – Group α"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "General note. Maybe not all problems have correct questions. Some questions (maybe the main question of the problem, maybe one of the subquestions) may make no real sense. In this case you have to write in your answer (in English or Russian): «impossible situation – ситуация невозможна». Of course, this answer has to be explained numerically or logically. Data from the tables (Planetary data, stars, constants, etc.) may be used for solving every problem. The answers «Да-Yes» or «Нет-No» have to be written in English or Russian.\n\n3. Orion's Belt. The Babr decided to join company of astronomy animals-observers and came to Listvyanka to the X APAO to take photos of stars of Orion's Belt near the horizon. Will this be possible? («да-yes» or «нет-no»). When is it better to take the photos: on rising, culmination or setting of Orion? At approximately what time (use time of Irkutsk) should the photos be taken? The solution has to include an artistic picture with an image of the Babr-observer taking photos of Orion's Belt.\n\nCoordinates (from the data sheet of the paper):\n$$\\begin{array}{|l|c|c|}\\hline \\text{Coordinates} & \\text{Irkutsk} & \\text{Listvyanka}\\\\ \\hline \\lambda\\ (\\text{E}) & 104^\\circ 18' & 104^\\circ 53'\\\\ \\hline \\varphi\\ (\\text{N}) & 52^\\circ 17' & 51^\\circ 51'\\\\ \\hline \\text{Distance to the center of the Earth} & R_\\mathrm{I} = 6365.3\\ \\text{km} & R_\\mathrm{L} = 6365.4\\ \\text{km}\\\\ \\hline \\text{Timezone} & \\text{UT+8} & \\text{UT+8}\\\\ \\hline \\end{array}$$\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/apao-2014-d1-q3-1.png",
+     "paper_label": "Theoretical round – Group α"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "General note. Maybe not all problems have correct questions. Some questions (maybe the main question of the problem, maybe one of the subquestions) may make no real sense. In this case you have to write in your answer (in English or Russian): «impossible situation – ситуация невозможна». Of course, this answer has to be explained numerically or logically. Data from the tables (Planetary data, stars, constants, etc.) may be used for solving every problem. The answers «Да-Yes» or «Нет-No» have to be written in English or Russian.\n\n4. Fourth star of Orion's Belt. As you know, there is a Penguin among animals-observers, and he is a great joker. The Penguin decided that something is missing for artistic perception of Orion, and one must \"put\" a fourth star on the Babr's picture of Orion's Belt. For this, he found a photoflash lamp and, sitting somewhere in the field of view of the camera during the exposure, flashed once (sent one light pulse) to the camera during the exposure. Estimate at what distance from the Babr the Penguin was, if the shining of the \"fourth star of Orion's Belt\" approximately corresponds to that of the three others in the picture. When photographing, the Babr-observer used an exposure time of the order of 10 seconds.\n\nTake into account the parameters of the flash pulse. The photographic conditions (sensitivity of CCD, diaphragm) while photographing objects with the flash at the distance of 1 meters (from both flash and camera) should be the same as while photographing the same objects on a sunny day with an exposure time of about 1/1000 second.\n\nThe solution has to include a picture with artistic images of the Penguin and his flash lamp.",
+     "paper_label": "Theoretical round – Group α"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "General note. Maybe not all problems have correct questions. Some questions (maybe the main question of the problem, maybe one of the subquestions) may make no real sense. In this case you have to write in your answer (in English or Russian): «impossible situation – ситуация невозможна». Of course, this answer has to be explained numerically or logically. Data from the tables (Planetary data, stars, constants, etc.) may be used for solving every problem. The answers «Да-Yes» or «Нет-No» have to be written in English or Russian.\n\n5. Eclipses. Our Moon is moving away from Earth at a rate of 3.8 cm per year. Estimate how many years the habitants of Earth will have a possibility to see total solar eclipses.",
+     "paper_label": "Theoretical round – Group α"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "problem": "General note. Maybe not all problems have correct questions. Some questions (maybe the main question of the problem, maybe one of the subquestions) may make no real sense. In this case you have to write in your answer (in English or Russian): «impossible situation – ситуация невозможна». Of course, this answer has to be explained numerically or logically. Data from the tables (Planetary data, stars, constants, etc.) may be used for solving every problem. The answers «Да-Yes» or «Нет-No» have to be written in English or Russian.\n\n6. ISS in Zenith. On the day of the beginning of the X APAO, November 24, 2014, at 05 h 01 min (Irkutsk time) the spacecraft Soyuz-TMA-15M was launched. At 10 h 48 min it was docked with the ISS. It is interesting to note that ISS can fly very close to Zenith for an observer in Listvyanka. At what minimum distance should an observer from Listvyanka be moved to observe ISS sometimes just in Zenith?\n\nNovember 24, 2014, the main parameters of the orbit of the ISS are:\n\nInclination of the orbit: $i = 51.648^\\circ$.\n\nMean motion (revolutions per day): $n = 15.5142$.\n\nCoordinates (from the data sheet of the paper):\n$$\\begin{array}{|l|c|c|}\\hline \\text{Coordinates} & \\text{Irkutsk} & \\text{Listvyanka}\\\\ \\hline \\lambda\\ (\\text{E}) & 104^\\circ 18' & 104^\\circ 53'\\\\ \\hline \\varphi\\ (\\text{N}) & 52^\\circ 17' & 51^\\circ 51'\\\\ \\hline \\text{Distance to the center of the Earth} & R_\\mathrm{I} = 6365.3\\ \\text{km} & R_\\mathrm{L} = 6365.4\\ \\text{km}\\\\ \\hline \\text{Timezone} & \\text{UT+8} & \\text{UT+8}\\\\ \\hline \\end{array}$$",
+     "paper_label": "Theoretical round – Group α"
+    },
+    {
+     "day": 2,
+     "number": 1,
+     "problem": "General note. Maybe not all problems have correct questions. Some questions (maybe the main question of the problem, maybe one of the subquestions) may make no real sense. In this case you have to write in your answer (in English or Russian): «impossible situation – ситуация невозможна». Of course, this answer has to be explained numerically or logically. Data from the tables (Planetary data, stars, constants, etc.) may be used for solving every problem. The answers «Да-Yes» or «Нет-No» have to be written in English or Russian.\n\n1. Footstep of babr. Babr is a local representative of the biological family of cats (felidae) depicted on the coat of arms of Irkutsk, and the emblem of the X APAO (with a telescope in his mouth). On June 6, 2012, Irkutsk astronomers have photographed the transit of the planet Venus passing across the solar disk (fig. 1). And on November 19, 2014, they saw a sunspot, like a paw print of babr, and named this spot \"footstep of babr\" (fig. 2). The surface of the Sun is shown in the same scale in both images.\n\n1.1. Estimate the typical size of the sunspot \"footstep of babr\".\n\n1.2. Estimate, at what magnitude the sunspot \"footstep of babr\" would shine (calculating without the emission of the rest solar surface). With the magnitude of what celestial body can the result be compared?\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/apao-2014-d2-q1-1.png",
+     "paper_label": "Theoretical round – Group β"
+    },
+    {
+     "day": 2,
+     "number": 2,
+     "problem": "General note. Maybe not all problems have correct questions. Some questions (maybe the main question of the problem, maybe one of the subquestions) may make no real sense. In this case you have to write in your answer (in English or Russian): «impossible situation – ситуация невозможна». Of course, this answer has to be explained numerically or logically. Data from the tables (Planetary data, stars, constants, etc.) may be used for solving every problem. The answers «Да-Yes» or «Нет-No» have to be written in English or Russian.\n\n2. LSVT and babr. The Large Solar Vacuum Telescope (LSVT) of the Institute of Solar-Terrestrial Physics, located in Listvyanka, has the main mirror 760 mm in diameter and focal length 40 m. One of the main activities of the scientists observing with the LSVT is the research of active features in solar atmosphere. Scientists regularly observe sunspots.\n\n2.1. Draw in real scale a picture of image of the sunspot \"footstep of babr\" (see picture and condition of the previous problem) obtained in the focal plane of the LSVT.\n\n2.2. When observing the Sun during sunset scientists have seen a running animal on the hill on the opposite side of the Angara river (approximately 5 km away). Scientists have suggested it is a babr, cat's like animal (felidae) about the size of a tiger. Estimate how far you need to move the screen on which the Sun was recorded to clearly see on it the silhouette image of the animal.\n\n2.3. Draw in actual scale in your notebook something (a point, spot, silhouette, image or something else) that will be visible on the screen.\n\n2.4. Will the resolving power of LSVT be enough to understand what kind of animal is observed? («да-yes» or «нет-no»).",
+     "paper_label": "Theoretical round – Group β"
+    },
+    {
+     "day": 2,
+     "number": 3,
+     "problem": "General note. Maybe not all problems have correct questions. Some questions (maybe the main question of the problem, maybe one of the subquestions) may make no real sense. In this case you have to write in your answer (in English or Russian): «impossible situation – ситуация невозможна». Of course, this answer has to be explained numerically or logically. Data from the tables (Planetary data, stars, constants, etc.) may be used for solving every problem. The answers «Да-Yes» or «Нет-No» have to be written in English or Russian.\n\n3. Orion's Belt. The Babr decided to join company of astronomy animals-observers and came to Listvyanka to the X APAO to take photos of stars of Orion's Belt near the horizon. Will this be possible? («да-yes» or «нет-no»). When is it better to take the photos: on rising, culmination or setting of Orion? At approximately what time (use time of Irkutsk) should the photos be taken? The solution has to include an artistic picture with an image of the Babr-observer taking photos of Orion's Belt.\n\nCoordinates (from the data sheet of the paper):\n$$\\begin{array}{|l|c|c|}\\hline \\text{Coordinates} & \\text{Irkutsk} & \\text{Listvyanka}\\\\ \\hline \\lambda\\ (\\text{E}) & 104^\\circ 18' & 104^\\circ 53'\\\\ \\hline \\varphi\\ (\\text{N}) & 52^\\circ 17' & 51^\\circ 51'\\\\ \\hline \\text{Distance to the center of the Earth} & R_\\mathrm{I} = 6365.3\\ \\text{km} & R_\\mathrm{L} = 6365.4\\ \\text{km}\\\\ \\hline \\text{Timezone} & \\text{UT+8} & \\text{UT+8}\\\\ \\hline \\end{array}$$\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/apao-2014-d2-q3-1.png",
+     "paper_label": "Theoretical round – Group β"
+    },
+    {
+     "day": 2,
+     "number": 4,
+     "problem": "General note. Maybe not all problems have correct questions. Some questions (maybe the main question of the problem, maybe one of the subquestions) may make no real sense. In this case you have to write in your answer (in English or Russian): «impossible situation – ситуация невозможна». Of course, this answer has to be explained numerically or logically. Data from the tables (Planetary data, stars, constants, etc.) may be used for solving every problem. The answers «Да-Yes» or «Нет-No» have to be written in English or Russian.\n\n4. Fourth star of Orion's Belt. As you know, there is a Penguin among animals-observers, and he is a great joker. The Penguin decided that something is missing for artistic perception of Orion, and one must \"put\" a fourth star on the Babr's picture of Orion's Belt. For this, he found a photoflash lamp and, sitting somewhere in the field of view of the camera during the exposure, flashed once (sent one light pulse) to the camera during the exposure. Estimate at what distance from the Babr the Penguin was, if the shining of the \"fourth star of Orion's Belt\" approximately corresponds to that of the three others in the picture. When photographing, the Babr-observer used an exposure time of the order of 10 seconds.\n\nTake into account the parameters of the flash pulse. The photographic conditions (sensitivity of CCD, diaphragm) while photographing objects with the flash at the distance of 1 meters (from both flash and camera) should be the same as while photographing the same objects on a sunny day with an exposure time of about 1/1000 second.\n\nThe solution has to include a picture with artistic images of the Penguin and his flash lamp.",
+     "paper_label": "Theoretical round – Group β"
+    },
+    {
+     "day": 2,
+     "number": 5,
+     "problem": "General note. Maybe not all problems have correct questions. Some questions (maybe the main question of the problem, maybe one of the subquestions) may make no real sense. In this case you have to write in your answer (in English or Russian): «impossible situation – ситуация невозможна». Of course, this answer has to be explained numerically or logically. Data from the tables (Planetary data, stars, constants, etc.) may be used for solving every problem. The answers «Да-Yes» or «Нет-No» have to be written in English or Russian.\n\n5. Eclipses. Our Moon is moving away from Earth at a rate of 3.8 cm per year. Estimate how many years the habitants of Earth will have a possibility to see total solar eclipses.",
+     "paper_label": "Theoretical round – Group β"
+    },
+    {
+     "day": 2,
+     "number": 6,
+     "problem": "General note. Maybe not all problems have correct questions. Some questions (maybe the main question of the problem, maybe one of the subquestions) may make no real sense. In this case you have to write in your answer (in English or Russian): «impossible situation – ситуация невозможна». Of course, this answer has to be explained numerically or logically. Data from the tables (Planetary data, stars, constants, etc.) may be used for solving every problem. The answers «Да-Yes» or «Нет-No» have to be written in English or Russian.\n\n6. ISS near Zenith. On the day of the beginning of the X APAO, November 24, 2014, at 05 h 01 min (Irkutsk time) the spacecraft Soyuz-TMA-15M was launched. At 10 h 48 min it was docked with the ISS. It is interesting to note that sometimes ISS flies very close to Zenith for an observer in Listvyanka. At what minimum zenith distance can ISS be seen from Listvyanka?\n\nNovember 24, 2014, the main parameters of the orbit of the ISS are:\n\nInclination of the orbit: $i = 51.648^\\circ$.\n\nMean motion (revolutions per day): $n = 15.5142$.\n\nThe shape of the Earth can be considered as spherical (with radius equal to the distance from Listvyanka to the center of the Earth), and the ISS orbit as circular.\n\nNote: It is not a problem to estimate. Precise calculations may be necessary to get correct result.\n\nCoordinates (from the data sheet of the paper):\n$$\\begin{array}{|l|c|c|}\\hline \\text{Coordinates} & \\text{Irkutsk} & \\text{Listvyanka}\\\\ \\hline \\lambda\\ (\\text{E}) & 104^\\circ 18' & 104^\\circ 53'\\\\ \\hline \\varphi\\ (\\text{N}) & 52^\\circ 17' & 51^\\circ 51'\\\\ \\hline \\text{Distance to the center of the Earth} & R_\\mathrm{I} = 6365.3\\ \\text{km} & R_\\mathrm{L} = 6365.4\\ \\text{km}\\\\ \\hline \\text{Timezone} & \\text{UT+8} & \\text{UT+8}\\\\ \\hline \\end{array}$$",
+     "paper_label": "Theoretical round – Group β"
+    }
+   ]
+  },
+  {
+   "year": 2015,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "1. Sizes and masses. In the table given at a separate sheet enumerate in growing order (from 1 to 13) the size and the mass of each object: Milky Way Galaxy, Andromeda Galaxy, Neutron star, Electron, Mercury, The first satellite \"Sputnik I\", Venus, Pluto, Proton, Red dwarf, Black cat, White (Polar) bear, the Sun.",
+     "paper_label": "Theoretical round – Group α"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "2. Umbra and penumbra. As you know, on clear sunny days, objects usually give rise to umbras and penumbras. Nowadays, the angle of the ecliptic plane to the celestial equator is $\\varepsilon_0 = 23^\\circ 26.2'$ and is reduced by about $\\upsilon = 0.78'$ per century. Calculate in what century begins the period or in what century the period has ended when from the exactly vertical column located in Ashulia\n\n2.1. umbra from the Sun\n\n2.2. penumbra from the Sun\n\nwill disappear (or disappeared) at some sunny days of the year.\n\nAshulia's coordinates are $23^\\circ 53.6'$ N, $90^\\circ 19.8'$ E.\n\nDraw pictures explaining your solution.",
+     "paper_label": "Theoretical round – Group α"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "3. Star setting. The Bengal Tiger likes to observe stars. According to his calculations, some star will rise today at $19^\\mathrm{h}45^\\mathrm{m}$ and will culminate at $21^\\mathrm{h}49^\\mathrm{m}$. At what time yesterday did the star set? The refraction and horizon lowering can be disregarded. The solution has to include an artistic picture with an image of the Bengal Tiger-astronomer observing the star.",
+     "paper_label": "Theoretical round – Group α"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "4. Lunokhod. While the Bengal Tiger holds astronomical observations near Dhaka, the White Bear traveled to the Moon. Possessing Lunokhod (lunar rover), he is moving along the lunar equator, with the Sun being observed at the horizon during all the way. Calculate the speed of Lunokhod. The solution has to include an artistic picture with an image of the Bear-astronomer riding on Lunokhod and observing the Sun.",
+     "paper_label": "Theoretical round – Group α"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "5. Distance between stars. In our region of the Galaxy the stellar matter density is about $1.5\\cdot10^{29}$ kg per cubic parsec. Assuming the stars are of solar type, estimate the average distance between the stars. Draw a picture explaining your solution.",
+     "paper_label": "Theoretical round – Group α"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "problem": "6. M32. There are about 250 million stars in the elliptical galaxy M32 (a satellite of the Andromeda galaxy). The visual magnitude of this galaxy is $9^\\mathrm{m}$. Assuming luminosities of all the stars is equal, what is the visual magnitude of one star in this galaxy?",
+     "paper_label": "Theoretical round – Group α"
+    },
+    {
+     "day": 2,
+     "number": 1,
+     "problem": "1. Sizes and masses. In the table given at a separate sheet enumerate in growing order (from 1 to 13) the size and the mass of each object: Milky Way Galaxy, Andromeda Galaxy, Neutron star, Electron, Mercury, The first satellite \"Sputnik I\", Venus, Pluto, Proton, Red dwarf, Black cat, White (Polar) bear, the Sun.",
+     "paper_label": "Theoretical round – Group β"
+    },
+    {
+     "day": 2,
+     "number": 2,
+     "problem": "2. Umbra and penumbra. As you know, on clear sunny days, objects usually give rise to umbras and penumbras. Nowadays, the angle of the ecliptic plane to the celestial equator is $\\varepsilon_0 = 23^\\circ 26.2'$ and is reduced by about $\\upsilon = 0.78'$ per century. Calculate in what century begins the period or in what century the period has ended when from the exactly vertical column located in Ashulia\n\n2.1. umbra from the Sun\n\n2.2. penumbra from the Sun\n\nwill disappear (or disappeared) at some sunny days of the year.\n\nAshulia's coordinates are $23^\\circ 53.6'$ N, $90^\\circ 19.8'$ E.\n\nDraw pictures explaining your solution.",
+     "paper_label": "Theoretical round – Group β"
+    },
+    {
+     "day": 2,
+     "number": 3,
+     "problem": "3. Star setting. The Bengal Tiger likes to observe stars. According to his calculations, some star will rise today at $19^\\mathrm{h}45^\\mathrm{m}$ and will culminate at $21^\\mathrm{h}49^\\mathrm{m}$. At what time yesterday did the star set? The refraction and horizon lowering can be disregarded. The solution has to include an artistic picture with an image of the Bengal Tiger-astronomer observing the star.",
+     "paper_label": "Theoretical round – Group β"
+    },
+    {
+     "day": 2,
+     "number": 4,
+     "problem": "4. Comet Lovejoy. The table below presents data for the comet C/2014 Q2 (Lovejoy), which this year was the brightest comet in our sky:\n$$\\begin{array}{ll} \\text{Discovery date} & \\text{17 August 2014}\\\\ \\text{Discovered by} & \\text{Terry Lovejoy (Brisben, Australia)}\\\\ \\text{Discovered with} & \\text{20-cm Schmidt-Cassegrain telescope}\\\\ \\text{Perihelion } (q) & 1.2904\\ \\text{au}\\\\ \\text{Eccentricity} & 0.99811\\\\ \\text{Orbital period } (P) & \\sim 9000\\ \\text{years}\\\\ \\text{Inclination} & 80.301^\\circ\\\\ \\text{Last perihelion} & \\text{30 January 2015}\\\\ \\text{Minimum magnitude} & 3.9^\\mathrm{m}\\\\ \\quad\\text{In constellation} & \\text{Eridanus}\\\\ \\text{Actual magnitude} & 18.6^\\mathrm{m}\\\\ \\quad\\text{In constellation} & \\text{Hercules} \\end{array}$$\nFrom these data, calculate in the easiest way, the approximate speed of the comet on January 30, 2015. The orbital speed of the Earth is $V_\\mathrm{E} \\approx 29.8$ km/s.",
+     "paper_label": "Theoretical round – Group β"
+    },
+    {
+     "day": 2,
+     "number": 5,
+     "problem": "5. Distance between galaxies. According to estimations of scientists, there are about 1800 galaxies in the cluster of galaxies in the constellation Coma Berenices, which show redshift of 0.023. The region in our sky covered by this cluster is about $9\\times10^\\circ$. Estimate the average distance between the galaxies in this cluster. Draw a picture explaining your solution.",
+     "paper_label": "Theoretical round – Group β"
+    },
+    {
+     "day": 2,
+     "number": 6,
+     "problem": "6. Cluster. Astronomers find a \"star\" which position in the Hertzsprung-Russell diagram is about $9^\\mathrm{m}$ higher than the corresponding stars of the main sequence. Assuming the \"star\" was a cluster of stars similar to each other, estimate the number of stars in the cluster.",
+     "paper_label": "Theoretical round – Group β"
+    },
+    {
+     "day": 2,
+     "number": 7,
+     "problem": "7. Photons. Radio- (operating wavelength is about 21 cm) and optical (operating in the light visible to the naked eye) telescopes have been used to study an astrophysical object. It was discovered that the energy fluxes from the object in the radio and optical frequencies were equal.\n\n7.1. Which photons' number is the largest, radio or optical? (Write in English \"radio\" or \"optical\" respectively.) By how many times is it more?\n\n7.2. What should be the size of the radio telescope to make its resolving power the same as that of the human eye?",
+     "paper_label": "Theoretical round – Group β"
+    },
+    {
+     "day": 3,
+     "number": 1,
+     "problem": "8. The binary star YY Gem is also known as Castor Ca & Castor Cb. It is known from preliminary observations that the period of this binary star is more than 8 hours but less than 12 hours. O. Struve & V. Zebergs (1959, ApJ, 130, 783) measured radial velocities of the two components and get the results presented at the enclosed \"sheet of data\".\n\nVelocities are given in km/s and time given is UT in the table.\n\n8.1. Plot graph of the velocities of components vs time.\n\n8.2. ($\\alpha$) Find exact orbital period of the components.\n\n8.2. ($\\beta$) Find exact orbital period, orbital radius and masses of the two components.",
+     "paper_label": "Practical round – both groups"
+    },
+    {
+     "day": 3,
+     "number": 2,
+     "problem": "9. You are given the data for the mass (M, in masses of Jupiter) and surface gravity (g) of some exoplanets (see \"sheet of data\").\n\n9.1. Plot the $\\log(M/M_\\mathrm{J})$ against $\\log(g)$.\n\n9.2. It is given that the density ($\\rho$) of these exoplanets varies approximately as a function of their mass (M) in following fashion:\n$$\\rho = \\alpha\\cdot M^\\beta,$$\nwhere $\\beta$ is an integer. Determine values of $\\alpha$ and $\\beta$.\n\n9.3. What will be the surface gravity of Earth if the plot in part 9.2. is extended to it.\n\n9.4. Is the value calculated in part 9.4. of the same order of magnitude as the actual value? Write in English \"Yes\" or \"No\".\n\n$M_\\mathrm{Jupiter} = 318\\ M_\\mathrm{Earth}$",
+     "paper_label": "Practical round – both groups"
+    },
+    {
+     "day": 4,
+     "number": 1,
+     "problem": "10. Sky from Dhaka. You are given a map of certain region of sky as visible from Dhaka today.\n\nThe lines drawn indicate boundaries of the constellations.\n\nThe line shown at the bottom left corner corresponds to $11^\\circ$ in the sky.\n\n10.1. Mark directions (North, South, East, West) with arrows and symbols N, S, E, W.\n\n10.2. Identify as many constellations as possible, mark them by standard three-letter designation (use table of IAU names of the constellations as a reference).\n\n10.3. Indicate approximate shape of the constellations by drawing stick figures.\n\n10.4. There is a particular binary star in this map, where one component star has yellow colour and other star has blue colour. Mark this star with the letter \"B\".\n\n10.5. Mark with the letter \"M\" positions of any two Messier list objects on the map.\n\n10.6. Estimate declination of the center of the map and write it in the box $\\delta = \\ldots$ at the bottom left corner.\n\nThe maximum total time for all questions is 30 minutes.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/apao-2015-d4-q1-1.png",
+     "paper_label": "Sky map round"
+    }
+   ]
+  }
+ ]
+}
