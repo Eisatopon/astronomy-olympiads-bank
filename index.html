@@ -106,7 +106,7 @@ svg.i { width: 1em; height: 1em; flex: none; stroke: currentColor; fill: none; s
 .logo { width: 32px; height: 32px; flex: 0 0 auto; display: block; }
 
 .hero-body { display: grid; grid-template-columns: minmax(0, 1.15fr) minmax(0, 1fr); gap: 40px; align-items: end; padding-top: 18px; padding-bottom: 14px; }
-.bank-name { color: var(--star); font: 700 .95rem/1.2 var(--sans); letter-spacing: .08em; text-transform: uppercase; margin-bottom: 6px; }
+.bank-name { display: block; font-size: .5em; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; color: #facc15; margin-bottom: .25em; }
 .subj.back { border-color: rgba(255,255,255,.5); }
 .hero h1 { font-family: var(--serif); font-weight: 800; font-size: clamp(2rem, 4.4vw, 3.3rem); line-height: 1.06; letter-spacing: -.01em; }
 .lede { color: #d3dde6; font-size: 1.02rem; max-width: 54ch; padding-bottom: 4px; }
@@ -441,8 +441,7 @@ dialog p { color: var(--muted); font-size: .92rem; }
 
     <div class="wrap hero-body">
         <div>
-            <p class="bank-name">Hipparchus</p>
-            <h1>World Astronomy &amp; Astrophysics Olympiads Bank</h1>
+            <h1><span class="bank-name">Hipparchus</span>World Astronomy &amp; Astrophysics Olympiads Bank</h1>
             <p class="lede">Astronomy and astrophysics olympiad problems from international, regional and national competitions — statements only, in English with LaTeX, with their figures and data tables. Browse the competition-year grid.</p>
         </div>
         <div class="stats" id="stats" aria-hidden="true">
@@ -602,7 +601,7 @@ dialog p { color: var(--muted); font-size: .92rem; }
 // Local copies (python -m http.server) read the files next to the page; the published site reads the raw files.
 const BASE = /^(localhost|127\.)/.test(location.hostname) ? './' : 'https://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/';
 // Bump on every data change so browsers never mix old and new files.
-const DATA_VERSION = '20261021-uk-baao';
+const DATA_VERSION = '20261021-bank-name';
 const FIRST = 1990, LAST = 2026;
 const REGIONS = [['europe', 'Europe'], ['asia', 'Asia'], ['americas', 'Americas'], ['africa', 'Africa'], ['oceania', 'Oceania'], ['world', 'World'], ['other', 'Other']];
 const REGION_OF = {
