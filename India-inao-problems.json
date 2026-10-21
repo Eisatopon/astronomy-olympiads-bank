@@ -1,0 +1,1142 @@
+{
+ "competition": "Indian National Astronomy Olympiad (INAO), Senior",
+ "years": [
+  {
+   "year": 2008,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "The dimensions of Boltzmann constant (k) are\n\n(a) $\\mathrm{M^1\\,L^2\\,T^1}$ (b) $\\mathrm{M^1\\,L^2\\,T^{-1}}$ (c) $\\mathrm{M^2\\,L^1\\,T^{-1}}$ (d) $\\mathrm{M^1\\,L^2\\,T^{-2}}$",
+     "paper_label": "Part A: Multiple choice questions"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "P. One can see absorption lines in the Solar spectrum.\n\nQ. The core of the Sun has temperature of more than 1 million degree Celsius and the Solar surface has temperature of about 6000 degree Celsius.\n\nWhich of the following options is correct?\n\n(a) Statement 'P' is correct but 'Q' is incorrect.\n\n(b) Statement 'P' is incorrect but 'Q' is correct.\n\n(c) Both the statements are correct and 'Q' is the correct reason of 'P'.\n\n(d) Both the statements are correct and 'Q' is not the reason of 'P'.",
+     "paper_label": "Part A: Multiple choice questions"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "When you stand on the ground, what is the distance of the horizon from you?\n\n(a) 500 km (b) 5 km (c) 15 km (d) 50 km",
+     "paper_label": "Part A: Multiple choice questions"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "A regular barometer is thrown from the top of a building.If the barometer is freely falling, what will be the height of the mercury column?\n\n(a) 100 cm (b) 76 cm (c) 50 cm (d) 0 cm",
+     "paper_label": "Part A: Multiple choice questions"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "P. Eclipses are not distributed evenly throughout the year, but happens only in certain months of a given year.\n\nQ. Orbit of the Moon (around the Earth) makes an angle of roughly 5 degrees to the orbit of Earth (around Sun).\n\nWhich of the following options is correct?\n\n(a) Statement 'P' is correct but 'Q' is incorrect.\n\n(b) Statement 'P' is incorrect but 'Q' is correct.\n\n(c) Both the statements are correct and 'Q' is the correct reason of 'P'.\n\n(d) Both the statements are correct and 'Q' is not the reason of 'P'.",
+     "paper_label": "Part A: Multiple choice questions"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "problem": "For the Earth, if the perihelion were 147 million km, approximately what will be the aphelion for the Earth?\n\nAphelion: Point farthest from the Sun in the orbit of a body about the Sun.\n\nPerihelion: Point nearest from the Sun in the orbit of a body about the Sun.\n\n(a) About 2 times the Perihelion, 300 million km\n\n(b) About 3 times the Perihelion, 450 million km\n\n(c) Slightly more than the perihelion, about 155 million km\n\n(d) Exactly the same as the perihelion, 147 million km",
+     "paper_label": "Part A: Multiple choice questions"
+    },
+    {
+     "day": 1,
+     "number": 7,
+     "problem": "When the ball at the end of the string swings to its lowest point, the string is cut by a sharp knife as shown. Assuming no air resistance, what will be the path of the ball?\n\n(a) A (b) B (c) C (d) D\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/inao-2008-q7-1.png",
+     "paper_label": "Part A: Multiple choice questions"
+    },
+    {
+     "day": 1,
+     "number": 8,
+     "problem": "If we ever make contact with aliens, which of our fundamental units is likely to match theirs? (In other words, which of these units is universally fundamental?)\n\n(a) Kelvin (b) Light year (c) a.m.u. (Atomic Mass Unit) (d) None of these",
+     "paper_label": "Part A: Multiple choice questions"
+    },
+    {
+     "day": 1,
+     "number": 9,
+     "problem": "P. In a dynamo, it is necessary that coil should be moving and magnet should be stationary and not vice versa.\n\nQ. Magnetic force is perpendicular to the direction of motion of charges.\n\nWhich of the following options is correct?\n\n(a) Statement 'P' is correct but 'Q' is incorrect.\n\n(b) Statement 'P' is incorrect but 'Q' is correct.\n\n(c) Both the statements are correct and 'Q' is the correct reason of 'P'.\n\n(d) Both the statements are correct and 'Q' is not the reason of 'P'.",
+     "paper_label": "Part A: Multiple choice questions"
+    },
+    {
+     "day": 1,
+     "number": 10,
+     "problem": "If a person beats drum on the Earth and an astronaut beats an identical drum in space, what will be the differences in the effects?\n\n(a) There will be no vibration in the drum in space.\n\n(b) There will be vibration in space but no sound.\n\n(c) The drum on Earth will vibrate for a longer time then the one in space.\n\n(d) There will be no difference in terms of the vibrations or sound.",
+     "paper_label": "Part A: Multiple choice questions"
+    },
+    {
+     "day": 1,
+     "number": 11,
+     "problem": "An Olympiad student fails to get a medal. The angry team leader launches him into a rocket far into space & then throws him out. The student just grazes the upper edge of the atmosphere during his trajectory. He will...\n\n(a) Go around the Earth\n\n(b) Crash on the Moon\n\n(c) Get lost into deep space\n\n(d) Reach the Olympiad venue again",
+     "paper_label": "Part A: Multiple choice questions"
+    },
+    {
+     "day": 1,
+     "number": 12,
+     "problem": "P: Gravitational force exerted by Saturn on a human being is approximately same as that exerted by another human being standing a few cm away.\n\nQ. Saturn has very low density.\n\n(Additional data: Mass of Saturn $= 5\\times10^{26}$ kg, Distance of Saturn $= 1.4\\times10^{9}$ km)\n\n(a) Statement 'P' is correct but 'Q' is incorrect.\n\n(b) Statement 'P' is incorrect but 'Q' is correct.\n\n(c) Both the statements are correct and 'Q' is the correct reason of 'P'.\n\n(d) Both the statements are correct and 'Q' is not the reason of 'P'.",
+     "paper_label": "Part A: Multiple choice questions"
+    },
+    {
+     "day": 1,
+     "number": 13,
+     "problem": "P. Temperature is not constant in an adiabatic process.\n\nQ. Adiabatic processes do not obey ideal gas equation.\n\nWhich of the following options is correct?\n\n(a) Statement 'P' is correct but 'Q' is incorrect.\n\n(b) Statement 'P' is incorrect but 'Q' is correct.\n\n(c) Both the statements are correct and 'Q' is the correct reason of 'P'.\n\n(d) Both the statements are correct and 'Q' is not the reason of 'P'.",
+     "paper_label": "Part A: Multiple choice questions"
+    },
+    {
+     "day": 1,
+     "number": 14,
+     "problem": "A star is seen rising from Calcutta ($23.5^\\circ$N $92^\\circ$E) at 7:00 pm IST, at what time IST will it be seen to rise from Mumbai ($19^\\circ$N $72^\\circ$E)?\n\n(a) 5:40 pm (b) 7:00 pm (c) 7:20 pm (d) 8:20 pm",
+     "paper_label": "Part A: Multiple choice questions"
+    },
+    {
+     "day": 1,
+     "number": 15,
+     "problem": "A broom with a long handle balances at its centre of gravity as shown in the figure. If you cut the broom into two parts through the centre of gravity and then weigh each part, which part will weigh more?\n\n(a) The part with the broom will weigh more.\n\n(b) The part without the broom will weigh more.\n\n(c) Both the parts will weigh the same.\n\n(d) It wold depend on the weight of the broom.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/inao-2008-q15-1.png",
+     "paper_label": "Part A: Multiple choice questions"
+    },
+    {
+     "day": 1,
+     "number": 16,
+     "problem": "Star A has temperature $4000\\,^\\circ$K and star B has temperature $40{,}000\\,^\\circ$K. If the two stars have roughly same radii, which of the following statements is not true?\n\n(a) B is more luminous than A.\n\n(b) A emits more in IR than in UV.\n\n(c) B emits more in UV than in IR.\n\n(d) A emits more in IR than B.",
+     "paper_label": "Part A: Multiple choice questions"
+    },
+    {
+     "day": 1,
+     "number": 17,
+     "problem": "Every object exerts gravitational force on every other object - The force exerted by an object is higher if its mass is higher. Consider 2 magnets - a bigger magnet P and a smaller one Q. Which of the following will be true?\n\n(a) Magnet P will exert a greater magnetic force than Q.\n\n(b) The magnetic forces exerted by P and Q will be the same.\n\n(c) Magnet Q will exert a greater magnetic force than P.\n\n(d) We cannot tell from the sizes, as gravity and magnetism are unrelated.",
+     "paper_label": "Part A: Multiple choice questions"
+    },
+    {
+     "day": 1,
+     "number": 18,
+     "problem": "Three balls are thrown from the top of cliff along paths P, Q and R. If their initial speeds are the same and there is no air resistance, under what conditions will the balls strike the ground below with the same speed?\n\n(a) This will happen if the mass of each ball is the same.\n\n(b) This will happen if the distance traveled by each ball is the same.\n\n(c) This cannot happen unless the paths of the balls are identical.\n\n(d) This will always happen - No additional condition is required.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/inao-2008-q18-1.png",
+     "paper_label": "Part A: Multiple choice questions"
+    },
+    {
+     "day": 1,
+     "number": 19,
+     "problem": "A battery is connected by wires to a bulb as shown below and the bulb glows. Through which points does the charge flow?\n\n(a) 1-2-3-4-1. Charge flows through the battery also.\n\n(b) 1-2-3-4. Charge flows through the wires and bulb only.\n\n(c) 2-3.Charge flows only through the bulb.\n\n(d) There is no flow of the charge in the circuit.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/inao-2008-q19-1.png",
+     "paper_label": "Part A: Multiple choice questions"
+    },
+    {
+     "day": 1,
+     "number": 20,
+     "problem": "Which of the following is true?\n\n(a) $\\cos 80^\\circ = -\\sin 10^\\circ$\n\n(b) $\\cos 120^\\circ = -\\cos 240^\\circ$\n\n(c) $\\sin 135^\\circ = -\\sin 270^\\circ$\n\n(d) $\\sin 330^\\circ = \\sin 210^\\circ$",
+     "paper_label": "Part A: Multiple choice questions"
+    },
+    {
+     "day": 2,
+     "number": 1,
+     "problem": "Question 21\n\nA year in Solar calendar consist of 365.25 days and the same in Lunar calendar consist of 354 days. The additional days in Solar calendar are kept as balance every year. Whenever the number of balance days exceeds 30, an additional month of 30 days is added to the lunar year to offset the difference. The cycle goes on. Anwesh, whose birthday falls on 1st January, noticed that in the year 2008, his birthday coincided with the start of the lunar year. In which earliest future year, his birthday will again coincide with the start of the lunar year?",
+     "paper_label": "Part B: Analytical questions"
+    },
+    {
+     "day": 2,
+     "number": 2,
+     "problem": "Question 22\n\nFind $\\mathrm{R_1}$, $\\mathrm{R_2}$ and $\\mathrm{R_3}$ in the circuit diagram, given the conditions below:\n\n(a) If P is connected to A & Q is connected to C then the current in the circuit is 2A.\n\n(b) If P is connected to A & Q is connected to B then the current in the circuit is 4A.\n\n(c) If P is connected to C & Q is connected to B then the current in the circuit is 3A.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/inao-2008-q22-1.png",
+     "paper_label": "Part B: Analytical questions"
+    },
+    {
+     "day": 2,
+     "number": 3,
+     "problem": "Question 23\n\nYou are given two lenses of focal lengths $f_1$ and $f_2$ respectively.\n\n(a) Is it possible to arrange them in such a way that both incident beam and emergent beam of light will be parallel beams? Show all (at least 3)possible cases (for different lens combinations) with ray diagrams.\n\n(b) Are the incident and emergent beams parallel to each other?\n\n(c) By observing the ray diagrams, state the condition on the distance 'd' between the two lenses in terms of $f_1$ and $f_2$.\n\n(d) For what combinations of lenses, the said arrangement is not possible?",
+     "paper_label": "Part B: Analytical questions"
+    },
+    {
+     "day": 2,
+     "number": 4,
+     "problem": "Question 24\n\nIf Aniket starts drawing a straight line with a brand new typical ball-point pen, how long line can be drawn before he finishes his refill? Explicitly state all the assumptions you make.",
+     "paper_label": "Part B: Analytical questions"
+    }
+   ]
+  },
+  {
+   "year": 2009,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "(3 marks)\n\nIf $a^x = b^y = c^z$ and $b^2 = ac$, then y = ?\n\n(a) $\\frac{2xz}{x+z}$ (b) $\\frac{xz}{x+z}$ (c) $\\sqrt{2xz}$ (d) $\\sqrt{xz}$",
+     "paper_label": "Part A: Multiple choice questions"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "(3 marks)\n\nEach of the figures below depict a constellation. Find the odd one out.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/inao-2009-q2-1.png",
+     "paper_label": "Part A: Multiple choice questions"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "(3 marks)\n\nGravitational force between two identical uniform solid gold spheres of radius $r$ each in contact is proportional to\n\n(a) $r^4$ (b) $r^2$ (c) $\\frac{1}{r^2}$ (d) $\\frac{1}{r^3}$",
+     "paper_label": "Part A: Multiple choice questions"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "(3 marks)\n\nA copper cube and a wooden cube of volume $10^{-3}\\ \\mathrm{m^3}$ each are initially at room temperature. They are then moved to an enclosure of ambient temperature $50^\\circ$C. What can we conclude about the temperatures attained by both cubes after 5 hours?\n\n(a) $T_\\mathrm{copper} > T_\\mathrm{wood}$ as thermal conductivity of copper is greater than that of wood.\n\n(b) $T_\\mathrm{wood} > T_\\mathrm{copper}$ as specific heat capacity of wood is greater than that of copper.\n\n(c) The temperatures will depend on the interplay between specific heat capacity and thermal conductivity of the materials.\n\n(d) Both temperatures will be practically the same, as they are in the enclosure for 5 hours.",
+     "paper_label": "Part A: Multiple choice questions"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "(3 marks)\n\nIf the product of all the numbers from 1 to 100 is divisible by $2^n$, then what is the maximum possible value for $n$?\n\n(a) 128 (b) 97 (c) 64 (d) 87",
+     "paper_label": "Part A: Multiple choice questions"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "problem": "(3 marks)\n\nTwo vectors $\\overrightarrow{P}$ and $\\overrightarrow{Q}$ are acting at a point such that their resultant is perpendicular to $\\overrightarrow{Q}$. If $\\theta$ is the angle between $\\overrightarrow{P}$ and $\\overrightarrow{Q}$ then $\\frac{|P|}{|Q|}$ is given by,\n\n(a) $\\cos\\theta$ (b) $\\sec\\theta$ (c) $-\\cos\\theta$ (d) $-\\sec\\theta$",
+     "paper_label": "Part A: Multiple choice questions"
+    },
+    {
+     "day": 1,
+     "number": 7,
+     "problem": "(3 marks)\n\nWhat will be the approximate period of Chandrayaan moving in an orbit 100 km above the moon's surface?\n\n(a) 57 min (b) 30 min (c) 118 min (d) 79 min",
+     "paper_label": "Part A: Multiple choice questions"
+    },
+    {
+     "day": 1,
+     "number": 8,
+     "problem": "(3 marks)\n\nIn the following figure, A, B, C are three light source positions with respect to the obstacle and the screen. Which of these light source positions will result in the longest shadow of the obstacle on the screen?\n\n(a) A\n\n(b) C\n\n(c) A and C form shadows of same length, while B forms a smaller shadow.\n\n(d) All the three light sources will form shadows of same length.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/inao-2009-q8-1.png",
+     "paper_label": "Part A: Multiple choice questions"
+    },
+    {
+     "day": 1,
+     "number": 9,
+     "problem": "(3 marks)\n\nThe following figure shows skeleton chart of the Orion constellation. Approximate \"North\" is indicated by the letter ....\n\n(a) A (b) B (c) C (d) D\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/inao-2009-q9-1.png",
+     "paper_label": "Part A: Multiple choice questions"
+    },
+    {
+     "day": 1,
+     "number": 10,
+     "problem": "(3 marks)\n\nFind the resultant focal length for following system where the radius of curvature is 15cm.\n\n(a) 40 cm (b) 60 cm (c) 120 cm (d) $\\infty$\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/inao-2009-q10-1.png",
+     "paper_label": "Part A: Multiple choice questions"
+    },
+    {
+     "day": 2,
+     "number": 1,
+     "problem": "Question 11 (5 marks; any number of alternatives may be correct)\n\nWhich of the following observations support the statement that \"Every system tends to adjust by itself to have minimum Potential Energy\".\n\n(a) Andromeda galaxy and Milky Way are approaching each other.\n\n(b) Two unlike, free charges move towards each other.\n\n(c) External work is required to compress a spring.\n\n(d) A powerful magnet can deflect a compass needle from equilibrium position.",
+     "paper_label": "Section B: Multiple correct choice questions"
+    },
+    {
+     "day": 2,
+     "number": 2,
+     "problem": "Question 12 (5 marks; any number of alternatives may be correct)\n\nConsider a sealed cylinder with frictionless, free-moving piston of fixed mass attached on the top, kept in an environment of constant atmospheric pressure. The ideal gas in the cylinder is slowly heated and it expands. Which of the following is / are true?\n\n(a) The density of the gas will increase.\n\n(b) The pressure of the gas will decrease.\n\n(c) The internal energy of the system will remain the same.\n\n(d) In this process work is done by the gas.",
+     "paper_label": "Section B: Multiple correct choice questions"
+    },
+    {
+     "day": 2,
+     "number": 3,
+     "problem": "Question 13 (5 marks; any number of alternatives may be correct)\n\nIn one of the truly revolutionary finds of the 20th century, Howard Carter discovered the tomb of the Egyptian Pharaoh (emperor) Tutankhamen in 1922. Following items were removed from the tomb, along with the mummy of the Pharaoh. Which of these items could have been carbon dated to fix the period of the Pharaoh?\n\n(a) Fragments of glass\n\n(b) Golden Bracelets\n\n(c) Dried Fruits\n\n(d) Leather Shoe",
+     "paper_label": "Section B: Multiple correct choice questions"
+    },
+    {
+     "day": 2,
+     "number": 4,
+     "problem": "Question 14 (5 marks; any number of alternatives may be correct)\n\nWhich of the following phenomena is / are useful, in estimating distances in the Universe?\n\n(a) Some time Venus can be seen transiting over the solar disc.\n\n(b) Stars with no proper motion appear to change their position in the sky when viewed six months apart.\n\n(c) Stars exhibit Doppler shift.\n\n(d) All supernovae of Type Ia have same absolute brightness.",
+     "paper_label": "Section B: Multiple correct choice questions"
+    },
+    {
+     "day": 3,
+     "number": 1,
+     "problem": "Question $\\alpha$ (8 marks)\n\nWhat will be area of the largest cyclic quadrilateral that can be inscribed in a given circle? Justify your answer qualitatively (formal proof not necessary).",
+     "paper_label": "Section C: Analytical questions"
+    },
+    {
+     "day": 3,
+     "number": 2,
+     "problem": "Question $\\beta$ (12 marks)\n\nJayshree claimed that she saw a solar eclipse when the size of the solar disk was $26'$ and that of the lunar disk was $30'$. She also claimed that at the time of the maximum eclipse, distance between the centres of the two disks was $7'$. Qualitatively show that she could not have observed a total eclipse. Find the percentage of the solar disk covered at the time of the maximum eclipse. (Given: $\\cos^{-1}\\left(\\frac{1}{26}\\right) \\approx 0.49\\pi$ rad).",
+     "paper_label": "Section C: Analytical questions"
+    },
+    {
+     "day": 3,
+     "number": 3,
+     "problem": "Question $\\gamma$ (8 marks)\n\nThe famous Indian astronomer, Aryabhata, expressed the value of $\\pi$ in what we now know as continuing fractions i.e..$\\pi = 3.1416 = a + \\cfrac{1}{b + \\cfrac{1}{c + \\cfrac{1}{d}}}$ where a, b, c, d are positive integers. Find a, b, c, d.",
+     "paper_label": "Section C: Analytical questions"
+    },
+    {
+     "day": 3,
+     "number": 4,
+     "problem": "Question $\\delta$ (10 marks)\n\nKedar sent a container of marbles by road from Mumbai to Parag in Pune. The container was $2m \\times 2m \\times 2.5m$ in size, with height being the larger dimension. Marbles of 2 cm diameter were arranged to fill the entire base and then additional layers of marbles were arranged with each upper marble exactly on top of corresponding marble in the previous layer (see figure). The marbles were thus placed upto 2m height to complete the cubical structure. However, on reaching Pune, when Parag opened the container, he found the height of structure was not 2m as promised by Kedar, but something else. Kedar defended saying that marbles may have readjusted due to jiggling. Can you find new height of this marble pile?\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/inao-2009-c4-1.png",
+     "paper_label": "Section C: Analytical questions"
+    },
+    {
+     "day": 3,
+     "number": 5,
+     "problem": "Question $\\epsilon$\n\nChiraag performed an experiment using a simple pendulum to find value of $g$. He measured time taken for 30 oscillations of the pendulum for various values of length (repeated thrice for each value of length), following readings were obtained.\n\n$$\\begin{array}{|c|c|c|c|}\\hline \\text{L} & \\text{Readings} & & \\\\ \\text{cm} & \\mathrm{t_1}\\ \\text{(Sec)} & \\mathrm{t_2}\\ \\text{(Sec)} & \\mathrm{t_3}\\ \\text{(Sec)} \\\\ \\hline 20.0 & 26.9 & 26.9 & 27.0 \\\\ \\hline 25.0 & 30.1 & 30.1 & 30.1 \\\\ \\hline 30.0 & 32.9 & 32.8 & 32.7 \\\\ \\hline 35.0 & 35.6 & 35.8 & 35.7 \\\\ \\hline 40.0 & 38.0 & 38.1 & 38.1 \\\\ \\hline 45.0 & 40.4 & 40.4 & 40.5 \\\\ \\hline \\end{array}$$\n\nMass of the bob of the pendulum was known to be 50 gm.\n\n(a) (9 marks) Plot appropriate graph to represent the data.\n\n(b) (2 marks) Find the value of $g$.\n\n(c) (1 mark) Using the graph, find out required length of the pendulum to get a time period of 1.24 sec.",
+     "paper_label": "Section C: Analytical questions"
+    }
+   ]
+  },
+  {
+   "year": 2010,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "(3 marks)\n\nAs seen from the Earth, the stars appear to twinkle, while the planets do not because,\n\nA. Light coming from the stars gets absorbed by interstellar dust.\n\nB. the stars are self luminous while the planets merely reflect the light.\n\nC. Angular sizes of the stars are much smaller than the planets.\n\nD. All the above.",
+     "paper_label": "Part A: Multiple choice questions"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "(3 marks)\n\nA wooden cube of length 5 units is painted on all faces and then cut in 85 smaller cubes of varying sizes. The sides of each of the smaller cubes are some integer number of units. All bigger cubes are carved out of the corners of the original cube. Answer the following three questions:\n\nHow many cubes have no side painted?\n\nA. 15 B. 17 C. 20 D. 27",
+     "paper_label": "Part A: Multiple choice questions"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "(3 marks)\n\nA wooden cube of length 5 units is painted on all faces and then cut in 85 smaller cubes of varying sizes. The sides of each of the smaller cubes are some integer number of units. All bigger cubes are carved out of the corners of the original cube. Answer the following three questions:\n\nHow many cubes have exactly 2 sides painted?\n\nA. 24 B. 27 C. 30 D. 36",
+     "paper_label": "Part A: Multiple choice questions"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "(3 marks)\n\nA wooden cube of length 5 units is painted on all faces and then cut in 85 smaller cubes of varying sizes. The sides of each of the smaller cubes are some integer number of units. All bigger cubes are carved out of the corners of the original cube. Answer the following three questions:\n\nIf one was to cut the original cube (of size 5 units each side) with a condition that all corners would be occupied by the cubes bigger than 1 unit size, what will be the smallest total of cube pieces possible?\n\nA. 69 B. 64 C. 62 D. 50",
+     "paper_label": "Part A: Multiple choice questions"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "(3 marks)\n\nIt is easier to balance on a faster bicycle moving along a straight line than a slower one because of\n\nA. conservation of linear momentum\n\nB. conservation of angular momentum\n\nC. conservation of linear momentum and angular momentum\n\nD. conservation of energy",
+     "paper_label": "Part A: Multiple choice questions"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "problem": "(3 marks)\n\nOn a nice sunny day in Chennai, Akshay saw a supersonic fighter plane flying parallel to the ground in the sky. As a student of Aeronautical Engineering, he knew off-hand the speed of the plane to be 1.25 Mach (i.e. 1.25 times the speed of sound in air). He could hear its sonic boom, 12 seconds after the plane flew directly overhead. What is the altitude of the plane?\n\nA. 3.7 Km B. 4.0 Km C. 5.3 Km D. 6.6 Km",
+     "paper_label": "Part A: Multiple choice questions"
+    },
+    {
+     "day": 1,
+     "number": 7,
+     "problem": "(3 marks)\n\nIf you hold a magnifying glass of focal length 10 cm in the sunlight and place a piece of paper at its focus, you can burn a hole in the paper. What could be the size of this hole?\n\nA. 10 mm B. 5 mm C. 0.5 mm D. 0.1 mm",
+     "paper_label": "Part A: Multiple choice questions"
+    },
+    {
+     "day": 1,
+     "number": 8,
+     "problem": "(3 marks)\n\nDuring an earthquake, an earthquake monitering cntre observed that transverse waves travelling with speed 4.5 km/s arrived at the centre 3 minutes after the longitudinal waves travelling at 8.2 km/s. Deduce the approximate distance to the epicenter.\n\nA. 60 km B. 220 km C. 660 km D. 1800 km",
+     "paper_label": "Part A: Multiple choice questions"
+    },
+    {
+     "day": 1,
+     "number": 9,
+     "problem": "(3 marks)\n\nA certain person nicknamed \"Enthu\", encountered an automatic staircase (i.e. escalator) at a shopping complex, which was moving upward at a constant rate. Just for the fun of it he decided to walk up this escalator at the rate of one step a second. Twenty steps brings him to the top. Next day he goes up at two steps a second and reaching the top in 32 steps. How many steps are there in the escalator?\n\nA. 40 B. 60 C. 64 D. 80",
+     "paper_label": "Part A: Multiple choice questions"
+    },
+    {
+     "day": 1,
+     "number": 10,
+     "problem": "(3 marks)\n\nTwo stars of masses $M$ and $3M$ respectively are going around each other, in near circular orbits, with period $T$. The separation between them is given by $D = \\sqrt[3]{\\frac{kGMT^2}{\\pi^2}}$. The value of $k$ is,\n\nA. 0.5 B. 1 C. 1.5 D. 3",
+     "paper_label": "Part A: Multiple choice questions"
+    },
+    {
+     "day": 2,
+     "number": 1,
+     "problem": "Question 11 (5 marks; any number of alternatives may be correct)\n\nIf we throw a ball in a shallow water tank, prapogation velocity of ripples on surface of the water will depend on\n\nA. surface tension of the water\n\nB. depth of the water tank\n\nC. density of the water\n\nD. height from which the ball was dropped",
+     "paper_label": "Section B: Multiple correct choice questions"
+    },
+    {
+     "day": 2,
+     "number": 2,
+     "problem": "Question 12 (5 marks; any number of alternatives may be correct)\n\nAmit decided to experiment with cannon ball by making it hollow and filling water inside it. He then punched few holes in it. After the ball was fired horizontally, he was expecting to see water jets coming out from some of the holes. Which of the following locations of holes will allow water jet to come out?\n\nA. Front, bottom and sides B. Back, top and sides C. back and bottom D. None of the holes",
+     "paper_label": "Section B: Multiple correct choice questions"
+    },
+    {
+     "day": 2,
+     "number": 3,
+     "problem": "Question 13 (5 marks; any number of alternatives may be correct)\n\nIn the progress of Astronomy over the ages, we find several instances of startling new observations changing our ideas about the Universe and lead to new thoeries. Listed below are some milestones in the history of Astronomy and observations which necessited them. Pick the correct statement(s).\n\nA. Ptolemy was aware of retrograde motion of planets when he gave his model of the solar system.\n\nB. Newton was aware of Kepler's Laws when he gave his Law of Gravitation.\n\nC. Einstein felt need to modify Newton's theory of Gravitation to explain the expansion of the Universe.\n\nD. Existence of Cosmic Microwave Background Radiation (CMBR) led to the creation of the Big Bang Theory.",
+     "paper_label": "Section B: Multiple correct choice questions"
+    },
+    {
+     "day": 2,
+     "number": 4,
+     "problem": "Question 14 (5 marks; any number of alternatives may be correct)\n\nTwo simple pendula are hung close to each other on a thin, rigid support and are allowed to oscillate independently in planes parallel to each other. They have periods 3 seconds and 7 seconds respectively with same amplitudes and are initially released from the opposite extreme positions of each other. At which of the following times the threads of the two pendula will be coplaner again?\n\nA. 1.05 seconds B. 7.88 seconds C. 10.50 seconds D. 23.10 seconds",
+     "paper_label": "Section B: Multiple correct choice questions"
+    },
+    {
+     "day": 3,
+     "number": 1,
+     "problem": "Question $\\alpha$\n\nAn alien civilisation on a star far far away came to know about the Astronomy Olympiad Examination and wanted to test smartness of the students. They sent following two coded secret messages. Decode them.\n\n(a) (5 marks) First is a pictorial message in black and white colour. They sent it on radio waves in the form of ones and zeros. Find out what the picture says.\n\n00000 00000 00000 00000 00000 00000 11111 01100 00100 00100 00011 10000 01000 10100 01000 10100 01101 10000 10001 00100 10001 11000 10001 00001 00010 00101 00100 01001 10110 01111 10100 00110 10000 01001 11000 00000 00000 00000 00000 00000 000\n\n(b) (5 marks) Surprisingly, the aliens are also proficient in English and the following coded message is actually a sentence in English language. In the answersheet, write down the coded sentence and also the true meaning of each alphabet in the code.\n\n\"Up tpmwf uif qsfwjpvt tvcrvftujpo uijol pg uif nfttbhf tfou cz uif bsfdjcp ufmftdpqf up bmjfot.\"",
+     "paper_label": "Section C: Analytical questions"
+    },
+    {
+     "day": 3,
+     "number": 2,
+     "problem": "Question $\\beta$ (8 marks)\n\nIn the following table, the first column gives various optical phenomena / instruments and the top row gives various optical effects which may help in explaining them. In the answers sheet, tick the correct effect(s) involved in each phenomena in appropriate rows.\n\n$$\\begin{array}{|l|c|c|c|c|c|}\\hline & \\text{Appreciable Dispersion} & \\text{Internal Reflection} & \\text{Reflection} & \\text{Refraction} & \\text{Scattering} \\\\ \\hline \\text{Blue Sky} & & & & & \\\\ \\hline \\text{Mirage} & & & & & \\\\ \\hline \\text{Rainbow} & & & & & \\\\ \\hline \\text{Smooth Convex Mirror} & & & & & \\\\ \\hline \\text{Thick Concave Lens} & & & & & \\\\ \\hline \\end{array}$$",
+     "paper_label": "Section C: Analytical questions"
+    },
+    {
+     "day": 3,
+     "number": 3,
+     "problem": "Question $\\gamma$\n\nStudy the following image of the night sky (bigger version is printed in your answersheet) for mid-night on a certain day at a certain place and answer the questions below it. All answers must be marked / written on the answer-sheet.\n\n(a) (2 marks) Mark all the four directions on the map.\n\n(b) (1 mark) Is this place in northern part of India or the southern part?\n\n(c) (3 marks) Mark and name 2 constellations each from the following two lists:\n\n• 0.5 marks each; any 2: Orion, Ursa Major, Taurus, Leo, Cygnus, Scorpio\n\n• 1 mark each; any 2: Hydra, Corvus, Aquarius, Cancer, Canis Major, Aries\n\n(d) (2 marks) Sketch rough band of ecliptic i.e. apparent path of the Sun, the Moon and all the planets in the sky.\n\n(e) (2 marks) In which month the sky will appear like this at this time? Give reason in one line.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/inao-2010-c3-1.png",
+     "paper_label": "Section C: Analytical questions"
+    },
+    {
+     "day": 3,
+     "number": 4,
+     "problem": "Question $\\delta$\n\nMayank visited a place located at latitude $\\phi$ and longitude $82.5^\\circ E$ on 21st June. He observed that at local noon, shadow of a one meter stick standing vertically on the ground was 26.8 cm long due south.\n\n(a) (5 marks) Find latitude of the place.\n\n(b) (5 marks) Find the day on which the shadow of this stick at the local noon will be longest and find length and direction of that shadow.\n\nNote: $\\sin^{-1}(0.268) = 15.5^\\circ$, $\\cos^{-1}(0.268) = 74.5^\\circ$, $\\tan^{-1}(0.268) = 15.0^\\circ$, $\\tan(2^\\circ) \\approx \\frac{1}{30}$ and $\\sqrt{3} = 1.73$",
+     "paper_label": "Section C: Analytical questions"
+    },
+    {
+     "day": 3,
+     "number": 5,
+     "problem": "Question $\\epsilon$\n\nSketch approximate graphs for the following situations:\n\n(a) (4 marks) See the figure below. A tank of water (height of water column $b$) is kept on a electronic weighing scale. A metal cube (side $a$ and density $\\rho$) is hung from a spring balance and the spring balance is slowly lowered into the tank till the cube reaches the bottom of the tank. The distance of separation between the bottom of the tank and bottom of the cube is denoted by $h$ with initial value $h_0$.\n\nSketch the graph of reading on the spring balance as a function of $h$.\n\n(b) (3 marks) For the situation above, sketch the graph of reading on the electronic scale as a function of $h$.\n\n(c) (2 marks) For the situation above, sketch the graph of sum of the reading on the electronic scale and the reading on the spring balance as a function of $h$.\n\n(d) (3 marks) For a typical primary mirror used in Newtonian telescope, sketch a graph of object distance, $u$ versus image distance, $v$. All physically measurable lengths should be taken as positive.\n\nIn all cases, mark the significant points on the graph and give their coordinates.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/inao-2010-c5-1.png",
+     "paper_label": "Section C: Analytical questions"
+    }
+   ]
+  },
+  {
+   "year": 2011,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "(3 marks)\n\nOn one starry evening, Nidhi was trying to spot an artificial polar satellite from her backyard. Typical altitude of any polar satellite is about 800km above surface of the earth. What is the typical duration after sunset for which Nidhi should try her luck?\n\nA. 63 min B. 109 min C. 127 min D. 171 min",
+     "paper_label": "Part A: Multiple choice questions"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "(3 marks)\n\nWhat will be the difference in potential energy ($\\Delta U$) of an object of mass 'M', if it is lifted from the ground to a height of 2R, where R is the radius of the earth?\n\nA. $\\dfrac{2GM}{R}$ B. $\\dfrac{2GM}{3R}$ C. $\\dfrac{GM}{2R}$ D. $\\dfrac{GM}{3R}$",
+     "paper_label": "Part A: Multiple choice questions"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "(3 marks)\n\nPole star appears stationary because.....\n\nA. Earth is not moving with respect to the pole star.\n\nB. Earth is on the axis of rotation of the pole star.\n\nC. Both Earth and the pole star have same velocity in the Milky Way galaxy.\n\nD. None of the above.",
+     "paper_label": "Part A: Multiple choice questions"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "(3 marks)\n\nConsider a system of two converging lenses, one with focal length of 20cm and the other with focal length of 5cm, kept 50cm apart. An object is kept at 40cm from the first lens. What can be said about the image formed on the other side of the second lens?\n\nA. Erect and Real\n\nB. Inverted and Real\n\nC. Erect and Virtual\n\nD. Inverted and Virtual",
+     "paper_label": "Part A: Multiple choice questions"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "(3 marks)\n\nThree rings of same dimensions, are dropped at the same time over identical cylindrical magnets as shown below. The inner diameter of each ring is greater than the diameter of the magnet.\n\nWhich of the following correctly describes the order in which the rings P, Q and R reach the bottom of the respective magnets?\n\nA. They arrive in the order P, Q, R\n\nB. They arrive in the order P, R, Q\n\nC. Rings P and R arrive simultaneously, followed by Q.\n\nD. Rings Q and R arrive simultaneously, followed by P.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/inao-2011-q5-1.png",
+     "paper_label": "Part A: Multiple choice questions"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "problem": "(3 marks)\n\nA charged particle with initial velocity $\\overrightarrow{V}$ enters a region with a uniform magnetic field $\\overrightarrow{B} = B\\hat{i}$. If it starts moving along the positive X-axis in a helical path such that the separation between successive loops is constant, what can be inferred about $\\overrightarrow{V}$?.\n\nA. $\\overrightarrow{V} = V\\hat{j}$\n\nB. $\\overrightarrow{V} = -V\\hat{k}$\n\nC. $\\overrightarrow{V} = V_y\\hat{j} + V_z\\hat{k}$\n\nD. None of the above",
+     "paper_label": "Part A: Multiple choice questions"
+    },
+    {
+     "day": 1,
+     "number": 7,
+     "problem": "(3 marks)\n\nIf $PQRS \\times 4 = SRQP$, where $P$, $Q$, $R$ and $S$ are distinct non-zero digits. what is value of $R$?\n\nA. 1 B. 3 C. 5 D. 7",
+     "paper_label": "Part A: Multiple choice questions"
+    },
+    {
+     "day": 1,
+     "number": 8,
+     "problem": "(3 marks)\n\nFrom the given P-V diagram, find out the total work done by the gas, while going from state A to state C.\n\nA. $W_{tot} = W_{AC}$\n\nB. $W_{tot} = W_{BC} - W_{AB}$\n\nC. $W_{tot} = W_{AB} + W_{BC}$\n\nD. $W_{tot} = W_{AB} - W_{BC}$\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/inao-2011-q8-1.png",
+     "paper_label": "Part A: Multiple choice questions"
+    },
+    {
+     "day": 1,
+     "number": 9,
+     "problem": "(3 marks)\n\nFind out the equivalent resistance at AB from given circuit, if R=10$\\Omega$\n\nA. 10$\\Omega$ B. 100$\\Omega$ C. 5$\\Omega$ D. 6$\\Omega$\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/inao-2011-q9-1.png",
+     "paper_label": "Part A: Multiple choice questions"
+    },
+    {
+     "day": 1,
+     "number": 10,
+     "problem": "(3 marks)\n\nHow many 3 digit prime numbers can be formed, using digits 5, 6 and 7? Repetition of digits is allowed.\n\nA. 20 B. 4 C. 7 D. 6",
+     "paper_label": "Part A: Multiple choice questions"
+    },
+    {
+     "day": 2,
+     "number": 1,
+     "problem": "Question 11 (5 marks; any number of alternatives may be correct)\n\nFour conducting plates A,B,C,D are arranged as shown in the figure. Plates A and C are connected to the positive terminal of a DC source and the Plates B and D are connected to the negative terminal of a DC source. A proton is kept, at the centre of this assembly. If we disturb the proton slightly from its equilibrium position, which of the following statements will describe the path followed by the proton.\n\nA. If the proton is displaced slightly towards plate A, it will keep moving towards plate A.\n\nB. If the proton is displaced slightly towards plate D, it will keep moving towards plate D.\n\nC. If the proton is displaced slightly along diagonal of the assembly between plates B and C, it will move directly towards plate B.\n\nD. If the proton is displaced slightly towards plate C, it will come back to its original position.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/inao-2011-q11-1.png",
+     "paper_label": "Section B: Multiple correct choice questions"
+    },
+    {
+     "day": 2,
+     "number": 2,
+     "problem": "Question 12 (5 marks; any number of alternatives may be correct)\n\nA solid copper sphere is kept on an insulating stand. A charge given to it gets distributed uniformly on its surface only. Which of the following factors is/are relevant to this observation?\n\nA. Copper is a conducting material.\n\nB. Shape of the conductor is a sphere.\n\nC. Like charges repel each other.\n\nD. Potential energy of the system is minimum in this configuration.",
+     "paper_label": "Section B: Multiple correct choice questions"
+    },
+    {
+     "day": 2,
+     "number": 3,
+     "problem": "Question 13 (5 marks; any number of alternatives may be correct)\n\nA block of mass 5 kg is initially at rest on a rough horizontal surface having coefficient of static friction $\\mu_s = 0.5$ and coefficient of kinetic friction $\\mu_k = 0.3$. A gradually increasing horizontal force is applied for dragging it. Assuming $g = 10\\ \\mathrm{m/s^2}$, acceleration of the block and dragging force acting on the block could be respectively given by,\n\nA. $7\\ \\mathrm{m/s^2}$, 50 N B. $2\\ \\mathrm{m/s^2}$, 25 N C. $0\\ \\mathrm{m/s^2}$, 20 N D. $3\\ \\mathrm{m/s^2}$,40 N",
+     "paper_label": "Section B: Multiple correct choice questions"
+    },
+    {
+     "day": 2,
+     "number": 4,
+     "problem": "Question 14 (5 marks; any number of alternatives may be correct)\n\nTwo stars are seen close to each other in the sky. Star A appears brighter than Star B. Which of the following statements satisfactorily explain the difference in their observed brightness? Assume both the stars to be perfect black bodies.\n\nA. Both the stars are identical except for the fact that star A is closer to us than star B.\n\nB. Both the stars are at same distance, but star A appears yellow, where as star B appears orange.\n\nC. Both the stars are identical except for the fact that star A has smaller radius than star B.\n\nD. Both the stars are identical except for the fact that star A is less massive than star B.",
+     "paper_label": "Section B: Multiple correct choice questions"
+    },
+    {
+     "day": 3,
+     "number": 1,
+     "problem": "Question $\\alpha$ (8 marks)\n\nIn the following table, the first column gives the names of various bright stars in the sky and the top row gives the names of some zodiacal constellations. In the answers sheet, tick mark the constellation to which they may belong. Wrong tick marks carry negative points.\n\n$$\\begin{array}{|c|c|c|c|c|c|c|}\\hline \\text{Star Name} & \\text{Aries} & \\text{Taurus} & \\text{Gemini} & \\text{Leo} & \\text{Virgo} & \\text{Scorpio} \\\\ \\hline \\text{Aldebaran} & & & & & & \\\\ \\hline \\text{Antares} & & & & & & \\\\ \\hline \\text{Castor} & & & & & & \\\\ \\hline \\text{Denebola} & & & & & & \\\\ \\hline \\text{Hamal} & & & & & & \\\\ \\hline \\text{Pollux} & & & & & & \\\\ \\hline \\text{Regulus} & & & & & & \\\\ \\hline \\text{Sirius} & & & & & & \\\\ \\hline \\text{Spica} & & & & & & \\\\ \\hline \\end{array}$$",
+     "paper_label": "Section C: Analytical questions"
+    },
+    {
+     "day": 3,
+     "number": 2,
+     "problem": "Question $\\beta$ (8 marks)\n\nProf. Subramanium Chandrasekhar was first to suggest that the white dwarf stars will have an upper limit on their mass, which is given by\n\n$M_{limit} = k\\sqrt{a\\pi}\\left(\\frac{\\hbar c}{G}\\right)^b\\left(\\frac{1}{\\mu_e m_H}\\right)^2$\n\nwhere '$a$', '$\\mu_e$' and '$k$' are dimensionless integers, with $k \\approx 1$ and $\\mu_e \\approx 2$ is called mean number of nucleons per electron. $m_H$ is the mass of one hydrogen atom. This is famously known as 'Chandrasekhar Mass Limit' for which he won Nobel Prize in 1983. Find '$a$' and '$b$'.",
+     "paper_label": "Section C: Analytical questions"
+    },
+    {
+     "day": 3,
+     "number": 3,
+     "problem": "Question $\\gamma$ (8 marks)\n\nHot solar plasma is emitted from surface of a circular sunspot whose diameter is 10,000 km. When the plasma reaches the height of 16,000 km above the surface of the sun its horizontal cross section is measured to have diameter of 90,000km. Assuming that the edge of the plasma cone is parabolic, find the depth inside the sun from which the plasma started. Assume that the viscosity and magnetic permeability remains same inside and outside the solar surface.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/inao-2011-c3-1.png",
+     "paper_label": "Section C: Analytical questions"
+    },
+    {
+     "day": 3,
+     "number": 4,
+     "problem": "Question $\\delta$ (8 marks)\n\nVinita studied a star for 55 days in succession. She noted down the temperature of the star everyday, which was varying in a nice symmetric manner. The data of her observations is given below. Help Vinita to find the mean temperature and the period of temperature variation of this star by any suitable method. Give proper justification for the method used.\n\n$$\\begin{array}{|c|c|c|c|c|c|}\\hline \\text{Days} & \\text{Temperature} & \\text{Days} & \\text{Temperature} & \\text{Days} & \\text{Temperature} \\\\ \\hline 1 & 5472 & 20 & 5312 & 38 & 5437 \\\\ 2 & 5527 & 21 & 5264 & 39 & 5503 \\\\ 3 & 5550 & 22 & 5250 & 40 & 5543 \\\\ 4 & 5536 & 23 & 5273 & 41 & 5547 \\\\ 5 & 5488 & 24 & 5328 & 42 & 5516 \\\\ 6 & 5419 & 25 & 5400 & 43 & 5455 \\\\ 7 & 5345 & 26 & 5472 & 44 & 5381 \\\\ 8 & 5284 & 27 & 5527 & 45 & 5312 \\\\ 9 & 5253 & 28 & 5550 & 46 & 5264 \\\\ 10 & 5257 & 29 & 5536 & 47 & 5250 \\\\ 11 & 5297 & 30 & 5488 & 48 & 5273 \\\\ 12 & 5363 & 31 & 5419 & 49 & 5328 \\\\ 13 & 5437 & 32 & 5345 & 50 & 5400 \\\\ 14 & 5503 & 33 & 5284 & 51 & 5472 \\\\ 15 & 5543 & 34 & 5253 & 52 & 5527 \\\\ 16 & 5547 & 35 & 5257 & 53 & 5550 \\\\ 17 & 5516 & 36 & 5297 & 54 & 5536 \\\\ 18 & 5455 & 37 & 5363 & 55 & 5488 \\\\ 19 & 5381 & & & & \\\\ \\hline \\end{array}$$",
+     "paper_label": "Section C: Analytical questions"
+    },
+    {
+     "day": 3,
+     "number": 5,
+     "problem": "Question $\\epsilon$ (9 marks)\n\nOn one fine day, Akshay was watching DTH television from Madurai in Tamil Nadu ($78^\\circ07'E$; $9^\\circ48'N$). He got a call from his IIT friend, Sujeet, who was watching DTH television of the same company from Salem in Tamil Nadu ($78^\\circ07'E$; $11^\\circ39'N$). Both were getting their DTH signals from the same satellite located at 36000 km directly above a point at the same longitude but at latitude of $10^\\circ43.5'N$. Find the angle difference in the antenna pointing for Akshay and Sujeet.",
+     "paper_label": "Section C: Analytical questions"
+    },
+    {
+     "day": 3,
+     "number": 6,
+     "problem": "Question $\\zeta$\n\nSketch the graphs of following functions in the space provided on the answersheet (Plotting on a graphsheet is not expected):\n\n(a) (3 marks) $|x+1| + |x-1|$\n\n(b) (3 marks) $x + sin(x)$.\n\n(c) (3 marks) $xlog(x)$.",
+     "paper_label": "Section C: Analytical questions"
+    }
+   ]
+  },
+  {
+   "year": 2012,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "(3 marks)\n\nIf the square of your age in seconds gives the age of the Universe in seconds, then\n\nA. you haven't started to walk yet\n\nB. you are in primary school\n\nC. you are a young adult\n\nD. you were born before British left India",
+     "paper_label": "Part A: Multiple choice questions"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "(3 marks)\n\nIf $f(x+y) = f(x)f(y)$ and $f(2) = 5$, then the value of $f(-2)$ is\n\nA. 5 B. 1 C. 0.25 D. 0.2",
+     "paper_label": "Part A: Multiple choice questions"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "(3 marks)\n\nA container with uniform rectangular cross-section and weight $M$ kg, falls from a cargo ship into the sea and is floating with $x$ part of its height under water ($x$ is a fraction less than 1). Two persons from a nearby boat, each weighing $m$ kg board on the container resulting it to go down such that the top surface of the container levels exactly with the water level. Find the ratio $\\frac{M}{m}$ in terms of $x$.\n\nA. $\\dfrac{(1-x)}{2x}$ B. $\\dfrac{x}{(1-x)}$ C. $\\dfrac{(1-x)}{x}$ D. $\\dfrac{2x}{(1-x)}$",
+     "paper_label": "Part A: Multiple choice questions"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "(3 marks)\n\nAn electron moving uniformly in space is neither deflected nor accelerated over a long distance. Which of the following statements may describe the local conditions?\n\nA. Both electric and magnetic fields are necessarily zero simultaneously.\n\nB. The electric field is necessarily zero.\n\nC. The magnetic field is necessarily zero.\n\nD. Neither of them are necessarily zero.",
+     "paper_label": "Part A: Multiple choice questions"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "(3 marks)\n\nPradip once observed image of the Sun on the platform of CST station (Mumbai's main railway station). He realised that the sunrays forming the image are entering through a tiny triangular shaped window in the high ceiling. He measured the diameter of the image to be 0.175 m. Find the height of the ceiling.\n\nA. 12.5 m B. 18.75 m C. 22.5 m D. 37.5 m",
+     "paper_label": "Part A: Multiple choice questions"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "problem": "(3 marks)\n\nThe most energy efficient direction of projection of rockets from the earth surface is\n\nA. Eastwards B. Westwards C. Northwards D. Vertically upwards",
+     "paper_label": "Part A: Multiple choice questions"
+    },
+    {
+     "day": 1,
+     "number": 7,
+     "problem": "(3 marks)\n\nA car travels the first 20 km eastwards with 30 km/hr, next 20 km northwards with 40 km/hr and then 20 km westwards with 50 km/hr. The average velocity of the car for the journey is\n\nA. 10 km/hr B. $\\frac{10}{9}$ km/hr C. $\\frac{600}{47}$ km/hr D. $\\frac{400}{47}$ km/hr",
+     "paper_label": "Part A: Multiple choice questions"
+    },
+    {
+     "day": 1,
+     "number": 8,
+     "problem": "(3 marks)\n\nThe Sun is found to be setting exactly at 6.00 pm on a given day. If the Earth's atmosphere was only half dense as it is then the sunset would have occurred\n\nA. Slightly later than 6.00 pm\n\nB. Slightly earlier than 6.00 pm\n\nC. Exactly at 6.00 pm\n\nD. It depends on the latitude of the place.",
+     "paper_label": "Part A: Multiple choice questions"
+    },
+    {
+     "day": 1,
+     "number": 9,
+     "problem": "(3 marks)\n\nA knock-out tennis tournament begins with a total of 193 players. In each round, if the number of players is odd, then one player gets direct bye to the next round. No player can get byes in two consecutive rounds. How many matches must be played in the tournament before the winner is decided?\n\nA. 386 B. 192 C. 169 D. 97",
+     "paper_label": "Part A: Multiple choice questions"
+    },
+    {
+     "day": 1,
+     "number": 10,
+     "problem": "(3 marks)\n\nFour metal rods all of identical dimensions and made of same material are welded together at a single point. The configuration is such that any two rods are oriented at $120^\\circ$. The far ends of three of the rods are maintained at $90^\\circ$ temperature and that of the fourth rod is maintained at $30^\\circ$ temperature. The temperature of the junction point is\n\nA. $45^\\circ$ B. $60^\\circ$ C. $75^\\circ$ D. None of these.",
+     "paper_label": "Part A: Multiple choice questions"
+    },
+    {
+     "day": 2,
+     "number": 1,
+     "problem": "Question 11 (5 marks; any number of alternatives may be correct)\n\nConsider the following statements:\n\n• A central eclipse is the one where central point of lunar disk exactly passes over the central point of solar disk.\n\n• An eclipse is called a total Eclipse if it is seen as total from at least some point on the earth.\n\n• An eclipse is called a partial Eclipse if it is not seen as total / annular from any point on the earth.\n\nNow choose the incorrect statement/s from below:\n\nA. All central eclipses are total.\n\nB. All total eclipses are central.\n\nC. All partial eclipses are non-central\n\nD. All non-central eclipses are partial",
+     "paper_label": "Section B: Multiple correct choice questions"
+    },
+    {
+     "day": 2,
+     "number": 2,
+     "problem": "Question 12 (5 marks; any number of alternatives may be correct)\n\nConsider a pendulum with inextensible string with a lightweight magnetic bob. Underneath this arrangement iron dust is spread out. Now the bob of the pendulum starts swinging. Which of the following might be a susequent observation(s)?\n\nA. The maximum height reached by the bob will start increasing.\n\nB. The tension in the string will start increasing.\n\nC. The period of oscillation of the bob will start decreasing.\n\nD. The angular momentum of the bob remains constant.",
+     "paper_label": "Section B: Multiple correct choice questions"
+    },
+    {
+     "day": 3,
+     "number": 1,
+     "problem": "Question $\\alpha$ (10 marks)\n\nIn the night sky, the constellations depict several shapes of animate objects (species like birds, animals, etc) or man made instruments. List 20 such figures / instruments. The list should contain at least 4 instruments. Write both the object and the corresponding constellation. Exact name of the constellation is not necessary. The constellations must be from International Astronomical Union's standard list of 88 constellations (i.e. Indian / Chinese / Mayan constellations not accepted).",
+     "paper_label": "Section C: Analytical questions"
+    },
+    {
+     "day": 3,
+     "number": 2,
+     "problem": "Question $\\beta$\n\nFrom the graph below, find:\n\n(a) (7 marks) The cubic polynomial describing the curve. [Note: $f(7) \\neq 200$.]\n\n(b) (5 marks) If this curve describes orbit of a comet with the Sun at point (1,0) and the comet crosses the x-axis exactly two months apart, find the approximate position of the comet 1 month since first crossing of the x-axis.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/inao-2012-c2-1.png",
+     "paper_label": "Section C: Analytical questions"
+    },
+    {
+     "day": 3,
+     "number": 3,
+     "problem": "Question $\\gamma$\n\n(a) (6 marks) Assume that human civilisation has carved out all the mantle and the central core of the earth, and started living on the inside surface of the earth's crust which is only about 7 km in thickness. As a consequence, people are finding that their weight has altered drastically. To feel normal weight again, one scientist suggested an idea involving tampering one of the motions of the earth. Can you describe this idea qualitatively and quantitatively?\n\n(b) (8 marks) An observer is sitting in a stationary spacecraft outside earth's orbit such that at the closest point, distance between the observer and the earth is 1 AU. Sketch a rough plot (exact functional form / shape not expected) showing how the orbital angular velocity of the earth varies with time (in an year), as seen by this observer. Mark every point of maximum or minimum clearly and write its coordinates. Similarly, mark every point with zero angular velocity and write its coordinates. Assume the orbit of earth around the Sun to be circular.",
+     "paper_label": "Section C: Analytical questions"
+    },
+    {
+     "day": 3,
+     "number": 4,
+     "problem": "Question $\\delta$\n\nIn the 1957 science fiction novel \"The black cloud\" by Sir Fred Hoyle, an interstellar dark cloud is discovered appraching the solar system. We will try to retrace the steps explained in the novel to calculate speed and direction of the cloud. Two photographs given here show a small region inside the constellation of Orion. The photographs are taken exactly 2 months apart. The grid in the image has the size of $1^\\circ \\times 1^\\circ$. By spectroscopy, it was realised that the emission line of neutral hydrogen (Rest wavelength 21.1000 cm) emitted by this cloud was showing up at 21.0789 cm wavelength.\n\n(a) (4 marks) In how many months (after the second image) the cloud will entirely cover the belt of Orion (seen on the left)?\n\n(b) (1 mark) Is the cloud headed directly for the solar system? Why?\n\n(c) (2 marks) If yes, then in how many months (after the second image) the cloud will arrive at the earth? If no, what will be the closest separation between the cloud and the earth? Assume the cloud to have uniform velocity throughout the journey.\n\n(d) (5 marks) If this spherically symmetric cloud is placed at the exact centre of the solar system, which planets will be engulfed by the cloud?\n\nNote: The expression of relativistic Doppler effect is given by $\\lambda_\\mathrm{observed} = \\lambda_\\mathrm{emitted}\\sqrt{\\dfrac{c-v}{c+v}}$\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/inao-2012-c4-1.png",
+     "paper_label": "Section C: Analytical questions"
+    },
+    {
+     "day": 3,
+     "number": 5,
+     "problem": "Question $\\epsilon$ (12 marks)\n\nLet us assume a situation where an asteroid passes close to the earth. Some times the shortest distance of such an asteroid can be even lesser than the earth-moon distance. In such cases, the asteroid will cross the lunar orbit at two points. A particular asteroid makes a close-earth pass such that at its closest proximity to the earth, its distance from the earth is 256000 km. For simplicity, let us assume that the gravitational force of the earth acts on this asteriod only for a short duration of 1000 seconds, when the asteroid is exactly at the closest proximity point. Let us assume that the asteroid follows straight line paths with uniform velocities before and after this gravitational interaction and the velocity of the asteroid before the interaction was 6.25 km/s. Find out how much would be the deviation measured (in km) along the lunar orbit. Assume the Moon to be on the other side of the Earth in its orbit during the asteroid's transit, hence not having any impact on the motion. Take the orbit of the Moon around the Earth to be circular.",
+     "paper_label": "Section C: Analytical questions"
+    }
+   ]
+  },
+  {
+   "year": 2014,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "(12 marks)\n\nRead the following passage and point out scientific inaccuracies. Give very brief argument for each mistake you point out.\n\nArrival of a spacecraft on the surface of the Moon is called a Moon landing. This includes both manned and unmanned (robotic) missions. In order to get to the Moon, a spacecraft must first cross the point, beyond which the Earth's gravitational force is zero. The only practical way of accomplishing this currently is with a rocket. At every instant, the rocket has to produce thrust to propel itself to a velocity equal to critical velocity at that height. Jet engines can be used to propel the spacecraft to the Moon, but rockets provide greater advantage in terms of power required for given mass of the spacecraft.\n\nUnlike the Earth, the Moon does not have thick atmosphere to absorb most of the solar radiation and the magnetic field of the moon is too weak to deflect the UV rays. Thus, astronauts traveling to the Moon are exposed to harmful electromagnetic radiation. Spacesuits for astronauts are specially designed by keeping this in mind.\n\nOn arrival near the Moon, the spacecraft is captured by the lunar gravity in an orbit around the Moon. As the Moon is much smaller than the Earth, typically these orbits are low altitude orbits (close to the lunar surface) as compared to the polar satellites around the Earth. The spacecraft can stay in this orbit forever, however, if one needs it to land on the Moon, it has to fire its engines to change course.\n\nLanding at the Moon can be of two types. A hard landing is equivalent to crash landing on the Moon. A soft landing is a controlled landing in which priority is to maintain all equipment and astronauts (if any) inside the spacecraft safe. Needless to say, all Apollo missions had a soft landing on the Moon. This was achieved by firing reversing rockets very close the lunar surface to slow down the spacecraft. Charring of the lunar soil, due to burning of these rockets, is one of the permanent impressions left by humankind on the Moon.",
+     "paper_label": "Question paper"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "(6 marks)\n\nA comet is in elliptical orbit around the Sun with period $T$ and semi-major axis $a$. A second comet around the Sun has same period $T$, but a different orbit with same eccentricity $e$. The two orbits are not necessarily in the same plane. Further, we also know that when the first comet is closest to the Sun in its orbit (at perihelion), the other comet is farthest from the Sun in its orbit (at aphelion). Given this configuration, what is the minimum possible distance between the two comets, when one of the comets is at its perihelion? Justify your answer by brief arguments / sketches.",
+     "paper_label": "Question paper"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "On a flight between the cities of Oslo ($61^\\circ$ N, $8^\\circ$ E) and Helsinki ($60.2^\\circ$ N, $25^\\circ$ E), Mayank saw the Sun just at the horizon on the west. After 20 minutes, when he checked again, he saw the Sun was now $2^\\circ$ above the horizon.\n\n(a) (2 marks) The flight was traveling from which city to which city?\n\n(b) (8 marks) What was the speed of the aircraft with respect to the ground (in Km/hr)?\n\n(c) (4 marks) How long will this aircraft take to traverse the distance between these two cities? Assume uniform speed during the entire flight.",
+     "paper_label": "Question paper"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "The skymap below corresponds to sky above Nagpur ($21^\\circ$N, $79^\\circ$E at 09:00 am on 1st February 2014. If you are not used to using sky maps, it is important to note that sky map is usually seen lying down on the ground (feet to the South), facing the sky with map in your hand. Thus, East is on the left of the map and West is on the right. Answer the following questions:\n\n(a) (1 mark) Mark Polaris with letter 'P'.\n\n(b) (2 marks) Circumpolar stars for a given place are the stars, which will never go below the horizon. Draw boundary of this region and mark it by the letter 'C'.\n\n(c) (2 marks) The celestial equator is just a projection of the Earth's equator in the sky. It will be locus of points which are equidistant from the north and the south pole. Draw the equator on the map approximately and mark it with 'Q'.\n\n(d) (2 marks) The ecliptic is the imaginary yearly path of the Sun in the sky. Mark this approximately on the map and mark it with 'E'.\n\n(e) (2 marks) Mark approximate position of the Sun on the map as 'S'.\n\n(f) (2 marks) Yesterday was a new moon day. Mark the current position of the moon on the map as 'M'.\n\n(g) (2 marks) Which star was very close to the Zenith at 06:00 am today? Mark it on the map as 'N'.\n\n(h) (2 marks) Draw a line across sky showing horizon line as at 07:00 am today as 'H'.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/inao-2014-q4-1.png",
+     "paper_label": "Question paper"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "(12 marks)\n\nGliese-876 is a star in the constellation of Aquarius which has four confirmed planets going around it. We know following facts about this system:\n\n• the four planets have names 'b', 'c', 'd' and 'e'.\n\n• the four planets have masses (in Earth masses) of $7M_\\oplus$, $15M_\\oplus$, $225M_\\oplus$ and $720M_\\oplus$. (not necessarily in the same order)\n\n• the orbital radii of the four planets (in A.U.) are 1.93, 30, 61, 124. (not necessarily in the same order)\n\n• the orbital eccentricities of the planets are 0.03, 0.06, 0.21, 0.26. (not necessarily in the same order)\n\n• planet 'e' is farthest from the star.\n\n• the heaviest planet has the lowest eccentricity.\n\n• the lightest planet is also the closest to the star.\n\n• the two giant planets are neither the closest nor the farthest from the star.\n\n• the planet with a mass of $7M_\\oplus$ has eccentricity of 0.21 and is closer to the star than planet 'c'.\n\n• eccentricity of planet 'd' is more than planet 'e', but less than 'c'.\n\n• planet 'c' is closer to the star as compared to planet 'b'.\n\nUse the information above to correctly identify mass, orbital radius and orbital eccentricity of each of the planet. For your help, you may use the grid given in the answer sheet. The grid has six sub-grids of $4\\times4$ size. You can tick mark in the boxes corresponding to matching pairs and cross mark the boxes where there is no match. Note that this grid is only for your help. It is your choice if you wish to use this grid or some other method. Final answer must be written in the second table below the grid. Only the values written in the table will be considered for giving marks.",
+     "paper_label": "Question paper"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "problem": "(a) (9 marks) A thin convex lens, of focal length of $f$, is placed in y-z plane. The principal axis of the lens is along the x-axis. A luminous square sheet is placed in the x-y plane with its sides parallel to x and y axes. The centre of the sheet is exactly at a distance of $2f$ from the centre of the lens and length of each side of the sheet is $f$. The sheet is slightly rotated about the y-axis to make the entire sheet visible from the other side of lens. Sketch the shape of the image of the sheet and mark all relevant lengths in terms of $f$.\n\n(b) (6 marks) A pin P is placed in front of a concave mirror such that its mid-point lies on the principal axis at a distance $d$ from the pole of the mirror. An observer on the principal axis at a distance $D$, where $D \\gg d$, finds the pin and its real image to overlap. When the observer moves slightly to the left of the principal axis, the image is viewed to the right of the pin. From this observation, what can be concluded about value of $d$? Justify your answer.",
+     "paper_label": "Question paper"
+    },
+    {
+     "day": 1,
+     "number": 7,
+     "problem": "(8 marks)\n\nChandrayaan-1, the lunar mission launched by India in 2008, had all gold wiring. A particular instrument on board the mission, was operating at the same temperature as the space surrounding the Chandrayaan. Instrument specifications demanded that no wire in the instrument should offer a resistance more than 7 $m\\Omega$. All the instruments on Chandrayaan were fabricated in ISRO labs at room temperature. If the radius of all wires in the instrument was 0.1mm (as measured in ISRO lab), what should be the maximum allowable length (as measured in ISRO lab) of any wire? Physical properties of gold:\n\n• Resistivity (at room temperature), $\\rho = 2.214\\times10^{-8}\\ \\Omega\\,\\mathrm{m}$\n\n• Temperature coefficient of resistivity, $\\beta = 0.0032\\ \\mathrm{K^{-1}}$\n\n• Linear expansion coefficient, $\\alpha = 1.5\\times10^{-5}\\ \\mathrm{K^{-1}}$\n\n• Density, $\\varrho = 2\\times10^{4}\\ \\mathrm{kg/m^3}$\n\n• Molar heat capacity, $C_p = 25\\ \\mathrm{J\\,mol^{-1}\\,K^{-1}}$\n\n• Molecular Weight, $W \\approx 197$ g",
+     "paper_label": "Question paper"
+    },
+    {
+     "day": 1,
+     "number": 8,
+     "problem": "(18 marks)\n\nWe are in the year 2020 and the spacecraft Voyager-1 is at a distance of around 200 A. U. from the Sun. It is still continuously sending information about its speed with respect to inertial frame of the surrounding interstellar medium every 10 days. Following are the readings reported by the Voyager over course of 100 days.\n\n$$\\begin{array}{|l|c|c|c|c|c|c|}\\hline \\textbf{Time}\\ \\text{(days)} & 0 & 10 & 20 & 30 & 40 & 50 \\\\ \\hline \\textbf{Velocity}\\ \\text{(m/s)} & 1000 & 1061.5 & 1124.4 & 1189.0 & 1255.4 & 1323.8 \\\\ \\hline \\textbf{Time}\\ \\text{(days)} & 60 & 70 & 80 & 90 & 100 & \\\\ \\hline \\textbf{Velocity}\\ \\text{(m/s)} & 1394.4 & 1467.4 & 1543.1 & 1621.8 & 1703.8 & \\\\ \\hline \\end{array}$$\n\nSwapnil claimed that this indicates existence of an unknown body directly ahead in the path of Voyager. Those of you who agree with him, find mass and distance of this unknown body from Voyager. Those who disagree with him should give alternate explanation for the data observed and justify their arguments.\n\nNote:\n\n• For purpose of any calculations, you may ignore the influence of the Sun on Voyager. At the end of calculations, you should give reason why this is a valid assumption. Two points are reserved for this justification.\n\n• As an approximation, assume the acceleration of the Voyager to be constant during each 10 day period between the readings.\n\n• You may note that $8.5^2 \\approx 72$.\n\n• For calculations, you may assume one day approximately contains 90000 seconds.",
+     "paper_label": "Question paper"
+    }
+   ]
+  },
+  {
+   "year": 2015,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "(10 marks)\n\nIn science fiction novel \"The Evitable Conflict\", Isaac Asimov suggested that, in a futuristic world, all food items may be replaced with a nutritious powder made of wheat flour. What size of world population can be sustained with this food staple? You may assume that the average annual yield of wheat to be about 3.6 tonne per hectare (present day actual figure) and the geography of the Earth to remain similar to the present world.",
+     "paper_label": "Question paper"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "(10 marks)\n\nMatch the following (each entry in column A may map with zero or one or more entries in column B but each entry in column B has exactly one matching entry in column A).\n\n$$\\begin{array}{ll} \\textbf{Column A} & \\textbf{Column B} \\\\ \\text{Satellite} & \\text{Whirlpool} \\\\ \\text{Galaxy} & \\text{Sirius} \\\\ \\text{Star} & \\text{Ceres} \\\\ \\text{Star cluster (group)} & \\text{Pegasus} \\\\ \\text{Dwarf Planet} & \\text{Pallas} \\\\ \\text{Asteroid} & \\text{Puppis} \\\\ \\text{Constellation} & \\text{Pluto} \\\\ \\text{Planet} & \\text{Phobos} \\\\ & \\text{Pleiades} \\\\ & \\text{Pollux} \\end{array}$$",
+     "paper_label": "Question paper"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "(6 marks)\n\nTwo identical satellites A and B are launched in equatorial circular orbits of period 4.8 hours. Satellite A rotates in the sense of rotation of the Earth while satellite B rotates in the opposite sense. The orbits are separated slightly to avoid collision. On a particular day, at 12 noon, both the satellites were seen exactly overhead by an observer on the Earth's equator. What is the minimum duration of time after which both these satellites will again be seen exactly overhead from the same place?",
+     "paper_label": "Question paper"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "(15 marks)\n\nFor each of the following statements, state if the statement is true or false and give a single line justification for your answer in each case.\n\n1. All stars except pole star rise in the east and set in the west.\n\n2. The Earth's axis is changing its direction slowly because its magnetic pole is not properly aligned with the geographic pole.\n\n3. Cosmic rays are not part of electromagnetic spectrum.\n\n4. Some sunspots can be bigger than the Earth.\n\n5. Jupiter can fit in the space between the Earth's surface and the Moon's orbit.\n\n6. That the Earth does not fall into the Sun is a direct consequence of the Newton's third Law of motion.\n\n7. The time taken by Mars Orbiter Mission (Mangalyaan) from the moment it left the Earth's orbit till it was captured by the gravity of Mars, is well determined by the Kepler's laws.\n\n8. On a new moon day, the Earth's shadow covers the moon fully.\n\n9. The stars which appear brighter are also closer to the Sun.\n\n10. Pole star is visible from all the locations from the Earth.",
+     "paper_label": "Question paper"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "(7 marks)\n\nA big hall is 15 meter long, 10 meter wide and 5 meter high. Two ants are seated inside this hall at one of the upper corners. On the edge, diagonally opposite to the ants, there is a sugar cube at a height $k$ meters above the ground (see diagram). One of the ants decides to go down the vertical edge, across the floor diagonal, and then up the opposite vertical edge to reach the sugar cube. The second ant tries to take shortest route along the walls without touching either the floor or the ceiling. Both the ants move with the same uniform speed and you can assume that no time is spent in changing the direction at any point. Find condition on $k$ such that the first ant reaches the sugar cube first.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/inao-2015-q5-1.png",
+     "paper_label": "Question paper"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "problem": "(6 marks)\n\nA ray of light enters an assembly of plane mirrors (from left) as shown in the figure below and undergoes reflection at all the four mirrors. After the last reflection, the ray travels in vertical direction and enters in the detecting instrument. In the figure, the dotted lines are normals for respective mirrors and dashed lines are exactly vertical or horizontal. The third mirror is exactly horizontal. It is known that angle $\\theta$ is $50^\\circ$. Angle $\\phi$ is unknown. Find angle $p$.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/inao-2015-q6-1.png",
+     "paper_label": "Question paper"
+    },
+    {
+     "day": 1,
+     "number": 7,
+     "problem": "A spaceship sends a proton beam with cross-sectional area of $100\\ \\mathrm{m^2}$ at a speed of $0.01\\,c$ in the plane of the Earth's magnetic equator. The closest distance of the beam to the center of the earth is $1.28\\times10^{5}$ km. The magnetic field at the midpoint of the distance separating the proton beam and the center of the earth is zero.\n\n(a) (8 marks) Find the number of protons emitted by the spaceship per second.\n\n(b) (3 marks) As seen by the alien controlling the proton beam from the spaceship, would the Earth be on the left side or the right side?\n\n(c) (3 marks) If mass of the spaceship is 1667 tonne, how much will be its recoil velocity due to this proton beam?\n\nNote: The strength of the Earth's magnetic field as measured on the Earth's surface at magnetic equator is about $5\\times10^{-5}$ Tesla.",
+     "paper_label": "Question paper"
+    },
+    {
+     "day": 1,
+     "number": 8,
+     "problem": "(8 marks)\n\nIndia plans to launch $N$ communication satellites, all of which are to be in a geostationary orbit around the equator. All satellites are arranged equi-spaced in the same orbit. Find all the possible values of $N$ such that each satellite can see all the other satellites of the series at any instant of time.",
+     "paper_label": "Question paper"
+    },
+    {
+     "day": 1,
+     "number": 9,
+     "problem": "The given graph is a scatter-plot of all exoplanets from the Open Exoplanet Catalogue, including those discovered by the Kepler mission. This Kepler mission is a special space based instrument, which has been continuously observing same small part of the sky from the start of its operation to measure any small changes in the brightness of the individual stars in that particular direction. The scales on the graph are as follows:\n\nTop - log of orbital period of the planet in years\n\nRight - log of mass of the planet as a multiple of mass of the Earth\n\nBottom - log of orbital radius of the planet\n\nLeft - log of mass of the planet as a multiple of mass of Jupiter\n\nFor example, on the left side, 0 would correspond to $\\log_{10}(m/M_J) = 0$ i.e. $m = M_J$. As a way to simplify the problem, let us assume that all the parent stars of these exoplanets have exactly same mass as that of the Sun.\n\n(a) (4 marks) Complete the scale for the $log_{10}P(years)$ and $log_{10}m(M_E)$ axes by providing values on the respective axes.\n\n(b) (4 marks) Mercury's distance from the Sun is about 40% that of the Earth and its mass is about 20 times smaller. Neptune's orbital radius is 30 times larger than the Earth's orbital radius and Neptune is 17 times more massive than the Earth. Mark the approximate positions of Mercury and Neptune on the graph.\n\nWe further assume that all the parent stars emit same total energy per second (called Luminosity) as the Sun and all exoplanet orbits are circular.\n\n(c) (5 marks) If a planet can sustain liquid water on its surface, it is said to be in the \"habitable zone\" around the parent star. Mark approximate edges of the habitable zone on the graph. State clearly the assumptions made in the process.\n\nOne way of detecting exoplanets is called the Transit method (green dots in the graph). If a planet crosses (transits) in front of its parent star's disk as seen from the earth, then the observed visual brightness of the star drops by a small amount because the planet blocks some of the light. Most of the exoplanets detected by this method were discovered by the Kepler mission, which will complete it's sixth year of operation in a few months time. To confirm a detection, it is necessary that at least three transits of the given exoplanet should have been observed by the Kepler mission.\n\n(d) (5 marks) Assume that the average density of the exoplanet is almost the same as that of the host star. It is known that the Kepler mission can detect about 0.01% variation in the light coming from the star. Using this information, draw two straight lines indicating detection limit for the transit method by Kepler spacecraft. Give brief justification of your answer.\n\nAnother way is called the Radial Velocity method (blue dots). Here, we note that the host star and the exoplanet are both orbiting around the common centre of mass (C.M.) and hence the host star shows a periodic variation in its velocity towards or away from the observer (us). As the planet is not emitting any light, we just measure the velocity of the host star using the Doppler effect. This orbital velocity of the host star around the common centre of mass can help us determine mass of the exoplanet.\n\n(e) (6 marks) Suppose the smallest change in radial velocity possible to detect by a certain spectrograph is $\\sqrt{8}$ m/s. If we draw a straight line on the graph showing this limit, what would be the slope of this line? Draw this line on the graph. Looking at the exoplanets plotted on the graph, can we conclude that there exist some other instruments that could detect smaller changes in the radial velocity? Justify.\n\nNote: Although these two methods account for most of the exoplanets discovered, few of the exoplanets (also shown in this plot) are discovered by other methods like direct imaging, microlensing and timing analysis.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/inao-2015-q9-1.png\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/inao-2015-q9-2.png\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/inao-2015-q9-3.png",
+     "paper_label": "Question paper"
+    }
+   ]
+  },
+  {
+   "year": 2016,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "(9 marks) Satej is a twelve year old boy. He loves astronomy. Recently, he attended a sky observation workshop, organized by the Amateur Astronomers Club at a hill station. During the observation session, he was introduced to Hercules, Taurus, Scorpius, Orion, Ursa Major, Gemini, Draco, Leo, Serpens and Virgo constellations. He had sketched the stick figures of some of these constellations in his note book. Unfortunately, he forgot to write the names of the constellations and is finding it difficult to identify the constellations. Can you help him to identify the constellations for his sketches?\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/inao-2016-q1-1.png",
+     "paper_label": "Question paper"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "(12 marks) In desperate times of depleting energy resources, Sandesh comes with an ingenious idea. He wishes to use methane on Neptune to satisfy Earth's ever increasing energy needs but needs to work out a few details. Help him to see of his idea is a good one by solving the following questions.\n\n(a) Estimate the total number of domestic LPG cylinders that can be filled up with methane from Neptune.\n\n(b) Estimate the net domestic consumption of LPG cylinders in a year in India. Justify your approach in arriving at this number. We then extend the answer obtained to represent the earth.\n\n(c) What is the approximate time-period, that methane brought from Neptune, can sustain the earth? Is Sandesh's idea good enough to satisfy Earth's energy needs?\n\nFrom the paper's table of Useful Physical Constants: Radius of Neptune $R_N = 24\\,622\\,\\mathrm{km}$; Average Density of Neptune $\\bar{\\rho_N} = 1.638\\,\\mathrm{g\\,cm^{-3}}$; Specific heat capacity of water $= 4.2\\,\\mathrm{J\\,g^{-1}C^{-1}}$; Average calorific value of LPG gas $\\approx 5\\times10^{4}\\,\\mathrm{kJ\\,kg^{-1}}$; Approximate calorific value of methane $\\approx 5\\times10^{4}\\,\\mathrm{kJ\\,kg^{-1}}$.",
+     "paper_label": "Question paper"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "(a) (5 marks) Anjali is quite particular about noting down the daily earnings she makes in her side business, run by her and her mother. She noticed that over a period of 5 consecutive days, the money she earned daily, was basically the date multiplied by 10. She found the total money earned over these 5 days to be Rs 630. What were the dates corresponding to those 5 consecutive days?\n\n(b) (5 marks) What is the maximum value of $n$ for which 100! is divisible by $2^n$",
+     "paper_label": "Question paper"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "(10 marks) A boat is sailing on a river, parallel to a rectangular signboard propped up on the bank of the river. A search lamp on a flagpole on the top of the boat illuminates the signboard. The height of the lamp on the boat is such that complete shadow of the signboard is cast on the ground. As the boat moves, a sailor in the observation cabin of the boat starts seeing the clear shadow when the boat is at a distance of about 100 m from the signboard. The boat passes the signboard at a closest distance of 60 m. What will be the ratio of the minimum area of the shadow to that of the maximum area of the shadow as the boat passes by? Explain your answer using very clear diagram/s.",
+     "paper_label": "Question paper"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "(6 marks) In the figure given below, we have 3 lenses with the same focal length 10 cm, with the distance of separation between each pair of the lenses being 30 cm. An object placed 20 cm from the first lens on the left produces an image 10 cm from the right of the rightmost lens (See Figure). After the lens assembly was moved by x cm to left, without moving the object, the image was again seen at the same location. Find x.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/inao-2016-q5-1.png",
+     "paper_label": "Question paper"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "problem": "(10 marks) Ayush measures the length of the shadow of a vertical meter stick in Kilimanjaro National Park to be 42 cm. What is the length of shadow subtended by Mount Kilimanjaro at that time?\n\nThe following constants and relations might be useful:\nHeight of Mt. Kilimanjaro = 5895 m\nRadius of Earth = 6400 km\n$\\arctan 0.42 = 22.782^\\circ$\n$\\sin 22.782^\\circ = 0.3872$\n$\\arcsin 0.3876 = 22.805^\\circ$\nPlease note that height of Mt. Kilimanjaro is not negligible as compared to radius of the earth. It is obviously assumed that base of Mount Kilimanjaro is small enough for the shadow to fall on the earth itself.",
+     "paper_label": "Question paper"
+    },
+    {
+     "day": 1,
+     "number": 7,
+     "problem": "(16 marks) A whistle in its rest frame has a frequency of $f_0$ Hz. The whistle is kept on the outermost edge of a Merry-Go round (MGR) of radius $a$ which rotates at a constant angular velocity $\\omega$. Find out the frequency heard $f$ by a stationary listener standing on the ground at a distance $d$ from the center of the MGR and also sketch qualitatively the graph of $f$ v/s $t$ when\n\n1. The listener is very far from the MGR.\n2. The listener is standing close to the MGR.\n3. The listener is standing close to the MGR and the MGR starts moving such that its center is revolving around the listener with angular speed $\\Omega$ in the same (say clockwise) direction as the clockwise rotation of the MGR.\n4. The listener is standing close to the MGR and the MGR starts moving such that its center is revolving around the listener with angular speed $\\Omega$ in the opposite (anti-clockwise) direction to the clockwise rotation of the MGR.\n\nFurther calculate the time elapsed between the maximum frequency and minimum frequency hearings in each of the cases.\n\nNotes for Junior Group (printed at the end of the paper): The formula for Doppler shift of frequency (for a stationary listener) is as follows:-\n$f = \\frac{c}{c+v_s}f_0$\nwhere $c$ = velocity of sound, $v_s$ = parallel component of velocity of source\n$f_0$ = emitted frequency of source, $f$ = observed frequency",
+     "paper_label": "Question paper"
+    },
+    {
+     "day": 1,
+     "number": 8,
+     "problem": "(12 marks) Dhruv has been accidentally locked in a container that is 2.5 m long, 1.5 m wide and 6 m high. While waiting to be rescued, he throws a ball at the wall opposite to him and watches it hit the wall, bounce elastically back and forth between the walls before it hits the floor again. The vertical plane in which the ball travels is parallel to the other walls. If the ball is thrown from the level of the floor with a speed of $20\\,\\mathrm{m\\,s^{-1}}$, the launch angle with respect to vertical being $60^\\circ$ and that he is leaning against one wall with the opposite wall being 1.5 m away, please calculate the following:-\n\n(a) What would be the maximum height reached?\n\n(b) After how long does the ball hit the flooor again?\n\n(c) How many times would the ball hit the walls before it reached the maximum height?\n\n(d) With respect to the wall that he is leaning on, how far from wall would the ball be when it reaches the maximum height?",
+     "paper_label": "Question paper"
+    },
+    {
+     "day": 1,
+     "number": 9,
+     "problem": "(15 marks) Ameya wishes to develop a simple device, which, when connected to the prime focus of a telescope, will give a direct reading of the apparent magnitude of the object that the telescope is pointing at. He has with him a set of data points relating the current obtained when light of a particular intensity falls on the device as given in table below. He is confident that once he gets the calibration curve, relating Intensity to current, he can make another calibration curve, one that connects the apparent magnitude of the object that he is looking at through the telescope, to the current that he is measuring in his device. Please help him in drawing both the curves. Also, estimate the current reading for Venus and Sirius if their apparent magnitudes are $-4.43$ and $-1.46$ respectively.\n\nNote: The apparent magnitude $m$ of a celestial object is a measure of its brightness as seen by an observer on Earth, adjusted to the value it would have in the absence of the atmosphere. The brighter an object appears, the lower its magnitude value (i.e. inverse relation). Also, the magnitude scale is logarithmic: a difference of one in magnitude corresponds to a change in brightness by a factor of about 2.5. The mathematical relation is given by $m_1 - m_2 = 2.5\\log\\left(\\dfrac{I_2}{I_1}\\right)$. The reference point for the apparent magnitude scale is the star Vega. The intensity of Vega incident on earth is $2.18\\times10^{-8}\\,\\mathrm{W\\,m^{-2}}$.\n\nSome useful data for this question.\n\n$$\\begin{array}{|l|l|}\n\\hline\n\\text{Intensity} & \\text{Current} \\\\\n10^{-8}\\,\\mathrm{W\\,m^{-2}} & \\text{nA} \\\\\n\\hline\n5 & 25 \\\\\n9 & 41 \\\\\n17 & 73 \\\\\n21 & 89 \\\\\n33 & 137 \\\\\n37 & 153 \\\\\n45 & 185 \\\\\n49 & 201 \\\\\n\\hline\n\\end{array}\n\\qquad\n\\begin{array}{|c|c|}\n\\hline\nx & \\log(x) \\\\\n\\hline\n2 & 0.301 \\\\\n3 & 0.477 \\\\\n4 & 0.602 \\\\\n5 & 0.699 \\\\\n6 & 0.778 \\\\\n7 & 0.845 \\\\\n8 & 0.903 \\\\\n9 & 0.954 \\\\\n\\hline\n\\end{array}\n\\qquad\n\\begin{array}{|l|}\n\\hline\n\\text{Antilog values} \\\\\n\\hline\n10^{4.43} = 26195.34 \\\\\n10^{1.46} = 28.84 \\\\\n10^{1.772} = 59.16 \\\\\n10^{.584} = 3.84 \\\\\n10^{0.443} = 2.77 \\\\\n10^{0.146} = 1.40 \\\\\n\\hline\n\\end{array}$$\n\nNotes for Junior Group (printed at the end of the paper): The apparent magnitude of Vega, $m = 0$ .",
+     "paper_label": "Question paper"
+    }
+   ]
+  },
+  {
+   "year": 2017,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "(15 marks) In each of the subquestions below, some astronomical phenomenon is shown through one or more images. Identify the phenomenon and describe it in 3-4 sentences.\n\n(a) Image below is a long time exposure of a certain part of the sky. Explain what you see in the image.\n\n(b) Explain what you see in the image below.\n\n(c) Image below includes multiple shots taken on same background at different times. Explain what you see in the image.\n\n(d) Each image below is showing same object but they are taken at different times. Explain what you see in the image.\n\n(e) Two images below are showing same object but they are taken at different times. Explain what you see in the image.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/inao-2017-q1-1.png\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/inao-2017-q1-2.png\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/inao-2017-q1-3.png\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/inao-2017-q1-4.png\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/inao-2017-q1-5.png",
+     "paper_label": "Question paper"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "On $22^\\mathrm{nd}$ December, part of the shadow of a 30 m tall building falls on another building next to it. The separation between the two buildings is 30 m and height of the shadow falling on the adjacent building is 24 m.\n\n(a) (2 marks) How long would the shadow be (on the ground) in the absence of this adjacent building?\n\n(b) (5 marks) If this shadow is noticed at the local noon, what is the latitude of the place?",
+     "paper_label": "Question paper"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "A star, at a distance of 1 pc from the Earth, becomes a supernova and reaches a maximum luminosity of $10^{11}L_\\odot$.\n\n(a) (3 marks) What will be the maximum flux, $F_\\mathrm{sup}$, of this supernova at Earth?\n\n(b) (3 marks) By what factor, $R$, will the total light flux on the Earth's surface increase over that from the Sun alone?\n\n(c) (4 marks) What will be the temperature, $T$, of the Earth when it reaches a new thermal equilibrium after the supernova? Assume the Earth to be a perfect black body and that it reaches a new equilibrium within a few days. Observations show that the average temperature of the Earth during the last century was 287 K.\n\n(d) (5 marks) Human life can survive on Earth only if the equillibrium temperature remains below 333 K. Find the minimum distance, $d_\\mathrm{sup}$, in pc for this supernova, if the life on the Earth should survive?\n\n(e) (5 marks) Assume that the number density of stars in the Milky Way is $0.14\\,\\mathrm{pc^{-3}}$. There are $10^{11}$ stars uniformly distributed across the galaxy. Also assume that there is one supernova every 30 years and all of them have same luminosity. Find the probablity, $P$, of a supernova causing extinction on Earth in total life span of the Sun.",
+     "paper_label": "Question paper"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "Chinmay was standing outside Talegaon bus station one morning. He noted down timing of each bus as it left the bus station. The table below lists the bus timings noted by him. His friend Nikhil told him later that buses from this bus station typically go to three destinations. A bus leaves every $x$ minutes for Pune, a bus leaves every $y$ minutes for Nashik and a bus leaves every $z$ minutes for Mumbai ($x < y < z$). During these three hours, one bus also leaves for Nagpur.\n\n$$\\begin{array}{|c|c|c|c|c|c|c|c|c|c|}\n\\hline\n & \\textbf{Time} & & \\textbf{Time} & & \\textbf{Time} & & \\textbf{Time} & & \\textbf{Time} \\\\\n\\hline\n1 & 07{:}01 & 12 & 07{:}38 & 23 & 08{:}13 & 34 & 08{:}48 & 45 & 09{:}25 \\\\\n2 & 07{:}03 & 13 & 07{:}41 & 24 & 08{:}20 & 35 & 08{:}53 & 46 & 09{:}30 \\\\\n3 & 07{:}09 & 14 & 07{:}43 & 25 & 08{:}21 & 36 & 08{:}53 & 47 & 09{:}33 \\\\\n4 & 07{:}10 & 15 & 07{:}49 & 26 & 08{:}23 & 37 & 09{:}01 & 48 & 09{:}33 \\\\\n5 & 07{:}13 & 16 & 07{:}52 & 27 & 08{:}29 & 38 & 09{:}02 & 49 & 09{:}41 \\\\\n6 & 07{:}17 & 17 & 07{:}53 & 28 & 08{:}33 & 39 & 09{:}03 & 50 & 09{:}43 \\\\\n7 & 07{:}23 & 18 & 07{:}57 & 29 & 08{:}34 & 40 & 09{:}09 & 51 & 09{:}44 \\\\\n8 & 07{:}24 & 19 & 08{:}03 & 30 & 08{:}37 & 41 & 09{:}13 & 52 & 09{:}49 \\\\\n9 & 07{:}25 & 20 & 08{:}05 & 31 & 08{:}43 & 42 & 09{:}16 & 53 & 09{:}53 \\\\\n10 & 07{:}33 & 21 & 08{:}06 & 32 & 08{:}45 & 43 & 09{:}17 & 54 & 09{:}57 \\\\\n11 & 07{:}33 & 22 & 08{:}13 & 33 & 08{:}46 & 44 & 09{:}23 & 55 & 09{:}58 \\\\\n\\hline\n\\end{array}$$\n\n(a) (6 marks) Find values of $x$, $y$ and $z$. Explain your method briefly.\n\n(b) (2 marks) When did the bus going to Nagpur leave the bus station?",
+     "paper_label": "Question paper"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "Dhruv is transported to an alternate universe where laws of physics are different from what they are in our world. Specifically, Snell's law for refraction in this alternate universe takes the form\n$$n_1 \\tan i = n_2 \\tan r$$\nwhere $n_1, n_2, i$ and $r$ have their usual meanings. Refractive indices of different materials remain the same in this universe. Use this law to answer the following questions:\n\n(a) (2 marks) A ray of light is incident on surface of water at $30^\\circ$. What will be the angle of refraction in this case?\n\n(b) (5 marks) What will be condition for mirage in this universe?\n\n(c) (5 marks) Make a schematic plot of $i$ vs. $r$, if medium 1 is air and medium 2 has refractive index of 4.00.\n\n(d) (5 marks) Dhruv has vertically placed a cylindrical tube 10 cm long with a light collecting device at the bottom. The tube is filled with medium 2. What should be the radius of the tube if light from any star with an altitude of $45^\\circ$ and more were to be incident on this device?\n\n(e) (3 marks) Do you agree with the statement below? Justify your answer.\n\"Exactly 50% of the sky above horizon can be viewed through this device at any given time.\"",
+     "paper_label": "Question paper"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "problem": "Recently Mr. Jawkar visited his friend Mr. Anthony's house. Although he was visiting them after many years, he had heard that besides the two married adults in the house there are two children of different ages. But he did not know their genders. When he knocked at the door a boy answered.\n\n(a) (4 marks) What is the probability that the other child is a girl?\n\n(b) (2 marks) If the boy says, \"I am the elder one\", what is the probability that the other child is a girl?\n\n(c) (6 marks) Mr. Jawkar was carrying with him flags of 40 countries and 40 labels of the corresponding country names. He wanted Mr. Anthony's family to help him correctly assign labels to the country flags. He equally divided the flags and labels (at random) amongst the 4 family members of Mr. Anthony. He told them to put labels on the flags assigned to each of them but they were not allowed to exchange flags or labels with each other. What is the probability that all 40 flags get correct labels?\n\n(d) (3 marks) What is the probability that exactly one flag gets wrongly labelled?",
+     "paper_label": "Question paper"
+    },
+    {
+     "day": 1,
+     "number": 7,
+     "problem": "(15 marks) Keyuri is holding a spherical balloon with a radius of 40.00 cm. Two ants were standing next to each other on the surface of this balloon. One of the ants starts walking away from the other ant with a linear speed of $2.500\\,\\mathrm{mm\\,s^{-1}}$ as measured by Keyuri. At the same time, Keyuri starts pumping air inside the balloon at the rate of $0.3142\\,\\mathrm{cm^3/s}$. This slow pumping does not change pressure or temperature of air inside the balloon. What will be the separation between the two ants after 6.400 s? Ignore the sizes of the ants.",
+     "paper_label": "Question paper"
+    }
+   ]
+  },
+  {
+   "year": 2018,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "(5 marks) In Newtonian mechanics force between two objects is felt instantaneously irrespective of distance. However, according to relativity, no interaction is truly instantaneous. For an object to feel the force, the information of the force is carried by field particles. But nothing can travel faster than the speed of light.\n\nTwo friends, 'A' (a follower of Newton) and 'B' (a follower of Einstein), were once debating about what will happen to the Earth if the Sun suddenly vanishes. They both calculated the direction in which the Earth will go, when this calamity happens. What will be the angular difference in the directions predicted by them?",
+     "paper_label": "Question paper"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "Most buses in India run on diesel, whose calorific value is $44.8\\times10^{6}\\,\\mathrm{J\\,kg^{-1}}$ and density is $0.832\\,\\mathrm{kg\\,l^{-1}}$. A typical bus can go 3 km, on average, for every litre of diesel consumed.\n\n(a) (5 marks) Estimate power consumption of a typical bus.\n\n(b) (3 marks) Calculate the maximum amount of solar power incident on roof of a typical bus.\n\n(c) (2 marks) Best commercial solar cells in the market have an efficiency of 20%. If the bus is to be run purely on solar power (during the day), estimate the area of solar cells required. What is the ratio of this area to the area of the rooftop of the bus.",
+     "paper_label": "Question paper"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "The star Kepler-13A has a Jupiter-like planet (Kepler-13Ab) revolving around it. The period of revolution and rotation for this planet are equal. Analysis of the planet's atmosphere has revealed that it contains vapourized Titanium Oxide (TiO), a key component in sunscreen lotions. Based on the boiling point of TiO, astronomers have estimated the temperature of Kepler-13Ab's upper atmosphere to be about 3000 K.\n\n(a) (7 marks) What is the orbital distance of Kepler-13Ab?\nGiven: Surface temperature of the star Kepler-13A = 7560 K, Radius of the star Kepler-13A = $1.71\\ R_\\odot$\n\n(b) (2 marks) Further analysis reveals condensed TiO as part of the lower atmosphere in Kepler-13Ab. Can you think of an explanation for this phenomenon?",
+     "paper_label": "Question paper"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "Aditya is fascinated by the famous 'infinity corridor' of IITB. The corridor is a very long, straight, roofed pathway connecting different departments. The roof of the corridor is supported by square pillars of width $b$ on either side. Let $D$ be the distance between consecutive pillars on the same side and $L$ be the width of the pathway (see figure).\n\n(a) (8 marks) One day Aditya was standing at point M (see figure), in the middle of the corridor, looking ahead along the path. He found that he cannot see any object outside the corridor beyond the $n^\\mathrm{th}$ pillar on his either side. Derive an expression for $n$.\n\n(b) (3 marks) Assume that the space between the successive pillars is $D = 3\\,\\mathrm{m}$, width of each pillar is $b = 0.3\\,\\mathrm{m}$ and width of the corridor is $L = 5\\,\\mathrm{m}$. Find numerical value of $n$.\n\n(c) (4 marks) How will the answer in part (b) change, if Aditya was at position N instead of M (see figure) and looking through pillars along the top row of the figure?\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/inao-2018-q4-1.png",
+     "paper_label": "Question paper"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "Astronauts have found that the angular diameter of the Earth as seen from the surface of the Moon is $1.9^\\circ$. We assume that:\n\n• the observer is standing on the equator of the Earth.\n• the Moon is in the equatorial plane.\n• the Moon's orbit is circular.\n\n(a) (10 marks) Find the time it takes for the Moon to completely rise above the Earth's horizon.\n\n(b) (3 marks) Briefly state why the three assumptions above are relevant to the solution.\n\n(c) (2 marks) How much time would it take for the Earth to completely rise above Moon's horizon?",
+     "paper_label": "Question paper"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "problem": "(a) (3 marks) Let us say we are observing sky from a dark location and all planets are visible in the sky. Arrange the planets of the solar system in the descending order of their apparent brightness as observed from the Earth.\n\n(b) (14 marks) Shinjini was observing the sky from a location on the equator on the night of 20-21 March and she made following observations in her diary.\n\n• Today is 11 days prior to the full Moon.\n• Saturn is seen in constellation of Sagittarius.\n• Jupiter is seen rising at the time of the Moon set.\n• Mars' position was coinciding with the centre of Milky Way.\n• Mercury set about 2 hours before the Moon.\n• Venus was seen in the evening sky for about 2 hours after sunset.\n\nIn the answersheet, you will find a circle which is passing through East, Zenith (point exactly above the head of the observer), West and Nadir (point exactly below the observer). Use the information given above to mark positions of the Sun, the Moon and the 5 planets on this circle at 11 am on the Vernal Equinox day ($21^\\mathrm{st}$ March).\n\nFor each object, write a 1-2 line explanation stating why you think it is the correct position of the object.",
+     "paper_label": "Question paper"
+    },
+    {
+     "day": 1,
+     "number": 7,
+     "problem": "Yash discovered a binary star, consisting of a very light star A in a circular orbit around a massive star B ($m_A \\ll m_B$). He could measure the component of velocity of star A along the line of sight via Doppler shift. His measurements are tabulated below. All the data were obtained on $17^\\mathrm{th}$ July 2009, and the times given are in UT.\n\n(a) (10 marks) Plot the data, and measure the orbital period of star A from the plot.\n\n(b) (5 marks) Use this information to calculate the mass of star B, in terms of solar mass.\n\n(c) (3 marks) Is the plot symmetric with resepect to time axis? If yes, what does it signify? If no, what is the reason?\n\n$$\\begin{array}{|c|r|c|r|}\n\\hline\n\\text{Time (UT)} & \\text{Velocity (km/s)} & \\text{Time (UT)} & \\text{Velocity (km/s)} \\\\\n\\hline\n01{:}47{:}44 & -292 & 02{:}37{:}21 & 98 \\\\\n01{:}41{:}31 & -180 & 02{:}43{:}34 & 186 \\\\\n01{:}35{:}18 & -60 & 02{:}49{:}51 & 290 \\\\\n01{:}53{:}57 & -421 & 02{:}56{:}04 & 336 \\\\\n01{:}59{:}45 & -438 & 03{:}02{:}22 & 344 \\\\\n02{:}06{:}13 & -417 & 03{:}08{:}35 & 350 \\\\\n02{:}12{:}26 & -361 & 03{:}14{:}48 & 294 \\\\\n02{:}18{:}41 & -266 & 03{:}21{:}01 & 186 \\\\\n02{:}24{:}54 & -163 & 03{:}27{:}15 & 130 \\\\\n02{:}31{:}07 & -32 & 03{:}33{:}28 & -40 \\\\\n\\hline\n\\end{array}$$",
+     "paper_label": "Question paper"
+    },
+    {
+     "day": 1,
+     "number": 8,
+     "problem": "In this question, we will investigate construction of large mirrors of modern telescopes.\n\n(a) (2 marks) Typical large modern telescopes do not have a single (monolithic) mirror. Instead, the mirror is divided in many small hexagonal concave mirror segments. Suppose one such telescope has segments with individual focal length of 30 m and length of their hexagonal side is 87.5 cm. What is the distance between two parallel edges of such a mirror segment?\n\n(b) (6 marks) To avoid image distortion (due to spherical aberration), the telescope mirrors are made in the shape of paraboloid of revolution (a parabola rotated around its axis). Let us take one such mirror facing upwards and observing a star at zenith (exactly overhead). As you may be aware, such a parabola follows equation of $x^2 = 4ay$, where $a$ is the distance of the focus of the parabola from its vertex. You may also recall that slope of a tangent to the parabola at any point $(x_0, y_0)$ is given by $x_0/2a$.\nShow that all rays from the star will converge at the focus of the parabola.\n\n(c) (3 marks) In part (b) above, show that all these rays will arrive at the focus in same phase.",
+     "paper_label": "Question paper"
+    }
+   ]
+  },
+  {
+   "year": 2019,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "We can represent phases of the Moon diagramatically as follows: (see the first figure)\n\nIt is known that there would be a new moon day on $28^\\mathrm{th}$ February 2025. Sameer, who is writing a science fiction story, visualised various hypothetical situations for the phases of Moon during the month of March 2025. For each of the cases described below, draw the phases of Moon as it will appear on $3^\\mathrm{rd}$ March, $8^\\mathrm{th}$ March, $11^\\mathrm{th}$ March, $15^\\mathrm{th}$ March, $20^\\mathrm{th}$ March and $27^\\mathrm{th}$ March. High precision diagrams are not expected. Any approximate drawings (like the ones shown above) will be accepted.\n\n(a) (4 marks) First he thought that the lead character of his novel should be a resident of the Moon and she can see the Earth in her sky. Draw phases of Earth as seen by her.\n\n(b) (4 marks) As he did not find first case interesting enough, he brought his leading lady back to the Earth. Next he assumed that the orbit of Moon around Earth is perpendicular (inclination$=90^\\circ$) to the orbit of Earth around the Sun (i.e. ecliptic plane) and the normal to the orbit is always towards the Sun. Draw phases of the Moon in this case.\n\n(c) (4 marks) Lastly, he assumed the orbit of the Moon is in the ecliptic plane (inclination$=0^\\circ$), but the shape of the Moon is cylindrical, with the diameter of the cylinder being equal to its height. The axis of the cylinder is perpendicular to the ecliptic plane. For the observer based on Earth, draw the phases of the Moon.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/inao-2019-q1-1.png",
+     "paper_label": "Question paper"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "Below is a table of data indicating orbital radii and masses of solar system planets and some dwarf planets. Assume all orbits to be circular around the centre of mass of the solar system (C) and all objects to be in ecliptic plane.\n\n$$\\begin{array}{|c|c|c|c|c|c|c|}\n\\hline\n\\text{Object} & \\text{Mass (kg)} & \\text{Orbital Radius (km)} & & \\text{Object} & \\text{Mass (kg)} & \\text{Orbital Radius (km)} \\\\\n\\hline\n\\text{Mercury} & 3.301\\times10^{23} & 5.791\\times10^{7} & & \\text{Saturn} & 5.683\\times10^{26} & 1.427\\times10^{9} \\\\\n\\text{Venus} & 4.867\\times10^{24} & 1.082\\times10^{8} & & \\text{Uranus} & 8.681\\times10^{25} & 2.871\\times10^{9} \\\\\n\\text{Earth} & 5.972\\times10^{24} & 1.496\\times10^{8} & & \\text{Neptune} & 1.024\\times10^{26} & 4.498\\times10^{9} \\\\\n\\text{Mars} & 6.417\\times10^{23} & 2.279\\times10^{8} & & \\text{Pluto} & 1.309\\times10^{22} & 5.906\\times10^{10} \\\\\n\\text{Ceres} & 9.470\\times10^{20} & 4.137\\times10^{8} & & \\text{Eris} & 1.660\\times10^{22} & 1.018\\times10^{11} \\\\\n\\text{Jupiter} & 1.898\\times10^{27} & 7.783\\times10^{8} & & - & - & - \\\\\n\\hline\n\\end{array}$$\n\n(a) (3 marks) Either qualitatively describe or schematically draw what should be the configuration of these bodies around the Sun such that,\n\n(i) point C is as far as possible from the centre of the Sun (S).\n\n(ii) points C and S are as close to each other as possible.\n\n(b) (7 marks) Assuming all planets to be collinear, estimate the smallest possible distance between points C and S.",
+     "paper_label": "Question paper"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "Ameya has come up with an ambitious plan to set up a giant lens at an appropriate place between the Earth and the Sun to reduce the flux of light falling on all points on the Earth.\n\n(a) (2 marks) What type of lens should be used for this purpose?\n\n(b) (2 marks) Where should we put the lens so that this reduction in intensity is permanent?\n\n(c) (3 marks) What should be the minimum diameter of this lens?\n\n(d) (6 marks) Assuming that we want to reduce the temperature of the Earth by $2\\,^\\circ\\mathrm{C}$, what should be the focal length of this lens?\n\n(e) (5 marks) In reality, it is impractical to make a single lens of such a diameter. So Ameya's plan B is to replace this single lens by an array (like a net with lens at every node) of lenses of diameter 1 m and focal length 10 m. How many such lenses are required to be placed at the same distance, in a circular area of same diameter as the bigger lens to produce the same temperature change?\n\n(f) (2 marks) If we want to replace the lenses in part (e) by opaque spheres of diameter 1 m, what would be the corresponding drop in temperature?",
+     "paper_label": "Question paper"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "(14 marks) Vinita prepared the two maps given below and gave those to students for practice on a certain date. At that time, the sky looked like the skymap in your answersheet. Use the practice maps to identify following constellations / stars in the skymap provided in your answersheet.\n\nMark stars with circles around them and for constellations draw stick figures as shown in the practice maps below.\nSagitta, Cor Caroli, Alberio, Lyra, Corvus, Corona Borealis\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/inao-2019-q4-1.png",
+     "paper_label": "Question paper"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "The maps of the Earth which you typically find in textbooks are printed with following criteria:\n\n• All the latitudes and longitudes are straight lines.\n• If any two points on the Earth along any longitude or along the equator have equal angular separation then on the map they will have equal linear distance.\n\nPrathyush has a globe of Earth of radius $R$. He also has a map of Earth with a projection described above. He noticed that the length of equator in this map as well as on the globe was exactly the same.\n\n(a) (3 marks) Find the ratio of the total surface area of the map $A_{map}$ to the area of the globe $A_{sph}$.\n\n(b) (5 marks) Two small squares $E$ and $F$ of identical size are drawn on this map (see the figure below). Square $E$ lies very near to the equator, while square $F$ lies at a latitude of $60^\\circ$. Find the ratios $\\dfrac{A_{E|map}}{A_{E|sph}}$, $\\dfrac{A_{F|map}}{A_{F|sph}}$ and $\\dfrac{A_{F|sph}}{A_{E|sph}}$\nwhere, $A_{E|sph}$ corresponds to area of $E$ as measured on the globe\n$A_{E|map}$ corresponds to area of $E$ as measured on the map.\n$A_{F|sph}$ corresponds to area of $F$ as measured on the globe\n$A_{F|map}$ corresponds to area of $F$ as measured on the map.\n\n(c) (2 marks) A large square is drawn on the map such that its sides are $u$ units ($u \\sim R/4$). Lower side of this square is located on the equator. Draw approximate shape of the projection of this square as it appears on the globe.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/inao-2019-q5-1.png",
+     "paper_label": "Question paper"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "problem": "(10 marks) Consider a cylindrical metallic wire of cross-sectional area $A$, length $l$, and resistance $R_0$ at ambient temperature $T_0$, which is also the temperature of the wire at the start of experiment. The resistance of the wire varies as a function of temperature $R = R_0\\ e^{\\alpha(T-T_0)}$. Assume it acts like a perfect blackbody with an indefinitely high melting point. The wire undergoes cooling only via radiation and its dimensions are unaffected by any change in temperature. Sketch the approximate temperature $vs.$ time graph if the ends of the wire are maintained at a constant potential difference ($V_0$).",
+     "paper_label": "Question paper"
+    },
+    {
+     "day": 1,
+     "number": 7,
+     "problem": "Separated from his friends, Yash landed up on an island on $23^\\mathrm{rd}$ September. On the same day, with nothing better to do, he meticulously measured height of tide at every hour. This data is tabulated in Table 1 below.\n\nTo model the tide height as a function of time, he made following simplifying assumptions;\n\n• Tides are caused ONLY by the gravitational pull of the Moon (i.e. ignore gravitational pull due to Sun).\n• Ignore the effect of Earth's rotation on the tides.\n• Ignore friction between the surface of the Earth and the water.\n\nTable 1: Data for height of tide at every hour (local time) on a $23^\\mathrm{rd}$ September.\n\n$$\\begin{array}{|c|c|c|c|c|c|c|c|}\n\\hline\n\\text{Time (hrs)} & \\text{Height (m)} & & \\text{Time (hrs)} & \\text{Height (m)} & & \\text{Time (hrs)} & \\text{Height (m)} \\\\\n\\hline\n00{:}00 & 0.538 & & 08{:}00 & 0.45 & & 16{:}00 & 0.756 \\\\\n01{:}00 & 0.616 & & 09{:}00 & 0.341 & & 17{:}00 & 0.812 \\\\\n02{:}00 & 0.708 & & 10{:}00 & 0.307 & & 18{:}00 & 0.786 \\\\\n03{:}00 & 0.753 & & 11{:}00 & 0.33 & & 19{:}00 & 0.733 \\\\\n04{:}00 & 0.786 & & 12{:}00 & 0.372 & & 20{:}00 & 0.666 \\\\\n05{:}00 & 0.741 & & 13{:}00 & 0.482 & & 21{:}00 & 0.622 \\\\\n06{:}00 & 0.639 & & 14{:}00 & 0.572 & & 22{:}00 & 0.583 \\\\\n07{:}00 & 0.554 & & 15{:}00 & 0.676 & & 23{:}00 & 0.545 \\\\\n\\hline\n\\end{array}$$\n\n(a) (10 marks) Plot the given data.\n\n(b) (4 marks) Using the plot, find the Sun-Earth-Moon angle.\n\n(c) (2 marks) Find the date of the nearest New Moon.\n\n(d) (6 marks) Later he explored interiors of the island, including a large cave system, and had erratic eating and sleeping schedule. As a result, when he returned to the beach, he had lost track of time. He again started measuring tide height to get a sense of date. However, this time, he was also busy in other activities such as food gathering and raft making. So his readings, as given in Table 2, are taken only sporadically. Find the height of the tide at 16:00 hours on that day, by overplotting this data on the same graph paper.\n\n(e) (2 marks) Which is the date corresponding to Table 2?\n\nTable 2: Height versus time data\n\n$$\\begin{array}{|l|r|c|l|r|}\n\\hline\n\\text{Time (hrs)} & \\text{Height (m)} & & \\text{Time (hrs)} & \\text{Height (m)} \\\\\n\\hline\n00{:}00 & 1.014 & & 12{:}00 & 0.748 \\\\\n01{:}00 & 1.079 & & 13{:}00 & 0.855 \\\\\n02{:}00 & 1.033 & & 14{:}00 & 0.844 \\\\\n03{:}00 & 0.905 & & 18{:}00 & 0.279 \\\\\n07{:}00 & 0.255 & & 19{:}00 & 0.213 \\\\\n08{:}00 & 0.235 & & 20{:}00 & 0.203 \\\\\n09{:}00 & 0.322 & & 21{:}00 & 0.307 \\\\\n10{:}00 & 0.445 & & 23{:}00 & 0.682 \\\\\n\\hline\n\\end{array}$$",
+     "paper_label": "Question paper"
+    }
+   ]
+  },
+  {
+   "year": 2020,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "(10 marks) On the evening of an autumnal equinox day Siddhant noticed that Mars was exactly along the north-south meridian in his sky at the exact moment when the sun was setting. In other words, the Sun and Mars subtended an angle of exactly $90^\\circ$ as measured from the Earth. If the orbital radius of Mars is 1.52 au, What will be the approximate rise time of the mars on the next autumnal equinox day?",
+     "paper_label": "Question paper"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "Manoj was determined to claim some world record. He got an idea from the fairy tale of Rapunzel that he will never cut his hair and he can claim world record for growing longest hair.\n\n(a) (3 marks) Estimate maximum length of the hair that he can grow in his whole life, if he hasn't cut his hair from his birth.\n\n(b) (7 marks) What will be mass of these hair? (density of typical hair strand is $1.3\\,\\mathrm{g/cm^3}$)\n\nIf you make any simplifying assumptions, discuss qualitatively how answer would have been affected if those assumptions were not made.",
+     "paper_label": "Question paper"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "(10 marks) A curious middle school student wants to actually measure perimeter of a circle of radius 2 cm. He has a scale and plenty of time at his disposal, but does not have a thread to measure lengths along arcs. Hence, he comes up with the following strategy:\n\n1. He makes a circumscribing square of the circle.\n2. He divides the square into 4 equal smaller squares (left panel).\n3. He measures the outer boundary (perimeter) of a shape formed by all the squares that overlap (fully or partially) with the circle (shape is highlighted in gray in the figure). He calls this estimate as $P_1$.\n4. He then makes a finer grid by dividing each smaller square into 4x4 grid. He again repeats step 3 to estimate the perimeter and calls it $P_2$ (middle panel).\n5. He keeps refining the grid again and again $n$ times and finds final estimate $P_n$.\n\nEstimate $P_n$.\n\nHint: Eliminate white squares one by one, starting from corners, to arrive at the perimeter of gray shape.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/inao-2020-q3-1.png",
+     "paper_label": "Question paper"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "Let us consider three stars A, B and C. It was observed that\n\n• As seen from star B, star A is barely visible to the naked eye,\n• As seen from star C, star B is barely visible to the naked eye,\n• As seen from star A, star C is barely visible to the naked eye,\n\nLet us denote the distance between star A and star B as $d_1$, and distance between star B and C as $d_2$ and star C and A as $d_3$.\nAbsolute magnitude of star A, i.e. $M_A = 2.00$ mag and that of star B is $M_B = 3.00$ mag. (For explanation of magnitude system, see the box below.)\n\n(a) (4 marks) Find the distances $d_1$ and $d_2$.\n\n(b) (5 marks) Find the interval (in magnitudes) in which the absolute magnitude $M_C$ has to belong so that the above described configuration is allowed.\n\n(c) (3 marks) If $M_C = 4.00$ mag, find the largest angle $\\gamma$ in this stellar triangle.\n\n(d) (6 marks) Show that if we change the values of the three absolute magnitudes so that their differences remain the same, the angles in the triangle will not change.\n\nA note about magnitude system:\n\nThe brightness of a star as seen by some observer, is dependent on the observer's distance from the star as well the intrinsic brightness of the star (ignoring any absorption in the intervening space).\nIn astronomy, brightness of a star, as seen by some observer, is measured in terms of its 'apparent magnitude' ($m$). For two stars (1 and 2) with fluxes $f_1$ and $f_2$ respectively, their apparent magnitudes $m_1$ and $m_2$ are related by\n$$m_1 - m_2 = -2.5 \\times log_{10}\\left(\\frac{f_1}{f_2}\\right)$$\nAbsolute magnitude ($M$) of any star is its apparent magnitude, if the star was exactly 10 pc away from the observer. Thus, $M$ only depends on the intrinsic brightness of the star.\nThe relation between $m$ and $M$ is given as,\n$$m - M = -5 + 5\\ log_{10}(d)$$\nwhere $d$ is measured in parsec (pc).\nBy convention, the faintest stars visible to naked eye, in ideal viewing conditions, have been assigned an apparent magnitude of $m = +6.0$ mag.",
+     "paper_label": "Question paper"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "An extremely powerful cannon is placed horizontally at the north pole (at ground level) and its barrel is aligned with the Prime Meridian (Greenwich Meridian). The cannon is fired at $t = 0$, and the cannonball has sufficient velocity to travel in a circular orbit around the Earth. Assume the Earth to be a perfect sphere and that no objects obstruct the path of the cannonball.\n\n(a) (3 marks) What is the period of the orbit of this cannonball?\n\n(b) (10 marks) Plot the trajectory of the cannonball (latitude ($\\phi$) vs. longitude ($\\lambda$)) on a regular graph paper given in your answersheet. The plot should correspond to one full orbit.\n\n(c) (7 marks) The second graph given in the answersheet is a part of a large polar projection plot having concentric arcs around the centre as latitudes and radial lines as longitudes. Define appropriate scale and show the path of cannonball on this graph from the moment it is fired till the moment it crosses the equator.",
+     "paper_label": "Question paper"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "problem": "Pulsars are a type of fast rotating, high density stars, which are known for their regular pulses of radiation. They are also sometimes called as the 'light houses of the universe'. In this problem, we assume the pulsars to be spheres of uniform density, which are gravitationally bound.\n\n(a) (4 marks) Rotation period of a pulsar was measured to be $P = 1.500\\,\\mathrm{ms}$. What limit does this put on its density?\n\n(b) (2 marks) If mass of this pulsar is $1.5\\mathrm{M}_\\odot$, what limit can we place on its radius?\n\nA pulsar is formed from a massive progenitor star which typically has a magnetic field of 0.1 T and average density of $10^{-4}\\,\\mathrm{g\\,cm^{-3}}$. Such a star loses about 90% of its mass towards the end of its life. The remnant mass forms a pulsar of the kind described above.\n\n(c) (2 marks) Along the lines of part (a), what limit does this put on the rotation period of the progenitor star?\n\n(d) (4 marks) Assuming that the magnetic flux is conserved during the formation of a pulsar, find the typical magnetic field at the surface of the pulsar?",
+     "paper_label": "Question paper"
+    },
+    {
+     "day": 1,
+     "number": 7,
+     "problem": "The picture below was taken on $24^\\mathrm{th}$ December 2019, from some place in India, showing the crescent of the Moon near the horizon (the horizontal dashed line marks the horizon of the place). Field of View (FOV) of the image is $60^\\circ$.\n\nNote: The images printed are colour-inverted, i.e. the bright parts of the image appear black and dark parts appear white. Thus, the black dots are stars and planet and the dark cresent is actually bright crescent of the moon.\n\n(a) (5 marks) At which of the following times this picture may have been taken? Give justification for your answer.\n18:00 hrs, 22:00 hrs, 01:00 hrs, 05:00 hrs\n\n(b) (5 marks) Write the names of the constellations present in the image of the sky.\n\n(c) (1 mark) The map also includes a planet. Mark the planet on the map with a circle and label as 'P'.\n\n(d) (5 marks) A zoomed-in image of the lunar crescent is given in the answersheet. On this image mark the approximate directions to the cardinal points. [East-West-North-South]\nNote: You may assume the box in the answersheet has a linear angular scale along the horizon.\n\n(e) (4 marks) Find approximate latitude of the place.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/inao-2020-q7-1.png",
+     "paper_label": "Question paper"
+    }
+   ]
+  },
+  {
+   "year": 2023,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "For the spacecrafts travelling from one planet to another, the travel path can be designed in multiple ways. The most energy efficient of these methods is called 'Hohmann Transfer Orbit'. In this method, the spacecraft travels in an elliptical orbit with the Sun at the principal focus. Thus, its motion is governed by Kepler's Laws and hardly any fuel is spent for this journey. Step-wise process of Hohmann orbit is as follows:\n\n• Step 1: The spacecraft is in the close proximity of Earth.\n• Step 2: The spacecraft engine is fired to allow it to escape the sphere of influence of the Earth and enter the region where the Sun's gravity is the dominating force. The point in Earth's orbit at which engine is fired will also be a point in the new orbit of the spacecraft around the Sun.\n• Step 3: The spacecraft travels along an elliptical orbit around the Sun and reaches the orbit of Mars.\n• Step 4: The timing of this journey is such that Mars is exactly at the common point of Martian orbit and the elliptical orbit of the spacecraft at the instance when the spacecraft reaches this point.\n• Step 5: The spacecraft engine is fired again so that the spacecraft is captured by the Mars' gravity and it remains in close proximity of Mars.\n\nPoints to note:\n\nA. The point where the engine is first fired (Step 2) will be spacecraft's shortest distance from the Sun.\nB. The point where the spacecraft is captured by Mars (Step 5) will be the spacecraft's farthest distance from the Sun.\nC. If Step 5 is not executed, the spacecraft will complete its orbit around the Sun and reach back the point in space where Step 2 was executed.\nD. Let us assume that both Earth and Mars are in circular, co-planer orbits around the Sun and the Hohmann transfer orbit is also in the same plane.\nE. Assume that all the three bodies (Earth, Mars and the spacecraft) are point masses and moving in anti-clockwise direction (as viewed from the top) in their respective orbits.\nF. The time durations for which engine is fired (Step 2 as well as Step 5) is very small. Hence, the thrust is almost instantaneous.\n\nBased on this, answer the following questions:\n\n(a) (1.5 marks) Find the orbital period of Mars in years.\n\n(b) (1.5 marks) Find the length of semi-major axis of this Hohmann transfer orbit (in au).\n\n(c) (1.5 marks) Find time spent by the spacecraft between Step 2 and Step 5.\n\n(d) (5 marks) Draw a diagram showing the Hohmann transfer orbit between Earth and Mars. Show positions of Earth and Mars at the instance of Step 2 (as $E_1$ and $M_1$) and at the instance of Step 5 ($E_2$ and $M_2$). Keep position $E_1$ directly below the Sun. Calculate angles subtended with respect to Sun - $E_1$ line for the other three points ($M_1$, $E_2$ and $M_2$).\n\n(e) (2.5 marks) Calculate orbital velocity of Earth and Mars around Sun.\n\n(f) (8 marks) Determine if the following statements are True or False. Explain your reason in one line each.\ni. The semi-minor axis of the Hohmann orbit is 1 au.\nii. The semi-major axis of the Hohmann orbit is 1.52 au.\niii. The thrust was applied in Step 2 to increase the speed of the spacecraft.\niv. The thrust was applied in Step 5 to increase the speed of the spacecraft.\nv. If Step 5 is missed, we can re-capture the spacecraft in an orbit around the Earth when it again reaches its departure point in space. (see point C above).\nvi. The Hohmann transfer orbit only touches (and does not intersect) the Earth's orbit.\nvii. The kinetic energy of the spacecraft in Hohmann orbit is lowest just before Step 5.\nviii. The spacecraft would be approaching Mars from behind in its orbit.",
+     "paper_label": "Question paper"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "(10 marks) A telescope with objective lens of focal length $f = 200\\,\\mathrm{cm}$ is used to image a binary star system using a CCD kept at its focal plane and the image forming symmetrically at the centre (on the optic axis). In the figure, $s$ is the image size of a point object. The image has a finite size due to diffraction. Two nearby objects are considered to be resolved when their image disks are just touching each other externally.\n\nThe radius of the objective lens is $r = 5\\,\\mathrm{cm}$. The limiting resolution of the lens is given to be $1''$ and the two stars are separated by an angle of $3''$. Determine the range $dx$ allowed for the CCD to be displaced from the focal plane towards the lens such that individual stars can still be separately resolved.\n(Note: This is related to the notion of \"depth of field\" of a camera lens.)\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/inao-2023-q2-1.png",
+     "paper_label": "Question paper"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "A cubical box, with edges of length $s$, is in a circular orbit of radius $d$ around a star. The time period of revolution of the box is $P$. The star can be approximated as a perfect blackbody with radius $R_0$ ($s, R_0 \\ll d$) and temperature $T_0$.\n\nIn all parts of this question, at time $t = 0$, normal vector to one face of the box is exactly pointing towards the star and this face has an albedo of $A$ (where $A \\in [0, 1]$). The top face of the box is parallel to the orbital plane of the box.\n\nThe box is in thermal equilibrium at each instance $t \\geq 0$, i.e. its emissivity is exactly equal to its absorptivity. The temperature $T$ in all parts of the box is the same at each instance.\nNote: Albedo is the fraction of incident light reflected off the surface of an object.\n\n(a) (7 marks) If the same face of the box is locked in towards the star at all times, find its equilibrium temperature $T$.\n\n(b) (6 marks) Let all 6 faces of the box have albedo $A$. If the box is revolving around the star, but not rotating about itself, derive the expression for the equilibrium temperature $T$ as a function of time $t$.\n\n(c) (3 marks) Now consider the case, where the face of the cube which is towards the star at $t = 0$ and the face opposite to it have albedo $A$ and all other faces of the cube have albedo of $1-A$. Observe the expressions obtained in part b and write the final expression for temperature in this case.",
+     "paper_label": "Question paper"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "Indian Space Research Organisation (ISRO) decided to send a spaceship to the planet Jupiter. The spaceship needs to pass through the asteroid belt between Mars and Jupiter which lies between 2.0 au and 3.0 au. The asteroid belt has a thickness (total height perpendicular to the plane of the solar system) of about 0.10 au and there are about $10^{14}$ asteroids of 1.0 m radius (assumed to be spherical) in it. The spaceship is spherical and is 3.0 m in radius.\n\n(a) (2 marks) Calculate the cross-section area within which the centre of an asteroid needs to come from the centre of the spacecraft to collide with it.\n\n(b) (8 marks) Assume that the asteroid belt is completely static and the spaceship is launched on a random day of the year to travel radially away from Sun, but within the plane of solar system. Calculate the probability ($P_0$) that the spaceship will escape the asteroid belt unharmed.\n\n(c) Qualitatively compare the probability in the each of the following cases with $P_0$:\ni. (2 marks) The probability ($P_\\mathrm{A}$) when the spacecraft's speed through the asteroid belt is doubled.\nii. (1 mark) The probability ($P_\\mathrm{B}$) when the spacecraft is not moving radially but is in an elliptical orbit with aphelion point at Jupiter (5 au). Here we consider probability only for a single crossing.\niii. (2 marks) The probability ($P_\\mathrm{C}$) when the spacecraft is not moving radially but is in an elliptical orbit with aphelion point at the centre of the asteroid belt (2.5 au).",
+     "paper_label": "Question paper"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "(22 marks) Assume that the Earth and Mars revolve around the Sun in coplanar circular orbits of radius $r_\\mathrm{E}$ and $r_\\mathrm{M}$ respectively. In the figure below, $\\theta_\\mathrm{E}$ and $\\theta_\\mathrm{M}$ are the angles made by the radius vectors of Earth and Mars, measured at the Sun with respect to the X-axis (which points in the direction of Vernal Equinox - a reference point in space).\nOn 21 September, $\\theta_\\mathrm{E}$ was $0^\\circ$ and $\\theta_\\mathrm{M}$ was $42.3^\\circ$.\n\nIn the answersheet you are given a table to note down your observations. Calculate the values of $\\theta_\\mathrm{E}$ and $\\theta_\\mathrm{M}$ for the dates mentioned in the table and write them in the respective columns.\n\nThe answersheet also has a particular section of the orbits of Mars and Earth. The dotted lines are markings for angles in the orbits at an interval of $1^\\circ$. The central black line is when $\\theta_\\mathrm{E}$ or $\\theta_\\mathrm{M}$ will be $90^\\circ$. You can also see the distant stellar background near one edge of the page.\n\nFor the dates given in the table mark the projected positions of Mars on the stellar background. Also write the corresponding observation numbers near the marked projected positions. Now describe the motion of Mars as seen by an Earth based observer.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/inao-2023-q5-1.png",
+     "paper_label": "Question paper"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "problem": "Saee is an observer at North Pole during the month of December. On the grid given in your answersheet:\n\n(a) (1 mark) Mark the directions.\n\n(b) (1 mark) Mark the pole star (Polaris).\n\n(c) (6 marks) Approximately, for how many days will the Moon be visible in one lunar month assuming clear skies? If you were doing an exact calculation, which secondary effects you will have to consider? List any three effects that may affect your answer by an hour or more.\n\n(d) (6 marks) In this month the full Moon was seen on winter solstice day in the Gemini constellation. Saee noted the Moon's position every day at 7 pm during an entire lunar month. Mark the approximate positions of the Moon as seen by her. For each observation label the day number starting with day of first observation.\n\n(e) (3 marks) Aadarsh, who is also camping at the North pole with Saee, noted the Moon's position for 24 hours period of the 6th day after full moon. Describe what he will observe.",
+     "paper_label": "Question paper"
+    }
+   ]
+  },
+  {
+   "year": 2024,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "Answer each of the following sub-questions with a brief justification -\n\n(a) (2 marks) Fatima observed a celestial object, with her unaided eyes, very near to the western horizon immediately after sunset on 17 July 2023. She continued to observe the same object at the same time everyday till 4 September 2023. She made the following observations-\n• Object's separation from the Sun increases starting from 17 July.\n• Object's separation from the Sun decreases after 11 August.\n• She also made an observation that the object was never seen overhead at sunset within that year.\nName one object, which is not a comet, that fits these observations made by Fatima.\n\n(b) (2 marks) In the image below, you see the Sun just above the western horizon on some day as seen from the city of Ujjain. The ecliptic, celestial equator and due west point (W) are marked in the image. Which of the paths marked (1 to 6) on the image closely represents the path that Sun will follow on its way to the horizon on that day.\n\n(c) (2 marks) Three observers A, B and C are stationed on Moon, Venus and Mars respectively. Which of these observer(s) can see almost all the phases of Earth [new (no earth), crescent, half, gibbous, etc.].\n\n(d) (4 marks) A certain star was observed to remain always above horizon over the course of one full day. During this period its maximum altitude was $50^\\circ$ and minimum altitude was $20^\\circ$. What is/are the latitude/s for the place of observation?\nNote: Altitude is the angular distance of a star from the horizon measured along a circular arc perpendicular to the horizon.\n\n(e) (2 marks) In which month/s of the year, will there be a New Moon in the constellation of Leo?\nA. August B. November C. February D. May\n\n(f) (4 marks) Which of the following statement(s) CANNOT be inferred from Kepler's laws of motion?\nA. A planet moves in an elliptical orbit around the Sun.\nB. The eccentricity of the orbits of all solar system planets is small.\nC. A solar system planet has its highest tangential velocity when it is closest to the Sun.\nD. All the planets move in elliptical orbits in roughly the same plane around the Sun.\n\n(g) (5 marks) The presence of different elements in a distant astronomical object is inferred from the peaks in the emission spectrum of its soil, at certain wavelengths, characteristic to each element. One such spectrum for a moon (named $Soma314-b-1$) around a distant exoplanet observed by the hypothetical mission Chandrayaan$-300$, that landed on the surface of $Soma314-b-1$ in the future is shown below. The spectrometer is noisy i.e., small random fluctuations get superimposed on top of the actual signal. The units of both the axes in the figure below are arbitrary.\n\nA complete table of emission peaks (in same arbitrary length unit as in the above figure) of various hypothetical elements is given below. It is assumed that the strength of all the peaks indicated in the table is sufficiently high to be observed in the spectrum shown above if the corresponding element is present in the source.\nIdentify the elements present on the surface of $Soma314-b-1$.\n\n$$\\begin{array}{|l|c|c|c|}\n\\hline\n\\textbf{Element} & \\textbf{Wavelength 1} & \\textbf{Wavelength 2} & \\textbf{Wavelength 3} \\\\\n\\hline\n\\text{Fh} & 193.44 & - & - \\\\\n\\text{Dz} & 149.18 & 159.73 & - \\\\\n\\text{Ab} & 111.71 & 122.87 & 177.94 \\\\\n\\text{Hm} & 132.67 & 139.56 & - \\\\\n\\text{Cw} & 119.55 & 139.32 & - \\\\\n\\text{Xy} & 148.90 & 159.69 & - \\\\\n\\hline\n\\end{array}$$\nTable 1: Emission lines\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/inao-2024-q1-1.png\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/inao-2024-q1-2.png",
+     "paper_label": "Question paper"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "Consider a system of two planets $\\mathrm{P_1}$ and $\\mathrm{P_2}$, as shown below, both revolving in the same direction in circular coplanar orbits of radii $r_1$ and $r_2$, respectively, around a star S of mass $M$ much larger than the masses of the planets. Anilesh is stranded on the outer planet $\\mathrm{P_2}$. Both the star S and the planet $\\mathrm{P_1}$ are seen to move against the stellar background by Anilesh due to the orbital motions of $\\mathrm{P_1}$ and $\\mathrm{P_2}$. Taking the direction of motion of S as positive, he measures the angular velocity $\\omega$ of $\\mathrm{P_1}$ against the stellar background. He also measures the velocity of $\\mathrm{P_1}$ along the line of sight (called the \"radial velocity\", $v_\\mathrm{radial}$ in astronomy) as shown in the figure below.\n\nHe obtained the following curve for the variation of the $\\omega$ (in degrees/day, 1 day being 24 hours) versus $v_\\mathrm{radial}$ (in km/s).\n\n(a) (3 marks) For the given position of $\\mathrm{P_2}$ as marked in the following figure; show the positions of $\\mathrm{P_1}$ corresponding to the points A and B on the graph above by marking appropriately on the orbit of $\\mathrm{P_1}$ (dashed circle in the figure in your answersheet).\n\n(b) (7 marks) Find the ratio $r_1/r_2$.\n\n(c) (8 marks) Write the expression for $v(r)$ as a function of $\\beta$ (see figure below). Calculate the value of $\\theta$ for which $v_\\mathrm{radial}$ is maximum.\n\nHint: You may find it useful to use the sine rule here.\n\n(d) (8 marks) Determine $M$, $r_1$ and $r_2$.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/inao-2024-q2-1.png\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/inao-2024-q2-2.png\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/inao-2024-q2-3.png\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/inao-2024-q2-4.png",
+     "paper_label": "Question paper"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "Consider two containers $A$ and $B$ both with the same amount of liquid of volume $V$. Initially, $A$ only has milk and $B$ only has water. We transfer liquids back and forth between the two containers. One transfer is defined as completion of both the following steps:\n\n• Step 1: Take some fixed volume $L$ from container $A$, put it in $B$ and mix it well.\n• Step 2: Take the same volume $L$ of the mixed fluid from container $B$ and put it back in $A$ and mix it well.\n\nAt the end of each transfer, both containers have liquids with exactly the same volume $V$. Let $C_M^A(n)$ denote the concentration of milk in container $A$ at the $end$ of the $n$-th transfer. Here we define concentration as\n$$C_M^A(n) = \\frac{\\text{Volume of milk in container } A}{\\text{Total Volume in container } A} \\text{ after } n \\text{ complete transfers}$$\nSimilarly, you may define - $C_W^A, C_M^B$ and $C_W^B$.\n\n(a) (4 marks) Write down the expression for the concentration of milk in container $A$ at the end of the $first$ transfer. Express the concentration $C_M^A(1)$, after the $first$ transfer, in terms of volumes $L$ and $V$.\n\n(b) (8 marks) Let us define $\\epsilon$ as, $\\epsilon = \\dfrac{L}{V}$. Write down the recursion relation for $C_M^A(n)$, in terms of the concentration at the end of the $(n-1)$th transfer $i.e.,$ $C_M^A(n-1)$ and $\\epsilon$.\n\n(c) (3 marks) If one does fairly large number of transfers, then the concentration of milk in either of the container will reach almost equilibrium value which is a function of $\\epsilon$. What will be the value of this equilibrium concentration?\n\n(d) (5 marks) Define a new variable $f_n$ such that,\n$$f_n = C_M^A(n) - 1/2$$\nand simplify the recursion relation between $f_{n+1}$ and $f_n$ to express $C_M^A(n)$ as a function of $\\epsilon$ and $n$.",
+     "paper_label": "Question paper"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "The difference in magnitudes $m_1$ and $m_2$ of two celestial objects with flux (energy received from the object per unit area per unit time) $F_1$ and $F_2$, respectively, is given by Pogson's relation as\n$$\\Delta m = m_1 - m_2 = -2.5\\log_{10}\\left(\\frac{F_1}{F_2}\\right)$$\n\n(a) (3 marks) Calculate the total energy per unit time received at the primary mirror of diameter 6 inches (1 inch = 2.54 cm) of a telescope from the star Sirius (magnitude $m_\\mathrm{sirius} = -1.46$). The flux of the star Vega, which has a magnitude $m_\\mathrm{vega} = +0.03$, is equal to $2.19\\times10^{-8}\\,\\mathrm{W/m^2}$.\n\nConsider a Newtonian reflecting telescope ((a) side, (b) top and (c) bottom views shown in the figure below) with a concave primary mirror of diameter 6 inches. A secondary mirror, mounted on a flat disc of diameter $d_\\mathrm{disc} = 3.7\\,\\mathrm{cm}$, is held in place on the axis of the telescope tube by three thin rods of thickness $b_\\mathrm{rod} = 0.3\\,\\mathrm{cm}$, as shown in the figure (b) below.\n\n(b) (3 marks) Calculate the percentage reduction in flux at the primary mirror due to the supporting structure of the secondary mirror.\n\nThe optic axis of the primary mirror and the axis of the telescope tube are expected to be coincident. But sometimes, they may get misaligned due to mishandling or some other issues.\n\n(c) (3 marks) Suppose that due to a misalignment, the angle between the two axes is $\\theta = 5^\\circ$. Calculate the percentage change in the flux received at the primary due to this fault. For this part ignore the effects of the secondary mirror and its supporting structure. Assume that the diameter of the primary mirror is very close to that of the telescope tube.\n\nThe alignment of the axis of the primary mirror is done by three levelling screws, $\\mathrm{S_1}$, $\\mathrm{S_2}$ and $\\mathrm{S_3}$ at the bottom of the telescope. As seen in the bottom view (figure (c)), these screws form an equilateral triangle of side $l = 3$ inches. The optic axis of the primary mirror is perpendicular to the plane of the paper in figure (c) and passes through the centroid O of this triangle.\n\n(d) (4 marks) Suppose that the $5^\\circ$ tilt of the axis of the mirror described above has happened in the plane containing the axis of the tube and the line $\\mathrm{OS_1}$ (see figure (c)). Therefore, it should be possible to correct the tilt and realign the axes by moving the screw $\\mathrm{S_1}$ alone, without disturbing $\\mathrm{S_2}$ or $\\mathrm{S_3}$. If the pitch of the screw $\\mathrm{S_1}$ is 1.15 mm, how many turns of this screw are needed to bring the mirror back in alignment?\n\nThe maximum brightness of a source that can be observed with a telescope of a given aperture is limited by the tolerance of the human eye to bright light. The brightest object that can be observed safely with our telescope (primary mirror diameter of 6 inches) is of magnitude $-10.50$. To observe any source brighter than this limit the amount of light that reaches the primary mirror must be restricted by reducing the effective aperture of the telescope. This is accomplished by covering the top of the telescope with a lid that has a smaller hole (aperture) of appropriate size.\n\n(e) (4 marks) Calculate the size of this smaller circular aperture on the lid so that a supernova of magnitude $-12.525$ can be safely observed. Once again, ignore the secondary mirror and its supporting structure.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/inao-2024-q4-1.png",
+     "paper_label": "Question paper"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "The image below shows a portion of the sky near the western horizon as observed from some place in the northern hemisphere. The horizon is shown as a green strip at the bottom of the image, and the letter 'W' marks the West cardinal point. The near-rectangular tilted grid on the sky is that of the RA and Dec coordinates. Each small rectangle corresponds to $10^\\mathrm{m}$ of RA and $5^\\circ$ of declination. A star, designated by the letter 'R', with its celestial coordinates (RA: $23^\\mathrm{h}\\,04^\\mathrm{m}$ & Dec: $+15^\\circ12'$) is shown in the image. Same image is provided in your answersheet to mark/write your answers. Answer the following questions with the information given above.\n\n(a) (2 marks) Identify and mark the Celestial Equator on the image provided in the answersheet.\n\n(b) (3 marks) Determine the approximate geographic latitude of the location.\n\n(c) (4 marks) The table below contains RA and Dec of four stars. Mark these stars on the image in your answersheet.\n\n$$\\begin{array}{|c|c|c|c|}\n\\hline\n\\text{Sr. No.} & \\text{Star name} & \\text{Right Ascension} & \\text{Declination} \\\\\n\\hline\n\\text{A} & \\text{70 Peg} & 23^\\mathrm{h}\\,29^\\mathrm{m} & +12^\\circ45' \\\\\n\\text{B} & \\beta\\ \\text{Psc} & 23^\\mathrm{h}\\,4^\\mathrm{m} & +3^\\circ49' \\\\\n\\text{C} & \\iota\\ \\text{Cet} & 0^\\mathrm{h}\\,19^\\mathrm{m} & -8^\\circ49' \\\\\n\\text{D} & \\text{71 Aqr} & 23^\\mathrm{h}\\,16^\\mathrm{m} & -9^\\circ5' \\\\\n\\hline\n\\end{array}$$\n\n(d) (2 marks) Identify the star(s) from the table that will NOT be observable to an observer located at the South Pole. Give reason in support of your answers.\n\n(e) (3 marks) At the specified date and time, the coordinates of the (centre of the) Sun are RA: $23^\\mathrm{h}\\,54^\\mathrm{m}$ and Dec: $-0^\\circ36'$. On the image in your answersheet, accurately draw a disc of appropriate size representing the Sun at these coordinates.\n\n(f) (2 marks) At the given location, if the star B in the table above sets at 18:01 hrs local time, determine the approximate local time at which another star, identified by coordinates RA: $23^\\mathrm{h}\\,17^\\mathrm{m}$ and Dec: $3^\\circ49'$, will set.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/inao-2024-q5-1.png",
+     "paper_label": "Question paper"
+    }
+   ]
+  },
+  {
+   "year": 2025,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "Consider a telescope with a primary (convex lens) with a diameter of 5 cm and a focal length of 60 cm, and a secondary (convex lens) with a focal length of 3 cm. This telescope is used to project a perfectly focused image of the Sun at a distance of 60 cm from the secondary. You are given that the diameter of the Sun subtends an angle of $30'$ in the sky.\n\n(a) What is the distance between the primary and secondary? [2]\n\n(b) Draw a ray diagram marking all the optical elements, images and distances. [3]\n\n(c) What is the size of the image? [3]\n\n(d) What is the physical size of the smallest sunspot that can be resolved by this arrangement? [2]",
+     "paper_label": "Question paper"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "An isolated star outside the solar system normally moves with a certain constant velocity with respect to the Sun. However, if there is a planet in orbit around it, there will be an appropriate periodic change in its motion. This variation in motion can now be detected using sensitive measurements of the Doppler shift of spectral lines. However, only the line-of-sight component of the total velocity of the star can be detected using this method. This motion, combined with the time period of the orbital motion, can be used to estimate the mass of a planet orbiting a distant star.\n\nSuppose that a star of mass $m_s$ has a planet of mass $m_p$ in a circular orbit. The separation between the objects is $r$, and circular speed of the planet is $v_p$.\n\n(a) Assuming that $m_p \\ll m_s$, find an expression for $m_p$ in terms of observables (orbital time period $P$, $v_s$ : the periodic variation in the radial velocity of the star, and mass of the star $m_s$ that can be estimated from other considerations). [3]\n\n(b) We can determine the time period $P$ from the periodicity of variation of Doppler shift in the spectral lines and estimate $m_s$ from the spectral type of the star. A special case is where the planet is transiting in front of (i.e. partially eclipsing) the star as it orbits. In this case the inclination is known to be $90^\\circ$. This leads to the light curve of the type shown in Figure 1. Compute the orbital radius of the orbit of the planet around the star. State your approach and reasoning clearly. You are provided that $P = 6.1$ days, $m_s = 0.0898\\ M_\\odot$ and $v_s = 1.353\\ m/s$. Compute the mass and the radius of the planet in the system for which the light curve has been given in Figure 1. [5]\n\n(c) Albedo is defined as the reflectivity of a planet. Earth has an Albedo of 0.31, for instance. Assume the planet under consideration has a similar Albedo to that of the Earth. Determine the average surface temperature of the planet, and thus whether water can be found on it in the liquid state, an important condition for a planet to be habitable. The radius and the temperature of the star are $0.1192\\ R_\\odot$ and $T_s = 2566$ K respectively. [5]\n\n(d) Planets with average density above $3\\ \\mathrm{g\\ cm^{-3}}$ can be classified as rocky while those below this density can be dubbed as gaseous planet. Find out if the planet is rocky or gaseous. [2]\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/inao-2025-q2-1.png",
+     "paper_label": "Question paper"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "The flux of light reaching the earth from Venus varies due to (i) the distance of Venus from Sun, (ii) the distance of Venus from the observer on the Earth, (iii) the amount of illuminated surface visible to the observer and (iv) the reflective power of the Venus surface and its rotational speed (see Figure below).\n\n(a) Set up the equation for flux of light reaching the Earth after reflection from Venus. Assume the Sun-Venus and the Sun-Earth orbit to be circular in the same plane with the radii $r$ and $\\Delta$ respectively; the radius of Venus to be $a$, the Earth-Venus distance to be $\\rho$ and the Earth-Venus-Sun angle to be $\\psi$. [5]\n\n(b) Find the value of $\\rho$ (in terms of $r$ and $\\Delta$) so that Venus has maximum flux at that distance. [5]\n\n(c) Estimate the portion of the Venus disk that is illuminated at its maximum flux. Is it in Crescent or Gibbous phase? [2]\n\n(d) The flux received from Venus varies by a factor of 3 between extremes during its entire synodic cycle. How do you explain this almost constant apparent flux in spite of large variation in distance and illumination? [3]\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/inao-2025-q3-1.png",
+     "paper_label": "Question paper"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "In a planetary system similar to ours (see Figure 2),\n\n• A planet P has a moon M, and the P-M system orbits their star S.\n• The orbit of M around P and that of the P-M system around S are circular, coplanar and in the same sense of rotation.\n• The radius of P has been measured to be 6000 km.\n• Laser ranging has determined the distance between P and M to be 400,000 km and that between S and the P-M system to be $150\\times10^{6}$ km respectively.\n• The angular size of S viewed from the centre of mass of the P-M system and that of M viewed from P are $30'$ and $31'$ respectively.\n• M completes one orbit around P in 30 Earth days and orbital period of P around S is 360 Earth days.\n• Planet P spins around its axis once in 25 Earth hours. The spin of M is synchronised with its orbit around P. The sense of rotation of P and M and of their revolution in their respective orbits are the same.\n\nGiven the above:\n\n(a) Find the mass of S. [2]\n\n(b) Assuming P and M are made of the same material, and their density is uniform, find the masses of P and M. [3]\n\n(c) Are all the eclipses of S viewed from the equator of P Total? If so, what is the duration of totality? [3]\n\n(d) Fossil records suggest that $1\\times10^{9}$ Earth years ago the spin rate of P was 22 Earth hours. Tidal interaction has caused angular momentum to be transferred from the spin of P to the P-M system. What was the orbital period of M around P, $1\\times10^{9}$ years ago? [3]\n\n(e) If tidal angular momentum transfer continues at the same rate, when will the eclipses of S by M as viewed from the equator of P cease to be total? What will be the orbital period of M and spin period of P then? [4]\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/inao-2025-q4-1.png",
+     "paper_label": "Question paper"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "The axes of the Hertzsprung–Russell (HR) diagram in Figure 3 represent two fundamental observable properties of stars: luminosity $L$ (the amount of energy radiated per unit time or how bright a star is) on the y-axis and surface temperature (how hot it is on the outside, which is the only part we can directly see) on the x-axis. Typically, the luminosity is expressed in units of the Solar luminosity ($L_\\mathrm{sun} = 3.826\\times10^{26}$ W). The surface temperature of the Sun is approximately 5770 K. The most common form of the H–R diagram uses an unusual convention by representing the direction of increasing temperature values backwards compared to most graphs: temperature increases to the left and decreases to the right. Each square and pentagonal symbol in Figure 3 represents a star. The majority of stars lie on the main sequence (the cloud of points spread diagonally in the centre). You can assume that stars are in equilibrium for most of their lifetime. Note that the temperatures have been plotted on a logarithmic scale (base 10) while the logarithm (base 10) of the luminosity (in units of solar luminosities) have been used.\n\nAnother property responsible for determining other characteristics of main-sequence stars is its mass $M$. Stars with more mass have stronger gravity, and therefore achieve higher core temperatures. Since fusion occurs only in the core, higher core temperatures produce higher fusion reaction rates, and this leads to higher luminosity. The lifetime of a star is usually defined as the amount of time that star spends fusing hydrogen into helium in its core, which is the time the star spends on the main sequence. That time is determined by the amount of hydrogen fuel initially in the star's core (which is proportional to its mass) and the rate at which the star uses that fuel. For main sequence stars $L \\propto M^{3.5}$.\n\n(a) Order the radii (increasing order) of stars labeled A, B, C, D, E (in Figure 3 and Table 1) [5]\n\n(b) For main sequence stars, A and E, find their lifetime relative to the lifetime of the Sun. [2]\n\nTable 1: Properties of Stars\n$$\\begin{array}{ccc}\n\\hline\n\\text{Star Label} & \\text{Temperature (K)} & \\text{Luminosity } (L_\\mathrm{star}/L_\\mathrm{sun}) \\\\\n\\hline\n\\text{A} & 25000 & 40000 \\\\\n\\text{B} & 4000 & 500 \\\\\n\\text{C} & 16000 & 0.01 \\\\\n\\text{D} & 9000 & 100 \\\\\n\\text{E} & 3000 & 0.0004 \\\\\n\\hline\n\\end{array}$$\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/inao-2025-q5-1.png",
+     "paper_label": "Question paper"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "problem": "Refer to the attached Figure 4. Three identical gas clouds are marked as A, B, and C. Each gas cloud emits EM radiation of luminosity L at a spectral line having the rest-frame frequency F. The gas clouds A, B, and C are in circular motion, in the counterclockwise direction, with identical speed V, in three different co-centric circles with radius R, 2R, and 3R respectively. A Telescope is situated at the point T in the circle having radius 2R, also in circular motion with speed V in the counterclockwise direction. The center of the circles is marked as O. At an instance, $\\angle TAO = 90^\\circ$ and the segment CTOB forms a straight line.\n\nAnswer the following:\n\n1. Estimate the magnitude of line-of-sight velocity of the gas cloud A, as seen by the telescope T. [4]\n\n2. Estimate the ratio of flux received at T from gas clouds A, B, and C. [2]\n\n3. Which cloud(s) will show maximum Doppler frequency shift in the spectral line signal received at T. Explain your answer. [2]\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/inao-2025-q6-1.png",
+     "paper_label": "Question paper"
+    },
+    {
+     "day": 1,
+     "number": 7,
+     "problem": "A spacecraft is in a circular orbit around the Sun with an orbital radius of 1 A.U. The spacecraft deploys a panel of area $A$ with the normal of the panel pointing towards the Sun. The panel is made of a perfectly reflecting material. What can be the maximum mass $M$ of the spacecraft (including that of the panel) such that the spacecraft escapes the solar system? [5]",
+     "paper_label": "Question paper"
+    },
+    {
+     "day": 1,
+     "number": 8,
+     "problem": "Let us consider a distant point-like object, say a star, which is emitting radiation isotropically. The star is surrounded by numerous hydrogen clouds, uniformly distributed over a large radius $r$. The radiation from the star after getting scattered from the gas clouds arrive as parallel rays to a distant observer who collects these with a lens, as depicted in Figure 5. Derive the expression for the locus of clouds that will result in a fixed time delay of $\\tau = R/c$ (known as an isodelay surface) to echo the brightness change of the star? For simplicity, consider a cloud distribution in 2-dimensions with the star at $(x, y) = (0, 0)$. [5]\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/inao-2025-q8-1.png",
+     "paper_label": "Question paper"
+    },
+    {
+     "day": 1,
+     "number": 9,
+     "problem": "On August 16, 2023, it was new Moon and on August 23, 2023, 6 PM IST (the Chandrayan-3 landing event) it was sixth day of the waxing moon. Nearly 30% of Moon was illuminated as illustrated below:\n\nThe orbital plane of Moon is tilted by about $5^\\circ$, with respect to the ecliptic plane, and it orbits in an elliptical orbit. However, assume that the path of Moon around the Earth is coplanar with ecliptic and the orbit is circular.\n\nAn observer from Moon (nearside close to equator) will see the illuminated portion of the Earth change from August 23, 2023 onward as illustrated in ______ (fill (a), (b), (c) or (d)) and explain your choice (Ignore the difference in the size, if any.). [5]\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/inao-2025-q9-1.png\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/inao-2025-q9-2.png",
+     "paper_label": "Question paper"
+    },
+    {
+     "day": 1,
+     "number": 10,
+     "problem": "Consider Earth as a sphere of radius 6400 km. At the time of equinox (i.e. center of the Sun's disk is at declination 0.0 deg), an observer is standing exactly at North pole with a drone (a flying device) camera. The observer wishes to see the full disk of the Sun, which subtends an angle of 0.009 radian to the observer. At what minimum height, flying above the North pole, the drone camera can see the full disk of the Sun. Assume that the local horizon is clear without any geographical obstructions (land, trees, building etc.) to the horizon and sun-rays are parallel. Also ignore all light-ray bending effects such as atmospheric refraction etc. [5]",
+     "paper_label": "Question paper"
+    },
+    {
+     "day": 1,
+     "number": 11,
+     "problem": "A powerful luminous source is orbiting almost touching to the surface (at equator) of a spherical white dwarf in a circular orbit. The rotation orbit is perpendicular to the line joining star and us. Variation of light received from this source has A periodicity of 8 seconds. What is the density of white dwarf? [5]",
+     "paper_label": "Question paper"
+    },
+    {
+     "day": 1,
+     "number": 12,
+     "problem": "A photon leaving the surface of non-spinning compact stars like white dwarf or Neutron star will face intense gravity, leading to a change in the wave energy $E$ associated with the photon (this phenomenon is generally called gravitational redshift). For gravity effect on photons, an effective mass $m$ can be assumed through the relation $E = mc^2$. Estimate the fractional change in the frequency of a photon leaving the surface of a white dwarf, Sirius B of mass $\\mathrm{M}=1M_\\odot$ and radius $R = 0.008R_\\odot$, when observed by a distant observer (assuming Newton's gravity). [5]",
+     "paper_label": "Question paper"
+    }
+   ]
+  }
+ ]
+}

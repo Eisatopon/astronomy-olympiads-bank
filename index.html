@@ -601,14 +601,16 @@ dialog p { color: var(--muted); font-size: .92rem; }
 // Local copies (python -m http.server) read the files next to the page; the published site reads the raw files.
 const BASE = /^(localhost|127\.)/.test(location.hostname) ? './' : 'https://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/';
 // Bump on every data change so browsers never mix old and new files.
-const DATA_VERSION = '20261021-bank-name';
+const DATA_VERSION = '20261021-india-inao';
 const FIRST = 1990, LAST = 2026;
 const REGIONS = [['europe', 'Europe'], ['asia', 'Asia'], ['americas', 'Americas'], ['africa', 'Africa'], ['oceania', 'Oceania'], ['world', 'World'], ['other', 'Other']];
 const REGION_OF = {
     ioaa: 'world',
     ioaada: 'world',
     gecaa: 'world',
-    baao: 'europe'
+    baao: 'europe',
+    inao: 'asia',
+    usaaao: 'americas'
 };
 const regionOf = key => REGION_OF[key] || 'other';
 const PAGE = 20;
@@ -618,6 +620,7 @@ const COUNTRIES = [
     { key: 'ioaa', name: 'IOAA', flag: '🌐', file: 'IOAA-theory-problems.json', kind: 'years', scope: 'international', full: 'International Olympiad on Astronomy and Astrophysics, theoretical examination', group: 'IOAA', groupName: 'IOAA', sub: 'Theory' },
     { key: 'ioaada', name: 'IOAA Data Analysis', flag: '🌐', file: 'IOAA-data-analysis-problems.json', kind: 'years', scope: 'international', full: 'International Olympiad on Astronomy and Astrophysics, data analysis examination', group: 'IOAA', groupName: 'IOAA', sub: 'Data analysis', order: 1 },
     { key: 'baao', name: 'UK BAAO', flag: '🇬🇧', file: 'UK-baao-problems.json', kind: 'years', full: 'British Astronomy and Astrophysics Olympiad, Competition Paper (final round)' },
+    { key: 'inao', name: 'India INAO', flag: '🇮🇳', file: 'India-inao-problems.json', kind: 'years', full: 'Indian National Astronomy Olympiad (INAO), Senior level' },
     { key: 'gecaa', name: 'GeCAA', flag: '🌐', file: 'GeCAA-problems.json', kind: 'years', scope: 'international', full: 'Global e-Competition on Astronomy and Astrophysics (online, 2020), theory and data analysis' }
 ];
 COUNTRIES.sort((a, b) => a.name.localeCompare(b.name, 'en', { sensitivity: 'base' }));
