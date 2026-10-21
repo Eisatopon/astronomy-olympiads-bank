@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Hipparchus – World Astronomy &amp; Astrophysics Olympiads Bank – eisatopon.gr</title>
 <meta name="description" content="Hipparchus: a searchable bank of astronomy and astrophysics olympiad problems — the International Olympiad on Astronomy and Astrophysics (IOAA) theory papers and more to come — in English with LaTeX, statements only, with figures and source checks. Build a printable problem set.">
-<meta name="theme-color" content="#0f2a44">
+<meta name="theme-color" content="#0b1030">
 <link rel="icon" type="image/png" href="assets/eisatopon-logo.png">
 <link rel="apple-touch-icon" href="assets/eisatopon-logo.png">
 <link rel="canonical" href="https://eisatopon.github.io/astronomy-olympiads-bank/">
@@ -45,8 +45,10 @@
 :root {
     color-scheme: light;
 
-    --ink: #0f2a44;
-    --ink-deep: #0a1f34;
+    /* Night sky: Hipparchus' own colour (the other banks: navy, violet, teal, green, charcoal) */
+    --ink: #0b1030;
+    --ink-deep: #060920;
+    --star: #f5c542;
     --paper: #f1f4f7;
     --surface: #ffffff;
     --text: #16212c;
@@ -89,7 +91,10 @@ svg.i { width: 1em; height: 1em; flex: none; stroke: currentColor; fill: none; s
 /* ==========================================================
    Hero
    ========================================================== */
-.hero { background: var(--ink); color: #fff; overflow: hidden; }
+.hero { background-color: var(--ink); color: #fff; overflow: hidden;
+    /* a faint field of stars */
+    background-image: radial-gradient(1px 1px at 12% 18%, rgba(255,255,255,.75), transparent), radial-gradient(1px 1px at 27% 62%, rgba(255,255,255,.55), transparent), radial-gradient(1.5px 1.5px at 44% 12%, rgba(245,197,66,.85), transparent), radial-gradient(1px 1px at 58% 41%, rgba(255,255,255,.6), transparent), radial-gradient(1px 1px at 71% 9%, rgba(255,255,255,.7), transparent), radial-gradient(1.5px 1.5px at 83% 33%, rgba(255,255,255,.8), transparent), radial-gradient(1px 1px at 91% 72%, rgba(245,197,66,.7), transparent), radial-gradient(1px 1px at 36% 85%, rgba(255,255,255,.5), transparent), radial-gradient(1px 1px at 6% 78%, rgba(255,255,255,.6), transparent), radial-gradient(ellipse at 78% 0%, rgba(88,64,160,.35), transparent 55%);
+    background-size: 520px 360px, 520px 360px, 520px 360px, 520px 360px, 520px 360px, 520px 360px, 520px 360px, 520px 360px, 520px 360px, 100% 100%; }
 /* Until the grid is built (init), keep what it pushes down invisible, so nothing jumps on phones. */
 .booting .hero > .wrap:last-child, .booting #main, .booting .footer, .booting #statUpdated { visibility: hidden; }
 .brandbar { padding-top: 18px; padding-bottom: 4px; display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; }
@@ -101,7 +106,7 @@ svg.i { width: 1em; height: 1em; flex: none; stroke: currentColor; fill: none; s
 .logo { width: 32px; height: 32px; flex: 0 0 auto; display: block; }
 
 .hero-body { display: grid; grid-template-columns: minmax(0, 1.15fr) minmax(0, 1fr); gap: 40px; align-items: end; padding-top: 18px; padding-bottom: 14px; }
-.bank-name { color: #facc15; font: 700 .95rem/1.2 var(--sans); letter-spacing: .08em; text-transform: uppercase; margin-bottom: 6px; }
+.bank-name { color: var(--star); font: 700 .95rem/1.2 var(--sans); letter-spacing: .08em; text-transform: uppercase; margin-bottom: 6px; }
 .subj.back { border-color: rgba(255,255,255,.5); }
 .hero h1 { font-family: var(--serif); font-weight: 800; font-size: clamp(2rem, 4.4vw, 3.3rem); line-height: 1.06; letter-spacing: -.01em; }
 .lede { color: #d3dde6; font-size: 1.02rem; max-width: 54ch; padding-bottom: 4px; }
@@ -118,7 +123,7 @@ svg.i { width: 1em; height: 1em; flex: none; stroke: currentColor; fill: none; s
 .mx-tabs[hidden] { display: none; }
 .mx-tabs button { appearance: none; border: 1px solid rgba(255, 255, 255, .25); background: transparent; color: #cfd9e3; font: 600 .9rem/1 var(--sans); padding: 8px 14px; border-radius: 4px; cursor: pointer; display: inline-flex; align-items: center; gap: 8px; }
 .mx-tabs button:hover { color: #fff; border-color: rgba(255, 255, 255, .5); }
-.mx-tabs button[aria-selected="true"] { background: var(--accent); border-color: var(--accent); color: #fff; }
+.mx-tabs button[aria-selected="true"] { background: var(--star); border-color: var(--star); color: #0b1030; }
 .mx-tabs .tn { font-weight: 500; font-size: .8rem; opacity: .85; font-variant-numeric: tabular-nums; }
 .mx-head { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px 20px; margin-top: 18px; }
 .mx-help { font-size: .9rem; color: #aebccb; }
@@ -245,7 +250,7 @@ svg.i { width: 1em; height: 1em; flex: none; stroke: currentColor; fill: none; s
 .ai-menu { position: relative; }
 .ai-menu > summary { list-style: none; }
 .ai-menu > summary::-webkit-details-marker { display: none; }
-.ai-options { position: absolute; right: 0; top: calc(100% + 6px); z-index: 20; width: min(300px, calc(100vw - 16px)); padding: 8px; background: var(--surface); border: 1px solid var(--line-strong); border-radius: 6px; box-shadow: 0 8px 24px rgba(15,42,68,.18); }
+.ai-options { position: absolute; right: 0; top: calc(100% + 6px); z-index: 20; width: min(300px, calc(100vw - 16px)); padding: 8px; background: var(--surface); border: 1px solid var(--line-strong); border-radius: 6px; box-shadow: 0 8px 24px rgba(11,16,48,.18); }
 .ai-choice { display: block; width: 100%; padding: 11px 10px; border: 0; border-radius: 3px; background: transparent; color: var(--ink); text-align: left; text-decoration: none; font: 600 .88rem/1.4 var(--sans); cursor: pointer; }
 .ai-choice:hover, .ai-choice:focus-visible { background: #edf3f8; }
 .ai-custom textarea { width: 100%; min-height: 85px; padding: 9px; resize: vertical; border: 1px solid var(--line-strong); border-radius: 3px; font: .88rem/1.5 var(--sans); }
@@ -254,7 +259,7 @@ svg.i { width: 1em; height: 1em; flex: none; stroke: currentColor; fill: none; s
 .ai-prov { display: flex; gap: 4px; padding: 2px 2px 8px; margin-bottom: 4px; border-bottom: 1px solid var(--line); }
 .ai-prov button { flex: 1; padding: 6px 8px; border: 1px solid var(--line-strong); border-radius: 3px; background: transparent; color: var(--muted); font: 600 .8rem/1.2 var(--sans); cursor: pointer; }
 .ai-prov button[aria-pressed="true"] { background: #245b86; border-color: #245b86; color: #fff; }
-#aiToast { position: fixed; left: 50%; bottom: 24px; transform: translate(-50%, 20px); max-width: calc(100vw - 32px); padding: 12px 18px; border-radius: 6px; background: #0f2a44; color: #fff; font: 600 .9rem/1.4 var(--sans); box-shadow: 0 8px 24px rgba(0,0,0,.25); opacity: 0; pointer-events: none; transition: opacity .2s, transform .2s; z-index: 100; }
+#aiToast { position: fixed; left: 50%; bottom: 24px; transform: translate(-50%, 20px); max-width: calc(100vw - 32px); padding: 12px 18px; border-radius: 6px; background: #0b1030; color: #fff; font: 600 .9rem/1.4 var(--sans); box-shadow: 0 8px 24px rgba(0,0,0,.25); opacity: 0; pointer-events: none; transition: opacity .2s, transform .2s; z-index: 100; }
 #aiToast.show { opacity: 1; transform: translate(-50%, 0); }
 .ai-note { margin: 6px 4px 2px; font-size: .75rem; color: var(--muted); }
 .ai-copy { margin-top: 6px; border-top: 1px solid var(--line); font-size: .8rem; color: var(--muted); }
@@ -331,7 +336,7 @@ mjx-container[display="true"] { margin: .6em 0 !important; overflow-x: auto; ove
 
 /* ---------- Share dialog ---------- */
 dialog { border: 1px solid var(--line); border-top: 4px solid var(--ink); border-radius: 4px; padding: 24px; width: min(420px, calc(100vw - 32px)); color: var(--text); background: var(--surface); }
-dialog::backdrop { background: rgba(10, 31, 52, .6); }
+dialog::backdrop { background: rgba(6, 9, 32, .6); }
 dialog h2 { font: 800 1.3rem/1.2 var(--serif); color: var(--ink); margin-bottom: 6px; }
 dialog p { color: var(--muted); font-size: .92rem; }
 .related-card { border-top: 1px solid var(--line-strong); padding: 18px 0; }
@@ -366,7 +371,7 @@ dialog p { color: var(--muted); font-size: .92rem; }
    ========================================================== */
 @media (max-width: 1023px) {
     .layout { grid-template-columns: minmax(0, 1fr); padding-bottom: 110px; }
-    .exam { position: fixed; left: 0; right: 0; bottom: 0; top: auto; z-index: 40; border-radius: 0; border-left: 0; border-right: 0; box-shadow: 0 -10px 28px rgba(10, 31, 52, .22); }
+    .exam { position: fixed; left: 0; right: 0; bottom: 0; top: auto; z-index: 40; border-radius: 0; border-left: 0; border-right: 0; box-shadow: 0 -10px 28px rgba(6, 9, 32, .22); }
     .exam-toggle { cursor: pointer; pointer-events: auto; padding: 14px 18px; }
     .exam-toggle .chev { display: block; transition: transform .2s; }
     .exam.open .exam-toggle .chev { transform: rotate(180deg); }
@@ -597,7 +602,7 @@ dialog p { color: var(--muted); font-size: .92rem; }
 // Local copies (python -m http.server) read the files next to the page; the published site reads the raw files.
 const BASE = /^(localhost|127\.)/.test(location.hostname) ? './' : 'https://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/';
 // Bump on every data change so browsers never mix old and new files.
-const DATA_VERSION = '20261021-ioaa-data-analysis';
+const DATA_VERSION = '20261021-night-sky';
 const FIRST = 1990, LAST = 2026;
 const REGIONS = [['europe', 'Europe'], ['asia', 'Asia'], ['americas', 'Americas'], ['africa', 'Africa'], ['oceania', 'Oceania'], ['world', 'World'], ['other', 'Other']];
 const REGION_OF = {
@@ -610,7 +615,7 @@ const STORAGE_KEY = 'eisatopon-astronomy:set:v1';
 
 const COUNTRIES = [
     { key: 'ioaa', name: 'IOAA', flag: '🌐', file: 'IOAA-theory-problems.json', kind: 'years', scope: 'international', full: 'International Olympiad on Astronomy and Astrophysics, theoretical examination', group: 'IOAA', groupName: 'IOAA', sub: 'Theory' },
-    { key: 'ioaada', name: 'IOAA Data Analysis', flag: '🌐', file: 'IOAA-data-analysis-problems.json', kind: 'years', scope: 'international', full: 'International Olympiad on Astronomy and Astrophysics, data analysis examination', group: 'IOAA', groupName: 'IOAA', sub: 'Data analysis' }
+    { key: 'ioaada', name: 'IOAA Data Analysis', flag: '🌐', file: 'IOAA-data-analysis-problems.json', kind: 'years', scope: 'international', full: 'International Olympiad on Astronomy and Astrophysics, data analysis examination', group: 'IOAA', groupName: 'IOAA', sub: 'Data analysis', order: 1 }
 ];
 COUNTRIES.sort((a, b) => a.name.localeCompare(b.name, 'en', { sensitivity: 'base' }));
 const CBY = Object.fromEntries(COUNTRIES.map(c => [c.key, c]));
@@ -971,7 +976,7 @@ function gridEntries(list) {
         const names = new Map(members.map(c => [c.key, c.sub || (c.name === name ? 'National olympiad' : subName(c))]));
         // The national olympiad first, then the other finals, junior contests, then the selection tests.
         const rank = c => names.get(c.key) === 'National olympiad' ? 0 : /TST/.test(names.get(c.key)) ? 3 : /Junior|Elementary/.test(names.get(c.key)) ? 2 : 1;
-        members = [...members].sort((a, b) => rank(a) - rank(b) || names.get(a.key).localeCompare(names.get(b.key), 'en', { numeric: true }));
+        members = [...members].sort((a, b) => rank(a) - rank(b) || (a.order || 0) - (b.order || 0) || names.get(a.key).localeCompare(names.get(b.key), 'en', { numeric: true }));
         return { id: 'g-' + members[0].key, name, flag: members[0].flag, members, sub: c => names.get(c.key) };
     });
 }
