@@ -601,7 +601,7 @@ dialog p { color: var(--muted); font-size: .92rem; }
 // Local copies (python -m http.server) read the files next to the page; the published site reads the raw files.
 const BASE = /^(localhost|127\.)/.test(location.hostname) ? './' : 'https://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/';
 // Bump on every data change so browsers never mix old and new files.
-const DATA_VERSION = '20261021-usa-usaaao';
+const DATA_VERSION = '20261021-usaaao-first-round';
 const FIRST = 1990, LAST = 2026;
 const REGIONS = [['europe', 'Europe'], ['asia', 'Asia'], ['americas', 'Americas'], ['africa', 'Africa'], ['oceania', 'Oceania'], ['world', 'World'], ['other', 'Other']];
 const REGION_OF = {
@@ -610,7 +610,8 @@ const REGION_OF = {
     gecaa: 'world',
     baao: 'europe',
     inao: 'asia',
-    usaaao: 'americas'
+    usaaao: 'americas',
+    usaaao1: 'americas'
 };
 const regionOf = key => REGION_OF[key] || 'other';
 const PAGE = 20;
@@ -622,6 +623,7 @@ const COUNTRIES = [
     { key: 'baao', name: 'UK BAAO', flag: '🇬🇧', file: 'UK-baao-problems.json', kind: 'years', full: 'British Astronomy and Astrophysics Olympiad, Competition Paper (final round)' },
     { key: 'inao', name: 'India INAO', flag: '🇮🇳', file: 'India-inao-problems.json', kind: 'years', full: 'Indian National Astronomy Olympiad (INAO), Senior level' },
     { key: 'usaaao', name: 'USA USAAAO', flag: '🇺🇸', file: 'USA-usaaao-problems.json', kind: 'years', full: 'USA Astronomy and Astrophysics Olympiad (USAAAO): National Astronomy Competition (NAC) and later selection exams' },
+    { key: 'usaaao1', name: 'USA USAAAO First Round', flag: '🇺🇸', file: 'USA-usaaao-first-round-problems.json', kind: 'years', full: 'USA Astronomy and Astrophysics Olympiad (USAAAO), First Round' },
     { key: 'gecaa', name: 'GeCAA', flag: '🌐', file: 'GeCAA-problems.json', kind: 'years', scope: 'international', full: 'Global e-Competition on Astronomy and Astrophysics (online, 2020), theory and data analysis' }
 ];
 COUNTRIES.sort((a, b) => a.name.localeCompare(b.name, 'en', { sensitivity: 'base' }));
