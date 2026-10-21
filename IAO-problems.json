@@ -1,0 +1,230 @@
+{
+ "competition": "International Astronomy Olympiad (IAO)",
+ "years": [
+  {
+   "year": 1998,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "What can one see in the Moon's sky more often - the Sun or the Earth?",
+     "paper_label": "Theoretical round – Group A"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "In a new postal service a huge cannon shots a postal shell from England to New Zealand. Can you estimate the duration of the shells flight?",
+     "paper_label": "Theoretical round – Group A"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "It is known that the equatorial coordinates of vernal equinox are 0 hr and 0 deg. Which are the North ecliptic pole coordinates?",
+     "paper_label": "Theoretical round – Group A"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "Suppose that the Sun collapsed suddenly to a black hole. How would the orbital period of the Earth be affected?",
+     "paper_label": "Theoretical round – Group A"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "Can we distinguish the lunar Mare Crisium, which diameter is 520 km, by a naked eye?",
+     "paper_label": "Theoretical round – Group A"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "problem": "There are about of 250 millions of stars in the elliptical galaxy M32 (a satellite of Andromeda galaxy). The visual magnitude of this galaxy is $9^\\mathrm{m}$. If luminosities of all stars are equal, what is the visual magnitude of one star in this galaxy?",
+     "paper_label": "Theoretical round – Group A"
+    },
+    {
+     "day": 2,
+     "number": 1,
+     "problem": "Is it possible to observe solar eclipses, meteors, comets, auroras, rainbows, noctilucent clouds and artificial satellites on the Moon?",
+     "paper_label": "Theoretical round – Group B"
+    },
+    {
+     "day": 2,
+     "number": 2,
+     "problem": "There are Cepheids variables in our own Galaxy as well as in other galaxies. Why was the \"period-luminosity\" relation first recognized for Cepheids in the Magellanic Clouds?",
+     "paper_label": "Theoretical round – Group B"
+    },
+    {
+     "day": 2,
+     "number": 3,
+     "problem": "Because precession, the vernal equinox point moves slowly (50\" per year) in the sky. Along what celestial circle does it move - the equator or the ecliptic?",
+     "paper_label": "Theoretical round – Group B"
+    },
+    {
+     "day": 2,
+     "number": 4,
+     "problem": "Artificial Earth satellite moves with a speed of 6.9 km/sec along the circular equatorial orbit in the direction of the Earth rotation. What is the period of the satellite appearance above any fixed equatorial point?",
+     "paper_label": "Theoretical round – Group B"
+    },
+    {
+     "day": 2,
+     "number": 5,
+     "problem": "Can we distinguish the lunar Mare Crisium, which diameter is 520 km, by a naked eye?",
+     "paper_label": "Theoretical round – Group B"
+    },
+    {
+     "day": 2,
+     "number": 6,
+     "problem": "There are about of 250 millions of stars in the elliptical galaxy M32 (a satellite of Andromeda galaxy). The visual magnitude of this galaxy is $9^\\mathrm{m}$. If luminosities of all stars are equal, what is the visual magnitude of one star in this galaxy?",
+     "paper_label": "Theoretical round – Group B"
+    },
+    {
+     "day": 3,
+     "number": 1,
+     "problem": "7. The masses of Capella's components.\n\nThe 6-meter telescope of SAO is one of a few to carry out speckle-interferometric observations of visual binary stars. The purpose is a direct measurement of stellar masses. You are proposed to estimate the masses of Capella's components, using our observational data.\n\nCapella (Alpha Aur) is a very close visual pair. Fig.1 shows a relative orbit of the component B as observed over many years by observations by different observatories. The points obtained in SAO are marked in red. The position of the component A is marked by a cross and is connected to the periastron point with a straight line. The radial velocity curves of the both components are shown in Fig.2.\n\nCapella's parallax is $p = 0''.077$, the revolution period of its components is $P = 104^\\mathrm{d}$.\n\n• Consider a three-dimensional model of the system allowing, in particular, for the orbital eccentricity and the inclination of the orbital plane towards the line of sight.\n\n• Estimate the masses of the components, using the Kepler's Third Law.\n\n• Consider the possible causes of the errors of your estimates.",
+     "paper_label": "Practical round – both groups"
+    },
+    {
+     "day": 3,
+     "number": 2,
+     "problem": "8. A galaxy's mass.\n\nErge-on spiral galaxies are suitable for the determination of their masses. Prof. I.D.Karachentsev and his colleagues complied a cataloge of such galaxies and obtained their mass spectroscopically. The spectrum of one galaxy, FGC 1908 in Dragon, is given below. It was obtained on the 4-th of March 1997, with the help of a spectrograph installed at the primary focus of the 6-meter telescope. As the figure shows, the spectrograph slit was aligned with the major axis of the galaxy. Vertical lines crossing the spectrum are emission from the night sky. Other emissions belong to the galaxy. Their laboratory wavelengths are indicated. When determining the galaxy's mass at the SAO the Hubble constant was taken to be $H = 74\\ \\mathrm{km/(s\\cdot Mpc)}$.\n\nYou are required to repeat the estimate of the galaxy's mass. Recall that $1\\ \\mathrm{pc} = 3.09\\cdot10^{18}\\ \\mathrm{cm}$, the mass of the Sun is $M_\\odot = 2\\cdot10^{33}\\ \\mathrm{g}$ and the gravity constant is $G = 6.67\\cdot10^{-8}\\ \\mathrm{dyn\\cdot cm^2/g^2}$.\n\n• Explain why a two-dimensional spectrum of the galaxy looks exactly like that.\n\n• Estimate the mass of FGC 1908 and compare it to the mass of our galaxy.\n\n• Consider the possible causes of the errors of your estimates.",
+     "paper_label": "Practical round – both groups"
+    }
+   ]
+  },
+  {
+   "year": 1999,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "To solve every problem you may use constants and well-known values you know by heart.\n\nThe apparent diameter of the Moon, as seen from the Earth, is $31'$. What is the image diameter in the objective focal plane if its focal length is 254 cm and the objective diameter is 40 cm? Draw a figure (a few figures) to explain your calculations.",
+     "paper_label": "Theoretical round – Group A"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "To solve every problem you may use constants and well-known values you know by heart.\n\nA photometer is mounted on a 125 cm (focal length) telescope. Can you observe a star with magnitude\n\na. $5^\\mathrm{m}$\n\nb. $10^\\mathrm{m}$\n\nc. $15^\\mathrm{m}$\n\nin a cluster if a count from a star of a similar spectral type with magnitude $8^\\mathrm{m}$ gives 4000 counts/second? The level of white noise of the photometer (instrumental noise) is 500 counts/second; the upper limiting value for observations is 200000 counts/second. Explain your calculations.",
+     "paper_label": "Theoretical round – Group A"
+    },
+    {
+     "day": 2,
+     "number": 1,
+     "problem": "To solve every problem you may use constants and well-known values you know by heart.\n\nOne star peaks at 2000 A. Another peaks at 10000 A. Which one emits more radiation at 2000 A? Which one emits more radiation at 10000 A? What is the ratio of the total radiation emitted by the two stars? Consider the stars as black bodies.",
+     "paper_label": "Theoretical round – Group B"
+    },
+    {
+     "day": 2,
+     "number": 2,
+     "problem": "To solve every problem you may use constants and well-known values you know by heart.\n\nEngineers from the Simferopol University describe a new method to utilize old military ships: to construct very small black holes from their material (patent yzarc-048UA7). Estimate the diameter of a black hole constructed using this patent from a ship with the mass of 5000 tn (1 tn = 1000 kg). What physical object has a size of the same order of magnitude? Describe propagation of visible light near this black hole.",
+     "paper_label": "Theoretical round – Group B"
+    },
+    {
+     "day": 3,
+     "number": 1,
+     "problem": "To solve every problem you may use constants and well-known values you know by heart.\n\nWhere (on the Earth) and when is it possible to observe the sunrise with the longest duration? Estimate its duration.",
+     "paper_label": "Theoretical round – both groups"
+    },
+    {
+     "day": 3,
+     "number": 2,
+     "problem": "To solve every problem you may use constants and well-known values you know by heart.\n\nUsually we consider that there are about 6000 stars in the whole sky which are visible by our eyes. Estimate, how many visible stars are circumpolar (which means that they never set):\n\na. if you are placed $1^\\circ$ from the North Pole.\n\nb. if you are placed $1^\\circ$ from the Equator (to the North).\n\nNote: formula for sphere's area calculation: $S = 4\\pi R^2$.",
+     "paper_label": "Theoretical round – both groups"
+    },
+    {
+     "day": 3,
+     "number": 3,
+     "problem": "To solve every problem you may use constants and well-known values you know by heart.\n\nAn airship started from a cosmodrome located near the equator of the earth at the moment of a sunset. A pilot of the airship wants to continue to observe the sun on the horizon. What should the speed of moving of the airship be? Describe in detail the motion of the air ship.",
+     "paper_label": "Theoretical round – both groups"
+    },
+    {
+     "day": 3,
+     "number": 4,
+     "problem": "To solve every problem you may use constants and well-known values you know by heart.\n\nSuppose that a total solar eclipse is observed from a place at the equator when the sun is in zenith. Also, suppose that the shadow of the moon moves along the equator. Calculate the speed of the shadow relative to the observer.",
+     "paper_label": "Theoretical round – both groups"
+    },
+    {
+     "day": 4,
+     "number": 1,
+     "problem": "Write the observational program for this night on a 40-cm telescope. What stars would you observe this nigth? Write sequence of the observations.\n\nStars to observe:\n\n$$\\begin{array}{|c|l|c|c|c|}\\hline & & V\\ (\\mathrm{mag}) & \\alpha & \\delta\\ (1950)\\\\ \\hline 1 & \\eta\\ \\mathrm{Aql} & 3^\\mathrm{m}.5 & 19^\\mathrm{h}\\ 49^\\mathrm{m}.9 & 0^\\circ\\ 53' \\\\ \\hline 2 & \\beta\\ \\mathrm{Per} & 2.1 & 3\\ 04.9 & 40\\ 46 \\\\ \\hline 3 & \\chi\\ \\mathrm{Cyg} & 14.2 & 19\\ 48.6 & 32\\ 47 \\\\ \\hline 4 & \\mathrm{R\\ Aqr} & 12.4 & 23\\ 41.2 & -15\\ 34 \\\\ \\hline 5 & \\alpha\\ \\mathrm{Ori} & 1.3 & 5\\ 52.4 & 7\\ 24 \\\\ \\hline 6 & \\mathrm{RW\\ Vir} & 6.7 & 12\\ 04.7 & -6\\ 29 \\\\ \\hline \\end{array}$$\n\nMoon rise: 21:17:26, phase 0.77\n\nSideral time for $0^\\mathrm{h}$ $s_0 = $ 0:31:04\n\nYou may use all observational time (since 20h till 5h 30 min).\n\nLocal time LT=UT+3\n\nCoordinates of observatory $\\lambda = 2^\\mathrm{h}16^\\mathrm{m}$ $\\varphi = 44^\\circ 43'$\n\nPut your result into the table:\n\n$$\\begin{array}{|c|c|}\\hline \\mathrm{Star} & \\mathrm{Interval\\ of\\ observation}\\\\ \\hline \\phantom{xx} & \\\\ \\hline \\phantom{xx} & \\\\ \\hline \\end{array}$$\n\nStars that could not be included in the program:\n\nExplanations and notes:",
+     "paper_label": "Practical round – both groups"
+    },
+    {
+     "day": 4,
+     "number": 2,
+     "problem": "A ligth curve of eclipsing binary is shown in the figure. Estimate the ratio of R/r in assuming that the eclipse is central and the small component is fainter.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/iao-1999-d4-q2-1.png",
+     "paper_label": "Practical round – both groups"
+    }
+   ]
+  },
+  {
+   "year": 2000,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "As you know, the most widely used calendar in the middle centuries was Julian. Just now most countries use the Gregorian calendar and the difference between Julian and Gregorian calendars is 13 days: for the same days dates in the Julian calendar fall behind the dates in the Gregorian calendar by 13. Last time the dates in these calendars coincided were in the 3rd century.\n\nCalculate in what century such a difference will be 1 year and the 22nd of October (for example) in Gregorian calendar will coincide with the 22nd of October in the Julian once again.",
+     "paper_label": "Theoretical round – Group A"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "Two stars have the same apparent magnitude and are of the same spectral type. One is twice as far away as the other. What is the relative size of the two stars?",
+     "paper_label": "Theoretical round – Group A"
+    },
+    {
+     "day": 2,
+     "number": 1,
+     "problem": "A quasar is observed and it is found that a line whose rest wavelenght is 3000 $\\mathrm{A^o}$ is observed at 15000 $\\mathrm{A^o}$. Estimate:\n\na) How fast is the quasar receding?\n\nb) How far away is it if its distance is given by the Hubble relation (The Hubble constant is $H = 75$ km/s/Mpc)?\n\nBoth answers may be done with an accuracy of 30 %.",
+     "paper_label": "Theoretical round – Group B"
+    },
+    {
+     "day": 2,
+     "number": 2,
+     "problem": "Young scientists from the Komi-Republic territory (in the Russian Federation) registered a few days ago a new object looking like an eclipsing binary star. But the period of this star was not stable: the stellar magnitude of the object is usually equal to $24.32^\\mathrm{m}$. Once every 7-11 seconds it is rising to $24.52^\\mathrm{m}$ for 0.2-0.3 seconds. After investigations it was clear that the shining object is eyes of a group of absolutely black cats sitting on a small absolutely black body in our Solar System and looking towards the Sun! And one of the cats is blinking! Calculate the number of cats in the group sitting on the small body and looking to the Sun. Draw a picture explaining your solution. Consider that all the cats are equal in size.",
+     "paper_label": "Theoretical round – Group B"
+    },
+    {
+     "day": 3,
+     "number": 1,
+     "problem": "There are two photos of the Moon taken by the same camera mounted on the same telescope (the telescope is placed on the Earth). The first photo has been made while the Moon was near its perigee and the second one – near the apogee. Find from these data the value of the Moon's orbit eccentricity. Estimate the minimal period between the moments at which these two photos could be taken.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/iao-2000-d3-q1-1.png",
+     "paper_label": "Theoretical round – both groups"
+    },
+    {
+     "day": 3,
+     "number": 2,
+     "problem": "A cosmonaut in a spacecraft is moving over the Moon surface through the Mare Frigoris at an altitude of 100 km. An astronaut is walking on the Moon's surface at Mare Frigoris and it is daytime at that place (the Sun is shining). Can the cosmonaut register the astronaut using binoculars with a magnification of $20^\\mathrm{x}$. Take into account all the possibilities.",
+     "paper_label": "Theoretical round – both groups"
+    },
+    {
+     "day": 3,
+     "number": 3,
+     "problem": "There is a radio source placed on a satellite of some planet named \"Olympia\". The radio source is working all the time but an observer does not register the signal all the time due to eclipses. The figure shows the level of the receiving signal by the observer vs time. Find from these data the average density of the planet. Take into account that the orbit of the satellite is circular, the observer is in the plane of the satellite's orbit and \"Olympia\" is far away from the observer.",
+     "paper_label": "Theoretical round – both groups"
+    },
+    {
+     "day": 3,
+     "number": 4,
+     "problem": "An 1.2-meter Schmidt camera has a $6^\\circ \\times 6^\\circ$ field of view. Estimate how many photographs you would have to take to cover the whole sky. (Please, make an estimation of the maximum and minimum number of photos.) Explain your calculations. Where do you have to place your telescope to be able to do this?",
+     "paper_label": "Theoretical round – both groups"
+    },
+    {
+     "day": 4,
+     "number": 1,
+     "problem": "A SUPERNOVA IN THE GALAXY NGC 3184.\n\nIntroduction:\n\nSpecial Astrophysical Observatory of Russian Academy of Sciences participates in an international program on investigation of supernovas bursting in distant galaxies. Stellar magnitudes of supernovas are measured with the help of CCD at 1-meter and 60-centimeter telescopes. For the brightest of galaxies the spectra are also obtained.\n\nFig.1 presents a recent sample of a CCD image obtained with the 60-centimeter telescope. It was taken on October 7, 2000. It shows a part of a galaxy cluster, in one of which a supernova burst. Galaxies are marked with the letter G. Their images differ from sharp images of stars by fuzzy edges. The visible stellar magnitudes of two brightest galaxies and the supernova (it is marked with the letters SN) are indicated.\n\nAnd now the task itself:\n\nIn Fig.2 is shown an image of a spiral galaxy NGC 3184 in which on December 10, 1999 a supernova was noticed. The image was taken before the burst! You can see stars up to 23rd magnitude in it.\n\nFig.3 is a CCD image with a part of the galaxy and the supernova taken on January 28, 2000 with the 1-meter telescope of SAO.\n\nGalaxy NGC 3184 is in the constellation of Ursa Major. Its coordinates (1950) are as follows: $\\alpha = 10^\\mathrm{h}\\ 15^\\mathrm{m}$, $\\delta = 41^\\circ\\ 40'$. It is similar to the famous galaxy of M33 in the Triangle (M33 is closer to us, the distance to it is 700 kpc, its angular size is about $50'$).\n\nBy the images of 28.01.2000 in SAO the apparent stellar magnitudes of the supernova in blue, green and red filters were determined. Its apparent stellar magnitude was $14^\\mathrm{m}.67$.\n\n• Find the supernova in Fig.3.\n\n• Estimate its absolute magnitude.\n\n• Professional astronomers don't doubt that they deal with a supernova. In particular, a spectrum was obtained, by which it was assigned to type II. But nevertheless – for non-professionals – prove that it is not a burst of a nearby (foreground)-star on the background of a galaxy.",
+     "paper_label": "Practical round – both groups"
+    },
+    {
+     "day": 5,
+     "number": 1,
+     "problem": "A \"DRILLING\" OF THE MOON WITH THE HELP OF RATAN\n\nIntroduction:\n\nDear students, you are to see the first colonies on the Moon. The areas of the Moon surface consisting of oxygen-bearing rock are already being searched for them. First of all these are ilmenite basalts. Beside oxygen (10% from the weight) the ilmenite ($\\mathrm{FeTiO_3}$) can give a pure iron.\n\nWith the help of the radio telescope RATAN-600 a \"radio drilling\" of the Moon was carried out: unlike the visible light, radio waves come from under its surface. The depth of the \"drilling\" increases with the increase of wavelength. At the wavelength of 1 cm the Moon is transparent down to 0.5 m, at 30 cm – down to 10 m. The regions with increased content of ilmenite are also distinguished by an increased radio emission level.\n\nFig.1 presents radio cuts of the Moon obtained at its passage through the \"knife\" beams of RATAN. From the 6 used wave lengths only 3 are presented, since the cut at 2.1 cm almost repeats the cut at 1.4 cm, and the cuts at 3.9 and 31 cm differ little from the cut at 8.2 cm. The last could be said also about 13-cm cut, but at the moment of observation the transmitters left at the Moon by American astronauts were operating, exactly at this wavelength.\n\nThe cuts at different wavelengths can be compared both to each other and to the seas and continents known to you in the image of the Moon in visible light. A band covered in the observations at 1.4 cm is marked in it. In other wavelengths the beams cover the entire disk of the Moon in altitude. The positions of transmitters operating at the wavelength of 13 cm are also shown.\n\nTask:\n\n• What transmitters were operating at the moment of observation?\n\n• What is the difference in the image of the Moon in cm wavelength from its image in visible wavelengths? What is the reason for it?\n\n• What region would you recommend for the settlement of first colonies?",
+     "paper_label": "Practical round – Group A"
+    },
+    {
+     "day": 6,
+     "number": 1,
+     "problem": "SPECTRA OF A PLANETARY NEBULA \"CAT EYE\" AND ITS CENTRAL STAR\n\nIntroduction:\n\nPlanetary nebula NGC 6543 (\"Cat eye\") played its special part in the history of astrophysics. On August 16, 1865, an English amateur astronomer William Heggins looked at it with a spectroscope and, as he writes, \"did not see an expected total spectrum, but only one bright line!\" Shortly after it was resolved into two lines with the wavelengths of 4959 Å and 5007 Å. Heggins assigned it to a new element \"nebulium\".\n\nLater it was found out that these are \"forbidden\" lines of doubly ionized oxygen that were never observed before - neither in terrestrial laboratory nor in stars. Unlike \"permitted\" lines, only a very thin gas emits such lines.\n\nRecall that if an atom is neutral, then a Roman numeral I follows the symbol of its chemical element, if the atom lost one electron then it is Roman II, etc…. for example, the neutral nitrogen is N I, the ionized nitrogen is N II. In notation of forbidden line the symbols of atoms and ions are taken in square brackets, for example: the ionized nitrogen is [N II], doubly ionized oxygen is [O III].\n\nThe spectrum of the central star generating the nebula NGC 6543 and exciting its glow, as well as the spectrum of the nebula itself were obtained in the course of study of the late stages of stellar evolution. The high-resolution spectrograph of the 6-meter telescope of SAO was used. The star and a peripheral part of the nebula were alternately projected onto its slit. These positions of the slit marked by a sign ' * ' for the first one and by a sign ' @ ' for the second one in Fig 1a, 1b, 1c.\n\nTask:\n\nThe upper parts of Fig. 1a, 1b, 1c show the parts of spectra as intensity vs wavelength given from the mentioned regions. In each of them the interesting lines are selected, and their profiles of are presented in the lower fragments as a relation between intensity and radial velocity. The figures show also the values of radial velocities measured by the tops of profiles of separate lines.\n\n• Determine which lines belong to the star and which to the nebula; fill in the appended table:\n\nLines in the spectra of NGC 6543 and its central star:\n\n$$\\begin{array}{|c|c|c|}\\hline \\mathrm{Figure} & \\mathrm{Lines\\ belonging\\ to\\ the\\ nebula} & \\mathrm{Lines\\ belonging\\ to\\ the\\ star}\\\\ \\hline \\mathrm{2a} & & \\\\ \\hline \\mathrm{2b} & & \\\\ \\hline \\mathrm{2c} & & \\\\ \\hline \\end{array}$$\n\n• What is the difference between them?\n\n• What can be said about the character of motion in the nebula and in the star's atmosphere from the form of the line profiles?\n\n• Estimate the velocity of these motions.",
+     "paper_label": "Practical round – Group B"
+    }
+   ]
+  }
+ ]
+}
