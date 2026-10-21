@@ -67,7 +67,7 @@
     --f-default: #1f5fbf; --f-default-ink: #163f82; --f-default-tint: #e6eefb;
 }
 [class*="f-"] { --f: var(--f-default); --f-ink: var(--f-default-ink); --f-tint: var(--f-default-tint); }
-.f-ioaa, .f-ioaada { --f: var(--ioaa); --f-ink: var(--ioaa-ink); --f-tint: var(--ioaa-tint); }
+.f-ioaa, .f-ioaada, .f-gecaa { --f: var(--ioaa); --f-ink: var(--ioaa-ink); --f-tint: var(--ioaa-tint); }
 
 /* ==========================================================
    Base
@@ -602,12 +602,13 @@ dialog p { color: var(--muted); font-size: .92rem; }
 // Local copies (python -m http.server) read the files next to the page; the published site reads the raw files.
 const BASE = /^(localhost|127\.)/.test(location.hostname) ? './' : 'https://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/';
 // Bump on every data change so browsers never mix old and new files.
-const DATA_VERSION = '20261021-likes-on';
+const DATA_VERSION = '20261021-gecaa-2020';
 const FIRST = 1990, LAST = 2026;
 const REGIONS = [['europe', 'Europe'], ['asia', 'Asia'], ['americas', 'Americas'], ['africa', 'Africa'], ['oceania', 'Oceania'], ['world', 'World'], ['other', 'Other']];
 const REGION_OF = {
     ioaa: 'world',
-    ioaada: 'world'
+    ioaada: 'world',
+    gecaa: 'world'
 };
 const regionOf = key => REGION_OF[key] || 'other';
 const PAGE = 20;
@@ -615,7 +616,8 @@ const STORAGE_KEY = 'eisatopon-astronomy:set:v1';
 
 const COUNTRIES = [
     { key: 'ioaa', name: 'IOAA', flag: '🌐', file: 'IOAA-theory-problems.json', kind: 'years', scope: 'international', full: 'International Olympiad on Astronomy and Astrophysics, theoretical examination', group: 'IOAA', groupName: 'IOAA', sub: 'Theory' },
-    { key: 'ioaada', name: 'IOAA Data Analysis', flag: '🌐', file: 'IOAA-data-analysis-problems.json', kind: 'years', scope: 'international', full: 'International Olympiad on Astronomy and Astrophysics, data analysis examination', group: 'IOAA', groupName: 'IOAA', sub: 'Data analysis', order: 1 }
+    { key: 'ioaada', name: 'IOAA Data Analysis', flag: '🌐', file: 'IOAA-data-analysis-problems.json', kind: 'years', scope: 'international', full: 'International Olympiad on Astronomy and Astrophysics, data analysis examination', group: 'IOAA', groupName: 'IOAA', sub: 'Data analysis', order: 1 },
+    { key: 'gecaa', name: 'GeCAA', flag: '🌐', file: 'GeCAA-problems.json', kind: 'years', scope: 'international', full: 'Global e-Competition on Astronomy and Astrophysics (online, 2020), theory and data analysis' }
 ];
 COUNTRIES.sort((a, b) => a.name.localeCompare(b.name, 'en', { sensitivity: 'base' }));
 const CBY = Object.fromEntries(COUNTRIES.map(c => [c.key, c]));
