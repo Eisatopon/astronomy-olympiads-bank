@@ -1,0 +1,503 @@
+{
+ "competition": "St Petersburg Astronomy Olympiad (oldest grade)",
+ "years": [
+  {
+   "year": 2012,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "The maximum baseline (distance between the antennas) of the space radio interferometer \"Radioastron\" is 350 thousand km. The mass of the black hole at the centre of the Galaxy is $4 \\cdot 10^6$ solar masses, and the distance to it is 8 kpc. Determine the wavelength at which \"Radioastron\" must observe so that the observed angular size of the black hole exceeds the limiting angular resolution of the radio interferometer.",
+     "paper_label": "Theoretical round (grade 11)"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "Photon rockets of mass 10 tonnes with an engine power of $1.2 \\cdot 10^{13}$ W take part in a space race. Determine the maximum speed that such a rocket can reach in a race around the Moon, where the rules forbid moving more than 10 km away from the surface. How must it move to achieve this?",
+     "paper_label": "Theoretical round (grade 11)"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "A long time ago in a galaxy far, far away, Wilhuff Tarkin, demonstrating the power of the first \"Death Star\", exceeded his authority and destroyed the unarmed and peaceful planet Alderaan, which moved around a Sun-like star in a circular orbit of radius 1 au. The fragments of the planet flew apart in all directions with a speed of 1 km/s relative to its centre. Estimate the time in which the fragments form a ring around the star.",
+     "paper_label": "Theoretical round (grade 11)"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "The Solar System moves at a speed of 600 km/s relative to the cosmic microwave background radiation. With what absolute accuracy must one be able to measure the temperature of the cosmic microwave background radiation in order to notice this motion?",
+     "paper_label": "Theoretical round (grade 11)"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "Estimate the difference between the surface brightnesses (in magnitudes per square arcsecond) of the upper and lower limbs of the solar disc during sunrise (or sunset). You may assume that the Earth's atmosphere has a constant density and a fixed height equal to 8 km, and that the absorption of light by the atmosphere near the horizon weakens the brightness of stars by $8^m$.",
+     "paper_label": "Theoretical round (grade 11)"
+    },
+    {
+     "day": 2,
+     "number": 1,
+     "problem": "In the middle of the 17th century Christiaan Huygens was the first to measure the angular sizes of the discs of planets, in particular of Saturn. He also knew the orbital period of Saturn around the Sun and, of course, that the brightness of Saturn is about the same as that of bright stars. From this he managed to obtain an estimate of the distances to the nearest stars that was correct in order of magnitude (in astronomical units; the value of the astronomical unit itself was still known very poorly at that time).\n\nYour task:\n\nA) to reconstruct the information that Huygens knew;\n\nB) to develop and describe the method of estimating the distances to stars used by Huygens;\n\nC) to use the method and estimate the distance to the nearest stars;\n\nD) to estimate the accuracy of the result that could have been obtained by this method in the middle of the 17th century.",
+     "paper_label": "Practical round (grade 11)"
+    }
+   ]
+  },
+  {
+   "year": 2013,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "An object belonging to the Solar System is located at the pole of the ecliptic, and it is known that for this object the values of the annual parallax and of the annual aberration coincide. Estimate the distance to the object. What will be the apparent trajectory of this object on the celestial sphere, as seen from the Earth, during one Earth year?",
+     "paper_label": "Theoretical round (grade 11)"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "In radio observations of an extragalactic hydrogen cloud it was found that it emits at a wavelength of 28 cm, and the width of the emission line is 0.1 mm. It is also known that the angular size of the cloud on the sky is $4''$. Estimate the mass of this cloud.",
+     "paper_label": "Theoretical round (grade 11)"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "Estimate the difference between the equatorial and polar radii of Jupiter. The radius of Jupiter is about 11 times the radius of the Earth, and the rotation period of Jupiter about its axis is 10 hours.",
+     "paper_label": "Theoretical round (grade 11)"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "A binary system consists of two white dwarfs revolving around their common centre of mass in circular orbits. It is known that such a system emits gravitational waves with a frequency equal to twice the orbital frequency of the system. Estimate the minimum possible wavelength of the gravitational radiation of such a binary system.",
+     "paper_label": "Theoretical round (grade 11)"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "The surface brightness of a sunspot is 5 times lower than the surface brightness of the solar photosphere. Estimate the magnetic induction in the spot, if it is known that a field with induction $B$ creates a magnetic pressure $p = \\kappa B^2$, with the coefficient $\\kappa \\approx 4 \\cdot 10^5\\ \\mathrm{Pa/T^2}$. The density of the photospheric matter is about $10^{-4}\\ \\mathrm{kg/m^3}$.",
+     "paper_label": "Theoretical round (grade 11)"
+    },
+    {
+     "day": 2,
+     "number": 1,
+     "problem": "You are given three model trajectories of a star on the celestial sphere (the dates are given in the format \"day/month/year\"). The figure on the left shows the trajectory of the star without a planet; the figures on the right show the trajectories of the same star in the case where one planet revolves around it (the two graphs correspond to two different values of the orbital period). All the data have been corrected for annual aberration.\n\nDetermine the distance to the star, its tangential velocity, and also the orbital period of the planet in each of the two cases. Estimate the errors of the results obtained.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/spb-2013-d2-q1-1.png",
+     "paper_label": "Practical round (grade 11)"
+    }
+   ]
+  },
+  {
+   "year": 2016,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "An observer in the northern hemisphere observed sunrise at $9^h04^m$ local time. The next day the Sun was on the horizon at exactly $9^h00^m$. Determine the date of the observation. At what time and at what altitude will the nearest upper culmination of Capella ($\\alpha = 5^h17^m$, $\\delta = +46^\\circ$) take place? Neglect the angular size of the Sun and the equation of time.",
+     "paper_label": "Theoretical round (grade 11)"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "In the future, astronomers discovered an object in the Solar System whose orbit lay in the plane of the ecliptic. At the moment when the angles \"perihelion of the object's orbit – Sun – object\" and \"Sun – object – Earth\" simultaneously became right angles, the scientists registered a sudden increase in the brightness of the object. Assuming that it was in fact a metal flying saucer whose plane is perpendicular to the plane of its orbit and whose edge is turned in the direction of motion, find the eccentricity of the object's orbit and the perihelion distance of the object, if it is known that its angular distance from the Sun at the moment of observation was $30^\\circ$.",
+     "paper_label": "Theoretical round (grade 11)"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "The binary pulsar PSR B1913+16 consists of two neutron stars with approximately equal masses of 1.4 solar masses, the mean distance between which is $2 \\cdot 10^6$ km. It is known that as a result of the emission of gravitational waves by the system, the orbital period of the system decreases by 80 microseconds per year. Estimate the ratio of the gravitational luminosity of PSR B1913+16 to its luminosity in the optical range, if it is known that it is located at a distance of 7 kpc from the Sun and its brightness in the optical range is $+22^m$.",
+     "paper_label": "Theoretical round (grade 11)"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "According to The Silmarillion, the elves appeared in Middle-earth, awakening by the waters of the lake Cuiviénen under the light of the stars, before the Sun and the Moon were created. Assuming that the illuminance from the stars was equal to the illuminance from the (terrestrial) full Moon, estimate how many times more stars should be visible to the naked eye in the sky of Arda.",
+     "paper_label": "Theoretical round (grade 11)"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "A binary star consists of identical components with a radius of 1.3 solar radii and a temperature of 6500 K, revolving in a circular orbit of radius 1.2 au. Can a planet located in the \"habitable zone\" (where water can exist in the liquid state on the surface) revolve around one of the components, if the geometric albedo of the planet is 0.3?",
+     "paper_label": "Theoretical round (grade 11)"
+    },
+    {
+     "day": 2,
+     "number": 1,
+     "problem": "You are given a light curve (in the optical range) of the eclipse of a certain star by its planet, which belongs to the class of hot Jupiters. The graph shows that the planet passes over a cool spot on the disc of the star (marked \"spot\"). It is known that the apparent magnitude of the star is $m = 11^m.8$, the star belongs to class K0 V, and if there were no spot on it, its normalized flux would be $F = 1.015$.\n\nAssuming the spot to be round and larger than the planet, determine the temperature and the radius of the spot, as well as the radius of the planet.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/spb-2016-d2-q1-1.png",
+     "paper_label": "Practical round (grade 11)"
+    }
+   ]
+  },
+  {
+   "year": 2017,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "The Austrian astronomer J. von Littrow, who worked in Russia, proposed, in order to communicate with Martians, to dig canals in the Sahara, fill them with a mixture of water and kerosene and set them on fire. Suppose that letters 500 km in size each are \"written\" in this way. Estimate the minimum diameter of the objective of a telescope whose angular resolution is sufficient to read such a text from Mars.",
+     "paper_label": "Theoretical round (grade 11)"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "Suppose that as a result of a catastrophe the Sun instantly contracted so much that the period of its axial rotation became equal to 3 seconds. Estimate the mean temperature of the Sun immediately after the cataclysm. Assume that there were no heat losses during the contraction and no interaction with any other bodies.",
+     "paper_label": "Theoretical round (grade 11)"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "When processing the data on the detection of neutrinos from the supernova in the Large Magellanic Cloud (LMC) on 23.02.1987, it was suggested that the neutrinos were \"late\" by 50 minutes relative to the expected moment because the speed of the neutrinos was slightly less than the speed of light in vacuum. Within this assumption, estimate the mass of the neutrino, if it is known that the energy of each of the detected neutrinos was about $10^{-12}$ J. The distance to the LMC is 50 kpc.",
+     "paper_label": "Theoretical round (grade 11)"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "In the outburst of the supernova SN1987A an energy of $10^{46}$ J was released. Estimate the mass of a star that will radiate the same amount of energy during its whole life on the main-sequence stage.",
+     "paper_label": "Theoretical round (grade 11)"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "\"Thus Elwë and Melian stood, while the wheeling starry firmament above them counted long years. And the trees of Nan Elmoth grew taller and darker before Melian and Elwë spoke a single word.\"\n\nSuppose that they stood at the centre of a glade 30 m in diameter, that the trees of Nan Elmoth grew at a rate of 0.5 m/yr, and that at the moment of the meeting the height of the trees did not exceed 15 m. After what time will the amount of starlight reaching the glade (it seems the Sun and the Moon had not yet been created then) decrease by half? You may assume that the stars are uniformly distributed over the celestial sphere of Arda.",
+     "paper_label": "Theoretical round (grade 11)"
+    },
+    {
+     "day": 2,
+     "number": 1,
+     "problem": "You are given a map on which the X-ray sources X-1 and X-2 located in the galaxy NGC 1313 in the constellation Reticulum are marked. Declination is plotted along the vertical axis of the map, and right ascension along the horizontal axis. In addition, on a separate sheet the spectra of the sources are given, in which the spectral flux densities of the received radiation are expressed in units of the \"Crab\", the X-ray emission of the Crab Nebula, $1\\ \\text{Crab} = 2.6 \\cdot 10^{-11}\\ \\mathrm{W/(m^2 \\cdot keV)}$. The distance to NGC 1313 is 3.7 Mpc. Just in case, we mention that 1 keV is a unit of energy equal to $1.6 \\cdot 10^{-16}$ J.\n\nDetermine the minimum possible luminosities of these sources. Assuming that the radiation of both sources is produced by the accretion (i.e. infall) of hydrogen plasma onto a compact object, estimate the minimum possible masses of these objects. What are these objects? Could the outburst of the supernova SN 1978K, shown on the map, in the same galaxy be the cause of the emission of these objects?\n\nYou may assume that a photon collides with an electron of the plasma if it falls within the \"cross-section of the electron\" $\\sigma_T = 6.6 \\cdot 10^{-25}\\ \\mathrm{cm^2}$ (it is called the Thomson cross-section of the electron); the interaction of protons with photons may be neglected.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/spb-2017-d2-q1-1.png\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/spb-2017-d2-q1-2.png",
+     "paper_label": "Practical round (grade 11)"
+    }
+   ]
+  },
+  {
+   "year": 2019,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "An artificial Earth satellite moves in a circular orbit at an altitude of 200 km and passes through the zenith. Find the time during which its observed angular velocity will be greater than half of the maximum.",
+     "paper_label": "Theoretical round (grade 11)"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "The \"comet hunter\" Charles Messier, who worked in Paris, compiled his famous catalogue of nebulous objects at the end of the 18th century from observations with several telescopes, on average equivalent to a refractor with an entrance aperture of 6 cm under ideal conditions. The catalogue includes, in particular, 28 spiral galaxies. Estimate the total number of spiral galaxies in which, with modern optical telescopes, it is in principle possible to observe individual stars (not counting flaring ones).",
+     "paper_label": "Theoretical round (grade 11)"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "The American satellite Vanguard-1 is the fourth artificial satellite of the Earth. It is an aluminium sphere 16 cm in diameter with six long thin antennas. The satellite was launched on 17 March 1958 into an orbit with an orbital period of 134 minutes, eccentricity $e = 0.184$ and inclination $i = 34^\\circ.2$. When is it easier to see the satellite when observing from St Petersburg: at apogee or at perigee? Take the albedo of aluminium to be equal to one.",
+     "paper_label": "Theoretical round (grade 11)"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "It is known that the concentration of photons emitted by a black body, immediately next to this body, can be calculated as $n \\approx 20\\,T^3$ (where the temperature is given in kelvins and the concentration is expressed in $\\mathrm{cm^{-3}}$). Estimate the total number of photons present at the given moment inside the Galaxy.",
+     "paper_label": "Theoretical round (grade 11)"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "A spacecraft is in geostationary orbit around the Earth. The specific impulse of its engine is 4500 m/s. The mass of the spacecraft without fuel is one tonne. The mass of the fuel is 6.4 tonnes. Will it be able to leave the Solar System? If not, why not? If yes, how?",
+     "paper_label": "Theoretical round (grade 11)"
+    },
+    {
+     "day": 2,
+     "number": 1,
+     "problem": "The asteroid 54509 YORP rotates non-uniformly about its axis. The graph below shows the correction to the phase angle in degrees (as a function of time) that must be added to the dependence of the phase angle on time for uniform rotation in order for the result to agree with the observational data. Determine the form of the dependence of the observed phase angle on time and find the parameters of this dependence. Suggest possible causes of such non-uniformity.\n\nTime in days (starting from 27 July 2001) is plotted along the abscissa, and the correction to the phase angle in degrees along the ordinate. The labels of the points on the graph are the years in which the corresponding data were obtained.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/spb-2019-d2-q1-1.png",
+     "paper_label": "Practical round (grade 11)"
+    },
+    {
+     "day": 2,
+     "number": 2,
+     "problem": "The series of images of the Earth on the next page was taken by a spacecraft moving in a circular orbit around the Moon. Estimate the altitude above the lunar surface at which the spacecraft was flying, if it is known that the time interval between adjacent images is 8 seconds. You may assume that the mass of the Moon is 81 times smaller than the mass of the Earth, and its diameter is 4 times smaller than the diameter of the Earth.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/spb-2019-d2-q2-1.png",
+     "paper_label": "Practical round (grade 11)"
+    }
+   ]
+  },
+  {
+   "year": 2020,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "The gnomon (the rod in the centre) of a horizontal sundial is vertical. The length of the noon shadow of the gnomon changes during the year by two gnomon lengths. Determine the latitude at which the sundial is located.",
+     "paper_label": "Theoretical round (grade 11)"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "In 2003 a companion with an orbital period of 0.03 days and a mass of 14.5 Jupiter masses was discovered around the pulsar XTE J1807-294 (mass 1.4 solar masses). What can be said about the matter of which the companion consists? Justify your point of view.",
+     "paper_label": "Theoretical round (grade 11)"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "The LIGO gravitational telescopes at Livingston ($30^\\circ 33'$ N, $90^\\circ 47'$ W) and Hanford ($46^\\circ 27'$ N, $119^\\circ 25'$ W), as well as the VIRGO gravitational telescope ($43^\\circ 38'$ N, $10^\\circ 30'$ E), registered a gravitational signal on 31 December at $22^h00^m$ UT (Universal Time), and the moments of registration at all three telescopes differed by no more than $3 \\cdot 10^{-3}$ seconds. Then, within half an hour, the optical afterglow of a gamma-ray burst associated with the gravitational signal was registered at the Special Astrophysical Observatory of the Russian Academy of Sciences ($43^\\circ 40'$ N, $41^\\circ 26'$ E). Determine the approximate equatorial coordinates of the source of the gravitational signal.",
+     "paper_label": "Theoretical round (grade 11)"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "An absorption line of titanium oxide is observed in the spectrum of a star. The laboratory wavelength of this line is 5170.7 Å; at the centre of the disc the observed wavelength is 5174.1 Å, and at the edge of the disc on the equator the line has a wavelength of 5174.2 Å. The density of the star is known and equals $0.7\\ \\mathrm{g/cm^3}$. Estimate the smallest possible luminosity of this star.",
+     "paper_label": "Theoretical round (grade 11)"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "A protoplanetary disc is a fairly thin gas disc rotating around a young star. Assuming the disc to be in thermodynamic and hydrostatic equilibrium, find the dependence of the density of matter on the height above the plane of symmetry of the disc at a distance $r$ from the star measured in the plane of symmetry. The mass of the star $M$, the temperature of the disc $T$ and the molar mass of the disc gas $\\mu$ are known.",
+     "paper_label": "Theoretical round (grade 11)"
+    },
+    {
+     "day": 2,
+     "number": 1,
+     "problem": "You are given light curves in the B, V and R bands of two type Ia supernovae that flared up in two spiral galaxies. On the graphs the dates of observation in the format month/day are plotted along the abscissa, and the apparent magnitudes in the corresponding bands along the ordinate. Images of the galaxies (negatives) and their equatorial coordinates are presented below.\n$$\\begin{array}{|c|c|c|}\\hline \\text{Galaxy} & \\alpha & \\delta \\\\ \\hline 1 & 14^h03^m & +54^\\circ 21' \\\\ \\hline 2 & 09^h56^m & +69^\\circ 41' \\\\ \\hline \\end{array}$$\nDetermine the distances to both galaxies, if it is known that the absolute magnitude of type Ia supernovae at maximum light in the V band is $-19^m$.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/spb-2020-d2-q1-1.png\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/spb-2020-d2-q1-2.png",
+     "paper_label": "Practical round (grade 11)"
+    }
+   ]
+  },
+  {
+   "year": 2021,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "A geostationary satellite had to be transferred to a new orbit by means of a two-impulse transfer. It was intended that the first impulse would give the satellite a velocity increment of 10%, and the second impulse, half a period of the intermediate orbit later, would decrease the velocity by 10%. But something went wrong and the impulses were swapped. Determine the difference between the orbital periods of the intended new orbit and the new orbit actually obtained.",
+     "paper_label": "Theoretical round (grade 11)"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "There is a well-known joke:\n\nMy sister and I are standing in the street in the evening, admiring Sirius, the brightest star of the night sky. I say to her:\n\"Let's go a bit closer so that we can see it better.\"\nAnd off we went. About 30 seconds later it dawned on her.\n\nSuppose this takes place at latitude $+28^\\circ$ at New Year's midnight, and the pedestrians move at a speed of 1 m/s. Estimate the change in the apparent magnitude of Sirius. The coordinates of Sirius are $\\alpha = 6^h45^m$, $\\delta = -17^\\circ$.",
+     "paper_label": "Theoretical round (grade 11)"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "An Earth-sized planet with a rarefied atmosphere moves in a circular orbit with a period of 4 years around a main-sequence star with a mass of 2 solar masses; the planet rotates about its axis, which is perpendicular to the plane of the orbit, in 20 hours. On the equator of this planet there is a research station, for whose needs a solar panel with an area of $100\\ \\mathrm{m^2}$ and an efficiency of 10% has been installed next to it. The panel is at rest on the surface of the planet and lies in a horizontal plane. How much energy does the panel produce per day?",
+     "paper_label": "Theoretical round (grade 11)"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "A star and a spherical homogeneous nebula are observed in the same direction on the sky, and the nebula is illuminated by the star. It is known that the integrated apparent magnitude of the nebula and the apparent magnitude of the star coincide and are equal to $5^m.7$, the distance to the star is 0.31 kpc, and the absolute magnitude of the star is $-2^m.5$. Estimate the distance between the centre of the nebula and the star. Which of them is closer to us?",
+     "paper_label": "Theoretical round (grade 11)"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "An accreting neutron star has a luminosity of $10^{30}$ W, a mass of $1.4\\,\\mathfrak{M}_\\odot$ and a radius of 10 km. Measurements of the spectrum of the neutron star showed the presence of a cyclotron line with a photon energy of 30 keV (the frequency of the radiation corresponds to the frequency of revolution of an electron in the magnetic field); the gravitational redshift has already been taken into account. It is known that at the boundary of the magnetosphere the dynamic pressure of the infalling matter is balanced by the pressure of the magnetic field. Assuming the accretion to be spherically symmetric and taking into account that the cyclotron line forms near the surface of the star, and that the magnetic induction depends on the distance from the centre of the star as $B \\propto r^{-3}$, estimate the radius of the magnetosphere of this star. The pressure of the magnetic field can be found from the formula $p = \\kappa B^2$, where $\\kappa = 4 \\cdot 10^5\\ \\mathrm{Pa/T^2}$.",
+     "paper_label": "Theoretical round (grade 11)"
+    },
+    {
+     "day": 2,
+     "number": 1,
+     "problem": "You are given a graph of the light curve (the observations were obtained with the Spitzer telescope) produced by the transit of a planet across the disc of the star Gaia DR2 2146576589564898688. A detailed analysis showed that this planet has an orbital period of 1.4 days with a circular orbit radius of 3 million km. The angle between the line of sight and the normal to the plane of the orbit is $88^\\circ.8$. On the basis of these parameters, estimate the radii of the star and the planet, and also determine to which types the star and the planet belong.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/spb-2021-d2-q1-1.png",
+     "paper_label": "Practical round (grade 11)"
+    }
+   ]
+  },
+  {
+   "year": 2022,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "Two identical simple pendulums are installed at the equator and at the pole of a planet that has the shape of a sphere. The period of oscillation of the pendulum at the equator is 2% longer than at the pole. If the pendulum at the pole is raised to a height of 130 km, the periods of oscillation of the pendulums become equal. The planet makes one rotation about its axis in 10 Earth hours. What is the maximum speed at which one can move over the surface of such a planet without using engines?",
+     "paper_label": "Theoretical round (grade 11)"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "Two binary stars whose components are resolvable in the optical range are observed in the sky. It is known that of the four stars forming these systems, two are dwarfs and two are giants, two are red and two are blue; the luminosities of the two giants are equal, and the luminosities of the two dwarfs are also equal. Determine which star belongs to the same system as which. Which of these two systems is older?",
+     "paper_label": "Theoretical round (grade 11)"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "Estimate the minimum distance beyond which galaxies will not show a blueshift of the lines in their spectra.",
+     "paper_label": "Theoretical round (grade 11)"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "In observations of a binary system one of whose components is a white dwarf, it was found that the H$\\alpha$ line is displaced with a semi-amplitude of 0.46 ångströms. In addition, dips in brightness with a period of 0.5 years are recorded in the V band. Within what limits can the mass of the white dwarf's companion star lie? The line of sight lies in the orbital plane of the system; the orbits are circular.",
+     "paper_label": "Theoretical round (grade 11)"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "In 1961, when calculating the trajectories of orbiting satellites, Soviet engineers modelled the potential of the oblate Earth by means of two non-gravitating masses (each equal to half the mass of the Earth) located at some distance from each other along the Earth's rotation axis. The modern model of the Earth's potential in the third approximation is described by the formula\n$$V(r,\\varphi) = \\frac{GM_\\oplus}{r}\\left[1 - J_2\\left(\\frac{R_\\oplus}{r}\\right)^2\\frac{3\\sin^2\\varphi - 1}{2}\\right],$$\nwhere $r$ is the distance from the centre of the Earth to the given point, $\\varphi$ is the latitude, $G$ is the gravitational constant, $M_\\oplus$ and $R_\\oplus$ are the mass and radius of the Earth, and $J_2 \\approx 1.08 \\times 10^{-3}$ is a coefficient. Determine the distance between these two masses.",
+     "paper_label": "Theoretical round (grade 11)"
+    },
+    {
+     "day": 2,
+     "number": 1,
+     "problem": "You are given the radial velocity curve of a binary system consisting of two main-sequence stars. The line of sight lies in the plane of the orbit, and the line of apsides (connecting the periastra and apastra of the orbits) is perpendicular to the line of sight. Find the parameters of the system: the masses of the stars, the period and the semi-major axis of the system, and the eccentricity of the orbit. Determine the apparent magnitudes of the system at maximum and at the minima of brightness. The annual parallax of the system is $\\pi = 0''.05$; consider the stars to be spherically symmetric; the effects of heating and limb darkening may be neglected.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/spb-2022-d2-q1-1.png",
+     "paper_label": "Practical round (grade 11)"
+    }
+   ]
+  },
+  {
+   "year": 2023,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "Estimate the minimum time needed to detect, in ground-based observations with a very-long-baseline radio interferometer, the aberration associated with the motion of the Solar System around the centre of the Galaxy.",
+     "paper_label": "Theoretical round (grade 11)"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "A star of apparent magnitude $4^m$ is located at a distance of 100 pc from the Sun. The temperature of the star is estimated to be $15 \\cdot 10^3$ K, its mass is 5 solar masses, and its bolometric correction is $-1^m.5$. It is known that the rotation speed of the star at the equator is $2.0 \\cdot 10^2$ km/s. Estimate the difference between the equatorial and polar radii of the star.",
+     "paper_label": "Theoretical round (grade 11)"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "Electrons near the surface of a neutron star, moving in the magnetic field, absorb the thermal radiation of the star at the cyclotron frequency; as a result, an absorption line corresponding to a photon energy of $8 \\cdot 10^2$ eV appears in the X-ray range of the observed spectrum of the star. Determine the magnetic induction of the neutron star if it is known that its mass is $1.4\\,M_\\odot$ and its radius is 10 km.",
+     "paper_label": "Theoretical round (grade 11)"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "In order to study the burning of comets in the outer layers of the solar atmosphere, 20 spacecraft were launched into the same heliocentric orbit. The orbit lies in the plane of the ecliptic, its semi-major axis is 0.25 au, its eccentricity is 0.6, and the spacecraft are distributed along the orbit approximately uniformly. At a certain moment it turned out that the angular distances between the comet under study and a certain reference star, as observed from all the spacecraft, were the same and equal to $33^\\circ$. Determine the ecliptic latitude of the reference star, as well as the distance from the Sun to the comet under study at the moment described.",
+     "paper_label": "Theoretical round (grade 11)"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "A planet orbits a star of class G2V. During observation of a transit of the planet across the disc of the star, which lasted 3 hours, the brightness of the system at minimum was 97% of the initial brightness of the star. Approximately in the middle of the transit an increase in brightness was observed; at the local maximum, which lasted less than 2 minutes, the brightness reached 98% of the initial value. Find the cause of the increase in brightness during the transit and estimate the physical characteristics of this cause that can be obtained from the available data.",
+     "paper_label": "Theoretical round (grade 11)"
+    },
+    {
+     "day": 2,
+     "number": 1,
+     "problem": "On a separate sheet you are given an image of the disc of the spiral galaxy UGC 11914 (left) in the R filter (therefore the spiral arms are not visible). The solid black lines show isophotes (lines of equal surface brightness). The right image is the position–velocity diagram along the major axis for the same galaxy (the velocity is given relative to our Galaxy). The brightness indicates the amount of matter at a given distance moving with a given radial velocity (the darker, the more matter). The position of the centre of the disc is marked by dashed lines.\n\n• Determine the inclination of the galaxy to the plane of the sky and the position angle corresponding to the position of its major axis (the position angle is measured from the direction to the north counterclockwise).\n\n• Estimate the distance to the galaxy.\n\n• Construct the rotation curve of the galaxy (the dependence of the linear rotation speed on the distance from the centre).\n\n• Estimate the mass of the bulge and the mass of the whole galaxy.\n\n• Identify on the rotation curve two segments associated with the bulge and the halo. Neglecting the flat component (the disc) and assuming the density distribution to be spherically symmetric, determine the dependence of the density on the radius.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/spb-2023-d2-q1-1.png",
+     "paper_label": "Practical round (grade 11)"
+    }
+   ]
+  },
+  {
+   "year": 2024,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "At the end of the story \"The Lilac Ball\" the good wizard Ooh threw the sinister ball created by aliens straight at the Sun. Assuming that this happened at solar noon and that Ooh did not know celestial mechanics very well and aimed exactly in the direction of the Sun, estimate the minimum speed relative to the Earth that he had to give the ball. The Earth's orbit may be considered circular; neglect relativistic effects.",
+     "paper_label": "Theoretical round (grade 11)"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "As is well known, the positions of stars observed near the Sun during a total solar eclipse are deflected from their true positions by $1''.75$. Find a general formula that allows one to calculate the minimum focal length of a spherically symmetric gravitational lens of mass $M$ and radius $R$, if it is known that the focal length is inversely proportional to the mass of the lens.",
+     "paper_label": "Theoretical round (grade 11)"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "In a certain spiral galaxy the H$\\alpha$ line is observed at a wavelength of 7900 Å, and the width of this line is 16 Å. Estimate the apparent magnitude of this galaxy.",
+     "paper_label": "Theoretical round (grade 11)"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "Estimate the rotation period of the Sun about its axis if Jupiter falls onto it. You may assume that during the fall the orbital radius changes sufficiently slowly, that there is no interaction with other bodies, and that the evolution of the Sun can be neglected.",
+     "paper_label": "Theoretical round (grade 11)"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "Nasreddin (to the sage):\nAre you ready (say it definitely!)\nTo count all the stars in the heavens?\n\nThe sage (calmly):\nWhat is there to count? There are three hundred million\nSix hundred fifteen thousand two hundred five of them!\n\nNasreddin (unpleasantly struck):\nQuite precise. You know, it is very strange,\nBut you are not at all such an idiot\nAs you look...\n\nL. Filatov, \"The Troublemaker\"\n\nSuppose the sage really does observe exactly 300 615 205 stars. Try, as accurately as possible, to determine the limiting magnitude (penetrating power) of the observing instrument used by the sage. Assume that he observes only in the optical range.",
+     "paper_label": "Theoretical round (grade 11)"
+    },
+    {
+     "day": 2,
+     "number": 1,
+     "problem": "You are given the apparent trajectory of an object observed from the Earth on the celestial sphere. The dates next to the positions of the object are given either in the format \"month/day\" (if the second number has no more than two digits) or in the format \"month/year\" (if the second number has four digits). The size of the circles is proportional to the angular size of the object on the given date. You are also given a map of the celestial sphere (in equatorial coordinates).\n\nDetermine the elements of the object's orbit around the Sun: the semi-major axis, the eccentricity, the inclination, the longitude of the ascending node and the argument of perihelion. From these data find the semi-minor axis of the orbit, as well as the distance between the object and the Sun and the speed of the object at perihelion. What else can you say about this object?\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/spb-2024-d2-q1-1.png\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/spb-2024-d2-q1-2.png",
+     "paper_label": "Practical round (grade 11)"
+    }
+   ]
+  },
+  {
+   "year": 2025,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "Two compact massive elliptical galaxies are known; one of them has a cosmological redshift $z_1 \\approx 3$, and the second is located in the local Universe (its $z_2 \\approx 0$). Assuming the galaxies to be completely identical, estimate by what factor their observed bolometric surface brightnesses differ.",
+     "paper_label": "Theoretical round (grade 11)"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "A globular star cluster has a radius of 20 pc and consists of $10^6$ stars similar to the Sun. At the initial moment a certain star is located 3 pc from the centre of the cluster and moves in the direction perpendicular to the direction towards the centre of the cluster with a speed of 10 km/s. Estimate the maximum distance from the centre of the cluster at which the star can be found, and the time (counted from the initial moment) after which this will happen. The cluster is homogeneous: the concentration of stars in the cluster is the same everywhere.",
+     "paper_label": "Theoretical round (grade 11)"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "A planet with the mass and mean radius of the Earth has been discovered around a red dwarf of mass $0.35\\,\\mathfrak{M}_\\odot$. It is known that the orbital period of the planet is 6 hours. Estimate the ratio of the minimum and maximum radii of the planet.",
+     "paper_label": "Theoretical round (grade 11)"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "In the central part of a nebula around a young star of spectral class O5 ($T_\\mathrm{O} = 4 \\cdot 10^4$ K) a region of ionized hydrogen (HII) is observed. At the edge of the same nebula there is a star of spectral class B2 ($T_\\mathrm{B} = 2 \\cdot 10^4$ K), also surrounded by an HII region whose angular size is 2 times larger than the angular size of the first region. Estimate by what factor the hydrogen concentrations in these regions differ. You may assume that the characteristic temperatures of the HII regions are practically the same.",
+     "paper_label": "Theoretical round (grade 11)"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "Oscillations characterized by an angular frequency $\\omega$ and a number $m$, which determines the dependence of the properties of these oscillations on the azimuthal angle $\\phi$, can be excited in a neutron star. The oscillations can lead to the emission of gravitational waves, and the rates of loss of angular momentum $\\dot J$ and of total energy of the system $\\dot E$ are related by\n$$\\dot E = -\\frac{\\omega}{m}\\dot J.$$\nAssuming that the energy of a star rotating with angular velocity $\\Omega$ can be represented as the sum of the rotational energy and the energy associated with the oscillations, find the condition under which the emission of gravitational waves will lead to the growth of the oscillations. The answer must be expressed in terms of the variables $m$, $\\omega$ and $\\Omega$.",
+     "paper_label": "Theoretical round (grade 11)"
+    },
+    {
+     "day": 2,
+     "number": 1,
+     "problem": "You are given a light curve obtained while observing the beginning of an occultation of a certain star by the Moon (the dots show the actual results of individual illuminance measurements, the solid line the light curve itself). Determine within what limits the angular diameter of the star may lie. Explain why the light curve has this shape.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/spb-2025-d2-q1-1.png",
+     "paper_label": "Practical round (grade 11)"
+    }
+   ]
+  },
+  {
+   "year": 2026,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "Determine by what factor the apparent angular area of the Sun at the zenith would change compared with the case where the Earth had no atmosphere. Will the mean surface brightness of the solar disc increase or decrease in this case? It is known that for small zenith distances $z$ the refraction $\\rho$ can be determined by the formula $\\rho \\approx 60'' \\tan z$.",
+     "paper_label": "Theoretical round (grade 11)"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "As is well known, Polaris has an apparent magnitude of $+2^m$ and an annual parallax of $0''.0075$. Using an optical interferometer, the disc of the star is observed at the wavelength corresponding to the maximum of the energy distribution in its spectrum. Estimate the minimum interferometer baseline needed to resolve the disc of the star.",
+     "paper_label": "Theoretical round (grade 11)"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "The Nançay radio telescope (France) is a meridian instrument. The primary flat mirror (it stands perpendicular to the ground but can be tilted depending on the altitude of the observed object), 200 m wide, is located in the north, and the secondary spherical mirror (radius of curvature 560 m, diameter 300 m, height 35 m) is in the south, at a distance of 460 m from the primary. The receiving equipment can move along the focal surface. Determine the duration of observation of the unvignetted Sun on the day of the autumnal equinox.",
+     "paper_label": "Theoretical round (grade 11)"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "The James Webb Space Telescope has two sides, a \"hot\" one at a temperature of 360 K and a \"cold\" one at a temperature of 40 K, separated by a flat protective shield measuring $21.1 \\times 14.6$ m. Estimate the additional acceleration that the telescope acquires because of this shield.",
+     "paper_label": "Theoretical round (grade 11)"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "Consider the process of steady infall of hydrogen plasma onto the poles of a neutron star. The infalling matter consists of electrons, which can move only along the magnetic field lines, and an ordinary proton gas. Assume that the plasma moves in free fall along the field lines in a narrow cylinder of constant cross-section, perpendicular to the surface of the neutron star at the pole, and that the temperatures of the electrons and protons located at the same height above the surface of the star are equal. Find the ratio of the plasma temperature at a height equal to one radius of the neutron star to the temperature at the surface. You may assume that during its motion the plasma does not radiate and does not interact with the surrounding medium, i.e. the infall is adiabatic.",
+     "paper_label": "Theoretical round (grade 11)"
+    },
+    {
+     "day": 2,
+     "number": 1,
+     "problem": "The Great Debate was a 1920 discussion devoted to the structure of the Milky Way and the existence of other galaxies (at that time known mostly as \"spiral nebulae\"). During the Great Debate the participants, Harlow Shapley and Heber Curtis, put forward many arguments in favour of their points of view.\n\nSome of the arguments are given below. Consider them and explain which of them turned out to be irrelevant, wrong or not quite accurate, and why.\n\n1. Globular star clusters are distributed non-uniformly on the sky, and this indicates that the Solar System is located far from the centre of the Galaxy. The period–luminosity relation for Cepheids in globular clusters indicates that the distance to the centre of the Galaxy is 20 kpc and its diameter is at least 60 kpc.\n\n2. \"Spiral nebulae\" cannot be similar to the Milky Way, since the surface brightness at their centres is much higher than at any point of the Milky Way.\n\n3. In 1885 a nova, S Andromedae, flared up in the Andromeda Nebula. It reached a brightness of $+6^m$, and the absolute magnitude of such objects is $-6^m \\div -9^m$, therefore its distance could not exceed the size of the Milky Way.\n\n4. From observations over 25 years, rotation was detected in \"spiral nebulae\": the observed proper motions were about $0''.1$/yr. If they were located far from the Milky Way, this would mean unrealistically large linear velocities of their motion.\n\n5. The large radial velocities of \"spiral nebulae\" arise because of the light pressure exerted on them by the Milky Way.\n\n6. Star counts in various directions indicate that the concentration of stars decreases with distance from the Sun; therefore the Solar System is located near the centre of the Galaxy, whose size does not exceed 10 kpc.\n\n7. \"Spiral nebulae\" are not observed in the plane of the Milky Way disc, since it is surrounded by a ring of dust that absorbs light.",
+     "paper_label": "Practical round (grade 11)"
+    }
+   ]
+  }
+ ]
+}
