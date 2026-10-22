@@ -1,0 +1,241 @@
+{
+ "competition": "TÜBİTAK Science Olympiads — Astronomy and Astrophysics, second stage (Turkey)",
+ "years": [
+  {
+   "year": 2022,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "Question 1.\n\nHow the densities of the thin-disc and thick-disc stellar populations of the Milky Way disc decrease with distance from the Galactic plane in the vertical direction can be expressed with the following density model:\n$$\\rho_i(z) = n_i \\exp\\left(-\\frac{|z|}{H_i}\\right)$$\nHere $i = 1$ denotes the thin disc and $i = 2$ the thick disc, $z$ the perpendicular distance of the stars from the Milky Way plane, $\\rho_i(z)$ the density of the thin- or thick-disc population as a function of the perpendicular distance, $n_i$ the density of the thin- or thick-disc population in the solar neighbourhood, and $H_i$ the scale height that describes the exponential decrease of the thin- or thick-disc population perpendicular to the Milky Way plane.\n\nAssume that the scale height of the thin disc is 275 pc, the scale height of the thick disc is 850 pc, and the ratio of the density of the thick disc in the solar neighbourhood to that of the thin disc in the solar neighbourhood is 0.08.\n\nA) (4 points) At what perpendicular distance, in parsecs, are the densities of thin-disc and thick-disc stars equal?\n\nB) (3 points) What is the density of the thin-disc population at the perpendicular distance found in A?\n\nC) (3 points) The distance of the Sun from the centre of the Milky Way is about 8.5 kpc and its rotation velocity around the Milky Way centre is 220 km/s. Assuming that a large part of the mass of the Milky Way lies within a radius of 8.5 kpc, calculate the mass of the Milky Way.\n\nD) (5 points) The Tully–Fisher Relation (TFR) states that there is a linear relation between the absolute brightnesses of spiral galaxies and their maximum rotation velocities. In the galaxy NGC 3627 (type: SBb), a Cepheid variable with a pulsation period of 41 days is observed to have $m = 22$ mag. Given that the total apparent brightness of the galaxy is $m_\\mathrm{gal} = 8.92$, neglecting extinction, calculate the maximum rotation velocity ($V_\\mathrm{max}$) of NGC 3627.\n\nPeriod–Luminosity Relation (PLR): $M = -2.43 \\times \\log_{10}(P) - 4.05$\n\nTully–Fisher Relation (TFR): $M_\\mathrm{gal} = -10.2 \\times \\log_{10} V_\\mathrm{max} + 2.71$\n\nE) (5 points) At the centre of the Milky Way Galaxy there is a supermassive black hole called Sgr A*, whose Schwarzschild radius is known to be $R_S = 0.08$ AU. At the centre of the Galaxy, the star called S2 orbits in the orbit closest to Sgr A*. Taking the length of the semi-major axis of the orbit of S2 as $a$, what must the ratio $a/R_S$ be for S2 to have an orbital period of about 16 years?",
+     "paper_label": "Second stage"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "Question 2.\n\nAssume that you are observing from the Earth a spacecraft orbiting a distant planet in a circular orbit of radius 100 000 km, and that you are looking along the orbital plane of the spacecraft. You observed that the wavelength of the radio signal sent from the spacecraft varies periodically between 2.99964 m and 3.00036 m.\n\nA) (2 points) Assuming that the radio transmitter of the spacecraft works normally, find the constant wavelength of this emission.\n\nB) (5 points) Find the orbital speed of the spacecraft relative to you.\n\nC) (3 points) Find the orbital period of the spacecraft.\n\nD) (5 points) Find the mass of this distant planet.\n\nE) (2 points) If the star of this planet emits its energy most intensely at a wavelength of 579.6 nm, find the surface temperature of the star.\n\nF) (3 points) If $R_\\star/R_\\odot = 0.7$, calculate the total luminosity of the star in units of $L_\\odot$.",
+     "paper_label": "Second stage"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "Question 3.\n\nConstellations are groups of stars formed by people, years ago, by grouping the bright stars they saw in the night sky, and named mostly after mythological stories. The constellations that can be seen in the sky differ according to the location of the observer and the time of observation.\n\nA) (6 points) Write the names of the constellations formed by the star symbols given below, together with the abbreviation given under them.\n\nB) (4 points) Write the names of the constellations that form the Summer Triangle asterism.\n\nFor the constellations you may use English or Latin, or Turkish if you know it. Instead of the constellation names you may give their international abbreviations.\n\nThe focal ratio of a telescope is given as the ratio of the focal length of the telescope mirror to the diameter of the telescope mirror, and is written in the form \"f/focal ratio\". The magnifying power of the telescope is defined as the ratio of the focal length of the telescope to the focal length of the eyepiece used in the telescope.\n\nC) (5 points) If a magnification of 960 times is obtained with a 25 mm eyepiece on a telescope of focal ratio f/10, calculate the mirror diameter of this telescope.\n\nD) (5 points) If this telescope is placed in an Earth orbit at an altitude of 559 km so as to observe at a wavelength of 550 nm, at least how many centimetres apart must two objects on the Earth's surface be for it to see them separately?\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/tr-2022-q3-1.png",
+     "paper_label": "Second stage"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "Question 4.\n\nThe Sun produces its energy by nuclear reactions in its centre. These reactions can be described briefly by the following equations:\n$$^{1}\\mathrm{H} + {}^{1}\\mathrm{H} \\rightarrow {}^{2}\\mathrm{H} + e^{+} + \\nu$$\n$$^{2}\\mathrm{H} + {}^{1}\\mathrm{H} \\rightarrow {}^{3}\\mathrm{He} + \\gamma$$\n$$^{3}\\mathrm{He} + {}^{3}\\mathrm{He} \\rightarrow {}^{4}\\mathrm{He} + {}^{1}\\mathrm{H} + {}^{1}\\mathrm{H}$$\nHere the superscripts show the total number of protons and neutrons in the nucleus, $e^{+}$ the positron, $\\nu$ the neutrino and $\\gamma$ the emitted gamma rays. As can be seen from the equations, two $^{3}\\mathrm{He}$ nuclei are needed for the third step to begin. For this, the first two steps must take place twice. The masses of the $^{1}\\mathrm{H}$ and $^{4}\\mathrm{He}$ nuclei are given respectively as: $1.6726 \\times 10^{-27}$ kg and $6.6447 \\times 10^{-27}$ kg.\n\nA) (5 points) Calculate the amount of mass converted into energy per reaction.\n\nB) (5 points) Given the luminosity of the Sun, calculate, with explanation, how many reaction chains per second are needed for it to produce this energy.\n\nC) (5 points) How is the energy produced by the nuclear reactions in the centre of the Sun transported to the surface of the Sun?\n\nD) (5 points) Explain the layers of the solar atmosphere, also indicating the temperature changes.",
+     "paper_label": "Second stage"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "Question 5.\n\nIn the databases, the parallax of $\\alpha$ Lyr (Vega), a Delta Scuti type variable star, is given as 130 mas (milliarcseconds) and its proper motion as 240 mas. Accordingly,\n\nA) (5 points) Calculate the tangential velocity of Vega.\n\nB) (5 points) Given that the calculated mean radial velocity of Vega is $-20.6\\ \\mathrm{km\\,s^{-1}}$, calculate the space velocity of the star.\n\nC) (5 points) If the laboratory wavelength of the hydrogen-alpha (Balmer) absorption line is 6563 Å, at what wavelength in ångströms is this line observed in the spectrum of Vega?\n\nD) (5 points) Explain, by drawing a model, what kind of change is expected in the measured radial velocities of the star because of its type of brightness variation.",
+     "paper_label": "Second stage"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "problem": "Question 6.\n\nThe arrangement \"Earth – inner planet – Sun\" is called inferior conjunction, the arrangement \"outer planet – Earth – Sun\" opposition, and the arrangement \"Earth – Sun – planet\" superior conjunction. The synodic period is the time interval between two successive occurrences of any one of these three configurations. The orbital period is the name given to the time between two successive arrivals of a planet at the same point of its orbit after completing one full revolution along its orbit relative to a fixed background star.\n\nA) (5 points) Show these three orbital configurations by drawing, in a single figure, the orbits of one inner planet, one outer planet and the Earth, which you may take to be Sun-centred and circular.\n\nB) (4 points) Denoting by $S$ the time between two successive inferior conjunctions of an inner planet, by $P$ the orbital period of the inner planet and by $E$ the orbital period of the Earth (1 year), derive the relation between these three parameters.\n\nC) (4 points) Denoting by $S$ the time between two successive oppositions of an outer planet, by $P$ the orbital period of the outer planet and by $E$ the orbital period of the Earth (1 year), derive the relation between these three parameters.\n\nD) (2 points) The most suitable time to observe an outer planet is opposition. Explain why.\n\nE) (5 points) Johannes Kepler, using the successive position observations of Tycho Brahe, determined the synodic period of Mars as $S = 780$ days. Using the expression you derived in C for an outer planet, calculate one orbital period of Mars (1 Martian year).",
+     "paper_label": "Second stage"
+    },
+    {
+     "day": 1,
+     "number": 7,
+     "problem": "Question 7.\n\n(20 points) The redshifts of 15 member galaxies of a galaxy cluster in the nearby universe have been measured (see Table). Using these measurements, find the velocity dispersion of the cluster ($\\sigma_V$) and the mass of the cluster ($M_{GK}$).\n\nHint: You may assume that the cluster is in dynamical equilibrium within a radius of 1.5 Mpc. If one standard deviation of the velocities of the galaxies is used for the velocity dispersion of the cluster, the mass of the cluster can be found by applying the virial theorem.\n$$M_{GK} = \\frac{3R_{GK}\\sigma_V^2}{G}$$\n$$\\begin{array}{|c|c|c|}\n\\hline\n\\text{Galaxy No} & \\text{Redshift} & \\text{Radial velocity (km/s)} \\\\\n\\hline\n1 & 0.07667 & \\\\\n2 & 0.07833 & \\\\\n3 & 0.08292 & \\\\\n4 & 0.08458 & \\\\\n5 & 0.07875 & \\\\\n6 & 0.08417 & \\\\\n7 & 0.07958 & \\\\\n8 & 0.08375 & \\\\\n9 & 0.07792 & \\\\\n10 & 0.08125 & \\\\\n11 & 0.07750 & \\\\\n12 & 0.07625 & \\\\\n13 & 0.07542 & \\\\\n14 & 0.08208 & \\\\\n15 & 0.08083 & \\\\\n\\hline\n\\end{array}$$",
+     "paper_label": "Second stage"
+    },
+    {
+     "day": 1,
+     "number": 8,
+     "problem": "Question 8.\n\nIf we assume that Phobos, the moon of Mars, moves in a circular orbit at an altitude of 5985 km above the surface of Mars:\n\nA) (5 points) Calculate the gravitational potential energy of the Phobos–Mars system.\n\nB) (5 points) Calculate the magnitude of the linear velocity of Phobos in its orbit.\n\nC) (5 points) Calculate the orbital period of Phobos around Mars.\n\nD) (5 points) Show that the virial theorem holds for the Phobos–Mars system.\n$$M_\\mathrm{Phobos} = 1.07 \\times 10^{19}\\ \\mathrm{g}$$\n$$M_\\mathrm{Mars} = 6.39 \\times 10^{26}\\ \\mathrm{g}$$\n$$R_\\mathrm{Mars} = 3390\\ \\mathrm{km}$$",
+     "paper_label": "Second stage"
+    }
+   ]
+  },
+  {
+   "year": 2023,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "Question 1.\n\nLet us assume that a Cepheid variable star is brightest when it is most contracted (at radius $R_1$) and faintest when it is most expanded (at radius $R_2$). Let us assume that during this cycle the star keeps its spherical shape and behaves like a perfect black body. During the pulsation period the apparent magnitude of the star varies between 3.46 and 4.08 mag, and the peak wavelength at which its thermal radiation peaks varies between 531.0 nm and 649.1 nm.\n\nA) (5 points) Find the ratio $R_1/R_2$ for the star.\n\nB) (5 points) Find the energy flux ($F_2$) of the star when it is most expanded ($R_2 = 4.95 \\times 10^{10}$ m).\n\nC) (5 points) Find the distance of the star in parsecs.",
+     "paper_label": "Second stage"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "Question 2.\n\n(20 points) In a spectroscopically observed galaxy cluster, the velocity dispersion of the member galaxies within a radius of 1 Mpc has been determined as $\\sigma = 750\\ \\mathrm{km\\,s^{-1}}$. Assuming that the mass found with the virial law represents the total mass of the cluster and that an average member galaxy has a mass of $10^{11}\\,M_\\odot$, find approximately how many member galaxies there are in this galaxy cluster.",
+     "paper_label": "Second stage"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "Question 3.\n\nComet orbits are generally very flattened; their eccentricities often take values close to 1, and even exceed 1 (hyperbolic orbits). Halley's comet, which last approached the Earth in 1986, has an orbital period $P = 76$ years and an eccentricity $e = 0.9673$.\n\nA) (3 points) What is the length of the semi-major axis of Halley's orbit?\n\nB) (5 points) Assuming that Halley interacts gravitationally only with the Sun, estimate the mass of the Sun.\n\nC) (6 points) Find the distances from the Sun of the perihelion and aphelion points of Halley's orbit.\n\nD) (6 points) The synodic period of Venus is $S = 584$ days. Starting from this information, compare the distance from the Sun of the perihelion point of Halley's orbit with that of Venus; which one is closer? Take the orbit of Venus to be a circle ($e = 0.007 \\sim 0$).",
+     "paper_label": "Second stage"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "Question 4.\n\n(30 points) The CMB photons, emitted when the Universe was about 380 000 years old, are detected today as ideal black-body radiation at a temperature of 2.7 K. In the situation in which the CMB photons could be observed in the near infrared in the K filter (central wavelength: 22 000 Å), what fraction of its present size was the size of the Universe?",
+     "paper_label": "Second stage"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "Question 5.\n\n(20 points) Take a homogeneous thin rod of mass $M = 36m$ and length $L$. The end 'O' of this rod is suspended so that the rod can rotate freely about this end. The rod is initially at rest.\n\nA body of negligible volume and mass $m$, moving in the direction shown in the figure with speed $v_0 = \\sqrt{37gL}$, sticks to the centre of mass of the rod (point A). The rod and the body together start to rise, rotating about point 'O'.\n\nIf the moment of inertia of the rod about the perpendicular axis through point 'O' is $I = \\frac{1}{3}ML^2$, calculate how high at most the other end of the rod (point B) can rise relative to its initial position.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/tr-2023-q5-1.png",
+     "paper_label": "Second stage"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "problem": "Question 6.\n\nA white dwarf of mass $1.34\\,M_\\odot$ is in a binary star system, and $4 \\times 10^{-7}\\,M_\\odot$ of matter per year is transferred from the companion star onto its surface.\n\nA) (8 points) If the mass transfer is assumed to continue at a constant rate, in how many years will the mass of the white dwarf reach the Chandrasekhar limiting mass?\n\nB) (12 points) If the white-dwarf mass reaches the limiting mass, why does a Type I supernova (carbon detonation) occur?\n\nC) (10 points) 90% of the total energy of the resulting supernova explosion is emitted steadily and isotropically (equally in all directions) in the first 25 days. Given that the flux of this first bright phase of the explosion observed from the Earth is measured as $5 \\times 10^{-11}\\ \\mathrm{J\\,m^{-2}\\,s^{-1}}$, calculate the distance of the exploding white dwarf from the Earth in light years.",
+     "paper_label": "Second stage"
+    },
+    {
+     "day": 1,
+     "number": 7,
+     "problem": "Question 7.\n\n$$\\begin{array}{|c|c|c|}\n\\hline\n\\text{No} & P\\ (\\mu s) & a\\ (\\mathrm{m\\,s^{-2}}) \\\\\n\\hline\n1 & 7587.8889 & -0.92 \\pm 0.08 \\\\\n2 & 7588.4100 & -1.68 \\pm 0.04 \\\\\n3 & 7588.5810 & -1.67 \\pm 0.06 \\\\\n4 & 7587.8836 & +0.72 \\pm 0.06 \\\\\n5 & 7589.1029 & +0.52 \\pm 0.08 \\\\\n6 & 7589.1350 & +0.00 \\pm 0.04 \\\\\n7 & 7588.9800 & -1.04 \\pm 0.02 \\\\\n\\hline\n\\end{array}$$\n\nTaking the table above into account;\n\nA) (5 points) Make a $P$–$a$ graph on millimetre paper; put in the error bars for the $a$ values; indicate the scales you used on the graph paper.\n\nB) (5 points) Draw on the graph paper the ellipse that best represents the points of the $P$–$a$ graph, taking the errors into account.\n\nC) (5 points) Obtain the values given in the figure above by measuring them with a ruler from the ellipse you constructed. The errors of the values to be obtained are given as follows: $\\Delta P_0 = 0.02$, $\\Delta a_t = 0.06$, $\\Delta P_t = 0.02$.\n\nD) (5 points) Using the equation $P_B = P_t/P_0 \\times 2\\pi c/a_t$, calculate $P_B$ and its error in days. For the error calculation, take into account the rules of error propagation.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/tr-2023-q7-1.png",
+     "paper_label": "Second stage"
+    },
+    {
+     "day": 1,
+     "number": 8,
+     "problem": "Question 8.\n\n$$\\begin{array}{|c|c|c|c|}\n\\hline\n\\text{Components} & \\text{Separation}\\ ('') & \\text{Separation (AU)} & \\text{Note} \\\\\n\\hline\n\\text{AB-CD} & 208.2 & 10500 & \\epsilon^1 - \\epsilon^2 \\\\\n\\text{AB} & 2.3 & 116 & \\epsilon^1 \\\\\n\\text{CD} & 2.4 & 121 & \\epsilon^2 \\\\\n\\hline\n\\end{array}$$\n\nEpsilon Lyrae ($\\epsilon$ Lyr), in the constellation Lyra, 162 light years from the Earth, is a multiple star system known as a double-double. It was first identified as a two-component double star and its components were named $\\epsilon^1$ and $\\epsilon^2$. When it was observed with a telescope of higher resolving power, it was found that the component $\\epsilon^1$ has two components of its own, named A and B, and the component $\\epsilon^2$ two, named C and D. The magnitudes of these 4 stars are respectively A: 5.15, B: 6.10, C: 5.25 and D: 5.38 mag. The table gives the separations of these components from one another.\n\nLet us consider the telescope we used in the Summer Camp training in September 2023: $f$: 2000 mm, focal ratio: $f/10$, $f_\\text{eyepiece}$: 25 mm, $\\mathrm{FOV}_\\text{ocular}$: $60^\\circ$. In the light of this information, answer questions (A) and (B) below:\n\nA) (12 points) If we observed the $\\epsilon$ Lyr multiple star system at a wavelength of 550 nm with the given telescope, show by calculation, using the information in the table, which of the 4 components forming the system would be seen and which would not.\n\nB) (8 points) Let us keep all the properties and observing conditions the same. What must be the smallest aperture, in cm, of a telescope that would show all four components separately?\n\nC) (8 points) Write the names of the constellations formed by the star symbols given in the image below. You may use the English, Latin or Turkish names of the constellations or give their international abbreviations. Do not write your answers on the question paper.\n\nD) (12 points) Mark the following on the sky map on the next page with letters of your own choosing. Write below the map which object or constellation each letter you used belongs to.\n\n$$\\begin{array}{|c|c|c|}\n\\hline\n\\text{Arcturus } (\\alpha\\ \\text{Boötis}) & \\text{Pole Star (Polaris)} & \\text{Ring Nebula (M57)} \\\\\n\\hline\n\\text{Hunter (Ori)} & \\text{Eagle (Aql)} & \\text{Queen (Cas)} \\\\\n\\hline\n\\end{array}$$\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/tr-2023-q8-1.png\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/tr-2023-q8-2.png",
+     "paper_label": "Second stage"
+    }
+   ]
+  },
+  {
+   "year": 2024,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "Question 1.\n\n(20 points) A body of negligible volume and mass $m$, moving horizontally with speed $v$, sticks to the end $P$ of a thin, homogeneous, vertically oriented rod of length $L$ and mass $M$ ($M = 18m$). The rod can rotate freely about its other end (point $O$), so that the body stuck to the rod starts to rotate the rod as shown in the figure. The moment of inertia for the rotation of the rod about this axis is given as $I = \\frac{1}{3}ML^2$.\n\nCalculate, in terms of the magnitude of the gravitational acceleration ($g$) and the length of the rod ($L$), the minimum initial speed ($v_\\mathrm{min}$) of the body of mass $m$ for this rod to reach the horizontal orientation at point $P'$ (that is, to be able to rotate through $90^\\circ$).\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/tr-2024-q1-1.png",
+     "paper_label": "Second stage"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "Question 2.\n\nThe parallax of the visual binary system 70 Ophiuchi is measured as 196 milliarcseconds. From astrometric observations cleaned of the parallactic shift, the orbital period of the companion around the primary component has been determined as 87.7 years. The semi-major axis of the relative orbit is measured on the sky as 4.5 arcseconds. The magnitude of the primary component is measured as 4.00 mag, while that of the companion could not be measured.\n\nA) (3 points) Calculate the distance of 70 Ophiuchi from the Solar System in parsecs.\n\nB) (4 points) Calculate the semi-major axis of the relative orbit of 70 Ophiuchi in AU.\n\nC) (5 points) Calculate the total mass of the system in solar masses.\n\nD) (18 points) Assuming both components to be main-sequence stars, find their masses separately.",
+     "paper_label": "Second stage"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "Question 3.\n\nThe light curve given in the figure above belongs to a Type Ia supernova that exploded in 1992. The model of the brightness variation of the supernova is shown with a solid black line for the part with data and with a dotted line for the part without data. The horizontal axis gives the number of days since the maximum of the explosion, and the vertical axis gives the apparent magnitude in the B band.\n\nA) (10 points) Taking into account that the total extinction caused by both the Milky Way and the host galaxy is $A_B = 0.61$ mag, find the distance, in Mpc, of the galaxy in which the supernova occurred.\n\nB) (5 points) Taking into account that the radial velocity measured from the spectrum of the supernova is $3100\\ \\mathrm{km\\,s^{-1}}$, calculate the value of the Hubble constant.\n\nWarning: Explain all the assumptions or conventions you make.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/tr-2024-q3-1.png",
+     "paper_label": "Second stage"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "Question 4.\n\nRadial-velocity observations of the Sun are being made from the planet Trisolaris in a triple star system at a distance of 50 pc from the Solar System. From these observations the orbital period of Jupiter is determined as 4322 Earth days. In addition, they calculate the surface temperatures of the Sun and Jupiter as 5800 K and 165 K respectively. It is known that the radius of the Sun was also calculated correctly from the observations.\n\nA) (5 points) Using the transit geometry, calculate as a percentage the probability that the Trisolaris astronomers catch Jupiter passing in front of the Sun.\n\nB) (5 points) Suppose that this transit has been observed. Let us assume that no light is received from Jupiter, that its orbit is circular and that Jupiter and the Sun are perfect spheres. Given that the loss in the light received from the Sun due to the transit of Jupiter is observed to be 1%, calculate the radius of Jupiter in km.\n\nC) (5 points) When Jupiter is at its greatest distance from the Sun, taking also into account that Jupiter is a transiting planet, calculate the angular distance of Jupiter from the Sun in arcseconds.\n\nD) (5 points) Let us assume the Sun and Jupiter to be black bodies. Calculate the ratio of the brightnesses of the two objects (the contrast) that must be measured to be able to image Jupiter at the angular distance you calculated above.",
+     "paper_label": "Second stage"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "Question 5.\n\nObserving at a wavelength of 500 nm with a telescope of focal ratio f/10, we are able to observe a meteoroid 10 km in diameter by obtaining a magnification of 800 times with a 32 mm eyepiece.\n\nA) (7 points) Calculate the diameter of the telescope in metres.\n\nB) (8 points) Calculate the distance between the meteoroid and the Earth in metres.",
+     "paper_label": "Second stage"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "problem": "Question 6.\n\nThe image of one of the bright ($m = 13.57$) elliptical galaxies in the galaxy cluster Abell 2255 is given on the right and its spectrum below. It may be assumed that the galaxy consists predominantly of K-type stars ($M_\\mathrm{K} = 0.7\\,M_\\odot$, $L_\\mathrm{K} = 0.3\\,L_\\odot$). The laboratory wavelengths of some lines in the spectrum are given as follows: Ca II K&H: 3934 Å, 3969 Å; G-band: 4304 Å; Mg: 5175 Å; Na D: 5894 Å.\n\nA) (15 points) Calculate the luminosity of the galaxy in solar units.\n\nB) (10 points) Find the stellar mass of the galaxy in solar units.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/tr-2024-q6-1.png\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/tr-2024-q6-2.png",
+     "paper_label": "Second stage"
+    },
+    {
+     "day": 1,
+     "number": 7,
+     "problem": "Question 7.\n\nThe supernova SN1987A reached its brightest state, with $m = +3$, on 15 May 1987. It then faded and became invisible to the naked eye ($m_\\text{eye} = +6$) on 4 February 1988. Its brightness in the B band was assumed to vary so as to show an exponential decrease with time $t$:\n$$B = B_0 e^{-t/\\tau}$$\nHere $B_0$ and $\\tau$ are constants of the relation.\n\nA) (8 points) Calculate the value of the constant $\\tau$ in days.\n\nB) (12 points) The light-gathering power of telescopes is defined as follows:\n$$B_\\text{eye}\\, d_\\text{eye}^2 = T B_T D_\\text{tel}^2 \\qquad (1)$$\nHere $B_T$ and $B_\\text{eye}$ are respectively the flux reaching the telescope and the eye, $T$ is the transmission efficiency of the telescope, $D_\\text{tel}$ and $d_\\text{eye}$ are respectively the diameters of the telescope and of the eye, and $B_T > B_\\text{eye}$ is defined.\n\nGiven that the mean diameter of the eye is known to be $d = 0.6$ cm, find, to a precision of $\\pm 1$ day, the date of the last day on which the supernova could be seen by eye with a telescope with $T = 70\\%$ and $D = 15.24$ cm (6 inches).",
+     "paper_label": "Second stage"
+    },
+    {
+     "day": 1,
+     "number": 8,
+     "problem": "Question 8.\n\nMatter is accreting onto a compact object of mass $M$ in a steady-state and spherically symmetric way. Assume that the matter consists entirely of ionized hydrogen.\n\nA) (5 points) In this case, considering the scattering of photons by free electrons at a distance $r$ from the star, and taking into account the Thomson scattering cross-section ($N_\\mathrm{ph}$), we can write the radiation force as follows:\n$$F_\\mathrm{rad} = \\sigma_\\mathrm{T} N_\\mathrm{ph}\\, p \\qquad (1)$$\nUsing this expression, show that the unit of the radiation force in the SI system of units is N (newton).\n\nB) (5 points) Show the relation of $N_\\mathrm{ph}$ to the luminosity $L$, the distance $r$ and the photon frequency $\\nu$. Assume that the radiation is emitted spherically symmetrically.\n\nC) (10 points) The Eddington luminosity $L_\\mathrm{E}$ is defined as the luminosity at which the outward radiation force and the inward gravitational force are in balance. Starting from the expressions for the gravitational force acting on a proton and the radiation force acting on an electron, derive $L_\\mathrm{E}$ in terms of the mass of the star $M$, the Thomson scattering cross-section ($\\sigma_T$), the mass of the proton ($m_\\mathrm{p} = 1.673 \\times 10^{-27}$ kg) and universal constants.\n\nD) (5 points) Calculate the Eddington luminosity on the scale of $M_\\odot$, in W (watts).",
+     "paper_label": "Second stage"
+    },
+    {
+     "day": 1,
+     "number": 9,
+     "problem": "Question 9.\n\nThe following table has been prepared for the Galilean satellites.\n$$\\begin{array}{|l|c|c|c|}\n\\hline\n\\text{Satellite} & P_\\text{orb}\\ \\text{(days)} & S_\\text{Eur}\\ \\text{(days)} & a\\ (10^3\\ \\text{km}) \\\\\n\\hline\n\\text{Io} & - & 3.525464 & 421.8 \\\\\n\\text{Europa} & 3.551181 & \\times & 671.1 \\\\\n\\text{Ganymede} & - & 7.050926 & 1070.4 \\\\\n\\text{Callisto} & - & 4.511071 & 1882.7 \\\\\n\\hline\n\\end{array}$$\n\nA) (12 points) Using the \"orbital–synodic period\" relation, calculate the values shown with '-' in the table given above.\n\nB) (16 points) Make a new table by converting the orbital periods you calculated to Earth years and the orbital semi-major axes to Astronomical Units (AU). Using this table, plot the orbital periods ($P$) against the orbital semi-major axes ($a$), taking the logarithms of both parameters.\n\nC) (9 points) Fit a straight line to this graph and find the slope of the line.\n\nD) (8 points) Assuming that the masses of the Galilean satellites are much smaller than the mass of Jupiter, that the gravitation between the satellites is negligible and that the satellite orbits are circular, calculate the mass of Jupiter.",
+     "paper_label": "Second stage"
+    },
+    {
+     "day": 1,
+     "number": 10,
+     "problem": "Question 10.\n\nA) (8 points) Write the names of the constellations given in the image below. You may use the English, Latin or Turkish names of the constellations or give their international abbreviations. Do not write your answers on the question paper.\n\nB) (4 points) Write the name(s) of the constellation or constellations forming the \"Great Square\" asterism, which is usually seen prominently in the northern-hemisphere sky in the summer months.\n\nC) (4 points) Write the names of the constellations forming the \"Summer Triangle\" asterism, which is usually seen prominently in the northern-hemisphere sky in the summer months.\n\nD) (4 points) Assume that you are making a night observation, in any month of the year, at any location in the northern hemisphere, and that the sky is clear. Take also into account that you do not know the latitude of the location or the north, east, west and south directions, and that you cannot recognise the constellation Ursa Minor in the sky. Under these conditions, explain in detail, by drawing a figure, how you can find the position of Polaris (the Pole Star) in the sky using other constellations.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/tr-2024-q10-1.png",
+     "paper_label": "Second stage"
+    }
+   ]
+  },
+  {
+   "year": 2025,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "Question 1.\n\nFrom the observations of an unknown point source, the parallax of the object has been measured as $p = 2$ mas (milliarcseconds) and its absorbed flux as $F_\\mathrm{obs} = 1.9 \\times 10^{-16}\\ \\mathrm{W\\,m^{-2}}$. The number density of hydrogen atoms in the interstellar region between the source and the observing telescope is known to be $n = 1.0\\ \\mathrm{cm^{-3}}$. The mean effective cross-section of hydrogen in the observed band is given as $\\sigma = 2.0 \\times 10^{-22}\\ \\mathrm{cm^2}$.\n\nA) (8 points) Find the unabsorbed luminosity of the source ($L_\\text{source}$).\n\nB) (5 points) Let us assume that the source is a \"white dwarf\" with effective temperature $T_\\mathrm{eff} = 1.2 \\times 10^4$ K and that the emitted luminosity comes from thermal radiation and obeys the Stefan–Boltzmann law. In this case, calculate the radius of the white dwarf in units of the Earth's radius.\n\nC) (12 points) Let us consider that the source is an \"isolated pulsar\" rotating about its own axis with a period of 10.0 s and slowing down by magnetic braking, and let us assume that the magnetic dipole axis is perpendicular to the rotation axis and that the magnetic field strength is calculated as $B_{dip} = 3.2 \\times 10^{19}\\sqrt{P\\dot{P}}$ G. Calculate the kinematic age of the pulsar (in years) and the dipole magnetic field strength (in gauss).",
+     "paper_label": "Second stage"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "Question 2.\n\nA) (20 points) The quasar 3C273 is an active galaxy with redshift $z = 0.158$. The luminosity of this quasar is thought to come from matter accreted onto the supermassive black hole at its centre.\n\nFind how many solar masses per year must be accreted onto the central black hole for the quasar to have an apparent magnitude of 12.9 mag.\n\n※ You may take the mass–energy conversion efficiency of the black hole to be 10%.\n\nB) (10 points) The star formation rate of the Milky Way is known to be about $\\mathrm{SFR} = 1.5\\,M_\\odot\\,\\mathrm{yr^{-1}}$.\n\nConsidering the following relation given by Kennicutt (1998), calculate the $\\mathrm{H\\alpha}$ flux that an observer in the Virgo Galaxy Cluster ($d_\\mathrm{Virgo} = 16.5$ Mpc) would obtain from the Milky Way.\n$$\\mathrm{SFR}(M_\\odot\\,\\mathrm{yr^{-1}}) = 7.9 \\times 10^{-42}\\, L(H_\\alpha)\\ \\mathrm{erg\\,s^{-1}} \\qquad (1)$$",
+     "paper_label": "Second stage"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "Question 3.\n\nFor a single main-sequence star in an open cluster, the photometric apparent magnitudes corrected for the atmosphere have been measured as follows:\n$$m_B = 16.10, \\qquad m_V = 14.85, \\qquad m_I = 13.00 \\qquad (1)$$\nThe spectral type of the star is B8 V. The calibrations given for these stars are as follows.\n$$(B-V)_0 = -0.11 \\qquad M_V = -0.20 \\qquad (2)$$\n$$(V-I)_0 = -0.23 \\qquad BC_V = -0.85 \\qquad (3)$$\n\nA) (4 points) Calculate the colour indices $(B-V)_\\text{observed}$, $(V-I)_\\text{observed}$ and the colour excesses $E(B-V)$ and $E(V-I)$.\n\nB) (2 points) Using the ratio $A_I/A_V = 0.60$, calculate the visual-band extinction ($A_V$).\n\nC) (4 points) Calculate the coefficient of selective extinction ($R_V$).\n\nD) (5 points) Calculate $A_B$, $A_I$ and the extinction-corrected magnitudes ($m_{B,0}$, $m_{V,0}$, $m_{I,0}$).\n\nE) (4 points) Calculate the distance of the star ($d$) in pc.\n\nF) (5 points) Calculate the values of $M_\\mathrm{bol}$, $L/L_\\odot$, $L$ (W).\n\nG) (6 points) Calculate the ratio of the V-band flux of the star reaching the Earth to the V-band flux of the Sun at 1 AU ($F_V/F_{V,\\odot}$).",
+     "paper_label": "Second stage"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "Question 4.\n\n(40 points) Two observations made in the northern hemisphere in the spring months are as follows:\n\n• In observations made at night, the upper and lower transit altitudes of a never-setting (circumpolar) star were recorded as $h_\\text{upper} = 69^\\circ 00'$ and $h_\\text{lower} = 13^\\circ 00'$ respectively. At both transits the star was observed looking towards the northern horizon.\n\n• The next day, at local apparent noon, the height of a gnomon (rod) standing perpendicular to the ground was measured as $H_g = 2$ m and the length of its shadow as $s = 1.17$ m.\n\nCalculate the date of the day on which the daytime observation was made.\n\n※ Angle between the ecliptic and the equator: $\\epsilon = 23^\\circ 26'$; mean motion of the Sun along the ecliptic: $n = 0.9856^\\circ$/day; $\\lambda_\\odot$: ecliptic longitude of the Sun; $\\sin\\delta_\\odot = \\sin\\epsilon \\cdot \\sin\\lambda_\\odot$",
+     "paper_label": "Second stage"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "Question 5.\n\nMercury rotates twice about its own axis while it completes 3 revolutions around the Sun; that is, the orbital period and the rotation period of Mercury are in a 3:2 resonance.\n\n※ The orbital periods of Mercury and Venus are 88 and 224.7 days respectively. Assume the orbits of Mercury and Venus to be circular.\n\nA) (15 points) Let us consider an astronaut observing on the surface of Mercury. Find, in Earth days, the time between two successive arrivals of the Sun at the astronaut's meridian (the length of the solar day on Mercury), and explain your working.\n\nB) (10 points) Calculate, in degrees, the greatest eastern elongation of Mercury as seen from Venus.\n\nC) (5 points) Calculate after how many Earth days Mercury will again be at greatest eastern elongation for an observer on Venus.",
+     "paper_label": "Second stage"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "problem": "Question 6.\n\nThe primary (first) minimum of the light curve of an eclipsing binary star system is given below.\n\nA) (10 points) Calculate the ratio of the radii of the components ($R_1/R_2$).\n\nB) (15 points) Find the ratio of the fluxes of the components ($F_1/F_2$).\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/tr-2025-q6-1.png",
+     "paper_label": "Second stage"
+    },
+    {
+     "day": 1,
+     "number": 7,
+     "problem": "Question 7.\n\nTwo bodies of negligible volume and masses $m_1$ and $m_2$, at a distance $d$ from each other, revolve in circular orbits around their common centre of mass in empty space under the effect of the gravitational force they exert on each other. The common period of revolution of the bodies is given as $P$.\n\nA) (3 points) Express the ratios of the distances of the bodies from the centre of mass and of their linear speeds (respectively $r_1/r_2$ and $v_1/v_2$) in terms of the given quantities.\n\nB) (12 points) If, without the total mass of the system changing, the bodies transfer mass to each other without being subjected to any external influence, and their masses become equal, express the period of revolution of the bodies in the new situation ($P'$) in terms of the given quantities.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/tr-2025-q7-1.png",
+     "paper_label": "Second stage"
+    },
+    {
+     "day": 1,
+     "number": 8,
+     "problem": "Question 8.\n\nThe star WX45, of mass $20\\,M_\\odot$, following its supergiant phase, undergoes core collapse and then a supernova explosion. At the end of this process a neutron-rich neutron star of mass $1.5\\,M_\\odot$ and radius 10 km is produced. The total energy of the supernova explosion is calculated to be $4.0 \\times 10^{46}$ J.\n\n※ $m_n = 1.675 \\times 10^{-27}$ kg (neutron mass).\n\nA) (6 points) Let us take the main-sequence lifetime of the Sun as 10 billion years. Using the luminosity–mass relation for main-sequence stars, calculate in how much time the star WX45 will complete its main-sequence phase.\n\nB) (6 points) Explain in detail how the neutron star produced by the core collapse of the star as a result of the supernova explosion is able to remain in equilibrium.\n\nC) (13 points) The thermal energy of the remnant neutron star is known to be of the order of 1% of the total energy emitted with the supernova. Calculate the temperature of the resulting neutron star after the explosion.",
+     "paper_label": "Second stage"
+    },
+    {
+     "day": 1,
+     "number": 9,
+     "problem": "Question 9.\n\nA relation can be established between the ratio of certain absorption lines in the spectra of stars in the F–K spectral range and the effective temperature. With the \"Line Depth Ratio (LDR)\" method, the temperature of stars can be determined with an error of a few tens of kelvins.\n\nOn the answer sheet on the next page, some properties of 10 stars are given.\n\nA) (24 points) Determine the LDR – temperature relation. Draw the LDR – temperature graph on the later answer sheet and determine the best-fit curve. Obtain the equation of the fit curve.\n\nB) (6 points) Calculate the temperatures of the stars whose LDR values are given as 0.65, 1.10 and 1.40 respectively, and determine which spectral type they belong to.\n\n$$\\begin{array}{|c|c|c|c|}\n\\hline\n\\text{Star} & R/R_\\odot & L/L_\\odot & \\text{LDR} \\\\\n\\hline\n1 & 1.10 & 1.061 & 1.08 \\\\\n2 & 0.85 & 0.283 & 0.58 \\\\\n3 & 1.35 & 2.863 & 1.42 \\\\\n4 & 0.95 & 0.498 & 0.72 \\\\\n5 & 1.50 & 4.510 & 1.48 \\\\\n6 & 1.00 & 0.630 & 0.90 \\\\\n7 & 1.25 & 1.955 & 1.32 \\\\\n8 & 0.90 & 0.368 & 0.75 \\\\\n9 & 1.15 & 1.353 & 1.00 \\\\\n10 & 1.05 & 0.835 & 0.88 \\\\\n\\hline\n\\end{array}$$",
+     "paper_label": "Second stage"
+    },
+    {
+     "day": 1,
+     "number": 10,
+     "problem": "Question 10.\n\nShow your answers for all parts on the answer sheets provided.\n\nA) (10 points) Find the Pole Star on the map and show it by marking it clearly with the letter P (3 points). Explain the method you used in finding the Pole Star (1 point). Taking into account the distributions of stars and constellations seen on the map, write approximately which cardinal direction (North, South, East, West) the observer is facing, together with the reason (6 points).\n\nB) (7 points) Indicate the constellation lines or areas of seven constellations of your choice on the map and mark them with the letters \"a, b, c, d, e, f, g\". State in the table on the answer sheet which constellations the letters you marked correspond to.\n\nC) (7 points) Write all the known Zodiac constellations.\n\n※ The Turkish, English or Latin names of the constellations or the abbreviations defined by the IAU will be accepted as correct.\n\nD) (5 points) A representative image of the telescope used in the night observations during the TÜBİTAK Science Olympiads Summer Camp (left) and a schematic representation of its optical design (right) are given in the image. Write the optical design of the telescope and the names of the components marked with numbers on the images in the table on the answer sheet.\n\nE) (6 points) An observation of Jupiter is being made with the telescope whose properties are given below. The observation is carried out at a wavelength of 550 nm. The mean distances of the satellites of Jupiter from the centre of the planet are given as follows: Io: 421700 km, Europa: 671100 km, Ganymede: 1070400 km, Callisto: 1882700 km.\n\nExplain, with reasons, whether Jupiter and its four large satellites can be observed with this telescope and eyepiece.\n\nExplain, by calculation, whether all four satellites can fit into the field of view of the telescope at the same time.\n\n※ (a) Assume the orbits of the satellites to be circular. (b) Assume that, as seen from the Earth, the satellites are at their angularly farthest positions from Jupiter's disc. (c) Assume that Ganymede and Callisto are on two opposite sides of Jupiter, forming the angularly widest configuration of the system. (d) $d_\\text{Jupiter} = 650 \\times 10^6$ km; $R_\\text{Jupiter} = 143 \\times 10^3$ km.\n\n※ $D_\\text{telescope} = 200$ mm (aperture). $f_t = 2000$ mm (telescope focal length). $f_o = 25$ mm (eyepiece focal length). $\\mathrm{aFOV} = 50^\\circ$ (apparent field of view of the eyepiece).\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/tr-2025-q10-1.png\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/tr-2025-q10-2.png",
+     "paper_label": "Second stage"
+    }
+   ]
+  }
+ ]
+}
