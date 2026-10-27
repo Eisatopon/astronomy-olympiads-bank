@@ -307,13 +307,13 @@
     {
      "day": 1,
      "number": 2,
-     "problem": "2. In the constellation of Orion, at a distance of 120 light years from us, terrestrial astronomers have discovered a star that is in all its parameters similar to the Sun. A civilization of \"little green men\" living on one of the planets orbiting that star has also become interested in our Sun. Measurements of the parallax of our Sun made by the astronomers of that civilization (according to their classical rules for measuring parallax) gave the result $0{,}039''$. Find the length of the year of the little green men.",
+     "problem": "2. In the constellation of Orion, at a distance of 120 light years from us, terrestrial astronomers have discovered a star that is in all its parameters similar to the Sun. A civilization of \"little green men\" living on one of the planets orbiting that star has also become interested in our Sun. Measurements of the parallax of our Sun made by the astronomers of that civilization (according to their classical rules for measuring parallax) gave the result $0.039''$. Find the length of the year of the little green men.",
      "paper_label": "Final – theoretical round (grade 11)"
     },
     {
      "day": 1,
      "number": 3,
-     "problem": "3. Find the stellar magnitude of the Moon at new moon (when there is only the ashen light). The apparent magnitudes of the Sun and of the full Moon seen from the Earth are $-26{,}8^m$ and $-12{,}7^m$ respectively.",
+     "problem": "3. Find the stellar magnitude of the Moon at new moon (when there is only the ashen light). The apparent magnitudes of the Sun and of the full Moon seen from the Earth are $-26.8^m$ and $-12.7^m$ respectively.",
      "paper_label": "Final – theoretical round (grade 11)"
     },
     {
@@ -325,7 +325,7 @@
     {
      "day": 1,
      "number": 5,
-     "problem": "5. An eclipsing binary star has been discovered. The size of the second star is negligibly small compared with the size of the first. It is known that the major axes of the orbits of the stars lie along the line of sight. The duration of the eclipse of the second component by the first and of the passage of the second component across the disk of the first are respectively $T_1 = 8{,}7$ hours and $T_2 = 11{,}3$ hours, with an orbital period $T = 17$ days. Estimate the eccentricities of the orbits of the companions.",
+     "problem": "5. An eclipsing binary star has been discovered. The size of the second star is negligibly small compared with the size of the first. It is known that the major axes of the orbits of the stars lie along the line of sight. The duration of the eclipse of the second component by the first and of the passage of the second component across the disk of the first are respectively $T_1 = 8.7$ hours and $T_2 = 11.3$ hours, with an orbital period $T = 17$ days. Estimate the eccentricities of the orbits of the companions.",
      "paper_label": "Final – theoretical round (grade 11)"
     },
     {
@@ -360,7 +360,7 @@
     {
      "day": 1,
      "number": 2,
-     "problem": "2. A certain star has coordinates $\\alpha = 6$ hours, $\\delta = +23{,}5^\\circ$. However, as is well known, the coordinates of all stars change slowly because of the precession of the Earth's axis (the Earth's axis describes a cone in a period of about 26 thousand years). What coordinates $(\\alpha, \\delta)$ will this star have in 6500 years?",
+     "problem": "2. A certain star has coordinates $\\alpha = 6$ hours, $\\delta = +23.5^\\circ$. However, as is well known, the coordinates of all stars change slowly because of the precession of the Earth's axis (the Earth's axis describes a cone in a period of about 26 thousand years). What coordinates $(\\alpha, \\delta)$ will this star have in 6500 years?",
      "paper_label": "Final – theoretical round (grade 11)"
     },
     {
@@ -378,19 +378,19 @@
     {
      "day": 1,
      "number": 5,
-     "problem": "5. Modern \"planetarium\" projectors are designed so that each group of stars is projected onto the dome by a small optical system. Estimate what the parameters of the objective of such an optical system must be (work out for yourself which parameters matter here) so that spectators sitting at the centre of the planetarium hall perceive the \"stars\" on the dome as points. Consider the case of a more or less ordinary planetarium with a hall (dome) 10 m in diameter. On the slides of the constellations projected onto the dome, the images of the stars have a size $l_0 = 0{,}1$ mm (foil with holes of this size as the stars is often used as these \"slides\").",
+     "problem": "5. Modern \"planetarium\" projectors are designed so that each group of stars is projected onto the dome by a small optical system. Estimate what the parameters of the objective of such an optical system must be (work out for yourself which parameters matter here) so that spectators sitting at the centre of the planetarium hall perceive the \"stars\" on the dome as points. Consider the case of a more or less ordinary planetarium with a hall (dome) 10 m in diameter. On the slides of the constellations projected onto the dome, the images of the stars have a size $l_0 = 0.1$ mm (foil with holes of this size as the stars is often used as these \"slides\").",
      "paper_label": "Final – theoretical round (grade 11)"
     },
     {
      "day": 1,
      "number": 6,
-     "problem": "6. You are given ballistic bulletin No. 57 on the flight of the \"Mir\" complex, published on 16 March 2001 (see, for example, http://www.pereplet.ru/pops/space.cgi). Treating the orbit of the complex as circular, estimate from the data given in it the density of the atmosphere at a height of 236 km above the Earth. Take the cross-section of the complex to be $S = 50\\ \\mathrm{m^2}$. The mass of the Earth is $M = 5{,}97\\cdot10^{24}$ kg, its radius $R = 6371$ km.\n\nMission Control Centre. Ballistic bulletin No. 57 on the flight of the \"Mir\" complex.\n\n• Current orbit number – 86219.\n• Mass of the complex – 137 tonnes.\n• Orbital period – 89,161 min.\n• Mean height of the orbit – 236,0 km.\n• Daily decrease of the mean height of the orbit during the current day – 2,5 km.\n• Position of the Sun relative to the orbital plane – + 48,5 deg.\n• Duration of the sunlit part of the orbit – 57,4 min.\n• Solar activity parameter F10.7 – 140.\n• Geomagnetic disturbance of the Earth Ap – 7.\n• Time of reaching the height of 220 km. Start of dynamic operations – 21.03.2001 (+ 2 days).\n• Lifetime, taking into account a 15 % deviation of the forecast of the averaged values of the solar activity parameters – 28.03.2001 (+ 3 days / - 2 days).\n• Date of determination of the orbital parameters – 15.03.2001.",
+     "problem": "6. You are given ballistic bulletin No. 57 on the flight of the \"Mir\" complex, published on 16 March 2001 (see, for example, http://www.pereplet.ru/pops/space.cgi). Treating the orbit of the complex as circular, estimate from the data given in it the density of the atmosphere at a height of 236 km above the Earth. Take the cross-section of the complex to be $S = 50\\ \\mathrm{m^2}$. The mass of the Earth is $M = 5.97\\cdot10^{24}$ kg, its radius $R = 6371$ km.\n\nMission Control Centre. Ballistic bulletin No. 57 on the flight of the \"Mir\" complex.\n\n• Current orbit number – 86219.\n• Mass of the complex – 137 tonnes.\n• Orbital period – 89.161 min.\n• Mean height of the orbit – 236.0 km.\n• Daily decrease of the mean height of the orbit during the current day – 2.5 km.\n• Position of the Sun relative to the orbital plane – + 48.5 deg.\n• Duration of the sunlit part of the orbit – 57.4 min.\n• Solar activity parameter F10.7 – 140.\n• Geomagnetic disturbance of the Earth Ap – 7.\n• Time of reaching the height of 220 km. Start of dynamic operations – 21.03.2001 (+ 2 days).\n• Lifetime, taking into account a 15 % deviation of the forecast of the averaged values of the solar activity parameters – 28.03.2001 (+ 3 days / - 2 days).\n• Date of determination of the orbital parameters – 15.03.2001.",
      "paper_label": "Final – theoretical round (grade 11)"
     },
     {
      "day": 2,
      "number": 1,
-     "problem": "8. Practical problem. Quasar 3C273.\n\n8.1. Using the spectrum of the quasar 3C273 and the comparison spectrum given in Fig. 1, construct the dispersion curve (the dependence of the wavelengths of the lines on their particular position in the figure) and determine the red shift of the lines (it is usually denoted by the letter \"Z\") in the spectrum of the quasar. Estimate the distance to the quasar.\n\n8.2. The apparent brightness of the quasar 3C273 is $12{,}8^m$. Estimate the absolute magnitude and the luminosity of this quasar (in solar luminosities). Compare with the luminosity of our Galaxy (approximately).\n\n8.3. What amount of mass is converted into energy in this quasar every second? According to estimates, the age of the quasar is $10^8$ years. What amount of mass has been converted into energy during this time?\n\n8.4. Measure the apparent displacement of the jet from the nucleus of the quasar 3C273 (radio map in Fig. 2) over several years and estimate the velocity of its motion.\n\n8.5. Explain the value of the velocity of the jet that you obtained.\n\nNote: the solar constant $A = 1{,}37\\ \\mathrm{kW/m^2}$.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/ruao-2001-d2-q1-1.png\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/ruao-2001-d2-q1-2.png",
+     "problem": "8. Practical problem. Quasar 3C273.\n\n8.1. Using the spectrum of the quasar 3C273 and the comparison spectrum given in Fig. 1, construct the dispersion curve (the dependence of the wavelengths of the lines on their particular position in the figure) and determine the red shift of the lines (it is usually denoted by the letter \"Z\") in the spectrum of the quasar. Estimate the distance to the quasar.\n\n8.2. The apparent brightness of the quasar 3C273 is $12.8^m$. Estimate the absolute magnitude and the luminosity of this quasar (in solar luminosities). Compare with the luminosity of our Galaxy (approximately).\n\n8.3. What amount of mass is converted into energy in this quasar every second? According to estimates, the age of the quasar is $10^8$ years. What amount of mass has been converted into energy during this time?\n\n8.4. Measure the apparent displacement of the jet from the nucleus of the quasar 3C273 (radio map in Fig. 2) over several years and estimate the velocity of its motion.\n\n8.5. Explain the value of the velocity of the jet that you obtained.\n\nNote: the solar constant $A = 1.37\\ \\mathrm{kW/m^2}$.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/ruao-2001-d2-q1-1.png\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/ruao-2001-d2-q1-2.png",
      "paper_label": "Final – second round (practical problem, grade 11)"
     }
    ]
@@ -407,13 +407,13 @@
     {
      "day": 1,
      "number": 2,
-     "problem": "2. Travels at the pole. Participants of a Russian-Bulgarian polar expedition are exactly at the South Pole of the Earth during the polar night. At some moment they set off on a hike and walk through deep snow at a speed of 2 km/h all the time (without stops) in the direction of the star Sirius. At what distance from the pole will they be exactly 24 hours after the start? What geometric line will their path be?\n\nFrom the reference sheet of the paper: Sirius (CMa), RA $6^h45^m09^s$, Dec $-16^\\circ42'58''$, $m = -1{,}46$, spectral class A1.",
+     "problem": "2. Travels at the pole. Participants of a Russian-Bulgarian polar expedition are exactly at the South Pole of the Earth during the polar night. At some moment they set off on a hike and walk through deep snow at a speed of 2 km/h all the time (without stops) in the direction of the star Sirius. At what distance from the pole will they be exactly 24 hours after the start? What geometric line will their path be?\n\nFrom the reference sheet of the paper: Sirius (CMa), RA $6^h45^m09^s$, Dec $-16^\\circ42'58''$, $m = -1.46$, spectral class A1.",
      "paper_label": "Final – theoretical round (grade 11)"
     },
     {
      "day": 1,
      "number": 3,
-     "problem": "3. Resolving power. The atmosphere limits the resolving power of telescopes in the visible region of the spectrum (5000 ångströms) to $0{,}5''$. The characteristic thickness of the atmospheric layer where the image quality deteriorates is about 2 km. Estimate what the resolving power will be (converted into linear sizes of the resolved details) if a telescope observes objects on the surface of the Earth from a height $h = 200$ kilometres. What size must the objective of a space telescope have for this resolution to be achievable in practice?",
+     "problem": "3. Resolving power. The atmosphere limits the resolving power of telescopes in the visible region of the spectrum (5000 ångströms) to $0.5''$. The characteristic thickness of the atmospheric layer where the image quality deteriorates is about 2 km. Estimate what the resolving power will be (converted into linear sizes of the resolved details) if a telescope observes objects on the surface of the Earth from a height $h = 200$ kilometres. What size must the objective of a space telescope have for this resolution to be achievable in practice?",
      "paper_label": "Final – theoretical round (grade 11)"
     },
     {
@@ -425,7 +425,7 @@
     {
      "day": 1,
      "number": 5,
-     "problem": "5. Solar sail. A solar sail can be used for a flight to Mars. Imagine that a spacecraft complex of mass $m = 10$ tonnes, orbiting the Sun on a circular orbit of radius 1 a.u., deployed a solar sail (previously folded up as part of the complex). Estimate the area of this sail, considering it to be a mirror, if the craft reached the orbit of Mars after half a revolution around the Sun. It may be assumed that Mars orbits the Sun on a circular orbit of radius 1,52 a.u. The solar constant is $A \\approx 1{,}4\\ \\mathrm{kW/m^2}$.",
+     "problem": "5. Solar sail. A solar sail can be used for a flight to Mars. Imagine that a spacecraft complex of mass $m = 10$ tonnes, orbiting the Sun on a circular orbit of radius 1 a.u., deployed a solar sail (previously folded up as part of the complex). Estimate the area of this sail, considering it to be a mirror, if the craft reached the orbit of Mars after half a revolution around the Sun. It may be assumed that Mars orbits the Sun on a circular orbit of radius 1.52 a.u. The solar constant is $A \\approx 1.4\\ \\mathrm{kW/m^2}$.",
      "paper_label": "Final – theoretical round (grade 11)"
     },
     {
@@ -490,7 +490,7 @@
     {
      "day": 2,
      "number": 1,
-     "problem": "7. Distribution of galaxies. With the Hubble Space Telescope a region of the sky was photographed (a negative of a similar photograph is shown, as an example, in Fig. 1). On the images, the number of galaxies $N(m)$ with an apparent integrated magnitude brighter than $m$ was counted (see the table). The results of the counts can be represented in the power-law form $N \\sim r^D$, where $r$ is the radius of the sector in which the counts were made. The parameter $D$ is called the \"Hausdorff dimension\". As a rule, we are used to this dimension being equal to the dimension of the containing space, that is, three (for example, for molecules in air).\n\n$$\\begin{array}{|c|c|c|}\\hline m & N & \\lg N \\\\ \\hline 12 & 1{,}58\\cdot10^{0} & 0{,}20 \\\\ 13 & 6{,}46\\cdot10^{0} & 0{,}81 \\\\ 14 & 2{,}47\\cdot10^{1} & 1{,}39 \\\\ 15 & 1{,}26\\cdot10^{2} & 2{,}10 \\\\ 16 & 4{,}18\\cdot10^{2} & 2{,}62 \\\\ 17 & 1{,}66\\cdot10^{3} & 3{,}22 \\\\ 18 & 5{,}85\\cdot10^{3} & 3{,}77 \\\\ 19 & 2{,}32\\cdot10^{4} & 4{,}37 \\\\ 20 & 6{,}12\\cdot10^{4} & 4{,}79 \\\\ 21 & 1{,}44\\cdot10^{5} & 5{,}16 \\\\ 22 & 3{,}71\\cdot10^{5} & 5{,}57 \\\\ 23 & 9{,}04\\cdot10^{5} & 5{,}96 \\\\ 24 & 2{,}32\\cdot10^{6} & 6{,}37 \\\\ 25 & 6{,}01\\cdot10^{6} & 6{,}78 \\\\ 26 & 1{,}51\\cdot10^{7} & 7{,}18 \\\\ 27 & 3{,}60\\cdot10^{7} & 7{,}56 \\\\ 28 & 9{,}71\\cdot10^{7} & 7{,}99 \\\\ 29 & 2{,}29\\cdot10^{8} & 8{,}36 \\\\ 30 & 7{,}55\\cdot10^{8} & 8{,}88 \\\\ \\hline \\end{array}$$\n\n1. What conclusions about the spatial distribution of galaxies along the line of sight can be drawn from these data?\n\n2. How is the Hausdorff dimension in this case related to the scale of distances, and how can this be explained?\n\nAssume that the absolute magnitude of the galaxies is the same and equal to $-21^m$. Fig. 2 shows an example of a spatial slice of the distribution of galaxies, which may be useful for understanding the structure of this distribution.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/ruao-2003-d2-q1-1.png",
+     "problem": "7. Distribution of galaxies. With the Hubble Space Telescope a region of the sky was photographed (a negative of a similar photograph is shown, as an example, in Fig. 1). On the images, the number of galaxies $N(m)$ with an apparent integrated magnitude brighter than $m$ was counted (see the table). The results of the counts can be represented in the power-law form $N \\sim r^D$, where $r$ is the radius of the sector in which the counts were made. The parameter $D$ is called the \"Hausdorff dimension\". As a rule, we are used to this dimension being equal to the dimension of the containing space, that is, three (for example, for molecules in air).\n\n$$\\begin{array}{|c|c|c|}\\hline m & N & \\lg N \\\\ \\hline 12 & 1.58\\cdot10^{0} & 0.20 \\\\ 13 & 6.46\\cdot10^{0} & 0.81 \\\\ 14 & 2.47\\cdot10^{1} & 1.39 \\\\ 15 & 1.26\\cdot10^{2} & 2.10 \\\\ 16 & 4.18\\cdot10^{2} & 2.62 \\\\ 17 & 1.66\\cdot10^{3} & 3.22 \\\\ 18 & 5.85\\cdot10^{3} & 3.77 \\\\ 19 & 2.32\\cdot10^{4} & 4.37 \\\\ 20 & 6.12\\cdot10^{4} & 4.79 \\\\ 21 & 1.44\\cdot10^{5} & 5.16 \\\\ 22 & 3.71\\cdot10^{5} & 5.57 \\\\ 23 & 9.04\\cdot10^{5} & 5.96 \\\\ 24 & 2.32\\cdot10^{6} & 6.37 \\\\ 25 & 6.01\\cdot10^{6} & 6.78 \\\\ 26 & 1.51\\cdot10^{7} & 7.18 \\\\ 27 & 3.60\\cdot10^{7} & 7.56 \\\\ 28 & 9.71\\cdot10^{7} & 7.99 \\\\ 29 & 2.29\\cdot10^{8} & 8.36 \\\\ 30 & 7.55\\cdot10^{8} & 8.88 \\\\ \\hline \\end{array}$$\n\n1. What conclusions about the spatial distribution of galaxies along the line of sight can be drawn from these data?\n\n2. How is the Hausdorff dimension in this case related to the scale of distances, and how can this be explained?\n\nAssume that the absolute magnitude of the galaxies is the same and equal to $-21^m$. Fig. 2 shows an example of a spatial slice of the distribution of galaxies, which may be useful for understanding the structure of this distribution.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/ruao-2003-d2-q1-1.png",
      "paper_label": "Final – creative-practical round (grade 11)"
     },
     {
@@ -525,7 +525,7 @@
     {
      "day": 1,
      "number": 4,
-     "problem": "4. Orbital period of a planet. The central star of a planetary system is a red giant with temperature $T_1 = 4500$ K, radius $R_1 = 15R_q$, where $R_q$ is the radius of the Sun, and mass $M = 1{,}4\\,M_q$, where $M_q$ is the mass of the Sun. Determine the orbital period of a planet whose climate is the same as on the Earth. Do you think intelligent life could develop on this planet if the planet is similar to the Earth?",
+     "problem": "4. Orbital period of a planet. The central star of a planetary system is a red giant with temperature $T_1 = 4500$ K, radius $R_1 = 15R_q$, where $R_q$ is the radius of the Sun, and mass $M = 1.4\\,M_q$, where $M_q$ is the mass of the Sun. Determine the orbital period of a planet whose climate is the same as on the Earth. Do you think intelligent life could develop on this planet if the planet is similar to the Earth?",
      "paper_label": "Final – theoretical round (grade 11)"
     },
     {
@@ -543,7 +543,7 @@
     {
      "day": 2,
      "number": 1,
-     "problem": "7. Motion of the Sun across the sky. Imagine that you are a planetarium lecturer. You need to describe as clearly, systematically and completely as possible (that is, with numbers) how the Sun moves across the sky at latitudes $0^\\circ$, $\\pm23{,}5^\\circ$, $\\pm66{,}5^\\circ$ and $\\pm90^\\circ$ (by the way, what are these latitudes?) on the days of the equinoxes and solstices. In which direction (to the right or to the left) does the Sun move in these cases for an observer standing on a horizontal surface and looking towards the Sun? What is the altitude of the Sun at upper and lower culmination, and what is the length of the daylight part of the day on these days at these latitudes? Atmospheric refraction may be neglected.",
+     "problem": "7. Motion of the Sun across the sky. Imagine that you are a planetarium lecturer. You need to describe as clearly, systematically and completely as possible (that is, with numbers) how the Sun moves across the sky at latitudes $0^\\circ$, $\\pm23.5^\\circ$, $\\pm66.5^\\circ$ and $\\pm90^\\circ$ (by the way, what are these latitudes?) on the days of the equinoxes and solstices. In which direction (to the right or to the left) does the Sun move in these cases for an observer standing on a horizontal surface and looking towards the Sun? What is the altitude of the Sun at upper and lower culmination, and what is the length of the daylight part of the day on these days at these latitudes? Atmospheric refraction may be neglected.",
      "paper_label": "Final – practical round (grade 11)"
     },
     {
