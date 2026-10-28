@@ -372,6 +372,8 @@ dialog p { color: var(--muted); font-size: .92rem; }
 .ps-item { display: grid; grid-template-columns: 2.2rem minmax(0, 1fr); gap: 4px; margin-bottom: 22px; }
 .solution-space { border-bottom: 1px solid #ddd; }
 .ps-num { font: 700 12pt/1.7 var(--serif); }
+.p-credit { margin: 12px 0 0; max-width: 74ch; font: 400 .86rem/1.5 var(--sans); color: var(--muted, #555); border-left: 3px solid var(--f-tint, #ddd); padding-left: 10px; }
+.res-title .sub.affil { font-size: .86rem; font-style: italic; }
 .provenance { margin-top: 16px; color: #4d5966; font-size: .85rem; }
 .provenance summary { cursor: pointer; }
 .provenance p, .provenance ul { margin-top: 8px; }
@@ -565,7 +567,7 @@ dialog p { color: var(--muted); font-size: .92rem; }
     <div class="wrap">
         <span>eisatopon.gr © 2026–<span id="yr">2026</span> – Hipparchus – World Astronomy &amp; Astrophysics Olympiads Bank</span>
         <a href="https://github.com/Eisatopon/astronomy-olympiads-bank" target="_blank" rel="noopener">Data on GitHub</a>
-        <p class="thanks">Problem statements are reproduced from the official papers of each competition (statements only; no solutions). Copyright of the problems remains with their authors and organisers.</p>
+        <p class="thanks">Problem statements are reproduced from the official papers of each competition for study (statements only; no solutions); each problem shows its source, its organiser and what was changed. Hipparchus is an independent project; it is not affiliated with, endorsed by or supported by any competition organiser (being listed on the IOAA resources page is not an endorsement). Problems remain the property of their organisers; any organiser may ask for corrections or removal at <a href="mailto:sokkorom@gmail.com">sokkorom@gmail.com</a>.</p>
     </div>
 </footer>
 
@@ -613,7 +615,7 @@ dialog p { color: var(--muted); font-size: .92rem; }
 // Local copies (python -m http.server) read the files next to the page; the published site reads the raw files.
 const BASE = /^(localhost|127\.)/.test(location.hostname) ? './' : 'https://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/';
 // Bump on every data change so browsers never mix old and new files.
-const DATA_VERSION = '20261028-share3';
+const DATA_VERSION = '20261028-credit';
 const FIRST = 1990, LAST = 2026;
 const REGIONS = [['europe', 'Europe'], ['asia', 'Asia'], ['americas', 'Americas'], ['africa', 'Africa'], ['oceania', 'Oceania'], ['world', 'World'], ['other', 'Other']];
 const REGION_OF = {
@@ -1577,7 +1579,7 @@ function headHtml(count) {
     const wide = state.country || state.year !== null;
     return `
     <div class="res-head">
-        <h2 class="res-title" id="resTitle">${esc(t)}<span class="res-count">${count === null ? '' : countText(count)}</span>${sub ? `<span class="sub">${esc(sub)}</span>` : ''}</h2>
+        <h2 class="res-title" id="resTitle">${esc(t)}<span class="res-count">${count === null ? '' : countText(count)}</span>${sub ? `<span class="sub">${esc(sub)}</span>` : ''}${state.country && typeof affiliationText === 'function' && affiliationText(state.country) ? `<span class="sub affil">${esc(affiliationText(state.country))}</span>` : ''}</h2>
         <div class="res-actions">
             ${filtersOn() ? '<button type="button" class="btn btn-sm btn-quiet" data-clear-filters>Clear filters</button>' : ''}
             ${wide || filtersOn() ? '<button type="button" class="btn btn-sm btn-quiet" data-copy-view>Copy link to this view</button>' : ''}
@@ -1725,6 +1727,48 @@ async function openRelatedProblem(uid) {
     if (card) { card.tabIndex = -1; card.focus(); card.scrollIntoView({behavior:'smooth',block:'start'}); }
 }
 
+/* ==========================================================
+   Attribution: source, organiser and changes for every problem
+   (shown on cards, in print, in Ask AI prompts, copied LaTeX and share pictures)
+   ========================================================== */
+const OLAA_BOOK = 'Statement taken from the extract of the book "15 años de OLAA" published by the 2026 OLAA host (olaapy.lat); the original paper is not in the OLAA archive.';
+const ORGANISERS = {
+    ioaa: {comp: 'IOAA', org: 'the International Olympiad on Astronomy and Astrophysics (IOAA) and the host organising committee of each year', rights: 'IOAA', short: 'the IOAA or its host organising committees'},
+    ioaada: {comp: 'IOAA', org: 'the International Olympiad on Astronomy and Astrophysics (IOAA) and the host organising committee of each year', rights: 'IOAA', short: 'the IOAA or its host organising committees'},
+    gecaa: {comp: 'GeCAA', org: 'the organisers of the Global e-Competition on Astronomy and Astrophysics (GeCAA 2020; papers in the IOAA archive)', rights: 'the GeCAA organisers', short: 'the GeCAA organisers or the IOAA'},
+    iao: {comp: 'International Astronomy Olympiad', org: 'the International Astronomy Olympiad (IAO) and the Euro-Asian Astronomical Society', rights: 'IAO / Euro-Asian Astronomical Society', short: 'the IAO or the Euro-Asian Astronomical Society'},
+    apao: {comp: 'Asian-Pacific Astronomy Olympiad', org: 'the Asian-Pacific Astronomy Olympiad (APAO) organisers (papers published on the IAO web site)', rights: 'the APAO organisers', short: 'the APAO organisers or the IAO'},
+    olaa: {comp: 'OLAA', org: 'the Olimpiada Latinoamericana de Astronomia y Astronautica (OLAA) and the host organising committee of each year', rights: 'OLAA', short: 'the OLAA or its host organising committees',
+        lang: p => p.year === 2011 && p.uid !== 'olaa.2011.1.8' ? 'Portuguese' : 'Spanish',
+        note: p => (p.year >= 2014 && p.year <= 2019) || (p.year === 2009 && p.day === 1) || p.uid === 'olaa.2011.1.8' ? OLAA_BOOK : ''},
+    baao: {comp: 'British Astronomy and Astrophysics Olympiad', org: 'the British Physics Olympiad (BPhO), which runs the British Astronomy and Astrophysics Olympiad', rights: 'BPhO', short: 'the BPhO'},
+    baao1: {comp: 'British Astronomy and Astrophysics Olympiad', org: 'the British Physics Olympiad (BPhO), which runs the British Astronomy and Astrophysics Olympiad', rights: 'BPhO', short: 'the BPhO'},
+    inao: {comp: 'Indian National Astronomy Olympiad', org: 'the Homi Bhabha Centre for Science Education (HBCSE-TIFR), Indian olympiad programme', rights: 'HBCSE-TIFR', short: 'HBCSE-TIFR'},
+    usaaao: {comp: 'USAAAO', org: 'the USA Astronomy and Astrophysics Organization (USAAAO)', rights: 'USAAAO', short: 'the USAAAO'},
+    usaaao1: {comp: 'USAAAO First Round', org: 'the USA Astronomy and Astrophysics Organization (USAAAO)', rights: 'USAAAO', short: 'the USAAAO'},
+    ruao: {comp: 'All-Russian Astronomy Olympiad, final stage', org: 'the All-Russian Astronomy Olympiad (its central subject-methodological commission, astroolymp.ru)', rights: 'the All-Russian Astronomy Olympiad', short: 'the All-Russian Astronomy Olympiad or its commissions', lang: () => 'Russian'},
+    rureg: {comp: 'All-Russian Astronomy Olympiad, regional stage', org: 'the All-Russian Astronomy Olympiad (its central subject-methodological commission, astroolymp.ru)', rights: 'the All-Russian Astronomy Olympiad', short: 'the All-Russian Astronomy Olympiad or its commissions', lang: () => 'Russian'},
+    spb: {comp: 'St Petersburg Astronomy Olympiad', org: 'the St Petersburg Astronomy Olympiad (St Petersburg State University, school.astro.spbu.ru)', rights: 'the St Petersburg Astronomy Olympiad', short: 'the St Petersburg Astronomy Olympiad or St Petersburg State University', lang: () => 'Russian'},
+    tr: {comp: 'TUBITAK Astronomy and Astrophysics Olympiad, second stage', org: 'TUBITAK (Scientific and Technological Research Council of Turkey), Science Olympiads', rights: 'TUBITAK', short: 'TUBITAK', lang: () => 'Turkish'},
+    pl: {comp: 'Polish Astronomy Olympiad', org: 'the Polish Astronomy Olympiad (Olimpiada Astronomiczna, Planetarium - Silesian Science Park, Chorzow)', rights: 'Olimpiada Astronomiczna', short: 'the Olimpiada Astronomiczna or the Silesian Planetarium', lang: () => 'Polish'},
+    ee: {comp: 'Estonian Astronomy Open Competition', org: 'the University of Tartu Science School (Teaduskool), which runs the Estonian astronomy competitions', rights: 'University of Tartu Science School', short: 'the University of Tartu or its Science School', lang: () => 'Estonian'},
+    cz: {comp: 'Czech Astronomical Olympiad, final round', org: 'the Czech Astronomical Olympiad (Astronomicka olympiada, olympiada.astro.cz)', rights: 'Astronomicka olympiada', short: 'the Czech Astronomical Olympiad', lang: () => 'Czech'},
+    gr: {comp: 'Panhellenic Astronomy and Space Competition', org: 'the Hellenic Astronomy and Space Society (EAD, astronomos.gr)', rights: 'Hellenic Astronomy and Space Society', short: 'the Hellenic Astronomy and Space Society', lang: () => 'Greek',
+        note: p => (p.year === 2013 && p.day === 1) || (p.year >= 2014 && p.year <= 2015) || (p.year === 2016 && p.day >= 2) ? 'Statement taken from the official EAD volume "Papers and answers 2013-2016".' : ''}
+};
+function affiliationText(key) { const o = ORGANISERS[key]; return o ? `Not affiliated with, endorsed by or supported by ${o.short}.` : ''; }
+function creditText(p) {
+    const o = ORGANISERS[p.country];
+    if (!o) return '';
+    const lang = o.lang ? o.lang(p) : '';
+    const note = o.note ? o.note(p) : '';
+    const where = `${o.comp} ${p.year}${p.paperLabel ? `, ${p.paperLabel}` : p.day ? `, Day ${p.day}` : ''}, Problem ${p.num}`;
+    return `Source: ${where}. Original organiser: ${o.org}. © ${o.rights}. `
+        + (lang ? `Translated from ${lang} into English and retyped in LaTeX` : 'Retyped in LaTeX')
+        + `; statement only (solutions omitted).${note ? ' ' + note : ''} ${affiliationText(p.country)}`;
+}
+function creditHtml(p) { const t = creditText(p); return t ? `<p class="p-credit">${esc(t)}</p>` : ''; }
+
 function problemHtml(p) {
     const c = CBY[p.country];
     return `
@@ -1747,6 +1791,7 @@ function problemHtml(p) {
             </div>
         </div>
         <div class="statement">${bodyHtml(p.text, p)}</div>
+        ${creditHtml(p)}
         ${provenanceHtml(p)}
         ${dnaHtml(p)}
     </article>`;
@@ -1973,6 +2018,7 @@ function renderPrintSheet() {
                 <div class="ps-body">
                     ${showSrc ? `<p class="ps-src">${CBY[p.country].name} ${p.year}${p.paperLabel ? `, ${esc(p.paperLabel)}` : p.day ? `, Day ${p.day}` : ''}, Problem ${esc(p.num)}${p.topic ? ` (${esc(p.topic)})` : ''}</p>` : ''}
                     <div class="statement">${bodyHtml(p.text, p)}</div>
+                    ${creditHtml(p)}
                     ${showSrc ? provenanceHtml(p, true) : ''}
                     ${$('#solutionSpace').value !== '0' ? `<div class="solution-space" style="height:${Number($('#solutionSpace').value)}mm" aria-label="Space for solution"></div>` : ''}
                 </div>
@@ -2023,7 +2069,7 @@ function aiPrompt(p, request) {
     const c = CBY[p.country];
     const label = `${c.name} ${p.year}${p.paperLabel ? `, ${p.paperLabel}` : p.day ? `, Day / Test ${p.day}` : ''}, problem ${p.num}`;
     const figure = /https?:\/\/\S+\.(?:png|jpe?g|gif|webp)\b/i.test(p.text);
-    return `${request || 'Give a complete, careful solution to the following astronomy and astrophysics olympiad problem, part by part, with clear physical reasoning, explicit formulas in standard LaTeX, units and numerical answers with sensible significant figures. Use the constants and data given in the statement (or state the standard values you use). Preserve all hypotheses. If a step is uncertain, say so instead of guessing.'}\n\n${label}\n\n${p.text}` +
+    return `${request || 'Give a complete, careful solution to the following astronomy and astrophysics olympiad problem, part by part, with clear physical reasoning, explicit formulas in standard LaTeX, units and numerical answers with sensible significant figures. Use the constants and data given in the statement (or state the standard values you use). Preserve all hypotheses. If a step is uncertain, say so instead of guessing.'}\n\n${label}\n\n${p.text}${typeof creditText === 'function' && creditText(p) ? `\n\n(${creditText(p)})` : ''}` +
         (figure ? '\n\nThe statement includes figure links (diagrams, charts, images or data plots). Inspect the figures before using them. If you cannot access them, ask me to upload the images; do not guess their contents.' : '');
 }
 const AI_PROVIDERS = {chatgpt: {name: 'ChatGPT', q: 'https://chatgpt.com/?q=', home: 'https://chatgpt.com/'},
@@ -2296,7 +2342,7 @@ async function problemImage(p) {
     const link = problemLink(p);
     const node = document.createElement('div');
     node.className = 'share-card f-' + p.country;
-    node.innerHTML = `<div class="sc-head">${esc(problemLabel(p))}</div><div class="statement">${bodyHtml(p.text, p)}</div>
+    node.innerHTML = `<div class="sc-head">${esc(problemLabel(p))}</div><div class="statement">${bodyHtml(p.text, p)}</div>${typeof creditHtml === 'function' ? creditHtml(p) : ''}
         <div class="sc-foot"><div class="sc-text"><b>Hipparchus</b> – World Astronomy &amp; Astrophysics Olympiads Bank<br>Open this problem: <span class="sc-link">${esc(link.replace(/^https:\/\//, ''))}</span></div>${qrcode ? `<div class="sc-qr">${qrSvg(qrcode, link)}</div>` : ''}</div>`;
     document.body.appendChild(node);
     try {
@@ -2334,7 +2380,7 @@ function shareAction(kind, uid) {
     const url = problemLink(p);
     if (kind === 'native') navigator.share({title: problemLabel(p), text: problemLabel(p), url}).catch(() => {});
     else if (kind === 'link') copyText(url, 'Link copied — the preview shows this problem.');
-    else if (kind === 'latex') copyText(`${problemLabel(p)}\n\n${p.text}\n\n${url}`, 'Statement copied (LaTeX).');
+    else if (kind === 'latex') copyText(`${problemLabel(p)}\n\n${p.text}${typeof creditText === 'function' && creditText(p) ? `\n\n(${creditText(p)})` : ''}\n\n${url}`, 'Statement copied (LaTeX).');
     else if (kind === 'image') shareImage(p);
 }
 // ?p=<uid> opens one problem and highlights it.
