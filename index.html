@@ -601,7 +601,7 @@ dialog p { color: var(--muted); font-size: .92rem; }
 // Local copies (python -m http.server) read the files next to the page; the published site reads the raw files.
 const BASE = /^(localhost|127\.)/.test(location.hostname) ? './' : 'https://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/';
 // Bump on every data change so browsers never mix old and new files.
-const DATA_VERSION = '20261027-ioaa2026';
+const DATA_VERSION = '20261028-greece';
 const FIRST = 1990, LAST = 2026;
 const REGIONS = [['europe', 'Europe'], ['asia', 'Asia'], ['americas', 'Americas'], ['africa', 'Africa'], ['oceania', 'Oceania'], ['world', 'World'], ['other', 'Other']];
 const REGION_OF = {
@@ -622,7 +622,8 @@ const REGION_OF = {
     rureg: 'europe',
     ee: 'europe',
     spb: 'europe',
-    cz: 'europe'
+    cz: 'europe',
+    gr: 'europe'
 };
 const regionOf = key => REGION_OF[key] || 'other';
 const PAGE = 20;
@@ -646,6 +647,7 @@ const COUNTRIES = [
     { key: 'spb', name: 'Russia St Petersburg', flag: '🇷🇺', file: 'Russia-stpetersburg-astronomy-problems.json', kind: 'years', full: 'St Petersburg Astronomy Olympiad, oldest grade — translated from the official Russian papers' },
     { key: 'ee', name: 'Estonia', flag: '🇪🇪', file: 'Estonia-astronomy-problems.json', kind: 'years', full: 'Estonian Astronomy Open Competition (Astronoomia lahtine võistlus), senior group — translated from the official Estonian papers' },
     { key: 'cz', name: 'Czech Republic', flag: '🇨🇿', file: 'Czech-astronomy-problems.json', kind: 'years', full: 'Czech Astronomical Olympiad, final round, top category — translated from the official Czech papers' },
+    { key: 'gr', name: 'Greece', flag: '🇬🇷', file: 'Greece-astronomy-problems.json', kind: 'years', full: 'Panhellenic Astronomy and Space Competition (ΕΑΔ), Lyceum — 3rd round Hipparchos and final Ptolemaios, translated from the official Greek papers' },
     { key: 'gecaa', name: 'GeCAA', flag: '🌐', file: 'GeCAA-problems.json', kind: 'years', scope: 'international', full: 'Global e-Competition on Astronomy and Astrophysics (online, 2020), theory and data analysis' }
 ];
 COUNTRIES.sort((a, b) => a.name.localeCompare(b.name, 'en', { sensitivity: 'base' }));
