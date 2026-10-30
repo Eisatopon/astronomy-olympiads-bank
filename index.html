@@ -372,7 +372,8 @@ dialog p { color: var(--muted); font-size: .92rem; }
 .ps-item { display: grid; grid-template-columns: 2.2rem minmax(0, 1fr); gap: 4px; margin-bottom: 22px; }
 .solution-space { border-bottom: 1px solid #ddd; }
 .ps-num { font: 700 12pt/1.7 var(--serif); }
-.p-credit { margin: 10px 0 0; font: 400 .78rem/1.4 var(--sans); color: var(--muted, #666); }
+.p-credit { margin: 0 0 10px; font: .74rem/1.45 var(--sans); color: var(--muted); }
+.yr-credit { margin-left: auto; font: .72rem/1.4 var(--sans); color: var(--muted); }
 .res-title .sub.affil { font-size: .86rem; font-style: italic; }
 .provenance { margin-top: 16px; color: #4d5966; font-size: .85rem; }
 .provenance summary { cursor: pointer; }
@@ -615,7 +616,7 @@ dialog p { color: var(--muted); font-size: .92rem; }
 // Local copies (python -m http.server) read the files next to the page; the published site reads the raw files.
 const BASE = /^(localhost|127\.)/.test(location.hostname) ? './' : 'https://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/';
 // Bump on every data change so browsers never mix old and new files.
-const DATA_VERSION = '20261029-credit-min';
+const DATA_VERSION = '20261030-credit-once';
 const FIRST = 1990, LAST = 2026;
 const REGIONS = [['europe', 'Europe'], ['asia', 'Asia'], ['americas', 'Americas'], ['africa', 'Africa'], ['oceania', 'Oceania'], ['world', 'World'], ['other', 'Other']];
 const REGION_OF = {
@@ -1763,6 +1764,13 @@ function creditText(p) {
     const holder = ['ioaa', 'ioaada', 'olaa'].includes(p.country) ? `${o.comp} ${p.year} organisers` : o.rights;
     return `© ${holder}${o.note && o.note(p) ? ' · from a later compilation' : ''}`;
 }
+// One credit line per competition-year group; notes a later compilation when some or all of its problems come from one.
+function groupCreditText(list) {
+    const ts = list.map(creditText).filter(Boolean);
+    if (!ts.length) return '';
+    const base = ts[0].split(' · ')[0], comp = ts.filter(t => t.includes(' · ')).length;
+    return base + (comp === 0 ? '' : comp === ts.length ? ' · from a later compilation' : ' · some problems from a later compilation');
+}
 function creditHtml(p) { const t = creditText(p); return t ? `<p class="p-credit">${esc(t)}</p>` : ''; }
 
 function problemHtml(p) {
@@ -1787,7 +1795,6 @@ function problemHtml(p) {
             </div>
         </div>
         <div class="statement">${bodyHtml(p.text, p)}</div>
-        ${creditHtml(p)}
         ${provenanceHtml(p)}
         ${dnaHtml(p)}
     </article>`;
@@ -1853,7 +1860,10 @@ function renderResults() {
     }
 
     const singleGroup = state.country && state.year !== null;
+    const groupOf = p => shown.filter(q => q.country === p.country && q.year === p.year);
     if (singleGroup) {
+        const ct = shown.length ? groupCreditText(shown) : '';
+        if (ct) html += `<p class="p-credit">${esc(ct)}</p>`;
         html += shown.map(problemHtml).join('');
     } else {
         let cur = null;
@@ -1861,7 +1871,7 @@ function renderResults() {
             const key = p.country + '|' + p.year;
             if (key !== cur) {
                 cur = key;
-                html += `<div class="yr-head"><h3 class="yr">${p.year}</h3><span class="kd">${CBY[p.country].flag} ${CBY[p.country].name}</span></div>`;
+                html += `<div class="yr-head"><h3 class="yr">${p.year}</h3><span class="kd">${CBY[p.country].flag} ${CBY[p.country].name}</span><span class="yr-credit">${esc(groupCreditText(groupOf(p)))}</span></div>`;
             }
             html += problemHtml(p);
         });
