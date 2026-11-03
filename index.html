@@ -344,7 +344,7 @@ mjx-container[display="true"] { margin: .6em 0 !important; overflow-x: auto; ove
 .check { display: flex; gap: 8px; align-items: center; font-size: .88rem; cursor: pointer; }
 .check input { width: 17px; height: 17px; accent-color: var(--ink); }
 .ex-actions { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
-.ex-actions .btn-quiet { grid-column: 1 / -1; }
+.ex-actions .btn-quiet, .ex-actions .ex-wide { grid-column: 1 / -1; }
 
 /* ---------- Share dialog ---------- */
 dialog { border: 1px solid var(--line); border-top: 4px solid var(--ink); border-radius: 4px; padding: 24px; width: min(420px, calc(100vw - 32px)); color: var(--text); background: var(--surface); }
@@ -573,6 +573,10 @@ dialog p { color: var(--muted); font-size: .92rem; }
                     <svg class="i" viewBox="0 0 24 24" aria-hidden="true"><path d="M3 3h7v7H3zM14 3h7v7h-7zM3 14h7v7H3zM14 14h3v3h-3zM20 14v3M14 20h3M20 20h1"/></svg>
                     Share
                 </button>
+                <button type="button" class="btn ex-wide" id="texBtn" title="Download the set as a LaTeX (.tex) file">
+                    <svg class="i" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v12M7 10l5 5 5-5M5 21h14"/></svg>
+                    Export LaTeX (.tex)
+                </button>
                 <button type="button" class="btn btn-quiet" id="clearBtn">Clear the set</button>
             </div>
         </div>
@@ -648,7 +652,7 @@ dialog p { color: var(--muted); font-size: .92rem; }
 // Local copies (python -m http.server) read the files next to the page; the published site reads the raw files.
 const BASE = /^(localhost|127\.)/.test(location.hostname) ? './' : 'https://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/';
 // Bump on every data change so browsers never mix old and new files.
-const DATA_VERSION = '20261103-texview';
+const DATA_VERSION = '20261103-texset';
 const FIRST = 1990, LAST = 2026;
 const REGIONS = [['europe', 'Europe'], ['asia', 'Asia'], ['americas', 'Americas'], ['africa', 'Africa'], ['oceania', 'Oceania'], ['world', 'World'], ['other', 'Other']];
 const REGION_OF = {
@@ -1962,7 +1966,7 @@ function renderExam() {
                 </div>
             </li>`).join('')}</ol>`
         : '<p class="ex-empty">Your set is empty. Press “Add” next to any problem to collect it here.</p>';
-    ['#printBtn', '#shareBtn', '#clearBtn', '#saveSetBtn'].forEach(s => { $(s).disabled = !items.length; });
+    ['#printBtn', '#shareBtn', '#clearBtn', '#saveSetBtn', '#texBtn'].forEach(s => { $(s).disabled = !items.length; });
     syncAddButtons();
     renderPrintSheet();
 }
@@ -2091,8 +2095,10 @@ function texCharDecls(tex) {
     const hex = c => c.codePointAt(0).toString(16).toUpperCase().padStart(4, '0');
     return seen.size ? `\\ifPDFTeX\n${[...seen].map(c => `\\DeclareUnicodeCharacter{${hex(c)}}{${TEX_CHARS[c] || `[U+${hex(c)}]`}}`).join('\n')}\n\\fi` : '';
 }
-// Downloads every problem of the current view (all years, current filters) as one .tex file.
-function buildTex(items, title = 'Astronomy Olympiads problem set') {
+// The personal set (print options apply) or, with viewExport, every problem of the current view as one .tex file.
+function buildTex(items = getSelected(), title = $('#examTitle').value.trim() || 'Astronomy Olympiads problem set', viewExport = false) {
+    const showSrc = viewExport || $('#showSource').checked;
+    const space = viewExport ? 0 : Number($('#solutionSpace').value);
     const head = String.raw`% Exported from Hipparchus – World Astronomy & Astrophysics Olympiads Bank
 % https://eisatopon.github.io/astronomy-olympiads-bank/
 % Compiles with pdfLaTeX, XeLaTeX or LuaLaTeX. Figures: put the PNG files next to this file,
@@ -2112,17 +2118,18 @@ function buildTex(items, title = 'Astronomy Olympiads problem set') {
     const body = items.map((p, i) => {
         const src = `${CBY[p.country].name} ${p.year}${p.paperLabel ? `, ${p.paperLabel}` : p.day ? `, Day ${p.day}` : ''}, Problem ${p.num}`;
         const credit = typeof creditText === 'function' ? creditText(p) : '';
-        return `\\subsection*{Problem ${i + 1}}\n{\\small\\itshape ${texText(src)}${credit ? ` \\textperiodcentered{} ${texText(credit)}` : ''}}\\par\n` + texStatement(p.text) + '\n';
+        return `\\subsection*{Problem ${i + 1}}\n` + (showSrc ? `{\\small\\itshape ${texText(src)}${credit ? ` \\textperiodcentered{} ${texText(credit)}` : ''}}\\par\n` : '') +
+            texStatement(p.text) + (space ? `\n\n\\vspace{${space}mm}` : '') + '\n';
     }).join('\n');
     const doc = `\\begin{center}{\\Large\\bfseries ${texText(title)}}\\end{center}\n\n` + body;
     const decls = texCharDecls(doc);
     const extra = (doc.includes('\\mathscr') ? '\\usepackage{mathrsfs}\n' : '') + (decls ? decls + '\n' : '');
     return head.replace('\\begin{document}', extra + '\\begin{document}') + doc + '\n\\end{document}\n';
 }
-function exportTex(items, title) {
+function exportTex(items = getSelected(), title = $('#examTitle').value.trim() || 'problem-set', viewExport = false) {
     if (!items.length) return;
     const a = document.createElement('a');
-    a.href = URL.createObjectURL(new Blob([buildTex(items, title)], {type: 'application/x-tex;charset=utf-8'}));
+    a.href = URL.createObjectURL(new Blob([buildTex(items, title, viewExport)], {type: 'application/x-tex;charset=utf-8'}));
     a.download = (title.normalize('NFKD').replace(/[^\w-]+/g, '-').replace(/^-+|-+$/g, '').toLowerCase() || 'problem-set') + '.tex';
     document.body.appendChild(a); a.click(); a.remove();
     setTimeout(() => URL.revokeObjectURL(a.href), 1000);
@@ -2616,7 +2623,7 @@ document.addEventListener('click', e => {
     if (t.hasAttribute('data-export-view')) {
         const [title] = scopeTitle();
         const topic = state.topic !== 'all' ? ` – ${state.topic}` : '';
-        exportTex(shownUids.map(u => byUid.get(u)).filter(Boolean), title.replace(/^[^\p{L}\p{N}]+/u, '') + topic);
+        exportTex(shownUids.map(u => byUid.get(u)).filter(Boolean), title.replace(/^[^\p{L}\p{N}]+/u, '') + topic, true);
         return;
     }
     if (t.hasAttribute('data-add-all')) {
@@ -2650,6 +2657,7 @@ $('#loadSetBtn').addEventListener('click', openCollection);
 $('#deleteSetBtn').addEventListener('click', deleteCollection);
 ['examTitle','showSource','solutionSpace'].forEach(id => $('#' + id).addEventListener('change', () => { saveOptions(); renderPrintSheet(); }));
 $('#printBtn').addEventListener('click', doPrint);
+$('#texBtn').addEventListener('click', () => exportTex());
 $('#shareBtn').addEventListener('click', openShare);
 $('#copyBtn').addEventListener('click', copyLink);
 $('#closeShare').addEventListener('click', () => $('#shareDialog').close());
