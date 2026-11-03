@@ -1,0 +1,1048 @@
+{
+ "competition": "Moscow Astronomy Olympiad (Moscow Olympiad for Schoolchildren in Astronomy), theoretical round, grades 8–11",
+ "years": [
+  {
+   "year": 2020,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "In N. N. Nosov's story \"Dunno on the Moon\", Dunno and Donut fall into a cave and discover that lunar life exists beneath the surface of the Moon, on an \"inner Earth\" for which the lunar crust serves as the celestial sphere. On this inner planet, as on the surface of the Moon, the acceleration of free fall is 6 times smaller than on the Earth. Determine from what height the heroes had to fall if\n1) the mean density of the \"inner Earth\" is equal to the mean density of the Moon ($3.3\\ \\mathrm{g/cm^3}$);\n2) the mean density of the \"inner Earth\" is equal to the density of the Earth ($5.5\\ \\mathrm{g/cm^3}$).\nNeglect the thickness of the lunar crust.",
+     "paper_label": "Theoretical round (grades 8–9)"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "The parallactic ellipse of a star has a semi-major axis of 2 milliarcseconds and an eccentricity of 0.87. What is the declination of the star if its right ascension is $6^\\mathrm{h}$? What is the distance to the star?",
+     "paper_label": "Theoretical round (grades 8–9)"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "The magnitude of a star cluster is $5^\\mathrm{m}$. The faintest star of this cluster has a brightness of $15^\\mathrm{m}$. The luminosity of the next star in order of brightness is twice that of the faintest one, the luminosity of the next one is 3 times that of the faintest one, and so on. Determine the number of stars in the cluster and the magnitude of the brightest star. Do you think this is an open or a globular cluster?",
+     "paper_label": "Theoretical round (grades 8–9)"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "Mercury is at the elongation that is the greatest in its current period of visibility, and Venus is in conjunction with Mercury. Which phases of Venus can we observe? Consider the orbits of Venus and the Earth to be circular. Consider all orbits to lie in the plane of the ecliptic.",
+     "paper_label": "Theoretical round (grades 8–9)"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "Determine the pair of planets of the Solar System for which the duration of a transit of one of them across the disc of the Sun, as observed from the other planet, is the longest. Consider the orbits of all planets to be circular and to lie in the same plane. Neglect the angular size of the planet crossing the solar disc.\n\nReference data:\n$$\\begin{array}{|l|c|c|c|c|}\n\\hline\n\\text{Planet} & \\text{Semi-major axis, AU} & \\text{Orbital eccentricity} & \\text{Sidereal period, years} & \\text{Radius, km} \\\\\n\\hline\n\\text{Mercury} & 0.3871 & 0.2056 & 0.2408 & 2440 \\\\\n\\text{Venus} & 0.7233 & 0.0068 & 0.6152 & 6052 \\\\\n\\text{Earth} & 1 & 0.0167 & 1 & 6371 \\\\\n\\text{Mars} & 1.524 & 0.0934 & 1.881 & 3396 \\\\\n\\text{Jupiter} & 5.204 & 0.0483 & 11.86 & 69\\,911 \\\\\n\\text{Saturn} & 9.583 & 0.0560 & 29.46 & 58\\,230 \\\\\n\\text{Uranus} & 19.22 & 0.0461 & 80.2 & 25\\,360 \\\\\n\\text{Neptune} & 30.11 & 0.0097 & 164.8 & 24\\,620 \\\\\n\\hline\n\\end{array}$$",
+     "paper_label": "Theoretical round (grades 8–9)"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "problem": "Over a long time the axis of the world performs a precessional motion around the axis of the ecliptic, as a result of which different stars become the closest to the celestial poles in different millennia. The table gives data on the brightest stars past which the North and South celestial poles pass at a fairly small distance.\n\nEcliptic coordinates are for the epoch 2000.0 ($\\lambda$ = ecliptic longitude, $\\beta$ = ecliptic latitude).\n\nNorth celestial pole:\n$$\\begin{array}{|l|c|c|c|}\n\\hline\n\\text{Star} & \\lambda & \\beta & \\text{Magnitude} \\\\\n\\hline\n\\alpha\\ \\text{Cep (Alderamin)} & 12^\\circ 47' & 68^\\circ 55' & 2.45 \\\\\n\\beta\\ \\text{Cep (Alfirk)} & 35^\\circ 33' & 71^\\circ 09' & 3.20 \\\\\n\\gamma\\ \\text{Cep (Errai)} & 60^\\circ 06' & 64^\\circ 40' & 3.20 \\\\\n\\alpha\\ \\text{UMi (Cynosura)} & 88^\\circ 34' & 66^\\circ 06' & 1.95 \\\\\n\\beta\\ \\text{UMi (Kochab)} & 133^\\circ 19' & 72^\\circ 59' & 2.05 \\\\\n\\alpha\\ \\text{Dra (Thuban)} & 157^\\circ 27' & 66^\\circ 23' & 3.65 \\\\\n\\varepsilon\\ \\text{UMa (Alioth)} & 158^\\circ 56' & 54^\\circ 19' & 1.75 \\\\\n\\eta\\ \\text{UMa (Alkaid)} & 176^\\circ 56' & 54^\\circ 23' & 1.85 \\\\\n\\iota\\ \\text{Dra (Edasich)} & 184^\\circ 57' & 71^\\circ 06' & 3.25 \\\\\n\\tau\\ \\text{Her} & 224^\\circ 23' & 65^\\circ 50' & 3.90 \\\\\n\\eta\\ \\text{Her} & 239^\\circ 04' & 60^\\circ 17' & 3.45 \\\\\n\\pi\\ \\text{Her} & 252^\\circ 04' & 59^\\circ 33' & 3.15 \\\\\n\\alpha\\ \\text{Lyr (Vega)} & 285^\\circ 19' & 61^\\circ 44' & 0.00 \\\\\n\\gamma\\ \\text{Cyg (Sadr)} & 324^\\circ 50' & 57^\\circ 07' & 2.20 \\\\\n\\alpha\\ \\text{Cyg (Deneb)} & 335^\\circ 20' & 59^\\circ 54' & 1.25 \\\\\n\\hline\n\\end{array}$$\n\nSouth celestial pole:\n$$\\begin{array}{|l|c|c|c|}\n\\hline\n\\text{Star} & \\lambda & \\beta & \\text{Magnitude} \\\\\n\\hline\n\\alpha\\ \\text{Dor} & 37^\\circ 50' & -74^\\circ 35' & 3.60 \\\\\n\\alpha\\ \\text{Hor} & 45^\\circ 49' & -61^\\circ 44' & 3.85 \\\\\n\\eta\\ \\text{Col} & 89^\\circ 37' & -66^\\circ 15' & 3.95 \\\\\n\\alpha\\ \\text{Car (Canopus)} & 104^\\circ 58' & -75^\\circ 49' & -0.65 \\\\\n\\nu\\ \\text{Pup} & 107^\\circ 09' & -66^\\circ 04' & 3.15 \\\\\n\\gamma\\ \\text{Vel (Regor)} & 147^\\circ 21' & -64^\\circ 28' & 1.75 \\\\\no\\ \\text{Vel} & 164^\\circ 44' & -66^\\circ 17' & 3.60 \\\\\n\\delta\\ \\text{Vel (Alsephina)} & 168^\\circ 57' & -67^\\circ 12' & 1.95 \\\\\n\\iota\\ \\text{Car (Aspidiske)} & 185^\\circ 20' & -67^\\circ 07' & 2.20 \\\\\nl\\ \\text{Car} & 197^\\circ 04' & -66^\\circ 19' & 3.65 \\\\\n\\upsilon\\ \\text{Car} & 202^\\circ 53' & -67^\\circ 30' & 3.00 \\\\\n\\beta\\ \\text{Car (Miaplacidus)} & 211^\\circ 58' & -72^\\circ 14' & 1.65 \\\\\n\\omega\\ \\text{Car} & 217^\\circ 26' & -67^\\circ 23' & 3.25 \\\\\n\\beta\\ \\text{Hyi} & 300^\\circ 57' & -64^\\circ 48' & 2.80 \\\\\n\\alpha\\ \\text{Hyi} & 324^\\circ 07' & -64^\\circ 15' & 2.85 \\\\\n\\hline\n\\end{array}$$\n\nAnswer the following questions:\n1) Which of these stars can come closest to the North celestial pole, and which to the South celestial pole?\n2) How soon will this happen? Give the answer for each of these two stars.\n3) Which star brighter than $2^\\mathrm{m}$ will be closest to the celestial pole at that moment?\n4) When will Alderamin become the star closest to the North celestial pole?\n5) How many times brighter will the northern pole star be than the southern one in the year 13989?\nConsider the present inclination of the equator to the ecliptic to be constant, and the stars to be fixed.",
+     "paper_label": "Theoretical round (grades 8–9)"
+    },
+    {
+     "day": 2,
+     "number": 1,
+     "problem": "An astronomer sees a rising double star consisting of two components of spectral classes B and G with the same apparent brightness. Which of the stars will look brighter at upper culmination at an altitude of $30^\\circ$?",
+     "paper_label": "Theoretical round (grades 10–11)"
+    },
+    {
+     "day": 2,
+     "number": 2,
+     "problem": "An amateur astronomer, observing with a home-made telescope whose eyepiece is a single lens, decided to try to photograph what he saw with a mobile-phone camera. At what distance from the eyepiece lens does he need to place the phone? The astronomer observes with a telescope with an objective focal length of 1.5 m at a magnification of 50 times.",
+     "paper_label": "Theoretical round (grades 10–11)"
+    },
+    {
+     "day": 2,
+     "number": 3,
+     "problem": "The concentration of solar-wind particles near the Earth's orbit is $n \\approx 10\\ \\mathrm{cm^{-3}}$. Assuming that the speed of the solar wind does not depend on distance and is equal to $470\\ \\mathrm{km/s}$, find the mass of the wind material located inside the orbit of Neptune. Express the answer in Earth masses.",
+     "paper_label": "Theoretical round (grades 10–11)"
+    },
+    {
+     "day": 2,
+     "number": 4,
+     "problem": "A cuvette in the shape of a very large cube, filled with smoke, was placed between a star and an observer. The line of sight falls on a face of the cube at a right angle. Measurements of the absorption of light showed that the optical depth of the smoke was 0.10. After the measurements, the length of the cube in the star–observer direction was reduced by a factor of 2 by moving one of the walls of the cuvette so that all the smoke remained inside. What will the optical depth be after this? What would the absorption of light in magnitudes become if a wall parallel to the \"star–observer\" line were moved in the same way?",
+     "paper_label": "Theoretical round (grades 10–11)"
+    },
+    {
+     "day": 2,
+     "number": 5,
+     "problem": "Sooner or later the gas on the Earth will run out, and it will have to be extracted on other bodies of the Solar System. For example, on Titan, which has such a dense atmosphere that its pressure at the surface is 1.5 times the atmospheric pressure at the surface of the Earth. It consists mainly of nitrogen (96% of the total number of molecules) and methane (about 4% of the total number of molecules). For how many years would the methane of Titan's atmosphere last the inhabitants of the Earth, assuming that the world consumption of gas remains constant and equal to about $3700$ billion $\\mathrm{m^3/year}$? The density of methane under terrestrial conditions is $\\rho = 0.67\\ \\mathrm{kg/m^3}$.\nIt is known that the combustion of one mole of methane releases $q = 891\\ \\mathrm{kJ}$ of energy. Estimate the luminosity of an imaginary star whose energy source would be this amount of methane, consumed at the rate given above.\nThe radius of Titan is $R = 2576\\ \\mathrm{km}$, and its mass is $M = 1.35\\cdot10^{23}\\ \\mathrm{kg}$.",
+     "paper_label": "Theoretical round (grades 10–11)"
+    },
+    {
+     "day": 2,
+     "number": 6,
+     "problem": "The constellation Chamaeleon is enclosed between the following coordinate circles: in right ascension $7^\\mathrm{h}40^\\mathrm{m}$ and $13^\\mathrm{h}40^\\mathrm{m}$, and in declination between $-75^\\circ$ and $-82^\\circ 30'$; it contains 34 stars visible to the naked eye. The constellation Scutum is enclosed between the coordinate circles: in right ascension $18^\\mathrm{h}15^\\mathrm{m}$ and $18^\\mathrm{h}52^\\mathrm{m}$, and in declination $-4^\\circ$ and $-16^\\circ$; it contains 25 stars visible to the naked eye. Determine in which of the constellations the surface concentration of stars visible to the naked eye is higher, and by what factor. Assume that the boundaries lie exactly along the stated coordinate circles.",
+     "paper_label": "Theoretical round (grades 10–11)"
+    },
+    {
+     "day": 2,
+     "number": 7,
+     "problem": "While processing observations of galaxies in the early Universe, a galaxy similar to the Milky Way was discovered ($M_b = -21^\\mathrm{m}$, $D = 30$ kpc). Its measured bolometric magnitude was $27.8^\\mathrm{m}$, and its angular size $5.3''$. Using these data, determine the redshift of the galaxy found and the comoving distance to it.\nThe graph given may help you; it shows the dependences of the photometric (from the observed brightness), angular (from the observed angular size) and comoving (geometric at the moment of observation) distances for our Universe. Unfortunately, however, the information about which curve corresponds to which distance has been lost.\nOn the graph in the answer sheet, draw the curve corresponding to the distance obtained from the classical Hubble law and the classical Doppler effect.\n\nFigure: dependence of various cosmological distances on redshift (vertical axis: distance, Mpc; horizontal axis: redshift).\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2020-g1011-q7.png",
+     "paper_label": "Theoretical round (grades 10–11)"
+    },
+    {
+     "day": 2,
+     "number": 8,
+     "problem": "In 1908 Henrietta Leavitt, studying Cepheid variable stars in the Small Magellanic Cloud, discovered a relation between the periods and the luminosities of these stars. You are given a table with some characteristics of pulsating variable stars located in the constellations Tucana and Hydrus. Here $\\alpha$ is the right ascension in hours and minutes, $\\delta$ is the declination in degrees and minutes, $\\langle m_V\\rangle$ is the mean magnitude in the V band, and $P$ is the period in days. Using this table, and also the attached map,\n1) plot the graph of $\\langle m_V\\rangle$ against the logarithm of the period for the Cepheids of the Small Magellanic Cloud;\n2) determine the dependence of $\\langle m_V\\rangle$ on $\\lg P$ by the method of least squares and draw it on the graph;\n3) determine the distance to the Cepheid CK Cam, whose period is 3.29 days and $\\langle m_V\\rangle = 7.5^\\mathrm{m}$ (it is known that the distance to the Small Magellanic Cloud is 61 kpc);\n4) determine the absorption in magnitudes per kiloparsec in the direction of CK Cam if the trigonometric parallax of this star is $0.00127''$.\n\nMethod of least squares: if we want to draw the best straight line $y = \\alpha + \\beta\\cdot x$ through the points $(x_i, y_i)$ for $i = 1, \\dots, N$, then $\\alpha$ and $\\beta$ can be found from the relations\n$$\\beta = \\frac{\\langle xy\\rangle - \\langle x\\rangle\\cdot\\langle y\\rangle}{\\langle x^2\\rangle - \\langle x\\rangle^2}; \\quad \\alpha = \\langle y\\rangle - \\beta\\langle x\\rangle.$$\nHere the angle brackets denote averaging, for example $\\langle xy\\rangle = \\left(\\sum_{i=1}^{N} x_i y_i\\right)/N$.\n\n$$\\begin{array}{|l|c|c|c|c||l|c|c|c|c|}\n\\hline\n\\text{Star} & \\alpha,\\ \\mathrm{h\\ m} & \\delta,\\ {}^\\circ\\ ' & \\langle m_V\\rangle & P,\\ \\text{days} & \\text{Star} & \\alpha,\\ \\mathrm{h\\ m} & \\delta,\\ {}^\\circ\\ ' & \\langle m_V\\rangle & P,\\ \\text{days} \\\\\n\\hline\n\\text{AF Tuc} & 00\\ 51 & -71\\ 03 & 16.3 & 0.57 & \\text{BH Tuc} & 01\\ 20 & -72\\ 54 & 14.1 & 20.0 \\\\\n\\text{AH Hyi} & 01\\ 23 & -74\\ 22 & 15.0 & 8.38 & \\text{BZ Tuc} & 00\\ 41 & -73\\ 43 & 12.0 & 127.6 \\\\\n\\text{AH Tuc} & 01\\ 07 & -71\\ 43 & 15.1 & 0.60 & \\text{CO Tuc} & 00\\ 28 & -72\\ 10 & 13.9 & 0.37 \\\\\n\\text{AI Hyi} & 01\\ 26 & -74\\ 08 & 14.8 & 12.5 & \\text{RS Tuc} & 00\\ 57 & -72\\ 46 & 17.6 & 1.45 \\\\\n\\text{AI Tuc} & 01\\ 09 & -71\\ 15 & 16.3 & 0.51 & \\text{RV Tuc} & 00\\ 58 & -72\\ 36 & 17.5 & 2.10 \\\\\n\\text{AK Tuc} & 01\\ 10 & -72\\ 31 & 16.4 & 0.69 & \\text{RX Tuc} & 01\\ 00 & -72\\ 39 & 16.1 & 4.29 \\\\\n\\text{AL Tuc} & 01\\ 10 & -73\\ 52 & 15.0 & 0.53 & \\text{SS Tuc} & 01\\ 02 & -72\\ 06 & 13.2 & 49.7 \\\\\n\\text{AR Tuc} & 00\\ 22 & -73\\ 35 & 15.5 & 0.29 & \\text{SW Tuc} & 01\\ 03 & -72\\ 46 & 16.5 & 3.59 \\\\\n\\text{BC Tuc} & 01\\ 13 & -74\\ 22 & 16.2 & 8.11 & \\text{TW Tuc} & 01\\ 07 & -72\\ 31 & 16.0 & 6.11 \\\\\n\\text{BE Tuc} & 01\\ 17 & -73\\ 43 & 13.6 & 25.4 & \\text{XY Hyi} & 00\\ 07 & -74\\ 29 & 16.5 & 22.0 \\\\\n\\hline\n\\end{array}$$\n\nFigure: map of the surroundings of the Small Magellanic Cloud.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2020-g1011-q8.png",
+     "paper_label": "Theoretical round (grades 10–11)"
+    }
+   ]
+  },
+  {
+   "year": 2021,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "For which planet is the distance between its initial and final positions in orbit after 1000 (Earth) days greater: for Venus or for the Earth? Consider the orbits of the planets to be circular. Explain your answer.",
+     "paper_label": "Theoretical round (grades 8–9)"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "Find the mean distance between the particles in the B ring of Saturn. How many times larger is it than the mean size of the particles?\nThe inner radius of the ring is $R = 92\\,000$ km, its width $W = 25\\,500$ km, its thickness $H = 10$ m, its mass $M = 2.4\\cdot10^{19}$ kg. The ring consists of ice particles of size (diameter) $d = 1$ cm.",
+     "paper_label": "Theoretical round (grades 8–9)"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "Let us imagine the world several billion years from now. The length of the tropical year is exactly 365.25 present-day days, and the Earth rotates about its axis in 36 hours 20 minutes (present-day). A new civilisation living on the Earth, just like us, uses a seven-day week and 12 equal (almost) months. Calculate how many new days make up the calendar year and the month. How often must a leap year be introduced so that an error of one day accumulates over no less than 1000 years? The calendar cycle must be shorter than 50 years or must be built on the Gregorian principle.",
+     "paper_label": "Theoretical round (grades 8–9)"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "A multiple system consists of four Sun-like stars forming two close pairs that revolve around a common centre of mass. All orbits are circular. From the vicinity of star 1, star 2 has an apparent brightness of $-25^\\mathrm{m}$, and the brightness of each of stars 3 and 4 is $-15^\\mathrm{m}$. Determine the orbital period in the system of stars 1 and 2 and the period of revolution of both pairs around the common centre of mass, in years. Take the absolute magnitude of the Sun to be $5^\\mathrm{m}$.",
+     "paper_label": "Theoretical round (grades 8–9)"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "The ancient Greek astronomer Euctemon in the 5th century BC first discovered the inequality of the seasons, i.e. the difference between the time intervals between successive equinoxes and solstices. The explanation of this fact was given by another Greek astronomer, Hipparchus of Nicaea, who lived in the 2nd century BC. He supposed that the Sun moves uniformly along a circular orbit, but the Earth is not at the centre of this orbit but displaced by some distance. Hipparchus called the eccentricity the ratio of the displacement of the Earth from the centre of the solar orbit to the radius of this orbit. Using the data on the equinoxes and solstices in 2019–20, determine, following Hipparchus, the lengths of the seasons and the \"eccentricity\" of the Sun's orbit.\n\n20 March 2019, 21:58 — 21 June 2019, 15:54 — 23 September 2019, 07:50 — 22 December 2019, 04:19 — 20 March 2020, 03:51",
+     "paper_label": "Theoretical round (grades 8–9)"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "problem": "The figure shows the positions (view from the north pole of the ecliptic) of the four giant planets and the asteroids surrounding them at some moment in the previous decade (only Centaurs and Kuiper-belt objects are shown). Only the asteroids known at the moment of observation are shown. From this figure determine:\n- the reason why a gap in the distribution of asteroids is observed in the lower part of the Kuiper belt;\n- in which constellation each planet was observed;\n- the date of the observation to within half a year.\n\nReference data (printed with the paper):\n$$\\begin{array}{|l|c|c|c|c|}\n\\hline\n\\text{Planet} & \\text{Semi-major axis, AU} & \\text{Eccentricity} & \\text{Inclination to the ecliptic, } ^\\circ & \\text{Orbital period} \\\\\n\\hline\n\\text{Mercury} & 0.3871 & 0.2056 & 7.004 & 87.97\\ \\text{days} \\\\\n\\text{Venus} & 0.7233 & 0.0068 & 3.394 & 224.70\\ \\text{days} \\\\\n\\text{Earth} & 1.0000 & 0.0167 & 0.000 & 365.2564\\ \\text{days} \\\\\n\\text{Mars} & 1.5237 & 0.0934 & 1.850 & 686.98\\ \\text{days} \\\\\n\\text{Jupiter} & 5.2028 & 0.0483 & 1.308 & 11.862\\ \\text{years} \\\\\n\\text{Saturn} & 9.5388 & 0.0560 & 2.488 & 29.458\\ \\text{years} \\\\\n\\text{Uranus} & 19.1914 & 0.0461 & 0.774 & 84.01\\ \\text{years} \\\\\n\\text{Neptune} & 30.0611 & 0.0097 & 1.774 & 164.79\\ \\text{years} \\\\\n\\hline\n\\end{array}$$\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2021-g89-q6.png",
+     "paper_label": "Theoretical round (grades 8–9)"
+    },
+    {
+     "day": 2,
+     "number": 1,
+     "problem": "In 1665 Giovanni Domenico Cassini discovered the Great Red Spot. How many spots do you think he could have seen in the same year in a single observation if he had looked, with all precautions of course, for sunspots? Justify your answer.",
+     "paper_label": "Theoretical round (grades 10–11)"
+    },
+    {
+     "day": 2,
+     "number": 2,
+     "problem": "Hostile aliens merged all four terrestrial planets into one black hole. Draw the Schwarzschild sphere of this black hole at a scale of 1:1. Confirm that you are right by a calculation.",
+     "paper_label": "Theoretical round (grades 10–11)"
+    },
+    {
+     "day": 2,
+     "number": 3,
+     "problem": "An asteroid has the shape of two spheres stuck together, of radii $r_1 = 20$ km and $r_2 = 40$ km, each with mean density $\\rho = 2.5\\ \\mathrm{g/cm^3}$. A pendulum is installed on the surface of the asteroid (see the figure) with a suspension length $l = 50$ m and a bob mass $m = 100$ kg. The asteroid rotates about its long axis with a period of 4 hours. The bob of the pendulum was displaced from the equilibrium position by $x = 1$ m and released. At what distance from its initial position will the bob be after completing the first oscillation, i.e. after one period?\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2021-g1011-q3.png",
+     "paper_label": "Theoretical round (grades 10–11)"
+    },
+    {
+     "day": 2,
+     "number": 4,
+     "problem": "A young astronomer has finally spoilt his eyesight and now wears glasses. Investigating the new accessory, he noticed that without glasses he sees objects sharply at distances from about 10 to 22 cm.\n1. Help him find the optical power of his glasses, assuming that they are chosen correctly (the focusing range of the eye is used fully, and with the glasses the astronomer sees infinitely distant objects sharply).\n2. At what minimum distance will the astronomer see sharply with the glasses?\n3. Estimate the resolution of the astronomer's eye, unaided by anything, even glasses, when observing distant objects.\nHint: consider all lenses to be thin; the glasses are located about 20 mm from the eye. The pupil diameter is 5 mm, and the distance from the pupil to the retina may be taken as 20 mm.",
+     "paper_label": "Theoretical round (grades 10–11)"
+    },
+    {
+     "day": 2,
+     "number": 5,
+     "problem": "The well-known \"Collection of Problems in Astronomy\" by M. M. Dagaev contains many calculation formulae containing, at first sight, very unusual numbers. For example, this one:\n$$\\lg\\delta = C - 0.2\\,m_b - 2\\lg T,$$\nwhere $\\delta$ is the angular diameter of a star measured in arcseconds, $m_b$ is its apparent bolometric magnitude, $T$ is its effective temperature in kelvins, and $C$ is some constant.\nNevertheless, well-known expressions are quite sufficient to derive this formula. Derive it, neglecting interstellar absorption. Calculate the constant $C$ to within hundredths.",
+     "paper_label": "Theoretical round (grades 10–11)"
+    },
+    {
+     "day": 2,
+     "number": 6,
+     "problem": "Two radio telescopes installed at latitude $45^\\circ$ operate as an interferometer. Determine the maximum and minimum value of the projection of the baseline of this interferometer, i.e. of the segment joining the telescopes, onto the plane perpendicular to the direction to the source, that can be realised in this experiment, if the declination of this source is $20^\\circ$ and the difference in longitude of these telescopes is $90^\\circ$. Assume that the telescopes can observe the source at any positive altitude above the horizon.",
+     "paper_label": "Theoretical round (grades 10–11)"
+    },
+    {
+     "day": 2,
+     "number": 7,
+     "problem": "The figure shows the positions (view from the north pole of the ecliptic) of the four giant planets and the asteroids surrounding them at some moment in the previous decade (only Centaurs and Kuiper-belt objects are shown). Only the asteroids known at the moment of observation are shown. From this figure determine:\n- the reason why a gap in the distribution of asteroids is observed in the lower part of the Kuiper belt;\n- in which constellation each planet was observed;\n- the date of the observation to within half a year.\n\nReference data (printed with the paper):\n$$\\begin{array}{|l|c|c|c|c|}\n\\hline\n\\text{Planet} & \\text{Semi-major axis, AU} & \\text{Eccentricity} & \\text{Inclination to the ecliptic, } ^\\circ & \\text{Orbital period} \\\\\n\\hline\n\\text{Mercury} & 0.3871 & 0.2056 & 7.004 & 87.97\\ \\text{days} \\\\\n\\text{Venus} & 0.7233 & 0.0068 & 3.394 & 224.70\\ \\text{days} \\\\\n\\text{Earth} & 1.0000 & 0.0167 & 0.000 & 365.2564\\ \\text{days} \\\\\n\\text{Mars} & 1.5237 & 0.0934 & 1.850 & 686.98\\ \\text{days} \\\\\n\\text{Jupiter} & 5.2028 & 0.0483 & 1.308 & 11.862\\ \\text{years} \\\\\n\\text{Saturn} & 9.5388 & 0.0560 & 2.488 & 29.458\\ \\text{years} \\\\\n\\text{Uranus} & 19.1914 & 0.0461 & 0.774 & 84.01\\ \\text{years} \\\\\n\\text{Neptune} & 30.0611 & 0.0097 & 1.774 & 164.79\\ \\text{years} \\\\\n\\hline\n\\end{array}$$\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2021-g1011-q7.png",
+     "paper_label": "Theoretical round (grades 10–11)"
+    },
+    {
+     "day": 2,
+     "number": 8,
+     "problem": "You are given a graph showing the change in the equatorial coordinates of a certain star. The axes show the change in right ascension ($\\alpha^* = \\alpha\\cos\\delta$) and in declination $\\delta$ in milliarcseconds. The effects of aberration, refraction and precession have been taken into account. At the initial moment the star was at the point with coordinates $(0, 0)$ on the graph, and its coordinates were $\\alpha = 18^\\mathrm{h}$, $\\delta = -5.5^\\circ$. The dots show the measured positions of the star; the dates of the measurements are collected in the table. Determine the distance to the star and the magnitude of its tangential velocity.\n\n$$\\begin{array}{|c|c||c|c|}\n\\hline\n\\text{No.} & \\text{Date} & \\text{No.} & \\text{Date} \\\\\n\\hline\n1 & 04.05.18 & 6 & 23.11.18 \\\\\n2 & 28.05.18 & 7 & 30.11.18 \\\\\n3 & 20.06.18 & 8 & 15.01.19 \\\\\n4 & 05.07.18 & 9 & 28.01.19 \\\\\n5 & 21.07.18 & 10 & 27.05.19 \\\\\n\\hline\n\\end{array}$$\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2021-g1011-q8.png",
+     "paper_label": "Theoretical round (grades 10–11)"
+    }
+   ]
+  },
+  {
+   "year": 2022,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "There are many video recordings of fireballs (bright meteors) on the Internet, taken with car dashboard cameras and surveillance cameras. Such videos are of interest to scientists who study meteors. Why do you think this is so? What information about meteoroids can be obtained from such recordings?",
+     "paper_label": "Theoretical round (grade 8)"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "Once a resident of the town of Petersburg, Pennsylvania ($41^\\circ 10'$ N, $79^\\circ 39'$ W), set off to watch a total solar eclipse at his friend's in the town of Moscow. By mistake, instead of Moscow, Tennessee ($35^\\circ 3'$ N, $89^\\circ 24'$ W), he ended up in Moscow, Wisconsin ($42^\\circ 53'$ N, $89^\\circ 54'$ W).\n- Estimate the distance between the two Moscows mentioned above.\n- At what maximum altitude above the horizon could the eclipse be observed in Moscow, Tennessee?\n\nSuppose that the total phase of the eclipse was observed in Moscow (Tennessee) at noon on the day of the vernal equinox.\n- The observer who ended up in Wisconsin could observe only a partial eclipse. Which side of the solar disc remained uncovered for him at the moment of maximum phase? Draw a picture of the eclipse in which, besides the view of the eclipsed Sun, you indicate the direction to the zenith.\n- Where did the maximum phase of this eclipse occur earlier: in Petersburg or in Moscow?",
+     "paper_label": "Theoretical round (grade 8)"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "A globular star cluster is located 1 kiloparsec from us and has an apparent magnitude of $5^\\mathrm{m}$. Find its absolute magnitude. Assuming that the cluster consists of a million identical stars, determine the absolute magnitude of one star of the cluster.",
+     "paper_label": "Theoretical round (grade 8)"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "In what year will we celebrate the Old New Year on 29 February for the first time? On 1 March? In what year will the Old New Year fall on 1 March for the last time?",
+     "paper_label": "Theoretical round (grade 8)"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "The heliograph (sunshine recorder) is one of the meteorological instruments. It is intended to record the amount of time in a day during which the Sun is not covered by clouds. The design of the heliograph is shown in the drawing and the photograph. A glass sphere is fixed on a special stationary mount whose axis is directed to the celestial pole. On a concave screen (called the \"cup\") behind the sphere there is a dark strip of paper (its dimensions in our particular case are always the same). Solar radiation, having passed through the sphere, falls on this strip and burns it. The length of the burnt part determines the time during which direct sunlight reached the instrument on that day.\na) Knowing that the distance from the centre of the sphere to the screen is 200 mm, and assuming that the instrument is installed at the site for many years, determine the minimum height of the paper strips that must be prepared for instruments installed at latitude $55^\\circ$ and at latitude $30^\\circ$. Neglect the curvature of the burnt daily traces on the paper.\nb) As can be seen from the diagram and the photograph of the instrument, the \"cup\" and the strip have a shape close to a trapezium narrowed at the top. Explain what this may be caused by.\n\nNote: the specific type of the instrument does not matter for solving the problem.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2022-g8-q5-1.png\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2022-g8-q5-2.png",
+     "paper_label": "Theoretical round (grade 8)"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "problem": "The image shows a collage of photographs of the Sun on the day of the solar eclipse that took place on 4 December. The total phase of the eclipse is shown in the lowest image of the Sun. Where do you think the photograph of this eclipse was taken? Why did you decide so? Did the Sun move clockwise or counter-clockwise in the picture while this picture was being made? Determine the local time of the total phase of the eclipse and the latitude of the observing site.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2022-g8-q6.png",
+     "paper_label": "Theoretical round (grade 8)"
+    },
+    {
+     "day": 2,
+     "number": 1,
+     "problem": "A meteor flash lasting 1.4 seconds was observed at two points on the Earth. The coordinates of the first point are $56^\\circ$ N and $38^\\circ$ E, of the second point $56^\\circ$ N and $39^\\circ$ E. The observers recorded the altitude and astronomical azimuth of the beginning and the end of the meteor trail. Their results are given in the table. Estimate the length of the meteor trail in kilometres and its approximate speed.\n\n$$\\begin{array}{|c|c|c|c|c|}\n\\hline\n & \\text{Beginning: azimuth} & \\text{Beginning: altitude} & \\text{End: azimuth} & \\text{End: altitude} \\\\\n\\hline\n\\text{Observer 1} & 90^\\circ & 90^\\circ & 270^\\circ & 50^\\circ \\\\\n\\text{Observer 2} & 90^\\circ & 60^\\circ & 270^\\circ & 90^\\circ \\\\\n\\hline\n\\end{array}$$",
+     "paper_label": "Theoretical round (grade 9)"
+    },
+    {
+     "day": 2,
+     "number": 2,
+     "problem": "In 2006 a new class of Solar System objects was introduced — dwarf planets. They were Ceres, Pluto and Eris. Order these planets by increasing distance travelled by them from 2006 to 2021. By what factors do the distances travelled by the first and the third dwarf planets in this order differ from the distance travelled by the second? Assume that during this time Pluto was at the perihelion of its orbit and Eris at aphelion. Consider the orbit of Ceres to be circular.\n\n$$\\begin{array}{|l|c|c|}\n\\hline\n\\text{Object} & \\text{Semi-major axis, AU} & \\text{Eccentricity} \\\\\n\\hline\n\\text{Ceres} & 2.8 & 0 \\\\\n\\text{Pluto} & 39 & 0.25 \\\\\n\\text{Eris} & 68 & 0.44 \\\\\n\\hline\n\\end{array}$$",
+     "paper_label": "Theoretical round (grade 9)"
+    },
+    {
+     "day": 2,
+     "number": 3,
+     "problem": "A globular star cluster is located 1 kiloparsec from us and has an apparent magnitude of $5^\\mathrm{m}$. Find its absolute magnitude. Assuming that the cluster consists of a million identical stars, determine the absolute magnitude of one star of the cluster.",
+     "paper_label": "Theoretical round (grade 9)"
+    },
+    {
+     "day": 2,
+     "number": 4,
+     "problem": "In what year will we celebrate the Old New Year on 29 February for the first time? On 1 March? In what year will the Old New Year fall on 1 March for the last time?",
+     "paper_label": "Theoretical round (grade 9)"
+    },
+    {
+     "day": 2,
+     "number": 5,
+     "problem": "The heliograph (sunshine recorder) is one of the meteorological instruments. It is intended to record the amount of time in a day during which the Sun is not covered by clouds. The design of the heliograph is shown in the drawing and the photograph. A glass sphere is fixed on a special stationary mount whose axis is directed to the celestial pole. On a concave screen (called the \"cup\") behind the sphere there is a dark strip of paper (its dimensions in our particular case are always the same). Solar radiation, having passed through the sphere, falls on this strip and burns it. The length of the burnt part determines the time during which direct sunlight reached the instrument on that day.\na) Knowing that the distance from the centre of the sphere to the screen is 200 mm, and assuming that the instrument is installed at the site for many years, determine the minimum height of the paper strips that must be prepared for instruments installed at latitude $55^\\circ$ and at latitude $30^\\circ$. Neglect the curvature of the burnt daily traces on the paper.\nb) As can be seen from the diagram and the photograph of the instrument, the \"cup\" and the strip have a shape close to a trapezium narrowed at the top. Explain what this may be caused by.\n\nNote: the specific type of the instrument does not matter for solving the problem.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2022-g9-q5-1.png\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2022-g9-q5-2.png",
+     "paper_label": "Theoretical round (grade 9)"
+    },
+    {
+     "day": 2,
+     "number": 6,
+     "problem": "The image shows a collage of photographs of the Sun on the day of the solar eclipse that took place on 4 December. The total phase of the eclipse is shown in the lowest image of the Sun. Where do you think the photograph of this eclipse was taken? Why did you decide so? Did the Sun move clockwise or counter-clockwise in the picture while this picture was being made? Determine the local time of the total phase of the eclipse and the latitude of the observing site.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2022-g9-q6.png",
+     "paper_label": "Theoretical round (grade 9)"
+    },
+    {
+     "day": 3,
+     "number": 1,
+     "problem": "Surely you have seen a rainbow at least once in your life: it usually looks like part of a wide circle. It has been noticed that in Moscow, as in most places in Russia, the centre of the rainbow is observed more often in the east or south-east, whereas in the north-east it is very rare. Explain why this is so. Why can a rainbow not be observed at the equator at noon? What can be done to see it nevertheless at noon at the equator?",
+     "paper_label": "Theoretical round (grade 10)"
+    },
+    {
+     "day": 3,
+     "number": 2,
+     "problem": "The same amount of energy in the visible range comes from two stars of spectral classes B0V and M3V. The stars are observed with a photometer operating in photon-counting mode, with the same quantum efficiency of 70% over the whole visible range. From which star will a larger signal be recorded? Neglect the absorption of light in the atmosphere.",
+     "paper_label": "Theoretical round (grade 10)"
+    },
+    {
+     "day": 3,
+     "number": 3,
+     "problem": "Two successive oppositions of an asteroid observed from the Earth occurred at the perihelion and at the aphelion of its orbit. The surface brightnesses of the asteroid at these oppositions differ by $1.4^\\mathrm{m}$. Determine the eccentricity and the semi-major axis of the asteroid's orbit. Consider the shape of the asteroid to be close to a sphere. The planes of the orbits of the asteroid and the Earth and the directions of motion around the Sun coincide. Consider the Earth's orbit to be circular.",
+     "paper_label": "Theoretical round (grade 10)"
+    },
+    {
+     "day": 3,
+     "number": 4,
+     "problem": "Suppose that initially the Sun consisted of 74% hydrogen and 25% helium. The luminosity of the Sun is $3.83\\times10^{26}$ W. Assuming that thermonuclear reactions proceed uniformly throughout the volume of the core, and that the core itself contains 34% of the mass of the Sun, determine the present mass fractions of hydrogen and helium in the core. The formation of one $^4$He atom releases 26.2 MeV. The age of the Sun is 4.5 billion years.",
+     "paper_label": "Theoretical round (grade 10)"
+    },
+    {
+     "day": 3,
+     "number": 5,
+     "problem": "The photograph shows the 60-cm reflector of the Crimean Astronomical Station of the Sternberg Astronomical Institute of Moscow State University (geographical coordinates $\\varphi = 44^\\circ 44'$, $\\lambda = 34^\\circ 0'$).\n1. What type of mount does this telescope have?\n2. Towards which side of the horizon is the telescope in the photograph pointed?\nAt local midnight the astronomer points the telescope at the south point of the horizon.\n3. What readings will he see on the setting circles (declination circle and hour-angle circle) of the telescope?\nImmediately after the south point, the telescope, rotated about one axis only, is pointed at the north point of the horizon.\n4. About which axis was the telescope rotated?\n5. What will the readings on the setting circles (declination circle and hour-angle circle) of the telescope be?\n6. What is the hour angle of the observed point?\nKnowing that with a telescope with an objective of diameter 2.5 metres one can just observe stars of the 25th magnitude,\n7. determine the limiting magnitude (penetrating power) of this reflector for observations with a similar light detector.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2022-g10-q5.png",
+     "paper_label": "Theoretical round (grade 10)"
+    },
+    {
+     "day": 3,
+     "number": 6,
+     "problem": "One astronomer, after buying binoculars, noticed that many people with poor eyesight cannot focus these binoculars at infinity because of the limited focusing range. To fix this, he decided to completely rebuild the focusing unit of the binoculars. Calculate the necessary range of focusing travel (the maximum distance by which the eyepiece can move) so that people with both myopia and hypermetropia, with glasses of no less than $\\pm10$ dioptres, can observe through these binoculars without glasses without problems. Remember that binoculars are needed for observing not only infinitely distant objects! You may consider these binoculars to be built according to the Keplerian scheme from thin lenses. The data needed to solve the problem are given in the following table.\n\n$$\\begin{array}{|l|c|}\n\\hline\n\\text{Focal length of the binocular objective} & 200\\ \\mathrm{mm} \\\\\n\\text{Diameter of the binocular objective} & 50\\ \\mathrm{mm} \\\\\n\\text{Magnification of the binoculars} & 10^\\times \\\\\n\\text{Minimum required focusing distance of the binoculars} & 5\\ \\mathrm{m} \\\\\n\\text{Standard distance from the eye to the spectacle lens} & 2\\ \\mathrm{cm} \\\\\n\\text{Minimum focusing distance of a healthy eye} & 10\\ \\mathrm{cm} \\\\\n\\hline\n\\end{array}$$",
+     "paper_label": "Theoretical round (grade 10)"
+    },
+    {
+     "day": 3,
+     "number": 7,
+     "problem": "You are given a graph with the distances of some of the stars nearest to the Sun over a time span of 100 000 years. From this graph determine:\n1. Which of the stars will have the largest proper motion at the moment of its maximum brightness?\n2. Which of the stars has the largest total space velocity?\n3. Which of the stars will have the largest proper motion in 70 000 years?\nOn the graph, time 0 refers to the present.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2022-g10-q7.png",
+     "paper_label": "Theoretical round (grade 10)"
+    },
+    {
+     "day": 3,
+     "number": 8,
+     "problem": "The heliograph (sunshine recorder) is one of the meteorological instruments. It is intended to record the amount of time in a day during which the Sun is not covered by clouds. The design of the heliograph is shown in the drawing and the photograph. A glass sphere is fixed on a special stationary mount whose axis is directed to the celestial pole. On a concave screen (called the \"cup\") behind the sphere there is a dark strip of paper (its dimensions in our particular case are always the same). Solar radiation, having passed through the sphere, falls on this strip and burns it. The length of the burnt part determines the time during which direct sunlight reached the instrument on that day.\na) Knowing that the distance from the centre of the sphere to the screen is 200 mm, and assuming that the instrument is installed at the site for many years, determine the minimum height of the paper strips that must be prepared for instruments installed at latitude $55^\\circ$ and at latitude $30^\\circ$. Neglect the curvature of the burnt daily traces on the paper.\nb) As can be seen from the diagram and the photograph of the instrument, the \"cup\" and the strip have a shape close to a trapezium narrowed at the top. Explain what this may be caused by.\n\nNote: the specific type of the instrument does not matter for solving the problem.\n\nThe figure shows a fragment, torn at the edges, of a record from the heliograph described above. For economy, the same paper strip was used three times during 2015. It is known that \"trace M\" was recorded first.\n1. In what order were the traces S, F, M recorded?\n2. Determine what percentage of the daytime was clear on the date when \"trace F\" was obtained.\n3. How much time passed between the dates on which \"trace M\" and \"trace S\" were obtained?\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2022-g10-q8-1.png\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2022-g10-q8-2.png\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2022-g10-q8-3.png",
+     "paper_label": "Theoretical round (grade 10)"
+    },
+    {
+     "day": 4,
+     "number": 1,
+     "problem": "Surely you have seen a rainbow at least once in your life: it usually looks like part of a wide circle. It has been noticed that in Moscow, as in most places in Russia, the centre of the rainbow is observed more often in the east or south-east, whereas in the north-east it is very rare. Explain why this is so. Why can a rainbow not be observed at the equator at noon? What can be done to see it nevertheless at noon at the equator?",
+     "paper_label": "Theoretical round (grade 11)"
+    },
+    {
+     "day": 4,
+     "number": 2,
+     "problem": "The same amount of energy in the visible range comes from two stars of spectral classes B0V and M3V. The stars are observed with a photometer operating in photon-counting mode, with the same quantum efficiency of 70% over the whole visible range. From which star will a larger signal be recorded? Neglect the absorption of light in the atmosphere.",
+     "paper_label": "Theoretical round (grade 11)"
+    },
+    {
+     "day": 4,
+     "number": 3,
+     "problem": "An interstellar asteroid approaches a star in such a way that, were it not for the attraction of the star, it would pass by it at a distance of 2 AU. After the flyby the asteroid was deflected from its initial path by $60^\\circ$. At what minimum distance from the star did it pass?",
+     "paper_label": "Theoretical round (grade 11)"
+    },
+    {
+     "day": 4,
+     "number": 4,
+     "problem": "Suppose that initially the Sun consisted of 74% hydrogen and 25% helium. The luminosity of the Sun is $3.83\\times10^{26}$ W. Assuming that thermonuclear reactions proceed uniformly throughout the volume of the core, and that the core itself contains 34% of the mass of the Sun, determine the present mass fractions of hydrogen and helium in the core. The formation of one $^4$He atom releases 26.2 MeV. The age of the Sun is 4.5 billion years.",
+     "paper_label": "Theoretical round (grade 11)"
+    },
+    {
+     "day": 4,
+     "number": 5,
+     "problem": "Cosmic-ray protons colliding with atoms of the Earth's atmosphere at an altitude $h = 5$ km produce muons (elementary particles with a lifetime $\\tau = 2\\times10^{-6}$ s in their own rest frame), which are registered by detectors at the surface of the Earth. Let all the muons produced fly vertically downwards. Determine the speed of the muons if their concentration at the Earth's surface is 4 times smaller than at the place where they are produced. Do not take into account the absorption of muons in the atmosphere.",
+     "paper_label": "Theoretical round (grade 11)"
+    },
+    {
+     "day": 4,
+     "number": 6,
+     "problem": "One astronomer, after buying binoculars, noticed that many people with poor eyesight cannot focus these binoculars at infinity because of the limited focusing range. To fix this, he decided to completely rebuild the focusing unit of the binoculars. Calculate the necessary range of focusing travel (the maximum distance by which the eyepiece can move) so that people with both myopia and hypermetropia, with glasses of no less than $\\pm10$ dioptres, can observe through these binoculars without glasses without problems. Remember that binoculars are needed for observing not only infinitely distant objects! You may consider these binoculars to be built according to the Keplerian scheme from thin lenses. The data needed to solve the problem are given in the following table.\n\n$$\\begin{array}{|l|c|}\n\\hline\n\\text{Focal length of the binocular objective} & 200\\ \\mathrm{mm} \\\\\n\\text{Diameter of the binocular objective} & 50\\ \\mathrm{mm} \\\\\n\\text{Magnification of the binoculars} & 10^\\times \\\\\n\\text{Minimum required focusing distance of the binoculars} & 5\\ \\mathrm{m} \\\\\n\\text{Standard distance from the eye to the spectacle lens} & 2\\ \\mathrm{cm} \\\\\n\\text{Minimum focusing distance of a healthy eye} & 10\\ \\mathrm{cm} \\\\\n\\hline\n\\end{array}$$",
+     "paper_label": "Theoretical round (grade 11)"
+    },
+    {
+     "day": 4,
+     "number": 7,
+     "problem": "The graph shows the energy distribution in the spectrum of a star surrounded by a dust shell. It is known that the shell consists of black-body dust grains, that it is spherically symmetric and geometrically thin (i.e. its thickness can be neglected compared with its radius). The parallax of the star is $0.002''$. Determine the radius of the central star if its effective temperature is known to be 7000 K. What are the temperature of the dust grains and the optical depth of the dust shell in the visible wavelength range?\n$1\\ \\mathrm{erg} = 10^{-7}$ J. $1\\ \\text{Å} = 10^{-10}$ m.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2022-g11-q7.png",
+     "paper_label": "Theoretical round (grade 11)"
+    },
+    {
+     "day": 4,
+     "number": 8,
+     "problem": "The heliograph (sunshine recorder) is one of the meteorological instruments. It is intended to record the amount of time in a day during which the Sun is not covered by clouds. The design of the heliograph is shown in the drawing and the photograph. A glass sphere is fixed on a special stationary mount whose axis is directed to the celestial pole. On a concave screen (called the \"cup\") behind the sphere there is a dark strip of paper (its dimensions in our particular case are always the same). Solar radiation, having passed through the sphere, falls on this strip and burns it. The length of the burnt part determines the time during which direct sunlight reached the instrument on that day.\na) Knowing that the distance from the centre of the sphere to the screen is 200 mm, and assuming that the instrument is installed at the site for many years, determine the minimum height of the paper strips that must be prepared for instruments installed at latitude $55^\\circ$ and at latitude $30^\\circ$. Neglect the curvature of the burnt daily traces on the paper.\nb) As can be seen from the diagram and the photograph of the instrument, the \"cup\" and the strip have a shape close to a trapezium narrowed at the top. Explain what this may be caused by.\n\nNote: the specific type of the instrument does not matter for solving the problem.\n\nThe figure shows a fragment, torn at the edges, of a record from the heliograph described above. For economy, the same paper strip was used three times during 2015. It is known that \"trace M\" was recorded first.\n1. In what order were the traces S, F, M recorded?\n2. Determine what percentage of the daytime was clear on the date when \"trace F\" was obtained.\n3. How much time passed between the dates on which \"trace M\" and \"trace S\" were obtained?\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2022-g11-q8-1.png\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2022-g11-q8-2.png\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2022-g11-q8-3.png",
+     "paper_label": "Theoretical round (grade 11)"
+    }
+   ]
+  },
+  {
+   "year": 2023,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "An aeroplane at an altitude $h = 10$ km flies over Singapore (latitude $\\phi \\approx 0^\\circ$) on the day of the vernal equinox. The passengers see the sunrise. Determine the minimum distance to the point on the Earth's surface where the sunrise is seen at this moment. By how many degrees does the longitude of this point differ from the longitude of Singapore? Neglect atmospheric refraction.",
+     "paper_label": "Theoretical round (grade 8)"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "Ivan Tsarevich set off to look for a wondrous thing called the Marvel. Baba Yaga told him that when on the first day of the new year the Sun sets in the Capital, it is still noon over the Marvel. Kot Bayun claimed that the beautiful Vega cannot be found in the sky there. Koschei, after much persuasion, confessed that he had been in those places when the Sun did not return to the sky for a long time, and that most of the stars there move so that the highest position of a star differs from its lowest by one twentieth of a circle. Find the coordinates of the place where the Marvel is hidden, if the year in that kingdom begins on the day of the autumnal equinox and the longitude of the Capital is $50^\\circ$ E.",
+     "paper_label": "Theoretical round (grade 8)"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "The Virgo cluster of galaxies contains 2000 galaxies and occupies a region of the sky $8^\\circ$ in diameter. At the centre of this cluster is the galaxy M87, at a distance of 16.5 Mpc from the Sun. Determine the mean distance between the galaxies in the cluster, assuming that the galaxies are distributed uniformly inside the cluster.",
+     "paper_label": "Theoretical round (grade 8)"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "The ancient Greeks used a calendar in which all months began at the new moon and lasted 29 or 30 days, while the mean length of the calendar year was equal to the length of the tropical year. For this, an extra month was inserted $N$ times in eight years. At the same time, in Persia a similar calendar was used in which $M$ extra months were inserted in 19 years. Determine $M$ and $N$. Over what time did an error of 7 days accumulate in each of the calendars compared with the tropical year?",
+     "paper_label": "Theoretical round (grade 8)"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "A spiral galaxy has a disc of radius 10 kpc. Many intelligent civilisations are scattered uniformly over the disc of the galaxy, and their astronomers observe the centre of the galaxy. At some moment a star falls onto the supermassive black hole at the centre of this galaxy, producing a bright flash of radiation. After what time will half of the civilisations in this galaxy learn about this event? Give the answer in years.\nSimultaneously with the flash, a clump of the star's matter was ejected perpendicular to the disc of the galaxy at a speed of $15\\,000$ km/s. What fraction of the civilisations will see this clump at an angular distance greater than $5^\\circ$ by the moment when all the civilisations have learned about the flash?",
+     "paper_label": "Theoretical round (grade 8)"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "problem": "The figure shows a solar eclipse that our very distant descendants will someday be able to observe. In how many years will this happen if the Moon recedes from the Earth at a constant rate of 3 cm/year, and the radius of the Sun grows by $1.2\\%\\,R_\\odot$ every 100 million years? How long will the eclipse last (all phases in total)? How often will eclipses occur? Assume that with time the orbit of the Moon will become circular and lie in the plane of the ecliptic.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2023-g8-q6.png",
+     "paper_label": "Theoretical round (grade 8)"
+    },
+    {
+     "day": 2,
+     "number": 1,
+     "problem": "An aeroplane at an altitude $h = 10$ km flies over Singapore (latitude $\\phi \\approx 0^\\circ$) on the day of the vernal equinox. The passengers see the sunrise. After what time will the inhabitants of Singapore see the sunrise? Neglect atmospheric refraction.",
+     "paper_label": "Theoretical round (grade 9)"
+    },
+    {
+     "day": 2,
+     "number": 2,
+     "problem": "The second and third contacts of a solar eclipse occurred simultaneously. What can the (linear) phase of the eclipse be at this moment?\nHint. Let $\\rho_\\text{s}$ and $\\rho_\\text{m}$ be the angular radii of the discs of the Sun and the Moon respectively, and $\\delta$ the angular distance between their centres. Then the phase of the eclipse is\n$$\\Phi = \\frac{\\rho_\\text{s} + \\rho_\\text{m} - \\delta}{2\\rho_\\text{s}}.$$",
+     "paper_label": "Theoretical round (grade 9)"
+    },
+    {
+     "day": 2,
+     "number": 3,
+     "problem": "Two stars with masses $1\\,M_\\odot$ and $1.3\\,M_\\odot$ revolve around their common centre of mass in circular orbits with a period of 1 year. The first star is exactly like the Sun, and the second is a white dwarf with a radius of $10\\,000$ km. Determine the angular sizes of both stars in arcseconds for an observer located at the centre of mass.",
+     "paper_label": "Theoretical round (grade 9)"
+    },
+    {
+     "day": 2,
+     "number": 4,
+     "problem": "An astronomy student is making visual observations of double stars at the student observatory of Moscow State University with the Zeiss-300 refractor (objective diameter 250 mm, focal ratio 1:3.8). After the observations he decided to point the telescope at the star on top of the Main Building of MSU (diameter 7.5 m). By how many millimetres, and in which direction, must he shift the focus of the eyepiece? Help him determine the focal length of the eyepiece in which the star will fill the whole field of view. The distance from the telescope to the Main Building of MSU is 750 metres. The field of view of the eyepiece is $60^\\circ$.",
+     "paper_label": "Theoretical round (grade 9)"
+    },
+    {
+     "day": 2,
+     "number": 5,
+     "problem": "A round meteoroid of density $5.0\\ \\mathrm{g/cm^3}$ crashed into a satellite moving in a circular polar orbit around the Moon at a height of 500 km above the surface, and got stuck in it. The collision was \"head-on\", at the moment when the satellite was above the north pole of the Moon, and just half a revolution later the satellite crashed tangentially into the south pole of the Moon. Find the radius of the meteoroid if its speed at the moment of the collision was 13 km/s relative to the Moon, and the mass of the satellite before the collision was 500 kg.",
+     "paper_label": "Theoretical round (grade 9)"
+    },
+    {
+     "day": 2,
+     "number": 6,
+     "problem": "The figure shows a video fragment split into individual frames. It was obtained at mid-latitudes of the Earth on the day of an equinox. The video records the flight of a bald eagle whose body length (from the tip of the beak to the end of the tail) is 130 cm. The frame rate of the video was standard — 25 frames/s. The angular diameter of the solar disc is $32'$.\n\n1. At what distance from the bird was the camera?\n2. What was the wing-beat frequency?\n3. What type of eclipse did the author of the photograph observe (give a detailed answer with justification)?\n4. At what angular altitude did the eagle cross the disc of the celestial body?\nDescribe all the measurements made and the operations with the values obtained.\n\n$$\\begin{array}{|c|c||c|c||c|c||c|c|}\n\\hline\nh,\\ ^\\circ & \\rho,\\ ' & h,\\ ^\\circ & \\rho,\\ ' & h,\\ ^\\circ & \\rho,\\ ' & h,\\ ^\\circ & \\rho,\\ ' \\\\\n\\hline\n90 & 0 & 30 & 1.7 & 5 & 9.9 & 2 & 18.4 \\\\\n70 & 0.4 & 20 & 2.6 & 4 & 11.8 & 1 & 24.7 \\\\\n50 & 0.8 & 10 & 5.3 & 3 & 14.4 & 0 & 35.4 \\\\\n\\hline\n\\end{array}$$\n$h$ is the apparent altitude (distorted by refraction) in degrees, and $\\rho$ is the refraction in arcminutes.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2023-g9-q6.png",
+     "paper_label": "Theoretical round (grade 9)"
+    },
+    {
+     "day": 3,
+     "number": 1,
+     "problem": "The graph shows the time dependence of the intensity (particles per $\\mathrm{cm^2}$ per second per steradian) of galactic cosmic rays with energies above 100 MeV at the Earth. Explain the cause of the variability. When are the minima, and when the maxima, of intensity observed?\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2023-g10-q1.png",
+     "paper_label": "Theoretical round (grade 10)"
+    },
+    {
+     "day": 3,
+     "number": 2,
+     "problem": "At the Caucasus Mountain Observatory of the Sternberg Astronomical Institute of Moscow State University, a special instrument is installed to monitor cloudiness; it measures the temperature of different parts of the sky and displays its distribution over the celestial sphere. Clouds have a higher temperature than the clear sky, so they are easy to see in the infrared: the denser the clouds, the brighter they are in this wavelength range. One day, for several hours, the instrument showed a ring-like brightness distribution, shown in the attached figure. The black spot at the bottom of the image between azimuths 0 and $-45$ is the dome of a telescope. Explain the observed picture.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2023-g10-q2.png",
+     "paper_label": "Theoretical round (grade 10)"
+    },
+    {
+     "day": 3,
+     "number": 3,
+     "problem": "A red and an orange star form an eclipsing binary system. The red star is $0.5^\\mathrm{m}$ brighter than the orange one, and its radius is 2.6 times larger. Determine the drop in brightness of the binary at the primary and secondary minima if the eclipses in the system are central. What is the ratio of the temperatures of the stars? Neglect limb darkening of the stellar discs.",
+     "paper_label": "Theoretical round (grade 10)"
+    },
+    {
+     "day": 3,
+     "number": 4,
+     "problem": "When Venus is observed at a certain angular distance $\\varepsilon$ from the Sun, its angular size can differ by a factor of 2. Determine the phases of Venus at these moments. The orbits of Venus and the Earth are circular and lie in the same plane.",
+     "paper_label": "Theoretical round (grade 10)"
+    },
+    {
+     "day": 3,
+     "number": 5,
+     "problem": "A companion star moves around a distant star with an orbital period of 160 years. The apparent orbit of the companion is an ellipse with a semi-major axis of $0.5''$ and a semi-minor axis of $0.35''$. The main star is at an angular distance of $0.2''$ from the centre of the ellipse on its apparent major axis. Determine the semi-major axis (in astronomical units), the eccentricity of the orbit of the system, the inclination of the orbital plane to the plane of the sky, and the sum of the masses of the stars (in solar masses), if the parallax of this binary is $0.0125''$ and the line of apsides lies in the plane of the sky.",
+     "paper_label": "Theoretical round (grade 10)"
+    },
+    {
+     "day": 3,
+     "number": 6,
+     "problem": "A technologically advanced civilisation is able to send an autonomous starship-settlement to the nearest neighbouring star. The starship has a speed of 10% of the speed of light. After arriving at the star, within 200 years the crew of the starship will build two similar starships using the material found around the star, and the population of the first starship will grow enough to form the crews of the new starships. They will set off to the two nearest stars that representatives of this civilisation have not yet visited, and there the story will repeat (200 years after arrival, two new starships will depart from each star). It is necessary to estimate the minimum time required for the starships of this civilisation to visit every star of the disc of our Galaxy. Assume that the stars in the disc are distributed uniformly.",
+     "paper_label": "Theoretical round (grade 10)"
+    },
+    {
+     "day": 3,
+     "number": 7,
+     "problem": "The figure shows a video fragment split into individual frames. It was obtained at mid-latitudes of the Earth on the day of an equinox. The video records the flight of a bald eagle whose body length (from the tip of the beak to the end of the tail) is 130 cm. The frame rate of the video was standard — 25 frames/s. The angular diameter of the solar disc is $32'$.\n\n1. At what distance from the bird was the camera?\n2. What was the wing-beat frequency?\n3. What type of eclipse did the author of the photograph observe (give a detailed answer with justification)?\n4. At what angular altitude did the eagle cross the disc of the celestial body?\nDescribe all the measurements made and the operations with the values obtained.\n\n$$\\begin{array}{|c|c||c|c||c|c||c|c|}\n\\hline\nh,\\ ^\\circ & \\rho,\\ ' & h,\\ ^\\circ & \\rho,\\ ' & h,\\ ^\\circ & \\rho,\\ ' & h,\\ ^\\circ & \\rho,\\ ' \\\\\n\\hline\n90 & 0 & 30 & 1.7 & 5 & 9.9 & 2 & 18.4 \\\\\n70 & 0.4 & 20 & 2.6 & 4 & 11.8 & 1 & 24.7 \\\\\n50 & 0.8 & 10 & 5.3 & 3 & 14.4 & 0 & 35.4 \\\\\n\\hline\n\\end{array}$$\n$h$ is the apparent altitude (distorted by refraction) in degrees, and $\\rho$ is the refraction in arcminutes.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2023-g10-q7.png",
+     "paper_label": "Theoretical round (grade 10)"
+    },
+    {
+     "day": 3,
+     "number": 8,
+     "problem": "The radio emission of pulsars propagates through the interstellar medium at the speed $v = \\left(1 - (f_p/f)^2\\right)^{0.5} c$, where $f$ is the frequency of the radiation, $f_p = 8.98\\ \\mathrm{kHz}\\times\\sqrt{n_e}$ is the plasma frequency, $n_e$ is the electron density expressed in $\\mathrm{cm^{-3}}$, and $c$ is the speed of light. As a result, pulsar pulses arrive at different times at different frequencies. The figure shows the dependence of the arrival time of the pulses on frequency for the pulsar J1840+5640. Determine:\n1. the period of the pulsar in seconds;\n2. the dispersion measure (the product of the electron density and the distance to the pulsar) in $\\mathrm{pc/cm^3}$;\n3. the electron density in the direction of the pulsar in $\\mathrm{cm^{-3}}$;\n4. what the bandwidth of a receiver centred at 110 MHz must be so that successive pulses do not overlap.\nThe trigonometric parallax of the pulsar is $0.66 \\pm 0.06$ milliarcseconds. Give the measurement uncertainties for all four quantities.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2023-g10-q8.png",
+     "paper_label": "Theoretical round (grade 10)"
+    },
+    {
+     "day": 4,
+     "number": 1,
+     "problem": "The graph shows the time dependence of the intensity (particles per $\\mathrm{cm^2}$ per second per steradian) of galactic cosmic rays with energies above 100 MeV at the Earth. Explain the cause of the variability. When are the minima, and when the maxima, of intensity observed?\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2023-g11-q1.png",
+     "paper_label": "Theoretical round (grade 11)"
+    },
+    {
+     "day": 4,
+     "number": 2,
+     "problem": "At the Caucasus Mountain Observatory of the Sternberg Astronomical Institute of Moscow State University, a special instrument is installed to monitor cloudiness; it measures the temperature of different parts of the sky and displays its distribution over the celestial sphere. Clouds have a higher temperature than the clear sky, so they are easy to see in the infrared: the denser the clouds, the brighter they are in this wavelength range. One day, for several hours, the instrument showed a ring-like brightness distribution, shown in the attached figure. The black spot at the bottom of the image between azimuths 0 and $-45$ is the dome of a telescope. Explain the observed picture.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2023-g11-q2.png",
+     "paper_label": "Theoretical round (grade 11)"
+    },
+    {
+     "day": 4,
+     "number": 3,
+     "problem": "An observer in the upper layers of Jupiter's atmosphere noticed that a certain distant star moves during a Jovian day along an ellipse with a semi-major axis $\\alpha_0 = 5.1''$. Estimate the duration of sunrise for this observer. Consider Jupiter's orbit to be circular; neglect the difference between the equatorial and polar radii and the differential rotation of Jupiter; do not take atmospheric effects into account.",
+     "paper_label": "Theoretical round (grade 11)"
+    },
+    {
+     "day": 4,
+     "number": 4,
+     "problem": "Suppose that only the Earth, Jupiter, Neptune and the Sun remained in the Solar System, the planets moving around the centre of mass in circular orbits with radii equal to their present semi-major axes. Estimate the probability of finding the centre of mass of the Solar System outside the Sun at a random moment during the next 10 thousand years, if the orbits of all bodies lie in the same plane.",
+     "paper_label": "Theoretical round (grade 11)"
+    },
+    {
+     "day": 4,
+     "number": 5,
+     "problem": "An astronomer very much wanted to see a Big Jupiter in his not very large telescope ($D = 100$ mm, $f/8$). Since he already had an eyepiece ($f = 15$ mm), he decided to increase the equivalent focal length of the telescope. As is well known, a Barlow lens can be used for this — a diverging lens installed slightly closer to the objective than the focal plane of the telescope. The construction of the eyepiece barrel makes it convenient to fix this lens at a distance of 30 mm from the lens of the eyepiece itself. Find the optical power of the necessary Barlow lens and its distance from the focal plane, if the astronomer wants to see Jupiter with an angular diameter of $2^\\circ$, 4 times larger than that of the Moon! Consider all lenses to be thin, and Jupiter to be at opposition.",
+     "paper_label": "Theoretical round (grade 11)"
+    },
+    {
+     "day": 4,
+     "number": 6,
+     "problem": "A technologically advanced civilisation is able to send an autonomous starship-settlement to the nearest neighbouring star. The starship has a speed of 10% of the speed of light. After arriving at the star, within 200 years the crew of the starship will build two similar starships using the material found around the star, and the population of the first starship will grow enough to form the crews of the new starships. They will set off to the two nearest stars that representatives of this civilisation have not yet visited, and there the story will repeat (200 years after arrival, two new starships will depart from each star). It is necessary to estimate the minimum time required for the starships of this civilisation to visit every star of the disc of our Galaxy. Assume that the stars in the disc are distributed uniformly.",
+     "paper_label": "Theoretical round (grade 11)"
+    },
+    {
+     "day": 4,
+     "number": 7,
+     "problem": "The figure shows a negative of a photograph of a grazing occultation of Mars by the Moon. Using it, determine the phase of the Moon and the distance to Mars.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2023-g11-q7.png",
+     "paper_label": "Theoretical round (grade 11)"
+    },
+    {
+     "day": 4,
+     "number": 8,
+     "problem": "The radio emission of pulsars propagates through the interstellar medium at the speed $v = \\left(1 - (f_p/f)^2\\right)^{0.5} c$, where $f$ is the frequency of the radiation, $f_p = 8.98\\ \\mathrm{kHz}\\times\\sqrt{n_e}$ is the plasma frequency, $n_e$ is the electron density expressed in $\\mathrm{cm^{-3}}$, and $c$ is the speed of light. As a result, pulsar pulses arrive at different times at different frequencies. The figure shows the dependence of the arrival time of the pulses on frequency for the pulsar J1840+5640. Determine:\n1. the period of the pulsar in seconds;\n2. the dispersion measure (the product of the electron density and the distance to the pulsar) in $\\mathrm{pc/cm^3}$;\n3. the electron density in the direction of the pulsar in $\\mathrm{cm^{-3}}$;\n4. what the bandwidth of a receiver centred at 110 MHz must be so that successive pulses do not overlap.\nThe trigonometric parallax of the pulsar is $0.66 \\pm 0.06$ milliarcseconds. Give the measurement uncertainties for all four quantities.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2023-g11-q8.png",
+     "paper_label": "Theoretical round (grade 11)"
+    }
+   ]
+  },
+  {
+   "year": 2024,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "At the beginning of the 19th century there was a hypothesis that the Sun shines because its inhabitants burn coal. Suppose that each inhabitant of the Sun can throw 1 tonne of coal into the furnaces per day. How many inhabitants live on the Sun? What is the population density (inhabitants per $\\mathrm{m^2}$)? The specific heat of combustion of coal is $q = 31$ MJ/kg.",
+     "paper_label": "Theoretical round (grade 8)"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "In 1978 at the US Naval Observatory in Flagstaff (Arizona, about 600 km from the Pacific coast) observations of Pluto were carried out, on the basis of which James Christy discovered Pluto's satellite Charon on 22 June. To confirm his discovery, Christy took a new photograph on 2 July 1978 at 4 o'clock Universal Time, on which Charon was found in the predicted position. On what day of the week was this photograph taken?",
+     "paper_label": "Theoretical round (grade 8)"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "The last greatest morning elongation of Mercury in 2023 took place on 22 September. In which months of 2024 can Mercury be observed at greatest elongation in the morning, and which of these elongations is the most favourable for observation? Consider the orbit of Mercury to be circular.",
+     "paper_label": "Theoretical round (grade 8)"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "It is known that the altitude of the orbit of a certain satellite is 8 times smaller than the altitude of the geostationary orbit. How many times can the rising of this satellite above the horizon be observed in 60 days at the equator? Assume that the satellite is visible both at night and in the daytime.",
+     "paper_label": "Theoretical round (grade 8)"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "Travellers who found themselves on an uninhabited island were watching one of the stars. They could not determine whether this star belongs to the constellation of the Southern Cross or to the asterism of the False Cross. It turned out that the altitude of the upper culmination of this star is $h_\\text{u} = 67.5^\\circ$, and the altitude of the lower culmination is $h_\\text{l} = 7.5^\\circ$. The lower culmination of this star on 5 October occurred at midnight. The travellers had an ordinary watch showing Moscow time. It turned out that at the moment of local midnight the hands on the dial of the watch showed 3 hours 51 minutes. Determine the coordinates of the island and the star that the travellers were watching.\n\n$$\\begin{array}{|l|c|c||l|c|c|}\n\\hline\n\\text{Star} & \\text{Right ascension} & \\text{Declination} & \\text{Star} & \\text{Right ascension} & \\text{Declination} \\\\\n\\hline\n\\text{Acrux } (\\alpha\\ \\text{Cru}) & 12.5^\\mathrm{h} & -63^\\circ & \\text{Avior } (\\varepsilon\\ \\text{Car}) & 8.4^\\mathrm{h} & -60^\\circ \\\\\n\\text{Mimosa } (\\beta\\ \\text{Cru}) & 12.8^\\mathrm{h} & -60^\\circ & \\text{Aspidiske } (\\iota\\ \\text{Car}) & 9.3^\\mathrm{h} & -59^\\circ \\\\\n\\text{Gacrux } (\\gamma\\ \\text{Cru}) & 12.5^\\mathrm{h} & -57^\\circ & \\text{Markeb } (\\kappa\\ \\text{Vel}) & 9.4^\\mathrm{h} & -55^\\circ \\\\\n\\text{Imai } (\\delta\\ \\text{Cru}) & 12.3^\\mathrm{h} & -59^\\circ & \\text{Alsephina } (\\delta\\ \\text{Vel}) & 8.7^\\mathrm{h} & -55^\\circ \\\\\n\\hline\n\\end{array}$$",
+     "paper_label": "Theoretical round (grade 8)"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "problem": "A spacecraft landed on the surface of one of the Galilean satellites of Jupiter and took a picture of a part of the sky near the horizon (see the separate sheet).\n1. Write the proper names of the bright stars marked with numbers.\n2. On which of the satellites did the spacecraft land?\n3. How will Jupiter shift relative to the horizon two hours after the moment when the photograph was taken?\n4. After what time will the phase of Jupiter become 50%? Which part will remain illuminated?\n\nCharacteristics of the Galilean satellites:\n$$\\begin{array}{|l|c|c|c|c|}\n\\hline\n\\text{Name} & \\text{Orbital radius, km} & \\text{Orbital period, days} & \\text{Rotation period, days} & \\text{Radius, km} \\\\\n\\hline\n\\text{Io} & 421\\,800 & 1.769 & 1.769 & 1800 \\\\\n\\text{Europa} & 671\\,100 & 3.551 & 3.551 & 1560 \\\\\n\\text{Ganymede} & 1\\,070\\,400 & 7.155 & 7.155 & 2630 \\\\\n\\text{Callisto} & 1\\,882\\,700 & 16.689 & 16.689 & 2410 \\\\\n\\hline\n\\end{array}$$\nThe orbits of all four satellites are circular and lie in the plane of Jupiter's equator. Jupiter: equatorial radius 71 500 km, polar radius 66 850 km.\n\nAngular distances between bright stars:\n$$\\begin{array}{|l|c||l|c|}\n\\hline\n\\text{Aldebaran — Bellatrix} & 15.75^\\circ & \\text{Betelgeuse — Capella} & 39.5^\\circ \\\\\n\\text{Betelgeuse — Pollux} & 33.25^\\circ & \\text{Castor — Pollux} & 4.5^\\circ \\\\\n\\text{Rigel — Aldebaran} & 26.5^\\circ & \\text{Procyon — Sirius} & 25.75^\\circ \\\\\n\\hline\n\\end{array}$$\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2024-g8-q6.png",
+     "paper_label": "Theoretical round (grade 8)"
+    },
+    {
+     "day": 2,
+     "number": 1,
+     "problem": "The north celestial pole for Mars is in the constellation Cygnus near the border with Cepheus. An observer on Mars found that the maximum displacement of the star Alderamin ($\\alpha$ Cephei) over half a Martian year due to parallax is $\\rho = 0.2''$. Calculate the distance to this star in light years. What are the semi-major and semi-minor axes of the parallactic ellipse of Alderamin for an observer on the Earth?",
+     "paper_label": "Theoretical round (grade 9)"
+    },
+    {
+     "day": 2,
+     "number": 2,
+     "problem": "In 1978 at the US Naval Observatory in Flagstaff (Arizona, about 600 km from the Pacific coast) observations of Pluto were carried out, on the basis of which James Christy discovered Pluto's satellite Charon on 22 June. To confirm his discovery, Christy took a new photograph on 2 July 1978 at 4 o'clock Universal Time, on which Charon was found in the predicted position. On what day of the week was this photograph taken?",
+     "paper_label": "Theoretical round (grade 9)"
+    },
+    {
+     "day": 2,
+     "number": 3,
+     "problem": "A terrestrial-like planet Zemos revolves around the red dwarf Solos. The planet has a satellite Lunos. Sometimes total eclipses of Lunos are observed on Zemos. To what minimum height above the surface of Zemos must an observer rise in order to see the centres of the discs of Solos and Lunos simultaneously during the maximum phase of a central eclipse of Lunos? Neglect the influence of Zemos's atmosphere. Give the answer in kilometres, rounded to an integer. The parameters of this system are given in the table.\n\n$$\\begin{array}{|l|c|}\n\\hline\n\\text{Parameter} & \\text{Value, km} \\\\\n\\hline\n\\text{Radius of Zemos (neglect its oblateness)} & 6000.0 \\\\\n\\text{Distance Zemos–Lunos} & 38\\,000.0 \\\\\n\\text{Distance Zemos–Solos} & 1\\,500\\,000 \\\\\n\\hline\n\\end{array}$$",
+     "paper_label": "Theoretical round (grade 9)"
+    },
+    {
+     "day": 2,
+     "number": 4,
+     "problem": "An alien who happened by chance to be at a training camp of the Russian astronomy team is trying to show the schoolchildren his home star. He pointed the telescope in the right direction (objective diameter $D = 150$ mm, focal length $F = 450$ mm, eyepiece focal length $f = 30$ mm) and said that the star is barely visible at the centre of the field of view. It is known that the diameter of the alien's pupils is $\\delta = 20$ mm, and with the naked eye he sees stars down to $m_\\text{A} = 8^\\mathrm{m}$. Will the participants of the camp be able to make out the star in this telescope?",
+     "paper_label": "Theoretical round (grade 9)"
+    },
+    {
+     "day": 2,
+     "number": 5,
+     "problem": "Travellers who found themselves on an uninhabited island were watching one of the stars. They could not determine whether this star belongs to the constellation of the Southern Cross or to the asterism of the False Cross. It turned out that the altitude of the upper culmination of this star is $h_\\text{u} = 67.5^\\circ$, and the altitude of the lower culmination is $h_\\text{l} = 7.5^\\circ$. The lower culmination of this star on 5 October occurred at midnight. The travellers had an ordinary watch showing Moscow time. It turned out that at the moment of local midnight the hands on the dial of the watch showed 3 hours 51 minutes. Determine the coordinates of the island and the star that the travellers were watching.\n\n$$\\begin{array}{|l|c|c||l|c|c|}\n\\hline\n\\text{Star} & \\text{Right ascension} & \\text{Declination} & \\text{Star} & \\text{Right ascension} & \\text{Declination} \\\\\n\\hline\n\\text{Acrux } (\\alpha\\ \\text{Cru}) & 12.5^\\mathrm{h} & -63^\\circ & \\text{Avior } (\\varepsilon\\ \\text{Car}) & 8.4^\\mathrm{h} & -60^\\circ \\\\\n\\text{Mimosa } (\\beta\\ \\text{Cru}) & 12.8^\\mathrm{h} & -60^\\circ & \\text{Aspidiske } (\\iota\\ \\text{Car}) & 9.3^\\mathrm{h} & -59^\\circ \\\\\n\\text{Gacrux } (\\gamma\\ \\text{Cru}) & 12.5^\\mathrm{h} & -57^\\circ & \\text{Markeb } (\\kappa\\ \\text{Vel}) & 9.4^\\mathrm{h} & -55^\\circ \\\\\n\\text{Imai } (\\delta\\ \\text{Cru}) & 12.3^\\mathrm{h} & -59^\\circ & \\text{Alsephina } (\\delta\\ \\text{Vel}) & 8.7^\\mathrm{h} & -55^\\circ \\\\\n\\hline\n\\end{array}$$",
+     "paper_label": "Theoretical round (grade 9)"
+    },
+    {
+     "day": 2,
+     "number": 6,
+     "problem": "You are given a table listing the distances $D$ from the Earth to comet 81P/Wild in 2022 and 2023, and also the difference $\\Delta\\lambda$ between the ecliptic longitudes of the comet and the Sun (positive values correspond to the comet being east of the Sun). The comet moves in the plane of the ecliptic.\n1. You are given a drawing showing the Sun, the Earth's orbit and the Earth on 1 January 2022, viewed from the north pole of the ecliptic. Plot on it the positions of the comet at each of the moments listed in the table. Roughly draw the orbit of the comet.\n2. Determine the perihelion distance of the comet.\n3. In which constellation was the comet observed when it passed perihelion?\n4. The comet makes one revolution around the Sun in 6.4 years. What is the maximum distance from the Sun to which it can recede?\n5. Estimate the speed of the comet at perihelion. How many times larger is it than the circular speed at the same distance from the Sun?\n\n$$\\begin{array}{|c|c|c||c|c|c|}\n\\hline\n\\text{Date} & D,\\ \\text{AU} & \\Delta\\lambda & \\text{Date} & D,\\ \\text{AU} & \\Delta\\lambda \\\\\n\\hline\n01.01.2022 & 2.59 & 125.8^\\circ & 01.01.2023 & 1.85 & -59.8^\\circ \\\\\n01.03.2022 & 3.11 & 71.1^\\circ & 01.03.2023 & 1.55 & -84.6^\\circ \\\\\n01.05.2022 & 3.41 & 30.5^\\circ & 01.05.2023 & 1.25 & -131.0^\\circ \\\\\n01.07.2022 & 3.24 & 0.6^\\circ & 01.07.2023 & 1.44 & 158.5^\\circ \\\\\n01.09.2022 & 2.76 & -24.4^\\circ & 01.09.2023 & 2.39 & 101.6^\\circ \\\\\n01.11.2022 & 2.24 & -42.5^\\circ & 01.11.2023 & 3.53 & 57.8^\\circ \\\\\n\\hline\n\\end{array}$$\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2024-g9-q6.png",
+     "paper_label": "Theoretical round (grade 9)"
+    },
+    {
+     "day": 3,
+     "number": 1,
+     "problem": "The figure shows 3 photographs of Venus obtained in different parts of the infrared spectrum at the same moment. Arrange them in order of increasing wavelength of the radiation. Explain your choice. Near what phase was the planet observed?\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2024-g10-q1.png",
+     "paper_label": "Theoretical round (grade 10)"
+    },
+    {
+     "day": 3,
+     "number": 2,
+     "problem": "The figure shows a collage of photographs of an annular solar eclipse made by Wang Letian. Explain the nature of the dark bands to the right and to the left of the image of the Sun at maximum phase located at the centre. All the images located to the right and to the left were obtained within 10 seconds at the beginning and the end of the annular phase. In which direction did the Moon move in this image, if the left part of the collage was obtained earlier than the right part?\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2024-g10-q2.png",
+     "paper_label": "Theoretical round (grade 10)"
+    },
+    {
+     "day": 3,
+     "number": 3,
+     "problem": "The figure shows an asteroid consisting of two spherical fragments stuck together. The radius of the larger fragment $r_1$ is 1.5 times that of the second one, and its density $\\rho_1$ is 2 times smaller. The material in both fragments is distributed uniformly. By what factor is the acceleration of free fall at points B, V, G, D greater or smaller than at point A? Determine the angle between the free-fall acceleration vector and the normal at points B and G, and also its direction at point V.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2024-g10-q3.png",
+     "paper_label": "Theoretical round (grade 10)"
+    },
+    {
+     "day": 3,
+     "number": 4,
+     "problem": "Aliens decided to create a giant \"garland ball\", for which they covered the surface of a distant exoplanet of Earth radius with a multitude of light bulbs. Once every 2 hours this ball lights up for a microsecond and then goes out. The total energy emitted by the ball (by all the bulbs) in the V filter during a flash is $Q = 2\\cdot10^{21}$ J. Will this ball be visible to the naked eye from the Earth? What magnitude will a high-speed sensitive photometer with an integration time $\\delta t = 2$ ms show, and how will it change during the flash? The distance to the exoplanet is $L = 10$ pc. Assume that during the flash all the bulbs light up simultaneously and each of them radiates isotropically. The surface of the planet is black. Neglect the influence of the Earth's atmosphere.",
+     "paper_label": "Theoretical round (grade 10)"
+    },
+    {
+     "day": 3,
+     "number": 5,
+     "problem": "The azimuth of stars near the zenith changes very quickly. To track them, a telescope on an altazimuth mount must be able to turn at the required speed. Find the maximum altitude of a star that the telescope can track if its maximum precise tracking speed is $0.18^\\circ$ per second. Also estimate the maximum rotation speed of the field derotator (a device that prevents the rotation of the image on the detector) for tracking the vicinity of this star. The telescope is at latitude $41^\\circ$ N.",
+     "paper_label": "Theoretical round (grade 10)"
+    },
+    {
+     "day": 3,
+     "number": 6,
+     "problem": "For an observer on the Earth, Ganymede disappeared behind Jupiter, which is at eastern quadrature. Behind which limb of Jupiter's disc, the bright or the dark one, did Ganymede go? After what time will the satellite again be visible to a terrestrial observer, and for how long will it remain visible? The orbits of the planets and the satellite are circular and lie in the same plane. Neglect the displacement of Jupiter and the Earth along their orbits over several days.\nThe radius of Ganymede's orbit is $1.07\\cdot10^6$ km.",
+     "paper_label": "Theoretical round (grade 10)"
+    },
+    {
+     "day": 3,
+     "number": 7,
+     "problem": "The table below gives the radial velocity of a star of spectral class G2V as a function of the time elapsed since the central transit of the planet across the disc of the star. It is known from observations that the mean radial velocity of the star is $V_{r_0} = 46.5670 \\pm 0.0003$ km/s, and the period of the system, with high accuracy, is $T = 980.4$ days; there is only one planet in the system. Assuming that the orbit of the planet is circular, find its mass and estimate the uncertainty of the determination. The uncertainty of each individual radial-velocity measurement is about 5 m/s.\n\n$$\\begin{array}{|c|c||c|c||c|c|}\n\\hline\nV_r,\\ \\mathrm{km/s} & t,\\ \\text{days} & V_r,\\ \\mathrm{km/s} & t,\\ \\text{days} & V_r,\\ \\mathrm{km/s} & t,\\ \\text{days} \\\\\n\\hline\n46.574 & 57.071 & 46.579 & 95.124 & 46.579 & 112.289 \\\\\n46.578 & 65.781 & 46.573 & 55.459 & 46.580 & 120.981 \\\\\n46.578 & 86.014 & 46.575 & 76.865 & 46.581 & 122.354 \\\\\n46.581 & 94.097 & 46.582 & 110.396 & 46.585 & 134.461 \\\\\n\\hline\n\\end{array}$$",
+     "paper_label": "Theoretical round (grade 10)"
+    },
+    {
+     "day": 3,
+     "number": 8,
+     "problem": "You are given a diagram of the lunar eclipse of 1736 that took place on 20 September. Determine the regions of the Earth where this eclipse was visible (at least the partial umbral phases). Consider the orbit of the Moon to be circular. Neglect the inclination of the lunar orbit to the ecliptic. Near which node of the lunar orbit did this eclipse take place?\n\nExplanations to the diagram:\n1. The figure shows the Earth's umbra and penumbra, the line of the ecliptic (dashed) and the motion of the Moon through the shadow as it is seen by observers on the Earth. North is up.\n2. The moment of maximum phase of the eclipse is given in Terrestrial Dynamical Time. It practically coincides with Universal Time. The parameter $\\Delta T$ shows the difference between these times.\n3. The factor $\\Gamma$ (Gam.) is the distance of the centre of the Moon's disc from the centre of the Earth's shadow in units of the Earth's equatorial radius. It is determined at the moment of greatest eclipse, when its absolute value is minimal.\n4. Tot. is the duration of the total phase of the eclipse; Par. is the duration of the umbral and penumbral phases together.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2024-g10-q8.png",
+     "paper_label": "Theoretical round (grade 10)"
+    },
+    {
+     "day": 4,
+     "number": 1,
+     "problem": "The figure shows 3 photographs of Venus obtained in different parts of the infrared spectrum at the same moment. Arrange them in order of increasing wavelength of the radiation. Explain your choice. Near what phase was the planet observed?\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2024-g11-q1.png",
+     "paper_label": "Theoretical round (grade 11)"
+    },
+    {
+     "day": 4,
+     "number": 2,
+     "problem": "The figure shows a collage of photographs of an annular solar eclipse made by Wang Letian. Explain the nature of the dark bands to the right and to the left of the image of the Sun at maximum phase located at the centre. All the images located to the right and to the left were obtained within 10 seconds at the beginning and the end of the annular phase. In which direction did the Moon move in this image, if the left part of the collage was obtained earlier than the right part?\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2024-g11-q2.png",
+     "paper_label": "Theoretical round (grade 11)"
+    },
+    {
+     "day": 4,
+     "number": 3,
+     "problem": "On 17 June 1908 at $07^\\mathrm{h}17^\\mathrm{m}$ Irkutsk time, a powerful explosion occurred in the region of the Podkamennaya Tunguska ($60^\\circ 55'$ N, $101^\\circ 57'$ E), producing a shock wave that was recorded in Irkutsk ($52^\\circ 17'$, $104^\\circ 18'$) at $08^\\mathrm{h}09^\\mathrm{m}$ local time. An English meteorologist decided to check whether this shock wave had been detected in the records of the Cambridge meteorological station. Determine the date and the civil time at which the wave should have reached Cambridge ($52^\\circ 12'$ N, $0^\\circ 7'$ E), and also the geographical azimuth (measured from north) of the direction from which the wave arrived. Take into account that in Great Britain, unlike the Russian Empire, both standard (zone) time and summer time were used.",
+     "paper_label": "Theoretical round (grade 11)"
+    },
+    {
+     "day": 4,
+     "number": 4,
+     "problem": "Aliens decided to create a giant \"garland ball\", for which they covered the surface of a distant exoplanet of Earth radius with a multitude of light bulbs. Once every 2 hours this ball lights up for a microsecond and then goes out. The total energy emitted by the ball (by all the bulbs) in the V filter during a flash is $Q = 2\\cdot10^{21}$ J. Will this ball be visible to the naked eye from the Earth? What magnitude will a high-speed sensitive photometer with an integration time $\\delta t = 2$ ms show, and how will it change during the flash? The distance to the exoplanet is $L = 10$ pc. Assume that during the flash all the bulbs light up simultaneously and each of them radiates isotropically. The surface of the planet is black. Neglect the influence of the Earth's atmosphere.",
+     "paper_label": "Theoretical round (grade 11)"
+    },
+    {
+     "day": 4,
+     "number": 5,
+     "problem": "The azimuth of stars near the zenith changes very quickly. To track them, a telescope on an altazimuth mount must be able to turn at the required speed. Find the maximum altitude of a star that the telescope can track if its maximum precise tracking speed is $0.18^\\circ$ per second. Also estimate the maximum rotation speed of the field derotator (a device that prevents the rotation of the image on the detector) for tracking the vicinity of this star. The telescope is at latitude $41^\\circ$ N.",
+     "paper_label": "Theoretical round (grade 11)"
+    },
+    {
+     "day": 4,
+     "number": 6,
+     "problem": "Two identical radio telescopes register the radiation of a radio pulsar. The first telescope is equipped with a receiver with a bandwidth of 32 MHz registering the signal at a central frequency of 300 MHz. The central frequency of the receiver of the second telescope is 2200 MHz. What must the bandwidth of the receiver of the second telescope be for it to receive the same amount of energy from the pulsar as the first telescope, if the spectrum of the pulsar depends on frequency $f$ as $f^{-2}$?",
+     "paper_label": "Theoretical round (grade 11)"
+    },
+    {
+     "day": 4,
+     "number": 7,
+     "problem": "The table below gives the radial velocity of a star of spectral class G2V as a function of the time elapsed since the central transit of the planet across the disc of the star. It is known from observations that the mean radial velocity of the star is $V_{r_0} = 46.5670 \\pm 0.0003$ km/s, and the period of the system, with high accuracy, is $T = 980.4$ days; there is only one planet in the system. Assuming that the orbit of the planet is circular, find its mass and estimate the uncertainty of the determination. The uncertainty of each individual radial-velocity measurement is about 5 m/s.\n\n$$\\begin{array}{|c|c||c|c||c|c|}\n\\hline\nV_r,\\ \\mathrm{km/s} & t,\\ \\text{days} & V_r,\\ \\mathrm{km/s} & t,\\ \\text{days} & V_r,\\ \\mathrm{km/s} & t,\\ \\text{days} \\\\\n\\hline\n46.574 & 57.071 & 46.579 & 95.124 & 46.579 & 112.289 \\\\\n46.578 & 65.781 & 46.573 & 55.459 & 46.580 & 120.981 \\\\\n46.578 & 86.014 & 46.575 & 76.865 & 46.581 & 122.354 \\\\\n46.581 & 94.097 & 46.582 & 110.396 & 46.585 & 134.461 \\\\\n\\hline\n\\end{array}$$",
+     "paper_label": "Theoretical round (grade 11)"
+    },
+    {
+     "day": 4,
+     "number": 8,
+     "problem": "You are given a diagram of the lunar eclipse of 1736 that took place on 20 September. Determine the regions of the Earth where this eclipse was visible (at least the partial umbral phases). Consider the orbit of the Moon to be circular. Neglect the inclination of the lunar orbit to the ecliptic. Near which node of the lunar orbit did this eclipse take place?\n\nExplanations to the diagram:\n1. The figure shows the Earth's umbra and penumbra, the line of the ecliptic (dashed) and the motion of the Moon through the shadow as it is seen by observers on the Earth. North is up.\n2. The moment of maximum phase of the eclipse is given in Terrestrial Dynamical Time. It practically coincides with Universal Time. The parameter $\\Delta T$ shows the difference between these times.\n3. The factor $\\Gamma$ (Gam.) is the distance of the centre of the Moon's disc from the centre of the Earth's shadow in units of the Earth's equatorial radius. It is determined at the moment of greatest eclipse, when its absolute value is minimal.\n4. Tot. is the duration of the total phase of the eclipse; Par. is the duration of the umbral and penumbral phases together.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2024-g11-q8.png",
+     "paper_label": "Theoretical round (grade 11)"
+    }
+   ]
+  },
+  {
+   "year": 2025,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "In the very south of Africa, in the Republic of South Africa, there is Table Mountain ($34^\\circ$ S, $18^\\circ$ E). In honour of this mountain the astronomer Nicolas Louis de Lacaille named the constellation Mensa (Table Mountain). A modern amateur astronomer decided to look at the constellation Table Mountain from Table Mountain. When he climbed the mountain in the evening, he saw that the constellation was exactly above the south point, near the horizon. In which direction will the constellation shift in a couple of hours? Will the astronomer be able to see this constellation half a year later if he again climbs Table Mountain in the evening at the same time? Is it possible in any season of the year to see Table Mountain (the constellation) at the zenith from Table Mountain?",
+     "paper_label": "Theoretical round (grade 8)"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "Aliens decided to build a giant spacecraft-vacuum cleaner to tidy up the Galaxy. The vacuum cleaner has the shape of a cylinder flying end-face first. The length of the vacuum cleaner is 300 m, and the area of its base is $8000\\ \\mathrm{m^2}$. The vacuum cleaner moves through a gas-and-dust cloud at a speed of 0.01 of the speed of light and collects only dust grains. Determine:\n1. the mass of matter it collects in passing through the cloud once along a diameter,\n2. the time in which the vacuum cleaner becomes completely full,\n3. the fraction of the mass that dust will make up in this cloud after the cleaning.\nThe mass of the cloud is $5\\cdot10^4$ solar masses, and its diameter is 3 pc. The mass of dust is 1% of the mass of the cloud. The diameter of a dust grain is 1 μm, its density $1\\ \\mathrm{g/cm^3}$. Consider the distribution of matter in the cloud to be uniform.",
+     "paper_label": "Theoretical round (grade 8)"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "Jacques Cassini found in 1721 that the plane of the lunar equator makes an angle of $6^\\circ 39'$ with the plane of the lunar orbit and $1^\\circ 30'$ with the plane of the ecliptic, the plane of the ecliptic lying between the planes of the lunar equator and the lunar orbit, and all three planes intersecting along one straight line. At what altitude above the lunar horizon can the upper edge of the Earth be for an observer at the North Pole of the Moon during a central total lunar eclipse? Consider the orbit of the Moon to be circular.",
+     "paper_label": "Theoretical round (grade 8)"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "A planetary system of 7 planets revolving in one plane in the same direction has been discovered around the star TRAPPIST-1. The ratio of the period of each next planet to the period of the previous one can be written as the sequence $\\frac{8}{5}, \\frac{5}{3}, \\frac{3}{2}, \\frac{3}{2}, \\frac{4}{3}, \\frac{3}{2}$, i.e. the period of the second planet is $\\frac{8}{5}$ of the period of the first, the period of the third is $\\frac{5}{3}$ of the period of the second, and so on. The first planet makes one revolution around the star in 1.5 days. Determine the orbital period of the most distant planet. How often are planets 2 and 4 in line with the central star? Give the answers in days.",
+     "paper_label": "Theoretical round (grade 8)"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "At 00:00 local time on 9 February a ship began to move along the equator at a constant speed, and by 00:00 on 10 February, also local time, it had already covered 1670 km. It is known that the engines do not allow the ship to develop a speed greater than 25 knots. The calendar was not set back. Determine the speed of the ship in knots and the direction of its motion.\nOne knot is one nautical mile per hour; a nautical mile is equal to the length of one minute of arc of a terrestrial meridian.",
+     "paper_label": "Theoretical round (grade 8)"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "problem": "The figure shows the arrangement of the planets and the Moon in the sky at a certain moment. How many days after this moment will the Moon be in the sky near the marked planets, if it is known that in 1 day it travels a distance equal to the angular distance from the star Aldebaran to the Pleiades cluster? Determine the time of the observation to within a month. At what time of day was this picture observed?\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2025-g8-q6.png",
+     "paper_label": "Theoretical round (grade 8)"
+    },
+    {
+     "day": 2,
+     "number": 1,
+     "problem": "The galactic equator intersects the celestial equator at the points with right ascensions $6^\\mathrm{h}51^\\mathrm{m}$ and $18^\\mathrm{h}51^\\mathrm{m}$, at an angle of $62.6^\\circ$. On the basis of these data, determine the equatorial coordinates of the galactic poles. Describe your reasoning and solution in as much detail as possible.",
+     "paper_label": "Theoretical round (grade 9)"
+    },
+    {
+     "day": 2,
+     "number": 2,
+     "problem": "As observed from the Earth, Mars, Venus and an asteroid with a perihelion distance of exactly 2 AU turned out to be at a distance of exactly 1 AU. Determine the phases of the Earth, Venus and Mars as observed from the asteroid at this moment. Consider the Earth's orbit to be circular.",
+     "paper_label": "Theoretical round (grade 9)"
+    },
+    {
+     "day": 2,
+     "number": 3,
+     "problem": "In the \"Star Wars\" film series, the planet Alderaan was destroyed by the Death Star. Some time after the explosion, the size of the cloud of debris, which kept a symmetric shape, became equal to the size of the star around which the planet revolved. Suppose that the star is a twin of our Sun, and the radius of Alderaan was 2 times the radius of the Earth. Assuming that the mean radius of the fragments is 7 km, determine by how many magnitudes the brightness of Alderaan's star was dimmed for a distant observer located at this moment on the line star — former centre of the planet. Assume that all the fragments are distributed uniformly in the cloud and do not overlap each other for the observer.",
+     "paper_label": "Theoretical round (grade 9)"
+    },
+    {
+     "day": 2,
+     "number": 4,
+     "problem": "Two identical satellites were launched to Jupiter and Neptune to study the atmospheres of these planets. From which satellite will photographs of the dark side of the planet arrive more often, if the sizes of the planets in the photographs are the same and the satellites revolve in the same direction in circular orbits?",
+     "paper_label": "Theoretical round (grade 9)"
+    },
+    {
+     "day": 2,
+     "number": 5,
+     "problem": "At 00:00 local time on 9 February a ship began to move along the equator at a constant speed, and by 00:00 on 10 February, also local time, it had already covered 1670 km. It is known that the engines do not allow the ship to develop a speed greater than 25 knots. The calendar was not set back. Determine the speed of the ship in knots and the direction of its motion.\nOne knot is one nautical mile per hour; a nautical mile is equal to the length of one minute of arc of a terrestrial meridian.",
+     "paper_label": "Theoretical round (grade 9)"
+    },
+    {
+     "day": 2,
+     "number": 6,
+     "problem": "The figure shows a negative of a photograph of Jupiter and the Moon obtained in Moscow by superimposing several frames taken with a fixed camera at approximately equal time intervals. On which side of the picture is the image of the Moon that was obtained first? How many minutes did the whole photo session last? What was the astronomical azimuth of Jupiter at the moment the shooting ended? Determine the declination of the Moon and the approximate date of the shooting. Assume that the mathematical horizon coincided with the lower edge of the picture.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2025-g9-q6.png",
+     "paper_label": "Theoretical round (grade 9)"
+    },
+    {
+     "day": 3,
+     "number": 1,
+     "problem": "It is well known that the resolving power of a telescope is the better, the shorter the wavelength of observation. Why, then, is the resolution of images obtained by space telescopes in the hard X-ray and gamma-ray ranges much worse than in the optical?",
+     "paper_label": "Theoretical round (grade 10)"
+    },
+    {
+     "day": 3,
+     "number": 2,
+     "problem": "At the South Pole of the Earth, the detectors of the IceCube neutrino observatory are located in the ice at depths of 1450–2450 m. The figure below shows a map in equatorial coordinates on which the arrival directions of high-energy astrophysical neutrinos are marked, i.e. of neutrinos whose sources are outside our Galaxy. The observations lasted 9 years. Why do the marks not fill the map uniformly, but cluster along one band?\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2025-g10-q2.png",
+     "paper_label": "Theoretical round (grade 10)"
+    },
+    {
+     "day": 3,
+     "number": 3,
+     "problem": "Suppose that our Sun suddenly split into two identical stars, which returned to the main sequence fairly quickly. By how many degrees will the effective temperature of the Earth change after this?\nAssume that the albedo of the Earth remains the same. The stars are located close to each other at the place of the Sun but are not deformed. There is no mass transfer. Do not take the greenhouse effect into account.",
+     "paper_label": "Theoretical round (grade 10)"
+    },
+    {
+     "day": 3,
+     "number": 4,
+     "problem": "In the English-language literature on studies of the sky background, units $S_{10}(V)$ are sometimes used as units of surface brightness, where V denotes the spectral band, in this case the visual one. One $S_{10}(V)$ corresponds to the surface brightness in the visible range produced by the flux of one star of spectral type G2V of the 10th magnitude in the V band \"smeared\" over an area of one square degree. Two units $S_{10}(V)$ correspond to the brightness produced by two such stars, and so on.\nAt the Crimean Observatory the mean value of the sky background in the visible range was found to be 20 magnitudes per square arcsecond.\n1. What is the mean brightness of the sky background in the visible range at the Crimean Observatory in units of $S_{10}(V)$?\n2. The galaxy M31 (the Andromeda Nebula) has dimensions $3^\\circ \\times 1^\\circ$ and an apparent magnitude of $+3.44^\\mathrm{m}$. Estimate the surface brightness of the galaxy in units of $S_{10}(V)$. Assume that the shape of M31 as seen from the Earth is close to an ellipse.",
+     "paper_label": "Theoretical round (grade 10)"
+    },
+    {
+     "day": 3,
+     "number": 5,
+     "problem": "The constellation Chamaeleon occupies a \"rectangular\" region of the sky between $-75^\\circ$ and $-82^\\circ$ in declination and between $7^\\mathrm{h}40^\\mathrm{m}$ and $13^\\mathrm{h}40^\\mathrm{m}$ in right ascension. At what latitudes can the whole of this constellation be seen in the sky at one moment?",
+     "paper_label": "Theoretical round (grade 10)"
+    },
+    {
+     "day": 3,
+     "number": 6,
+     "problem": "Suppose there is a great need to place a geostationary satellite of the Earth exactly at the zenith of Paris (latitude $\\phi = 48^\\circ 50'$). The distance to the satellite must be such that the time from sending a signal from Paris to receiving the reply signal from the satellite is a tenth of a second. At what angle relative to the direction to Paris must the engine nozzle be directed so that the satellite really stays fixed exactly at the zenith of Paris? Determine the magnitude of the acceleration produced by the engine in units of $g$ (the acceleration of free fall at the Earth's surface).",
+     "paper_label": "Theoretical round (grade 10)"
+    },
+    {
+     "day": 3,
+     "number": 7,
+     "problem": "You are given a diagram of the apparent motion of a star over several years as observed from the Earth ($\\Delta\\lambda$ is the change in ecliptic longitude, $\\Delta\\beta$ the change in ecliptic latitude). The effects of the aberration of light have been removed.\nDetermine the following quantities:\n1. the distance to the star;\n2. the proper motion of the star;\n3. the ecliptic latitude of the star;\n4. the time interval over which the motion of the star took place.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2025-g10-q7.png",
+     "paper_label": "Theoretical round (grade 10)"
+    },
+    {
+     "day": 3,
+     "number": 8,
+     "problem": "Just as stars twinkle because of the scattering of light on inhomogeneities of the Earth's atmosphere, pulsars scintillate because of the scattering of radio emission by inhomogeneities of the interstellar medium. One of the simplest models of scintillation is scattering on a thin screen. Let $D$ be the distance from the observer to the pulsar. Denote the distance from the pulsar to the screen by $sD$, and from the screen to the observer by $(1-s)D$, $0 < s < 1$.\nBecause of scattering, not only the rays travelling directly reach the observer, but also some rays scattered on the screen, forming in the observer's plane a complex distribution of regions of decreased and increased intensity (the scintillation pattern). The pulsar moves quickly relative to the observer and the screen, as a result of which the radiation passes through different parts of the screen, the scintillation pattern moves, and the telescope records a variation of intensity with frequency $f$.\nThe figure on page 5 shows the dependences of the signal delay $\\tau$ caused by scattering on the frequency $f$ for the pulsar B1919+10 at four observing frequencies. The analytical formula of this dependence has the form\n$$\\tau = \\eta f^2, \\qquad \\eta = 5.15\\cdot10^5\\,\\frac{D s(1-s)}{V_\\text{eff}^2}\\,\\lambda^\\alpha,$$\nwhere $D$ is measured in kiloparsecs, $\\lambda$ is the observing wavelength in metres, and $V_\\text{eff}$ is the speed of the screen relative to the observer–pulsar segment in km/s.\n1. Using the figure, determine the value of $\\alpha$.\n2. Find the dependence of the speed $V_\\text{eff}$ on the tangential velocity of the pulsar $V_\\text{p}$.\n3. Determine the angular and linear size of the scattered image of the pulsar.\nAssume that there is no useful signal outside the graphs. For the pulsar studied, $D = 0.36$ kpc, $V_\\text{p} = 177$ km/s. Neglect the motion of the observer and the screen.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2025-g10-q8.png",
+     "paper_label": "Theoretical round (grade 10)"
+    },
+    {
+     "day": 4,
+     "number": 1,
+     "problem": "It is well known that the resolving power of a telescope is the better, the shorter the wavelength of observation. Why, then, is the resolution of images obtained by space telescopes in the hard X-ray and gamma-ray ranges much worse than in the optical?",
+     "paper_label": "Theoretical round (grade 11)"
+    },
+    {
+     "day": 4,
+     "number": 2,
+     "problem": "At the South Pole of the Earth, the detectors of the IceCube neutrino observatory are located in the ice at depths of 1450–2450 m. The figure below shows a map in equatorial coordinates on which the arrival directions of high-energy astrophysical neutrinos are marked, i.e. of neutrinos whose sources are outside our Galaxy. The observations lasted 9 years. Why do the marks not fill the map uniformly, but cluster along one band?\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2025-g11-q2.png",
+     "paper_label": "Theoretical round (grade 11)"
+    },
+    {
+     "day": 4,
+     "number": 3,
+     "problem": "Our Sun moves relative to the cosmic microwave background at a speed of about 370 km/s in the direction of the constellation Crater near its border with the constellation Leo. Estimate the maximum temperature of the microwave background that we can record. In which constellation will it be observed? At present the mean temperature of the background is 2.725 K; neglect the emission of dust.",
+     "paper_label": "Theoretical round (grade 11)"
+    },
+    {
+     "day": 4,
+     "number": 4,
+     "problem": "In Jupiter's orbit, in the vicinity of the Lagrange points $L_4$ and $L_5$, there are two groups of asteroids: the \"Greeks\" (ahead of Jupiter) and the \"Trojans\". Two asteroids, a Greek and a Trojan, are at the Lagrange points of their groups. At a certain moment, an opposition of Jupiter was observed from the Earth. Which event will happen earlier: the opposition of the Greek or the quadrature of the Trojan? After what time will these events occur? Give the answer in days.",
+     "paper_label": "Theoretical round (grade 11)"
+    },
+    {
+     "day": 4,
+     "number": 5,
+     "problem": "The constellation Chamaeleon occupies a \"rectangular\" region of the sky between $-75^\\circ$ and $-82^\\circ$ in declination and between $7^\\mathrm{h}40^\\mathrm{m}$ and $13^\\mathrm{h}40^\\mathrm{m}$ in right ascension. At what latitudes can the whole of this constellation be seen in the sky at one moment?",
+     "paper_label": "Theoretical round (grade 11)"
+    },
+    {
+     "day": 4,
+     "number": 6,
+     "problem": "An observer on the equator noticed a geosynchronous polar satellite, moving in a circular orbit, exactly at the west point of the horizon. Determine the maximum altitude of this satellite at this place.",
+     "paper_label": "Theoretical round (grade 11)"
+    },
+    {
+     "day": 4,
+     "number": 7,
+     "problem": "A young astronomer decided to build himself a spectrograph. He obtained a glass prism with an apex angle of $60^\\circ$, two lenses for the camera and the collimator with a focal length of 20 cm and a diameter of 3 cm, and a \"small\" telescope with an objective diameter of 50 cm and a focal ratio $f/8$. Taking the slit width equal to the atmospheric size of a star image ($1''$), estimate the maximum and minimum relative spectral resolution of this spectrograph in the optical range of the spectrum (from 4000 to 9000 ångströms). Neglect diffraction on all elements of the optical system. The figure shows the dependence of the angle of deviation of a light ray in the prism on wavelength.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2025-g11-q7.png",
+     "paper_label": "Theoretical round (grade 11)"
+    },
+    {
+     "day": 4,
+     "number": 8,
+     "problem": "Just as stars twinkle because of the scattering of light on inhomogeneities of the Earth's atmosphere, pulsars scintillate because of the scattering of radio emission by inhomogeneities of the interstellar medium. One of the simplest models of scintillation is scattering on a thin screen. Let $D$ be the distance from the observer to the pulsar. Denote the distance from the pulsar to the screen by $sD$, and from the screen to the observer by $(1-s)D$, $0 < s < 1$.\nBecause of scattering, not only the rays travelling directly reach the observer, but also some rays scattered on the screen, forming in the observer's plane a complex distribution of regions of decreased and increased intensity (the scintillation pattern). The pulsar moves quickly relative to the observer and the screen, as a result of which the radiation passes through different parts of the screen, the scintillation pattern moves, and the telescope records a variation of intensity with frequency $f$.\nThe figure on page 5 shows the dependences of the signal delay $\\tau$ caused by scattering on the frequency $f$ for the pulsar B1919+10 at four observing frequencies. The analytical formula of this dependence has the form\n$$\\tau = \\eta f^2, \\qquad \\eta = 5.15\\cdot10^5\\,\\frac{D s(1-s)}{V_\\text{eff}^2}\\,\\lambda^\\alpha,$$\nwhere $D$ is measured in kiloparsecs, $\\lambda$ is the observing wavelength in metres, and $V_\\text{eff}$ is the speed of the screen relative to the observer–pulsar segment in km/s.\n1. Using the figure, determine the value of $\\alpha$.\n2. Find the dependence of the speed $V_\\text{eff}$ on the tangential velocity of the pulsar $V_\\text{p}$.\n3. Determine the angular and linear size of the scattered image of the pulsar.\nAssume that there is no useful signal outside the graphs. For the pulsar studied, $D = 0.36$ kpc, $V_\\text{p} = 177$ km/s. Neglect the motion of the observer and the screen.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2025-g11-q8.png",
+     "paper_label": "Theoretical round (grade 11)"
+    }
+   ]
+  },
+  {
+   "year": 2026,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "In 1838 Friedrich Wilhelm Bessel first measured the annual parallax of the star 61 Cygni. The value he measured was $p_\\text{B} = 0.3136''$; the astronomer also stated that light from the star takes 10.28 years to reach the Earth. Using these data, and taking into account that at that time the horizontal parallax of the Sun at the equator was taken to be $\\pi_\\odot = 8.6''$, find the value of the speed of light used by Bessel, in astronomical units per year and in kilometres per second. The modern value of the parallax of this star is $p_0 = 0.2860''$. How many times longer does light take to travel from 61 Cygni than Bessel assumed?",
+     "paper_label": "Theoretical round (grade 8)"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "In a certain year the full moon fell exactly on the day of the vernal equinox (the night of 19 to 20 March). In this year you are planning a trip to a dark-sky site (in Russia) to study faint nebulous objects — galaxies, nebulae — with a telescope. You are offered a choice of one of two nights: from 12 to 13 March or from 26 to 27 March. The weather on both dates will be ideal. Which night is it more sensible to choose for observations, and why?",
+     "paper_label": "Theoretical round (grade 8)"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "An astronomer on Jupiter's satellite Amalthea makes regular observations of the satellite Io at the moments when Io is in the sky in the direction opposite to Jupiter. Once, at the required moment, he could not see Io in the sky. Determine how often the astronomer makes observations of Io, and after what minimum time he will again be unable to see Io during such observations. Assume that the satellites move in the plane of Jupiter's equator, and that the planet's rotation axis is perpendicular to the plane of its orbit.\n\n$$\\begin{array}{|l|c|c|}\n\\hline\n\\text{Satellite} & \\text{Orbital radius, km} & \\text{Orbital period} \\\\\n\\hline\n\\text{Amalthea} & 181\\,400 & 12\\ \\text{h} \\\\\n\\text{Io} & 421\\,800 & 1.7627\\ \\text{days} \\\\\n\\hline\n\\end{array}$$",
+     "paper_label": "Theoretical round (grade 8)"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "Cheerful aliens decided to make a New Year garland around the Sun. For this they processed the whole dwarf planet Ceres into a multitude of cubes, which they joined by their edges as shown in the figure. The radius of this closed chain is equal to the radius of the orbit of Ceres ($R = 2.77$ AU). The mass of Ceres is $M = 9.38\\cdot10^{20}$ kg, and its mean density $\\rho = 2.16\\ \\mathrm{g/cm^3}$. Determine the edge length $a$ of one cube and the number of cubes making up the garland.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2026-g8-q4.png",
+     "paper_label": "Theoretical round (grade 8)"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "The photograph shows clocks, still working, that were formerly used for observations at the Crimean Astronomical Station of Moscow University. On the left is a clock running on sidereal time, on the right one running on solar time. On what date of 2024 was this photograph taken?\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2026-g8-q5.png",
+     "paper_label": "Theoretical round (grade 8)"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "problem": "The galaxy NGC 6946 is known as the \"Fireworks Galaxy\", since over the last hundred years 10 supernova explosions have been observed in it — an unusually high rate of such events. You are given a negative image of this galaxy on which the locations of the supernovae are marked. The four digits in the designation of a supernova correspond to the year of its outburst as observed from the Earth. The distance to the galaxy is $L = 6.9$ Mpc. Assuming that all the supernovae were located in the galactic disc, which is seen face-on (lies in the plane of the sky), determine in what order and at what time intervals the supernova outbursts would be registered by a hypothetical observer located near the site of SN1968D.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2026-g8-q6.png",
+     "paper_label": "Theoretical round (grade 8)"
+    },
+    {
+     "day": 2,
+     "number": 1,
+     "problem": "In 1727 James Bradley discovered the phenomenon of the aberration of light and determined the aberration constant: $k_0 = 20''$. Determine what value of the speed of light Bradley obtained on the basis of this constant. Express the answer in astronomical units per year and in kilometres per second, taking into account that at that time the horizontal parallax of the Sun at the equator was taken to be $9.5''$. By how many per cent do both values obtained differ from the modern value of the speed of light? The radius of the Earth was already known by that time and coincided sufficiently accurately with the modern value.",
+     "paper_label": "Theoretical round (grade 9)"
+    },
+    {
+     "day": 2,
+     "number": 2,
+     "problem": "An amateur astronomer noticed that with the clock drive of his telescope switched off, when observing with an eyepiece of focal length 10 mm, Altair crosses the field of view of his telescope along a diameter in about 3 minutes. The objective diameter of the telescope is 13 cm, its focal length 65 cm. The set includes two eyepieces with the same field of view. Which objects will fit completely into the field of view of the telescope if he uses the eyepiece with a focal length of 20 mm?\n\n$$\\begin{array}{|l|c|c|c|}\n\\hline\n\\text{Name} & \\text{Catalogue number} & \\text{Size} & \\text{Brightness} \\\\\n\\hline\n\\text{Globular cluster in Hercules} & \\text{M13} & 16' & 5.8^\\mathrm{m} \\\\\n\\text{Andromeda Nebula} & \\text{M31} & 178 \\times 63' & 3.5^\\mathrm{m} \\\\\n\\text{Triangulum Nebula} & \\text{M33} & 73 \\times 45' & 5.5^\\mathrm{m} \\\\\n\\text{Orion Nebula} & \\text{M42} & 85 \\times 60' & 4.0^\\mathrm{m} \\\\\n\\text{Praesepe (the Beehive)} & \\text{M44} & 95' & 3.1^\\mathrm{m} \\\\\n\\text{Pleiades} & \\text{M45} & 110' & 1.2^\\mathrm{m} \\\\\n\\chi\\ \\text{and}\\ h\\ \\text{Persei} & \\text{C14} & 70' & 3.7^\\mathrm{m} \\\\\n\\text{Hyades} & \\text{C41} & 330' & 0.5^\\mathrm{m} \\\\\n\\hline\n\\end{array}$$",
+     "paper_label": "Theoretical round (grade 9)"
+    },
+    {
+     "day": 2,
+     "number": 3,
+     "problem": "The table gives the equatorial coordinates of four stars lying in the band of the Milky Way near its centre line. Using only these data, determine all the geographical latitudes at which the Milky Way can be seen perpendicular to the horizon.\n\n$$\\begin{array}{|l|c|c|}\n\\hline\n\\text{Star} & \\text{Right ascension} & \\text{Declination} \\\\\n\\hline\n\\text{HIP 3532} & 00^\\mathrm{h}45^\\mathrm{m} & +62^\\circ 31' \\\\\n\\text{HIP 32851} & 06^\\mathrm{h}50^\\mathrm{m} & -00^\\circ 32' \\\\\n\\text{BZ Cru} & 12^\\mathrm{h}44^\\mathrm{m} & -63^\\circ 11' \\\\\n\\text{5 Aql} & 18^\\mathrm{h}46^\\mathrm{m} & -00^\\circ 58' \\\\\n\\hline\n\\end{array}$$",
+     "paper_label": "Theoretical round (grade 9)"
+    },
+    {
+     "day": 2,
+     "number": 4,
+     "problem": "The escape (second cosmic) velocity at the surface of a spherical planet is $u_0$. If one rises to a height $h_1 = 1000$ km above the surface of the planet, the parabolic velocity at this height becomes equal to the circular (first cosmic) velocity at the surface of the planet. At a height twice $h_1$, the period of revolution around the planet is $T_2 = 8$ hours. Determine:\nA. the escape velocity at the surface of the planet,\nB. the radius of the planet,\nC. the mass of the planet,\nD. the mean density of the planet.",
+     "paper_label": "Theoretical round (grade 9)"
+    },
+    {
+     "day": 2,
+     "number": 5,
+     "problem": "The photograph shows clocks, still working, that were formerly used for observations at the Crimean Astronomical Station of Moscow University. On the left is a clock running on sidereal time, on the right one running on solar time. On what date of 2024 was this photograph taken?\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2026-g9-q5.png",
+     "paper_label": "Theoretical round (grade 9)"
+    },
+    {
+     "day": 2,
+     "number": 6,
+     "problem": "This combined negative image of the region around Saturn's north pole is composed of photographs obtained by the Cassini spacecraft, which worked in the planet's system from 2004 to 2017. This picture was Cassini's first image of the famous hexagonal vortex taken in the visible range.\n1. When (year, month) could this photograph have been taken?\n2. Which pole of Saturn (north or south) will be accessible for observation from the Earth in the near future, if at the end of March 2025 the planet's rings were seen edge-on?\nThe length of a side of the hexagon is about $14\\,000$ km. The inclination of Saturn's rotation axis to its orbital plane is $27^\\circ$. At the moment of imaging Cassini was at a distance much larger than the radius of the planet. Neglect the oblateness of Saturn.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2026-g9-q6.png",
+     "paper_label": "Theoretical round (grade 9)"
+    },
+    {
+     "day": 3,
+     "number": 1,
+     "problem": "Some radio pulsars, in addition to ordinary pulses, emit giant pulses (GPs) — short but often very powerful bursts. GPs are emitted irregularly, but always at the moments when ordinary pulses are expected.\nThe graph on page 4 shows the results of observations of one such pulsar. Each point corresponds to one giant pulse. The horizontal axis shows the time interval elapsed since the registration of the previous GP, and the vertical axis the power of the received signal in units of the noise power.\nDetermine the period of the pulsar. Give the answer to two significant figures.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2026-g10-q1.png",
+     "paper_label": "Theoretical round (grade 10)"
+    },
+    {
+     "day": 3,
+     "number": 2,
+     "problem": "Page 4 shows a diagram constructed for a large sample of galaxies. The vertical axis shows the colour of a galaxy as the colour index $u - r$, and the horizontal axis the stellar mass of the galaxy (the mass of its stellar component). The darker the colour of the map, the more galaxy points are in that region. Explain why the distribution of galaxies in this diagram is bimodal. Mark on this diagram the positions of the following galaxies: the Large Magellanic Cloud and the Milky Way Galaxy.\nThe broad-band photometric system of the SDSS project includes 5 bands. The $u$ band has a mean wavelength of 350 nm and a width of 60 nm, and the $r$ band a mean wavelength of 620 nm and a width of 140 nm.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2026-g10-q2.png",
+     "paper_label": "Theoretical round (grade 10)"
+    },
+    {
+     "day": 3,
+     "number": 3,
+     "problem": "In March 1990 the Voyager 1 spacecraft took the famous \"Pale Blue Dot\" picture — a photograph of the Earth from what was then a record distance. The spacecraft was moving away from the Earth in the direction of the constellation Hercules, near its border with the constellation Ophiuchus. The radio signal from the spacecraft took about 5.6 hours to reach the Earth. Determine the magnitude of the Earth in this photograph if its albedo is 0.31.",
+     "paper_label": "Theoretical round (grade 10)"
+    },
+    {
+     "day": 3,
+     "number": 4,
+     "problem": "The coordinates of the north celestial pole of Mars in the terrestrial ecliptic system are $\\lambda = 353.3^\\circ$, $\\beta = 63.3^\\circ$. On the Martian celestial sphere the vernal equinox point is defined by the same rules as on the terrestrial one. Owing to precession, the Martian equinox point shifts at a rate of $7.58''$ per year, the direction of this shift coinciding with the direction of precession of the terrestrial equinox point. Determine after what time interval the celestial poles of the Earth and Mars will be closest to each other on the celestial sphere, and what angular distance will separate them at that moment. Consider the orbits of the planets to lie in the same plane.",
+     "paper_label": "Theoretical round (grade 10)"
+    },
+    {
+     "day": 3,
+     "number": 5,
+     "problem": "A comet moves in a parabolic orbit in the plane of the ecliptic. On 1 March it passed perihelion at a distance of 0.5 AU from the Sun, being at that moment at inferior conjunction for an observer on the Earth. The velocity vectors of the Earth and the comet at that moment were in the same direction. 19 days later the distance from the Sun to the comet had increased to 1 AU.\n1. In the direction of which constellation could the comet be observed from the Earth on that day (19 days after perihelion)?\n2. At what distance from the Earth was the comet at that moment?\n3. On which side of the Sun (west or east) was the comet seen?\nConsider the Earth's orbit to be circular.\nRemark (printed in the published paper). A misprint crept into the text of this problem: moving in a parabolic orbit, the comet cannot possibly reach the Earth's orbit in 19 days, at least if it has no engine. The correct value is 39 days. Nevertheless, the chosen method of solution remains correct.",
+     "paper_label": "Theoretical round (grade 10)"
+    },
+    {
+     "day": 3,
+     "number": 6,
+     "problem": "The escape (second cosmic) velocity at the surface of a spherical planet is $u_0$. If one rises to a height $h_1 = 1000$ km above the surface of the planet, the parabolic velocity at this height becomes equal to the circular (first cosmic) velocity at the surface of the planet. At a height twice $h_1$, the period of revolution around the planet is $T_2 = 8$ hours. Determine:\nA. the escape velocity at the surface of the planet,\nB. the radius of the planet,\nC. the mass of the planet,\nD. the mean density of the planet.",
+     "paper_label": "Theoretical round (grade 10)"
+    },
+    {
+     "day": 3,
+     "number": 7,
+     "problem": "This combined negative image of the region around Saturn's north pole is composed of photographs obtained by the Cassini spacecraft, which worked in the planet's system from 2004 to 2017. This picture was Cassini's first image of the famous hexagonal vortex taken in the visible range.\n1. When (year, month) could this photograph have been taken?\n2. Which pole of Saturn (north or south) will be accessible for observation from the Earth in the near future, if at the end of March 2025 the planet's rings were seen edge-on?\nThe length of a side of the hexagon is about $14\\,000$ km. The inclination of Saturn's rotation axis to its orbital plane is $27^\\circ$. At the moment of imaging Cassini was at a distance much larger than the radius of the planet. Neglect the oblateness of Saturn.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2026-g10-q7.png",
+     "paper_label": "Theoretical round (grade 10)"
+    },
+    {
+     "day": 3,
+     "number": 8,
+     "problem": "The expanding photosphere method is a method of determining the distances to type II supernovae. The method is based on the assumption that the expanding envelope of a supernova radiates as a black body, starting from about the 5th–10th day after the explosion. Subsequent studies showed that the radiation of the envelope is close to that of a black body and differs from it by a dimensionless dilution factor $\\xi^2$, equal to the ratio of the received radiation flux from the object $F$ to the flux from a black body with the same temperature and radius:\n$$\\xi^2 = \\frac{F}{F_{bb}}.$$\nThe tables give the photometric data of the supernova in the V and B filters and the expansion velocities of the envelope after the outburst, and also the dependence of the bolometric correction $BC$ in the V band on temperature. The time is counted from the moment of maximum brightness. The graph shows the dependence of the factor $\\xi$ on the temperature expressed in thousands of kelvins.\n\n$$\\begin{array}{|c|c|c|c|}\n\\hline\n\\text{Time, days} & \\text{Velocity, km/s} & \\text{Apparent magnitude in V} & \\text{Apparent magnitude in B} \\\\\n\\hline\n7.9 & 10\\,276 & 13.81 & 13.80 \\\\\n8.9 & 9721 & 13.79 & 13.80 \\\\\n9.9 & 8981 & 13.79 & 13.82 \\\\\n10.9 & 8410 & 13.79 & 13.84 \\\\\n11.9 & 8314 & 13.81 & 13.88 \\\\\n12.9 & 8026 & 13.84 & 13.92 \\\\\n13.8 & 8080 & 13.84 & 13.95 \\\\\n14.4 & 7642 & 13.86 & 13.98 \\\\\n15.4 & 7221 & 13.85 & 14.01 \\\\\n16.1 & 7215 & 13.84 & 14.04 \\\\\n26.4 & 5611 & 13.86 & 14.47 \\\\\n29.4 & 5110 & 13.88 & 14.58 \\\\\n31.4 & 4902 & 13.90 & 14.65 \\\\\n35.4 & 4623 & 13.94 & 14.79 \\\\\n39.4 & 4310 & 13.93 & 14.87 \\\\\n42.6 & 3809 & 13.92 & 14.93 \\\\\n45.4 & 3785 & 13.93 & 14.97 \\\\\n49.4 & 3836 & 13.91 & 15.00 \\\\\n42.4 & 3747 & 13.93 & 15.05 \\\\\n54.3 & 3500 & 13.94 & 15.08 \\\\\n81.4 & 2714 & 14.04 & 15.40 \\\\\n70.3 & 2430 & 14.26 & 15.72 \\\\\n101.3 & 2504 & 14.28 & 15.74 \\\\\n\\hline\n\\end{array}$$\n\n$$\\begin{array}{|c|c||c|c||c|c|}\n\\hline\nT,\\ \\mathrm{K} & BC & T,\\ \\mathrm{K} & BC & T,\\ \\mathrm{K} & BC \\\\\n\\hline\n3500 & -2.30 & 7000 & 0.03 & 10\\,500 & -0.36 \\\\\n4000 & -1.12 & 8000 & 0.02 & 11\\,000 & -0.47 \\\\\n4500 & -0.60 & 8500 & 0.00 & 11\\,500 & -0.58 \\\\\n5000 & -0.29 & 9000 & -0.06 & 12\\,000 & -0.68 \\\\\n5500 & -0.14 & 9500 & -0.15 & 13\\,000 & -0.89 \\\\\n6000 & -0.04 & 10\\,000 & -0.25 & 14\\,000 & -1.07 \\\\\n\\hline\n\\end{array}$$\n\nTo estimate the black-body temperature, use the relation\n$$T = 4600\\left(\\frac{1}{0.92(B-V) + 1.7} + \\frac{1}{0.92(B-V) + 0.62}\\right).$$\nDetermine the distance to the supernova, assuming that it is seen high above the plane of the Milky Way.\nHint. During the first tens of days the envelope expands practically in a vacuum, without interacting with the interstellar medium, since that medium has been swept out by the radiation of the supernova's progenitor star.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2026-g10-q8.png",
+     "paper_label": "Theoretical round (grade 10)"
+    },
+    {
+     "day": 4,
+     "number": 1,
+     "problem": "Some radio pulsars, in addition to ordinary pulses, emit giant pulses (GPs) — short but often very powerful bursts. GPs are emitted irregularly, but always at the moments when ordinary pulses are expected.\nThe graph on page 5 shows the results of observations of one such pulsar. Each point corresponds to one giant pulse. The horizontal axis shows the time interval elapsed since the registration of the previous GP, and the vertical axis the power of the received signal in units of the noise power.\nDetermine the period of the pulsar. Give the answer to two significant figures.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2026-g11-q1.png",
+     "paper_label": "Theoretical round (grade 11)"
+    },
+    {
+     "day": 4,
+     "number": 2,
+     "problem": "Page 5 shows a diagram constructed for a large sample of galaxies. The vertical axis shows the colour of a galaxy as the colour index $u - r$, and the horizontal axis the stellar mass of the galaxy (the mass of its stellar component). The darker the colour of the map, the more galaxy points are in that region. Explain why the distribution of galaxies in this diagram is bimodal. Mark on this diagram the positions of the following galaxies: the Large Magellanic Cloud and the Milky Way Galaxy.\nThe broad-band photometric system of the SDSS project includes 5 bands. The $u$ band has a mean wavelength of 350 nm and a width of 60 nm, and the $r$ band a mean wavelength of 620 nm and a width of 140 nm.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2026-g11-q2.png",
+     "paper_label": "Theoretical round (grade 11)"
+    },
+    {
+     "day": 4,
+     "number": 3,
+     "problem": "When observing a galaxy completely analogous to the Milky Way, an outburst of a nova was detected at a distance of 6 kpc from its centre. The apparent magnitude of the galaxy is $10^\\mathrm{m}$, and the galaxy itself is observed as an ellipse with a ratio of semi-axes of $5:3$. Determine:\na. the distance to the galaxy;\nb. the possible values of the observed radial velocity of the nova;\nc. the possible angular distances between the centre of the galaxy and the nova.\nNeglect interstellar and intergalactic absorption, and also the influence of other galaxies on the observed quantities.",
+     "paper_label": "Theoretical round (grade 11)"
+    },
+    {
+     "day": 4,
+     "number": 4,
+     "problem": "Space pirates, approaching a peaceful space station, fired at it from a distance of 10 AU with a neutron gun. The charge contains 1 mole of neutrons. The total energy of each neutron is 5 GeV. The divergence angle of the beam is $1'$. By what factor will the neutron flux at the station increase for 1 second compared with the flux of cosmic rays of the same energy ($8000\\ \\mathrm{m^{-2}\\,s^{-1}}$)? And if they were protons? How much time will the inhabitants of the station have to hide in shelters, if the shot was accompanied by a flash of light?",
+     "paper_label": "Theoretical round (grade 11)"
+    },
+    {
+     "day": 4,
+     "number": 5,
+     "problem": "In the distant future an ambitious project was carried out that made it possible to increase the area of the Earth's surface: at a distance of $\\frac{3}{4}R$ from the centre of the Earth, two diametrically opposite cavities of radius $\\frac{R}{4}$ were dug, and the material obtained was distributed uniformly over the whole surface. Assuming that the Earth consists of an incompressible homogeneous material, estimate by what factor the area of the Earth's surface changed. What will the new escape velocity at the surface of the planet be, and from which point of the planet will one need to launch?",
+     "paper_label": "Theoretical round (grade 11)"
+    },
+    {
+     "day": 4,
+     "number": 6,
+     "problem": "During the lunar eclipse of 7 September 2025 the Moon was at the perigee of its orbit, and the minimum distance of the centre of the Moon from the axis of the shadow was 0.275 Earth radii (the gamma factor of the eclipse $\\gamma = -0.275$). The moment of maximum phase fell at 18:11 Universal Time. Consider the Earth's orbit to be circular; neglect the inclination of the Moon's orbit to the plane of the ecliptic.\nTo photograph the eclipse, an astronomer decided to use a telescope with an objective diameter $D = 200$ mm and focal length $F = 1$ m, installed at the point with coordinates $\\phi = 44^\\circ$ N, $\\lambda = 43^\\circ$ E. The telescope is equipped with a CCD of $1024\\times1024$ pixels, each with a side of 10 μm. Unfortunately, on the day of the eclipse the automatic control of the telescope broke down, and once a minute the telescope photographed a random region of the sky above the horizon. Estimate the probability that the Moon in the total phase of the eclipse, even partially, still got into at least 1 frame.",
+     "paper_label": "Theoretical round (grade 11)"
+    },
+    {
+     "day": 4,
+     "number": 7,
+     "problem": "You are under a very dark sky with a surface brightness of $22^\\mathrm{m}$ per square arcsecond. To evaluate your observing abilities, use the experimental dependence of the limiting brightness of objects perceived by the human eye on their angular size, shown in the figure. To construct these graphs, an experiment was carried out in which flashing objects of different angular size and brightness on different backgrounds were recorded. The left graph shows the results for short flashes (0.5 ms), and the right graph for long ones (930 ms).\n1. Determine the surface brightness of the faintest \"large\" objects, for example clouds in the Milky Way, that you can observe under this sky. Express this surface brightness in magnitudes per square arcminute.\n2. This wonderful sky inspired you to observe the Very Beautiful Planetary Nebula, which for our problem is a uniformly illuminated disc of diameter $3'$ and total brightness $11.9^\\mathrm{m}$. Find the minimum objective diameter of the telescope that you need for this.\nFor the calculations assume that the pupil diameter is 6 mm, and that the flux from Vega in the visible range is $10^6$ photons per $1\\ \\mathrm{cm^2}$ per second.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2026-g11-q7.png",
+     "paper_label": "Theoretical round (grade 11)"
+    },
+    {
+     "day": 4,
+     "number": 8,
+     "problem": "The expanding photosphere method is a method of determining the distances to type II supernovae. The method is based on the assumption that the expanding envelope of a supernova radiates as a black body, starting from about the 5th–10th day after the explosion. Subsequent studies showed that the radiation of the envelope is close to that of a black body and differs from it by a dimensionless dilution factor $\\xi^2$, equal to the ratio of the received radiation flux from the object $F$ to the flux from a black body with the same temperature and radius:\n$$\\xi^2 = \\frac{F}{F_{bb}}.$$\nThe tables give the photometric data of the supernova in the V and B filters and the expansion velocities of the envelope after the outburst, and also the dependence of the bolometric correction $BC$ in the V band on temperature. The time is counted from the moment of maximum brightness. The graph shows the dependence of the factor $\\xi$ on the temperature expressed in thousands of kelvins.\n\n$$\\begin{array}{|c|c|c|c|}\n\\hline\n\\text{Time, days} & \\text{Velocity, km/s} & \\text{Apparent magnitude in V} & \\text{Apparent magnitude in B} \\\\\n\\hline\n7.9 & 10\\,276 & 13.81 & 13.80 \\\\\n8.9 & 9721 & 13.79 & 13.80 \\\\\n9.9 & 8981 & 13.79 & 13.82 \\\\\n10.9 & 8410 & 13.79 & 13.84 \\\\\n11.9 & 8314 & 13.81 & 13.88 \\\\\n12.9 & 8026 & 13.84 & 13.92 \\\\\n13.8 & 8080 & 13.84 & 13.95 \\\\\n14.4 & 7642 & 13.86 & 13.98 \\\\\n15.4 & 7221 & 13.85 & 14.01 \\\\\n16.1 & 7215 & 13.84 & 14.04 \\\\\n26.4 & 5611 & 13.86 & 14.47 \\\\\n29.4 & 5110 & 13.88 & 14.58 \\\\\n31.4 & 4902 & 13.90 & 14.65 \\\\\n35.4 & 4623 & 13.94 & 14.79 \\\\\n39.4 & 4310 & 13.93 & 14.87 \\\\\n42.6 & 3809 & 13.92 & 14.93 \\\\\n45.4 & 3785 & 13.93 & 14.97 \\\\\n49.4 & 3836 & 13.91 & 15.00 \\\\\n42.4 & 3747 & 13.93 & 15.05 \\\\\n54.3 & 3500 & 13.94 & 15.08 \\\\\n81.4 & 2714 & 14.04 & 15.40 \\\\\n70.3 & 2430 & 14.26 & 15.72 \\\\\n101.3 & 2504 & 14.28 & 15.74 \\\\\n\\hline\n\\end{array}$$\n\n$$\\begin{array}{|c|c||c|c||c|c|}\n\\hline\nT,\\ \\mathrm{K} & BC & T,\\ \\mathrm{K} & BC & T,\\ \\mathrm{K} & BC \\\\\n\\hline\n3500 & -2.30 & 7000 & 0.03 & 10\\,500 & -0.36 \\\\\n4000 & -1.12 & 8000 & 0.02 & 11\\,000 & -0.47 \\\\\n4500 & -0.60 & 8500 & 0.00 & 11\\,500 & -0.58 \\\\\n5000 & -0.29 & 9000 & -0.06 & 12\\,000 & -0.68 \\\\\n5500 & -0.14 & 9500 & -0.15 & 13\\,000 & -0.89 \\\\\n6000 & -0.04 & 10\\,000 & -0.25 & 14\\,000 & -1.07 \\\\\n\\hline\n\\end{array}$$\n\nTo estimate the black-body temperature, use the relation\n$$T = 4600\\left(\\frac{1}{0.92(B-V) + 1.7} + \\frac{1}{0.92(B-V) + 0.62}\\right).$$\nDetermine the distance to the supernova, assuming that it is seen high above the plane of the Milky Way.\nHint. During the first tens of days the envelope expands practically in a vacuum, without interacting with the interstellar medium, since that medium has been swept out by the radiation of the supernova's progenitor star.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2026-g11-q8.png",
+     "paper_label": "Theoretical round (grade 11)"
+    }
+   ]
+  }
+ ]
+}
