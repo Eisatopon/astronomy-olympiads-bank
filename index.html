@@ -684,7 +684,7 @@ dialog p { color: var(--muted); font-size: .92rem; }
 // Local copies (python -m http.server) read the files next to the page; the published site reads the raw files.
 const BASE = /^(localhost|127\.)/.test(location.hostname) ? './' : 'https://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/';
 // Bump on every data change so browsers never mix old and new files.
-const DATA_VERSION = '20261104-potd-fixed';
+const DATA_VERSION = '20261104-home-order';
 const FIRST = 1990, LAST = 2026;
 const REGIONS = [['europe', 'Europe'], ['asia', 'Asia'], ['americas', 'Americas'], ['africa', 'Africa'], ['oceania', 'Oceania'], ['world', 'World'], ['other', 'Other']];
 const REGION_OF = {
@@ -1043,10 +1043,19 @@ function browseTotal() {
     if (!manifest || state.country || state.year !== null || filtersOn()) return 0;
     return tabTotal(state.tab);
 }
-// The list is ordered by year (newest first), then by collection name, exactly as COUNTRIES.
-// Returns the last (year, collection index) needed to fill the first `limit` results.
+/* On the home list (no country, year or filters) the collections of a year come in a daily order,
+   the same for every visitor that day: FNV-1a over the row key, seeded with the days since 1970. */
+function dayRank(key, day = Math.floor(Date.now() / 864e5)) {
+    let h = (0x811c9dc5 ^ day) >>> 0;
+    for (const ch of String(key)) { h ^= ch.charCodeAt(0); h = Math.imul(h, 0x01000193) >>> 0; }
+    h ^= h >>> 13; h = Math.imul(h, 0x5bd1e995) >>> 0; h ^= h >>> 15;
+    return h >>> 0;
+}
+const browseRows = () => tabRows().map(c => [dayRank(c.key), c]).sort((a, b) => a[0] - b[0] || a[1].key.localeCompare(b[1].key)).map(x => x[1]);
+// The home list is ordered by year (newest first), then by the daily order of browseRows().
+// Returns the last (year, collection index in browseRows()) needed to fill the first `limit` results.
 function browseCutoff() {
-    const rows = tabRows();
+    const rows = browseRows();
     let sum = 0;
     for (let y = LAST; y >= FIRST; y--) {
         for (let i = 0; i < rows.length; i++) {
@@ -1585,7 +1594,7 @@ function scoped() {
     const keys = state.country ? [state.country] : tabRows().map(c => c.key);
     let list = keys.flatMap(k => cache.get(k) || []);
     if (state.year !== null) list = list.filter(p => p.year === state.year);
-    else if (browseTotal()) { const [cy, ci] = browseCutoff(); const idx = Object.fromEntries(tabRows().map((c, i) => [c.key, i])); list = list.filter(p => p.year > cy || (p.year === cy && idx[p.country] <= ci)); }
+    else if (browseTotal()) { const [cy, ci] = browseCutoff(); const idx = Object.fromEntries(browseRows().map((c, i) => [c.key, i])); list = list.filter(p => p.year > cy || (p.year === cy && idx[p.country] <= ci)); }
     return list;
 }
 function matchesQuery(p) {
@@ -1599,7 +1608,8 @@ const filtersOn = () => state.day !== 'all' || state.topic !== 'all' || state.q.
 
 function compare(a, b) {
     if (a.year !== b.year) return b.year - a.year;
-    if (a.country !== b.country) return CBY[a.country].name.localeCompare(CBY[b.country].name, 'en', { sensitivity: 'base' });
+    if (a.country !== b.country) return browseTotal() ? dayRank(a.country) - dayRank(b.country) || a.country.localeCompare(b.country)
+        : CBY[a.country].name.localeCompare(CBY[b.country].name, 'en', { sensitivity: 'base' });
     if ((a.day || 0) !== (b.day || 0)) return (a.day || 0) - (b.day || 0);
     return (parseFloat(a.num) || 0) - (parseFloat(b.num) || 0);
 }
@@ -1890,7 +1900,7 @@ function neededCountries() {
     if (state.year !== null) return all.filter(k => has(k, y => y === state.year));
     if (filtersOn()) return all;
     const [cy, ci] = browseCutoff();
-    return all.filter((k, i) => !manifestYears(k) || has(k, y => y > cy || (y === cy && i <= ci)));
+    return browseRows().map(c => c.key).filter((k, i) => !manifestYears(k) || has(k, y => y > cy || (y === cy && i <= ci)));
 }
 function pendingCountries() { return neededCountries().filter(k => !cache.has(k) && !failed.has(k)); }
 function progressText() {
