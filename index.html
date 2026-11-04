@@ -585,7 +585,7 @@ dialog p { color: var(--muted); font-size: .92rem; }
 
 <section class="praise" aria-labelledby="praiseTitle">
     <div class="wrap">
-        <h2 id="praiseTitle">What people say</h2>
+        <h2 id="praiseTitle">In their words</h2>
         <div class="praise-grid">
             <blockquote>
                 <p>I think it's great for budding mathematicians that you're compiling this resource.</p>
@@ -651,7 +651,7 @@ dialog p { color: var(--muted); font-size: .92rem; }
 // Local copies (python -m http.server) read the files next to the page; the published site reads the raw files.
 const BASE = /^(localhost|127\.)/.test(location.hostname) ? './' : 'https://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/';
 // Bump on every data change so browsers never mix old and new files.
-const DATA_VERSION = '20261104-print-praise';
+const DATA_VERSION = '20261104-in-their-words';
 const FIRST = 1990, LAST = 2026;
 const REGIONS = [['europe', 'Europe'], ['asia', 'Asia'], ['americas', 'Americas'], ['africa', 'Africa'], ['oceania', 'Oceania'], ['world', 'World'], ['other', 'Other']];
 const REGION_OF = {
