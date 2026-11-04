@@ -2,6 +2,125 @@
  "competition": "Slovak Astronomy Olympiad (Astronomická olympiáda), upper-secondary category: regional and national rounds",
  "years": [
   {
+   "year": 2016,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "Consider an eclipsing binary with components of equal size $R_1 = R_2 = R$, where the primary minimum is the one in which the cooler component (temperature $T_2$) is in front of the hotter star (temperature $T_1$). The eclipse is such that, seen from the Earth, the front star reaches with its edge exactly to the centre of the eclipsed star (see the figure). Let $R_1 = R_2 = R = 2.2\\,R_\\odot$, $T_1 = 10\\,000$ K, $T_2 = 8000$ K and the distance between the centres of the components (let the orbit be circular) $r = 10R$. Compute the inclination $i$ of the relative orbit of the binary to the plane perpendicular to the line of sight, and the drop in brightness $\\Delta m$ in magnitudes at the primary minimum relative to the brightness outside the eclipse!\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/sk-2016-fi-1.png",
+     "paper_label": "National final – Theory",
+     "problem_orig": "Majme zákrytovú dvojhviezdu s rovnako veľkými zložkami $R_1 = R_2 = R$, kde primárne minimum bude to, pri ktorom je v popredí chladnejšia zložka (teplota $T_2$) pred teplejšou hviezdou (teplota $T_1$). Zákryt je taký, že pri pohľade zo Zeme zasahuje predná hviezda svojím okrajom presne na stred zakrývanej hviezdy (viď obrázok). Nech $R_1 = R_2 = R = 2{,}2\\,R_\\odot$, $T_1 = 10\\,000$ K, $T_2 = 8000$ K a vzdialenosť stredov zložiek (dráha nech je kruhová) $r = 10R$. Vypočítajte sklon relatívnej dráhy dvojhviezdy $i$ k rovine kolmej na zorný lúč a pokles jasnosti $\\Delta m$ v magnitúdach v primárnom minime voči jasnosti mimo zákrytu!\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/sk-2016-fi-1.png",
+     "orig_lang": "sk"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "Prove that the gravitational field of the Sun could not hold the electrons in the solar corona, which has a temperature of $10^6$ K. Explain why they nevertheless remain in the solar corona.",
+     "paper_label": "National final – Theory",
+     "problem_orig": "Dokážte, že gravitačné pole Slnka by neudržalo elektróny v slnečnej koróne, ktorá má teplotu $10^6$ K. Zdôvodnite, prečo aj napriek tomu zostávajú v slnečnej koróne.",
+     "orig_lang": "sk"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "A radio source at the centre of an active galaxy has an angular size of $0.001''$; its cosmological redshift is $z = 0.5$. Compute the linear size of the radio source in pc.",
+     "paper_label": "National final – Theory",
+     "problem_orig": "Rádiový zdroj v centre aktívnej galaxie má uhlový rozmer $0{,}001''$, kozmologický červený posuv je $z = 0{,}5$. Vypočítajte lineárne rozmery rádiového zdroja v pc.",
+     "orig_lang": "sk"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "What diameter should a radio telescope working at the wavelength $\\lambda = 1$ cm have in order to have the same resolution as an optical telescope with diameter $D = 10$ cm?",
+     "paper_label": "National final – Theory",
+     "problem_orig": "Aká by mal byť priemer rádioteleskopu, ktorý pracuje na vlnovej dĺžke $\\lambda = 1$ cm s takým istým rozlíšením, aké má optický ďalekohľad s priemerom $D = 10$ cm",
+     "orig_lang": "sk"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "We assume that dust grains are black bodies. Determine the diameter of a spherical dust grain which, at a distance of 1 au from the Sun, is in equilibrium between the force of radiation pressure and the gravitational force of the Sun. Take the density of the dust grain $\\rho = 10^3\\ \\mathrm{kg\\,m^{-3}}$.",
+     "paper_label": "National final – Theory",
+     "problem_orig": "Predpokladáme, že prachové zrnká sú absolútne čierne telesá. Určite priemer prachového zrnka guľového tvaru, ktoré vo vzdialenosti 1 au od Slnka je v rovnováhe medzi silou tlaku žiarenia a gravitačnou silou Slnka. Počítajte s hustotou prachového zrnka $\\rho = 10^3\\ \\mathrm{kg\\,m^{-3}}$.",
+     "orig_lang": "sk"
+    }
+   ]
+  },
+  {
+   "year": 2017,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "In a binary star the brightness of the primary component is 1.0 mag and that of the secondary component 2.0 mag. Compute the total brightness of the binary if we saw it as a single star.",
+     "paper_label": "National final – Theory",
+     "problem_orig": "V dvojhviezde je jasnosť primárnej zložky 1,0 mag a sekundárnej zložky 2,0 mag. Vypočítajte celkovú jasnosť dvojhviezdy, ak by sme ju videli ako jednu hviezdu.",
+     "orig_lang": "sk"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "On 21 August 2017 there will be a total solar eclipse, which many astronomers from all over the world will observe in the USA. It is therefore very topical to solve a problem about a solar eclipse. The apparent diameter, i.e. the angular diameter of the Moon is slightly smaller than that of the Sun, so the number of annular solar eclipses is slightly larger than that of total ones.\n\nFor an observer on the Earth the longest total solar eclipse lasts 7.5 min and the longest annular eclipse lasts 12.5 min. In this case the duration of the annular eclipse is the time interval from the second to the third contact. We assume that we can compute the number of both types of eclipses over a very long time.\n\nDetermine the ratio of annular to total eclipses. We assume that the Earth's orbit is circular and the Moon's orbit is elliptical. All hybrid eclipses are to be counted among the annular ones.",
+     "paper_label": "National final – Theory",
+     "problem_orig": "21. augusta 2017 nastane úplné zatmenie Slnka, ktoré budú mnohí astronómovia z celého sveta pozorovať v USA. Preto je veľmi aktuálne riešiť aj úlohu o zatmení Slnka. Zdanlivý priemer, teda uhlový priemer Mesiaca je o málo menší ako Slnka, preto je počet prstencových zatmení Slnka o trochu väčší ako úplných zatmení.\n\nPre pozorovateľa na Zemi najdlhšie úplné zatmenie Slnka trvá 7,5 min a najdlhšie prstencové zatmenie trvá 12,5 min. V tomto prípade trvanie prstencového zatmenia je časový interval od druhého po tretí kontakt. Predpokladáme, že môžeme vypočítať počet oboch typov zatmení pre veľmi dlhú dobu.\n\nUrčte pomer prstencových a úplných zatmení. Predpokladáme, že dráha Zeme je kruhová, mesačná dráha je eliptická. Všetky hybridné zatmenia treba započítať medzi prstencové.",
+     "orig_lang": "sk"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "The centre of the Galaxy consists of a supermassive black hole of mass $M = 4\\cdot10^6\\,M_\\odot$. The astronomical community is trying to resolve its event horizon. For non-rotating black holes the Schwarzschild radius is\n$$R_s = 3\\,\\frac{M}{M_\\odot}\\ \\mathrm{km}\\,.$$\nLet us assume that we have a radio telescope of the size of the Earth (using VLBI). What wavelength should we use in order to resolve the horizon of the black hole? The distance of the Sun from the Galactic centre is known.",
+     "paper_label": "National final – Theory",
+     "problem_orig": "Centrum galaxie pozostáva zo supermasívnej čiernej diery s hmotnosťou $M = 4\\cdot10^6\\,M_\\odot$. Astronomická obec sa pokúša riešiť jej horizont udalostí. Pre nerotujúce čierne diery je Schwarzschildov polomer\n$$R_s = 3\\,\\frac{M}{M_\\odot}\\ \\mathrm{km}\\,.$$\nPredpokladajme, že máme rádioteleskop rozmerov Zeme (využitím VLBI). Akú vlnovú dĺžku by sme mali použiť aby sme rozlíšili horizont čiernej diery? Vzdialenosť Slnka od galaktického centra poznáme.",
+     "orig_lang": "sk"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "A Canon 550D has a chip of dimensions 15 mm × 22 mm with 4272 × 2848 pixels. The coordinates (equinox J2000.0) of the stars Mirzam ($6^{\\mathrm{h}}\\,22^{\\mathrm{m}}\\,42^{\\mathrm{s}}$, $-17^\\circ 57' 21''$) and Cursa ($5^{\\mathrm{h}}\\,7^{\\mathrm{m}}\\,51^{\\mathrm{s}}$, $-5^\\circ 5' 12''$) are given. Can you determine from the image the focal length of the lens with which this image was taken?\n\n[The photograph is not reproduced here (its author is not credited in the paper). It is on page 2 of the official paper: https://www.astronomickaolympiada.sk/wp-content/uploads/2023/01/AO_SS_FI_2017.pdf]",
+     "paper_label": "National final – Theory",
+     "problem_orig": "Canon 550D má čip s rozmermi 15 mm × 22 mm a s 4272 x 2848 pixelmi. Dané sú súradnice (ekvinokcium J 2000,0) hviezd Mirzam ($6^{\\mathrm{h}}\\,22^{\\mathrm{m}}\\,42^{\\mathrm{s}}$, $-17^\\circ 57' 21''$) a Cursa ($5^{\\mathrm{h}}\\,7^{\\mathrm{m}}\\,51^{\\mathrm{s}}$, $-5^\\circ 5' 12''$). Viete určiť zo snímky ohniskovú vzdialenosť objektívu, s ktorým bola urobená táto snímka?\n\n[Fotografia sa tu nereprodukuje (autor nie je v zadaní uvedený). Nachádza sa na strane 2 oficiálneho zadania: https://www.astronomickaolympiada.sk/wp-content/uploads/2023/01/AO_SS_FI_2017.pdf]",
+     "orig_lang": "sk"
+    }
+   ]
+  },
+  {
+   "year": 2018,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "Solar neutrinos\n\nNeutrino astronomy is one of the young fields of astronomy; it allows scientists to look deep into the solar interior. There electron neutrinos ($\\nu_e$), weakly interacting light particles, are produced in the p-p chain:\n$$4\\mathrm{p} \\to {}^{4}\\mathrm{He} + 2e^+ + 2\\nu_e + 4.28\\cdot10^{-12}\\ \\mathrm{J}$$\nLarge detectors have been built on the Earth to study them. Let us model our detector as a cylinder with dimensions $R = 20$ m and $h = 40$ m. It is completely filled with water and along its circumference it has thousands of photomultipliers, which lie in wait for the faint flashes coming from the reaction of neutrinos with matter. The cross-section for this interaction (i.e. the area under which an incoming neutrino sees the target particles — consider water molecules) is only about $\\sigma = 10^{-47}\\ \\mathrm{m^2}$.\n\n(a) If the solar constant is $S = 1366\\ \\mathrm{W\\,m^{-2}}$, try to estimate how many neutrinos the detector could capture during one year.\n\nNote: if you cannot do the whole problem, do at least the passages you can, and express which quantities are needed for the calculation. You get almost all points for the procedure; the final number is secondary!\n\nIn reality this number is several orders of magnitude lower than follows from (a), since only a small fraction of the neutrinos reaches the energy needed for this specific reaction with the matter in the detector. Even after carrying out all the necessary theoretical corrections, however, scientists found that they still detect only $y = 40\\,\\%$ compared with theories built on the standard model of the Sun. It already looked as if solar astronomers had been wrong in their models of the structure of the interior of our star.\n\nAccording to the hypothesis of neutrino oscillations, however, there are three kinds of neutrinos, which can transform into each other in a rather strange way: electron neutrinos ($\\nu_e$) and muon and tau neutrinos (jointly denoted $\\nu_x$). The transformation of part of the $\\nu_e$ into other kinds $\\nu_x$ could explain the discrepancies in the observed numbers of neutrinos.\n\n(c) Assuming that the detector has an efficiency for $\\nu_x$ of only $1/7$ of that for $\\nu_e$, compute what relative fraction $q$ of the $\\nu_e$ particles must have transformed from $\\nu_e$ to $\\nu_x$ on the way from the Sun to the Earth, $0 < q < 1$.\n\nAdditional information:\nAssume that all the energy of the Sun comes from the p-p chain and also that all the neutrinos come from the Sun. The mass of a water molecule is $m_{\\mathrm{H_2O}} = 3.00\\cdot10^{-26}$ kg, and the density of water is the standard $1000\\ \\mathrm{kg\\,m^{-3}}$.",
+     "paper_label": "National final – Theory",
+     "problem_orig": "Slnečné neutrína\n\nNeutrínová astronómia je jedným z mladých oborov astronómie, umožňuje vedcom nahliadnuť hlboko do slnečného vnútra. Tu elektrónové neutrína ($\\nu_e$) - slabo interagujúce ľahké častice - vznikajú v rámci p-p cyklu:\n$$4\\mathrm{p} \\to {}^{4}\\mathrm{He} + 2e^+ + 2\\nu_e + 4{,}28\\cdot10^{-12}\\ \\mathrm{J}$$\nNa Zemi boli postavené veľké detektory na ich skúmanie. Modelujme náš detektor ako valec s rozmermi $R = 20$ m a $h = 40$ m. Je celkom naplnený vodou a po obvode má tisícky fotonásobičov, ktoré číhajú na slabé záblesky pochádzajúce z reakcie neutrín s látkou. Účinný prierez pre túto interakciu (t.j. plocha pod akou vidí prichádzajúce neutríno cieľové častice - uvažujte molekuly vody) je pritom len asi $\\sigma = 10^{-47}\\ \\mathrm{m^2}$.\n\n(a) Ak je slnečná konštanta $S = 1366\\ \\mathrm{W\\,m^{-2}}$, skúste odhadnúť, koľko neutrín by mohol detektor zachytiť počas jedného roka.\n\nPoznámka: ak neviete spraviť celú úlohu, urobte aspoň tie pasáže, čo viete a vyjadrite, aké veličiny sú na výpočet potrebné. Skoro všetky body dostanete za postup, konečné číslo je druhoradé!\n\nV skutočnosti je toto číslo o niekoľko rádov nižšie než vyplýva z a), keďže len malá časť neutrín dosiahne energiu potrebnú na túto špecifickú reakciu s látkou v detektore. Aj po vykonaní všetkých potrebných teoretických opráv však vedci zistili, že stále detekujú iba $y = 40\\,\\%$ v porovnaní s teóriami postavenými na štandardnom modeli Slnka. Vyzeralo to už, že sa slneční astronómovia mýlili v svojich modeloch štruktúry vnútra našej hviezdy.\n\nPodľa hypotézy neutrínových oscilácií však existujú tri druhy neutrín, ktoré sa môžu na seba vzájomne dosť čudným spôsobom premieňať: elektrónové ($\\nu_e$) a miónové, tauónové (spoločne značené $\\nu_x$). Premena časti $\\nu_e$ na iné druhy $\\nu_x$ by mohla vysvetliť nezrovnalosti v pozorovaných počtoch netrín.\n\n(c) Za predpokladu, že detektor má účinnosť pre $\\nu_x$ iba $1/7$ z tej pre $\\nu_e$, vypočtajte, aký relatívny pomer $q$ častíc $\\nu_e$ sa cestou zo Slnka na Zem muselo premeniť z $\\nu_e$ na $\\nu_x$, $0 < q < 1$.\n\nDodatočné informácie:\nUvažujte, že všetka energia zo Slnka pochádza z p-p cyklu a tiež, že všetky neutrína pochádzajú zo Slnka. Hmotnosť molekuly vody je $m_{\\mathrm{H_2O}} = 3{,}00\\cdot10^{-26}$ kg, hustota vody je štandardných $1000\\ \\mathrm{kg\\,m^{-3}}$.",
+     "orig_lang": "sk"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "Binary star\n\nDetermine the distance of a binary star if we know its orbital period $T = 27$ years, the masses of the individual components $3\\,M_\\odot$ and $5\\,M_\\odot$, and the size of the semi-major axis $a = 0.45''$.",
+     "paper_label": "National final – Theory",
+     "problem_orig": "Dvojhviezda\n\nUrčte vzdialenosť dvojhviezdy, ak poznáme jej obežnú dobu $T = 27$ rokov, hmotnosti jednotlivých zložiek $3\\,M_\\odot$, $5\\,M_\\odot$ a veľkosť hlavnej polosi $a = 0{,}45''$.",
+     "orig_lang": "sk"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "Sirius\n\nSirius is a binary star. The fainter component, Sirius B, has an apparent visual magnitude $m_V = 8.44$ mag.\n\n(a) If the distance of Sirius is 2.64 pc, compute the absolute visual magnitude of Sirius B. Neglect interstellar absorption.\n\n(b) The spectral energy distribution shows that Sirius B has an effective temperature of 25 200 K. The bolometric correction for this temperature is $BC = -2.73$ mag. If for the Sun $BC = -0.08$ mag, compute the absolute bolometric magnitude $M_{\\mathrm{bol}}$ of Sirius B.\n\n(c) Compute the luminosity and radius of Sirius B.\n\n(d) If the mass of Sirius B is $1.018\\,M_\\odot$, compute also the mean density of this white dwarf.",
+     "paper_label": "National final – Theory",
+     "problem_orig": "Sírius\n\nSírius je dvojhviezda. Slabšia zložka, Sírius B má zdanlivú vizuálnu magnitúdu $m_V = 8{,}44$ mag.\n\n(a) Ak je vzdialenosť Síria 2,64 pc, vypočítajte absolútnu vizuálnu magnitúdu Síria B. Medzihviezdnu absorpciu zanedbajte.\n\n(b) Spektrálne rozloženie energie ukazuje, že Sírius B má efektívnu teplotu 25 200 K. Bolometrická korekcia pre túto teplotu je $BC = -2{,}73$ mag. Ak pre Slnko je $BC = -0{,}08$ mag, vypočítajte absolútnu bolometrickú magnitúdu $M_{\\mathrm{bol}}$ Síria B.\n\n(c) Vypočítajte svietivosť a polomer Síria B.\n\n(d) Ak je hmotnosť Síria B $1{,}018\\,M_\\odot$, vypočítajte aj strednú hustotu tohto bieleho trpaslíka.",
+     "orig_lang": "sk"
+    },
+    {
+     "day": 2,
+     "number": 1,
+     "problem": "1I/2017 U1 ('Oumuamua)\n\n1I/2017 U1 'Oumuamua is the first known interstellar object passing through the Solar System. It was discovered on 19 October 2017 by Robert Weryk with the Pan-STARRS telescope in Hawaii. At the time of discovery it was already past perihelion, at a distance of 0.22 AU from the Earth. It is a small body with dimensions of approximately 230 × 35 m and a dark red colour, similar to many objects in the peripheral parts of the Solar System. On the Earth's sky it appeared at its brightest as a 19th-magnitude star. In view of the absence of cometary activity and its rapid rotation, it is probably composed of high-density material. Your task is to determine the orbital parameters of this object using the projection of its trajectory onto the Earth's sky, shown in the figures.\n\nAids: a polystyrene ball with radius $r = 4$ cm, a device for drawing and measuring angles on the surface of the ball, a ruler, a marker.\n\nTasks:\n\n1. (2 points) Estimate the date of perihelion passage $T_\\odot$ and the date of closest approach to the Earth $T_\\oplus$.\n\n2. (4 points) Determine the equatorial coordinates of the direction A from which 1I came into the Solar System, and of the direction B in which it is leaving.\n\n3. (6 points) Plot on the polystyrene ball the trajectory of 1I on the celestial sphere as seen from the Sun, including the determination of the direction of motion.\n\n4. (8 points) Mark on the ball the following quantities and determine (measure) their values:\n- the angular distance $\\varphi$ between the points A, B,\n- the inclination of the orbital plane to the plane of the ecliptic $i$,\n- the longitude of the ascending node $\\Omega$,\n- the argument of perihelion $\\omega$.\n\n5. (4 points) From the value of $\\varphi$ determine the orbital eccentricity $e$. If you did not obtain the value of $\\varphi$ above, use $\\varphi = 70^\\circ$.\n\n6. (8 points) Estimate the speed $v_\\infty$ with which 1I will move relative to the Sun after leaving the Solar System.\n\n7. (4 points) From the value of $v_\\infty$ determine the size of the semi-major axis $a$; if you did not obtain the value, use $v_\\infty = 25\\ \\mathrm{km\\cdot s^{-1}}$.\n\n8. (4 points) Compute the distance from the Sun at perihelion $q$ and the speed at perihelion $v_q$.\n\nConstants: $G = 6.67\\cdot10^{-11}\\ \\mathrm{m^3\\cdot kg^{-1}\\cdot s^{-2}}$, $M_\\odot = 1.99\\cdot10^{30}$ kg, $1\\ \\mathrm{AU} = 1.50\\cdot10^{11}$ m.\n\nFigure 1: Trajectory of 1I on the Earth's sky. Figure 2: Detail of the trajectory of 1I on the Earth's sky.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/sk-2018-fi-da-1.png\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/sk-2018-fi-da-2.png",
+     "paper_label": "National final – Data analysis",
+     "problem_orig": "1I/2017 U1 ('Oumuamua)\n\n1I/2017 U1 'Oumuamua je prvý známy medzihviezdny objekt, ktorý prelieta Slnečnú sústavu. Objavil ho 19.10.2017 Robert Weryk pomocou ďalekohľadu Pan-STARRS na Havaji. V čase objavu sa nachádzal už za perihéliom vo vzdialenosti 0,22 AU od Zeme. Jedná sa o malé teleso s rozmermi približne 230x35 m tmavočervenej farby, podobnej ako mnoho objektov v periférnych častiach Slnečnej sústavy. Na pozemskej oblohe sa najjasnejšie javila ako hviezda 19-tej magnitúdy. Vzhľadom na neprítomnosť kometárnej aktivity a rýchlu rotáciu je pravdepodobne zložené z materiálu s vysokou hustotou. Vašou úlohou je určit parametre dráhy tohto objektu pomocou priemetu trajektórie tohto objektu na pozemskú oblohu, znázornenej na obrázkoch.\n\nPomôcky: polystyrénová guľa s polomerom $r = 4$ cm, prípravok na rysovanie a meranie uhlov na povrchu gule, pravítko, fixka.\n\nÚlohy:\n\n1. (2 b) Odhadnite dátum prechodu perihéliom $T_\\odot$ a dátum najväčšieho priblíženia k Zemi $T_\\oplus$.\n\n2. (4 b) Určte rovníkové súradnice smeru A, z ktorého do Slnečnej sústavy 1I priletel, a smeru B, kam odlieta.\n\n3. (6 b) Na polystyrénovú guľu vyneste trajektóriu 1I po nebeskej sfére v pohľade zo Slnka, vrátane určenia smeru pohybu.\n\n4. (8 b) Na guli vyznačte nasledujúce veličiny a určte (odmerajte) ich hodnoty:\n- uhlovú vzdialenosť $\\varphi$ medzi bodmi A, B,\n- sklon roviny dráhy k rovine ekliptiky $i$,\n- dĺžku výstupného uzla $\\Omega$,\n- argument perihélia $\\omega$.\n\n5. (4 b) Z hodnoty $\\varphi$ určte excentricitu dráhy $e$. Ak ste nezískali hodnotu $\\varphi$ vyššie, použite $\\varphi = 70^\\circ$.\n\n6. (8 b) Odhadnite rýchlosť $v_\\infty$, ktorou sa bude 1I pohybovať voči Slnku po opustení Slnečnej sústavy.\n\n7. (4 b) Z hodnoty $v_\\infty$ určte veľkosť hlavnej polosy $a$, ak ste hodnotu nezískali, použite $v_\\infty = 25\\ \\mathrm{km\\cdot s^{-1}}$.\n\n8. (4 b) Vypočítajte vzdialenosť od Slnka v perihéliu $q$ a rýchlosť v perihéliu $v_q$.\n\nKonštanty: $G = 6{,}67\\cdot10^{-11}\\ \\mathrm{m^3\\cdot kg^{-1}\\cdot s^{-2}}$, $M_\\odot = 1{,}99\\cdot10^{30}$ kg, $1\\ \\mathrm{AU} = 1{,}50\\cdot10^{11}$ m.\n\nObrázok 1: Trajektória 1I po pozemskej oblohe. Obrázok 2: Detail trajektórie 1I po pozemskej oblohe.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/sk-2018-fi-da-1.png\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/sk-2018-fi-da-2.png",
+     "orig_lang": "sk"
+    }
+   ]
+  },
+  {
    "year": 2023,
    "problems": [
     {
