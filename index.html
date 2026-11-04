@@ -281,6 +281,12 @@ svg.i { width: 1em; height: 1em; flex: none; stroke: currentColor; fill: none; s
 .p-tag { font-size: .82rem; font-weight: 600; color: var(--f-ink); background: var(--f-tint); padding: 2px 9px; border-radius: 3px; }
 
 .statement { font: 400 1.08rem/1.75 var(--serif); max-width: 74ch; overflow-wrap: anywhere; }
+.lang-sw { display: inline-flex; gap: 4px; margin: 0 0 8px; }
+.lang-sw .btn { min-width: 40px; }
+body:not(.lang-el) .lang-sw [data-lang="en"], body.lang-el .lang-sw [data-lang="el"] { background: var(--accent); color: #fff; border-color: var(--accent); }
+.st-el { display: none; }
+body.lang-el .st-el { display: block; }
+body.lang-el .st-en { display: none; }
 .statement .para + .para { margin-top: .6em; }
 .statement .choices .choice { display: block; }
 .statement .fig { margin: .9em 0; text-align: center; }
@@ -651,7 +657,7 @@ dialog p { color: var(--muted); font-size: .92rem; }
 // Local copies (python -m http.server) read the files next to the page; the published site reads the raw files.
 const BASE = /^(localhost|127\.)/.test(location.hostname) ? './' : 'https://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/';
 // Bump on every data change so browsers never mix old and new files.
-const DATA_VERSION = '20261104-moscow2';
+const DATA_VERSION = '20261104-orig-ru';
 const FIRST = 1990, LAST = 2026;
 const REGIONS = [['europe', 'Europe'], ['asia', 'Asia'], ['americas', 'Americas'], ['africa', 'Africa'], ['oceania', 'Oceania'], ['world', 'World'], ['other', 'Other']];
 const REGION_OF = {
@@ -914,7 +920,7 @@ function normalizeYears(country, raw) {
                 uid: `${country.key}.${y.year}.${day ?? 0}.${num}`,
                 country: country.key, year: y.year, day, num,
                 paperLabel: p.paper_label || (tests && day ? 'Test ' + day : null), figureAlt: p.figure_alt || null,
-                ...topicFields(p.problem, p.category, `${country.key}.${y.year}.${day ?? 0}.${num}`), text: String(p.problem || '')
+                ...topicFields(p.problem, p.category, `${country.key}.${y.year}.${day ?? 0}.${num}`), text: String(p.problem || ''), textEl: (p.problem_el || p.problem_orig) ? String(p.problem_el || p.problem_orig) : null, origLang: p.problem_el ? 'el' : (p.orig_lang || '')
             });
         });
     });
@@ -1555,7 +1561,7 @@ function scoped() {
 }
 function matchesQuery(p) {
     if (!state.q) return true;
-    const hay = `${p.text} ${p.year} ${p.num} ${CBY[p.country].name}`.toLowerCase();
+    const hay = `${p.text} ${p.textEl || ''} ${p.year} ${p.num} ${CBY[p.country].name}`.toLowerCase();
     return state.q.toLowerCase().split(/\s+/).filter(Boolean).every(t => hay.includes(t));
 }
 const matchesDay = p => state.day === 'all' || String(p.day) === state.day;
@@ -1812,6 +1818,11 @@ function groupCreditText(list) {
 }
 function creditHtml(p) { const t = creditText(p); return t ? `<p class="p-credit">${esc(t)}</p>` : ''; }
 
+// Bilingual records (problem_el, or problem_orig + orig_lang): EN / original-language switch, remembered per visitor ('el' = show the original).
+function setLang(l) {
+    document.body.classList.toggle('lang-el', l === 'el');
+    try { localStorage.setItem('nob-lang', l); } catch (e) {}
+}
 function problemHtml(p) {
     const c = CBY[p.country];
     return `
@@ -1833,7 +1844,7 @@ function problemHtml(p) {
             </button>
             </div>
         </div>
-        <div class="statement">${bodyHtml(p.text, p)}</div>
+        ${p.textEl ? `<div class="lang-sw" role="group" aria-label="Language of the statement"><button type="button" class="btn btn-sm" data-lang="en">EN</button><button type="button" class="btn btn-sm" data-lang="el" title="Original language">${p.origLang === 'el' || !p.origLang ? 'ΕΛ' : esc(p.origLang.toUpperCase())}</button></div><div class="statement st-en">${bodyHtml(p.text, p)}</div><div class="statement st-el" lang="${esc(p.origLang || 'el')}">${bodyHtml(p.textEl, p)}</div>` : `<div class="statement">${bodyHtml(p.text, p)}</div>`}
         ${provenanceHtml(p)}
         ${dnaHtml(p)}
     </article>`;
@@ -2610,6 +2621,7 @@ document.addEventListener('click', e => {
         return;
     }
 
+    if (t.dataset.lang) { setLang(t.dataset.lang); return; }
     if (t.dataset.share) { shareAction(t.dataset.share, t.dataset.shareUid); if (currentMenu) currentMenu.open = false; return; }
     if (t.dataset.aiProvider) { setAiProvider(t.dataset.aiProvider); return; }
     if (t.dataset.askAi) {
@@ -2692,6 +2704,7 @@ function centerPick() {
 
 async function init() {
     $('#yr').textContent = new Date().getFullYear();
+    try { if (localStorage.getItem('nob-lang') === 'el') document.body.classList.add('lang-el'); } catch (e) {}
 
     // Start every metadata request at once and draw the grid without waiting for them.
     const getJson = url => fetch(url, {cache: 'no-cache'}).then(r => { if (!r.ok) throw new Error('HTTP ' + r.status); return r.json(); });

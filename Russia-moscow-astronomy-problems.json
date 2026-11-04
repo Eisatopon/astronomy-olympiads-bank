@@ -8,91 +8,121 @@
      "day": 1,
      "number": 1,
      "problem": "A planet the size of Jupiter revolves around a Sun-like star in a circular orbit whose radius is equal to the semi-major axis of the orbit of Mercury. Observers on the Earth see regular drops in the brightness of the star caused by transits of this planet across its disc. Estimate the characteristic duration of the eclipse.\n\nReference data (from the paper):\n$$\\begin{array}{|l|c|c|c|c|c|}\n\\hline\n\\text{Body} & \\text{Radius, km} & \\text{Rotation period} & \\text{Semi-major axis, AU} & \\text{Eccentricity} & \\text{Orbital period, years} \\\\\n\\hline\n\\text{Sun} & 695\\,000 & 25.380\\ \\text{d} & - & - & - \\\\\n\\text{Mercury} & 2439.7 & 58.646\\ \\text{d} & 0.3871 & 0.2056 & 0.2408 \\\\\n\\text{Venus} & 6051.8 & 243.019\\ \\text{d}^{*} & 0.7233 & 0.0068 & 0.6152 \\\\\n\\text{Earth} & 6378.1 & 23.934\\ \\text{h} & 1.000 & 0.0167 & 1 \\\\\n\\text{Mars} & 3397.2 & 24.623\\ \\text{h} & 1.523 & 0.0934 & 1.881 \\\\\n\\text{Jupiter} & 71\\,492 & 9.924\\ \\text{h} & 5.202 & 0.0483 & 11.86 \\\\\n\\text{Vesta} & 289 \\times 280 \\times 226 & 5.342\\ \\text{h} & 2.361 & 0.089 & 3.628 \\\\\n\\text{Ceres} & 487.3 & 8.074\\ \\text{h} & 2.765 & 0.0793 & 4.601 \\\\\n\\hline\n\\end{array}$$\n$^{*}$ retrograde rotation.",
-     "paper_label": "Theoretical round (grades 8–9)"
+     "paper_label": "Theoretical round (grades 8–9)",
+     "problem_orig": "Планета размером с Юпитер вращается вокруг похожей на Солнце звезды по круговой орбите с радиусом орбиты, равным большой полуоси орбиты Меркурия. Наблюдатели на Земле видят регулярные падения блеска звезды из-за прохождения этой планеты по ее диску. Оцените характерное время затмения.\n\nСправочные данные (из условия):\n$$\\begin{array}{|l|c|c|c|c|c|}\n\\hline\n\\text{Тело} & \\text{Радиус, км} & \\text{Период вращения} & \\text{Большая полуось, а. е.} & \\text{Эксцентриситет} & \\text{Период обращения, лет} \\\\\n\\hline\n\\text{Солнце} & 695\\,000 & 25.380\\ \\text{сут} & - & - & - \\\\\n\\text{Меркурий} & 2439.7 & 58.646\\ \\text{сут} & 0.3871 & 0.2056 & 0.2408 \\\\\n\\text{Венера} & 6051.8 & 243.019\\ \\text{сут}^{*} & 0.7233 & 0.0068 & 0.6152 \\\\\n\\text{Земля} & 6378.1 & 23.934\\ \\text{час} & 1.000 & 0.0167 & 1 \\\\\n\\text{Марс} & 3397.2 & 24.623\\ \\text{час} & 1.523 & 0.0934 & 1.881 \\\\\n\\text{Юпитер} & 71\\,492 & 9.924\\ \\text{час} & 5.202 & 0.0483 & 11.86 \\\\\n\\text{Веста} & 289 \\times 280 \\times 226 & 5.342\\ \\text{час} & 2.361 & 0.089 & 3.628 \\\\\n\\text{Церера} & 487.3 & 8.074\\ \\text{час} & 2.765 & 0.0793 & 4.601 \\\\\n\\hline\n\\end{array}$$\n$^{*}$ обратное вращение.",
+     "orig_lang": "ru"
     },
     {
      "day": 1,
      "number": 2,
      "problem": "On the surface of which terrestrial planets can a sunrise be observed? Where will it be the shortest? Estimate its duration.\n\nReference data (from the paper):\n$$\\begin{array}{|l|c|c|c|c|c|}\n\\hline\n\\text{Body} & \\text{Radius, km} & \\text{Rotation period} & \\text{Semi-major axis, AU} & \\text{Eccentricity} & \\text{Orbital period, years} \\\\\n\\hline\n\\text{Sun} & 695\\,000 & 25.380\\ \\text{d} & - & - & - \\\\\n\\text{Mercury} & 2439.7 & 58.646\\ \\text{d} & 0.3871 & 0.2056 & 0.2408 \\\\\n\\text{Venus} & 6051.8 & 243.019\\ \\text{d}^{*} & 0.7233 & 0.0068 & 0.6152 \\\\\n\\text{Earth} & 6378.1 & 23.934\\ \\text{h} & 1.000 & 0.0167 & 1 \\\\\n\\text{Mars} & 3397.2 & 24.623\\ \\text{h} & 1.523 & 0.0934 & 1.881 \\\\\n\\hline\n\\end{array}$$\n$^{*}$ retrograde rotation.",
-     "paper_label": "Theoretical round (grades 8–9)"
+     "paper_label": "Theoretical round (grades 8–9)",
+     "problem_orig": "На поверхности каких планет земной группы можно наблюдать восход Солнца? Где он будет самым коротким? Оцените его длительность.\n\nСправочные данные (из условия):\n$$\\begin{array}{|l|c|c|c|c|c|}\n\\hline\n\\text{Тело} & \\text{Радиус, км} & \\text{Период вращения} & \\text{Большая полуось, а. е.} & \\text{Эксцентриситет} & \\text{Период обращения, лет} \\\\\n\\hline\n\\text{Солнце} & 695\\,000 & 25.380\\ \\text{сут} & - & - & - \\\\\n\\text{Меркурий} & 2439.7 & 58.646\\ \\text{сут} & 0.3871 & 0.2056 & 0.2408 \\\\\n\\text{Венера} & 6051.8 & 243.019\\ \\text{сут}^{*} & 0.7233 & 0.0068 & 0.6152 \\\\\n\\text{Земля} & 6378.1 & 23.934\\ \\text{час} & 1.000 & 0.0167 & 1 \\\\\n\\text{Марс} & 3397.2 & 24.623\\ \\text{час} & 1.523 & 0.0934 & 1.881 \\\\\n\\hline\n\\end{array}$$\n$^{*}$ обратное вращение.",
+     "orig_lang": "ru"
     },
     {
      "day": 1,
      "number": 3,
      "problem": "A resident of the island of Kiritimati ($1^\\circ 53'$ N, $157^\\circ 24'$ W, UTC+14) decided to sail to visit his friend who lives on the island of Nuku Hiva ($8^\\circ 52'$ S, $140^\\circ 06'$ W, UTC−9.5). For this he boarded a ship which delivered him to Nuku Hiva along a straight line at a speed of 40 km/h. What day was it and what was the time on Nuku Hiva when the traveller arrived there, if he started his journey at noon on Monday? UTC is Universal Time.",
-     "paper_label": "Theoretical round (grades 8–9)"
+     "paper_label": "Theoretical round (grades 8–9)",
+     "problem_orig": "Житель острова Киритимати ($1^\\circ 53'$ с. ш., $157^\\circ 24'$ з. д., UTC+14) решил сплавать в гости к своему другу, живущему на острове Нуку-Хива ($8^\\circ 52'$ ю. ш., $140^\\circ 06'$ з. д., UTC−9.5). Для этого он сел на корабль, который по прямой со скоростью 40 км/ч доставил его на Нуку-Хива. Какой день был и сколько было времени на Нуку-Хива, когда туда прибыл путешественник, если он начал свой путь в полдень понедельника? UTC — всемирное время.",
+     "orig_lang": "ru"
     },
     {
      "day": 1,
      "number": 4,
      "problem": "In February 2015 the spacecraft \"Dawn\" arrives at the last target of its journey, the dwarf planet Ceres. On the way it visited Mars and studied the asteroid Vesta for a long time. Determine how much time the spacecraft would have needed to carry out its programme if, after its encounter with Mars, it had moved only along optimal (Hohmann) ellipses. How much time would it have had for studying Vesta? Consider the orbits of Mars, Vesta and Ceres to be circular and to lie in the same plane. At the moment of departure from Mars, Ceres lagged behind Mars in its orbital motion by $140^\\circ$.\n\nReference data (from the paper):\n$$\\begin{array}{|l|c|c|c|c|c|}\n\\hline\n\\text{Body} & \\text{Radius, km} & \\text{Rotation period} & \\text{Semi-major axis, AU} & \\text{Eccentricity} & \\text{Orbital period, years} \\\\\n\\hline\n\\text{Earth} & 6378.1 & 23.934\\ \\text{h} & 1.000 & 0.0167 & 1 \\\\\n\\text{Mars} & 3397.2 & 24.623\\ \\text{h} & 1.523 & 0.0934 & 1.881 \\\\\n\\text{Vesta} & 289 \\times 280 \\times 226 & 5.342\\ \\text{h} & 2.361 & 0.089 & 3.628 \\\\\n\\text{Ceres} & 487.3 & 8.074\\ \\text{h} & 2.765 & 0.0793 & 4.601 \\\\\n\\hline\n\\end{array}$$",
-     "paper_label": "Theoretical round (grades 8–9)"
+     "paper_label": "Theoretical round (grades 8–9)",
+     "problem_orig": "Космический аппарат «Dawn» в феврале 2015 года прибывает к последней цели своего путешествия — карликовой планете Церера. По пути он посетил Марс и долго исследовал астероид Веста. Определите, сколько времени потребовалось бы космическому аппарату для выполнения его программы, если бы после встречи с Марсом он двигался только по оптимальным (гомановским) эллипсам? Сколько времени у него было бы для исследования Весты? Орбиты Марса, Весты и Цереры считать круговыми и лежащими в одной плоскости. В момент отправки с Марса Церера отставала от него в орбитальном движении на $140^\\circ$.\n\nСправочные данные (из условия):\n$$\\begin{array}{|l|c|c|c|c|c|}\n\\hline\n\\text{Тело} & \\text{Радиус, км} & \\text{Период вращения} & \\text{Большая полуось, а. е.} & \\text{Эксцентриситет} & \\text{Период обращения, лет} \\\\\n\\hline\n\\text{Земля} & 6378.1 & 23.934\\ \\text{час} & 1.000 & 0.0167 & 1 \\\\\n\\text{Марс} & 3397.2 & 24.623\\ \\text{час} & 1.523 & 0.0934 & 1.881 \\\\\n\\text{Веста} & 289 \\times 280 \\times 226 & 5.342\\ \\text{час} & 2.361 & 0.089 & 3.628 \\\\\n\\text{Церера} & 487.3 & 8.074\\ \\text{час} & 2.765 & 0.0793 & 4.601 \\\\\n\\hline\n\\end{array}$$",
+     "orig_lang": "ru"
     },
     {
      "day": 1,
      "number": 5,
      "problem": "An interstellar cloud has a size of 100 AU and a mean number density of $10^{6}\\ \\mathrm{cm^{-3}}$. The number density of water molecules in this cloud is $10^{-5}$ of the mean. A spaceship flies through this cloud along a straight line at a speed of 50 km/s. The crew decided to replenish the on-board water supply by opening a special trap 10 m in diameter outside the ship. How long will it take to collect one tonne of water with this trap? The mass of a water molecule is $3\\cdot10^{-23}$ g.",
-     "paper_label": "Theoretical round (grades 8–9)"
+     "paper_label": "Theoretical round (grades 8–9)",
+     "problem_orig": "Космическое межзвездное облако имеет размер 100 а. е. и среднюю концентрацию $10^{6}\\ \\text{см}^{-3}$. Концентрация молекул воды в этом облаке составляет $10^{-5}$ от средней. Космический корабль пролетает через это облако по прямой со скоростью 50 км/с. Экипаж корабля решил пополнить бортовые запасы воды, раскрыв снаружи корабля специальную ловушку диаметром 10 м. За какое время удастся собрать этой ловушкой тонну воды? Масса молекулы воды $3\\cdot10^{-23}$ г.",
+     "orig_lang": "ru"
     },
     {
      "day": 1,
      "number": 6,
      "problem": "In front of you is a photograph of one of the hemispheres of the Moon. Estimate the maximum angular size of the lunar mare (marked by the arrow) when observed from the orbit of Venus, from the surface of the Earth and from Mars. Can it be observed at this moment with a 150 mm telescope?\n\nReference data (from the paper): radius of the Moon 1738 km; mean distance of the Moon from the Earth 384 400 km; semi-major axes of the orbits of Venus, the Earth and Mars 0.7233, 1.000 and 1.523 AU; resolution of a telescope $R = 140/D$, where $R$ is in arcseconds when the objective diameter $D$ is in millimetres.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2015-g89-q6.png",
-     "paper_label": "Theoretical round (grades 8–9)"
+     "paper_label": "Theoretical round (grades 8–9)",
+     "problem_orig": "Перед Вами фотография одного из полушарий Луны. Оцените максимальный угловой размер лунного моря (отмечено стрелкой) при наблюдении с орбиты Венеры, поверхности Земли и Марса. Можно ли его пронаблюдать в этот момент с помощью 150 мм телескопа?\n\nСправочные данные (из условия): радиус Луны 1738 км; среднее расстояние Луны от Земли 384 400 км; большие полуоси орбит Венеры, Земли и Марса 0.7233, 1.000 и 1.523 а. е.; разрешение телескопа $R = 140/D$, где $R$ получается в угловых секундах, если диаметр объектива $D$ в миллиметрах.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2015-g89-q6.png",
+     "orig_lang": "ru"
     },
     {
      "day": 2,
      "number": 1,
      "problem": "One year on a distant planet equals $T = 456.789$ of its solar days. One solar day on this planet equals $s = 20$ Earth hours, and the planet rotates about its axis in the direction opposite to its orbital motion. What is the length of the sidereal day on this planet?",
-     "paper_label": "Theoretical round (grades 10–11)"
+     "paper_label": "Theoretical round (grades 10–11)",
+     "problem_orig": "Один год на далекой планете составляет $T = 456.789$ ее солнечных суток. Одни солнечные сутки на этой планете равны $s = 20$ земных часов, причем планета вращается вокруг своей оси в сторону, противоположную движению по орбите. Чему равны звездные сутки на этой планете?",
+     "orig_lang": "ru"
     },
     {
      "day": 2,
      "number": 2,
      "problem": "What should the maximum inclination of the lunar orbit be for solar eclipses to be observed on the Earth once a month? Would umbral lunar eclipses then also occur once a month at such an inclination? Consider the orbits of the Earth and the Moon to be circular.",
-     "paper_label": "Theoretical round (grades 10–11)"
+     "paper_label": "Theoretical round (grades 10–11)",
+     "problem_orig": "Каким должен быть максимальный наклон лунной орбиты, чтобы раз в месяц на Земле наблюдались солнечные затмения? Будут ли при таком наклоне раз в месяц происходить теневые лунные затмения? Орбиты Земли и Луны считайте круговыми.",
+     "orig_lang": "ru"
     },
     {
      "day": 2,
      "number": 3,
      "problem": "A Newtonian telescope has a primary mirror 130 mm in diameter, a focal length of 500 mm and a maximum field of view not vignetted by the tube (i.e. not shaded by the tube) of $1^\\circ$. The flat secondary (diagonal) mirror brings the focus out to a distance of 10 cm from the main optical axis of the system. Estimate by how many stellar magnitudes the received light is weakened because of the obstruction by the secondary mirror.",
-     "paper_label": "Theoretical round (grades 10–11)"
+     "paper_label": "Theoretical round (grades 10–11)",
+     "problem_orig": "Телескоп системы Ньютона имеет диаметр главного зеркала 130 мм, фокусное расстояние 500 мм и максимальный размер не виньетированного трубой (т. е. не затененного трубой) поля зрения $1^\\circ$. Плоское вторичное (диагональное) зеркало выносит фокус на расстояние 10 см от главной оптической оси системы. Оцените, на сколько звёздных величин ослабляется принимаемый свет вследствие экранирования от вторичного зеркала.",
+     "orig_lang": "ru"
     },
     {
      "day": 2,
      "number": 4,
      "problem": "In three months the position of a certain star changed because of parallax by $0.014''$ in declination, while in right ascension it did not change. Find the distance from the Earth to this star. The equatorial coordinates of the star are $\\delta = -66.5^\\circ$, $\\alpha = 6^\\mathrm{h}$.",
-     "paper_label": "Theoretical round (grades 10–11)"
+     "paper_label": "Theoretical round (grades 10–11)",
+     "problem_orig": "За три месяца положение некоторой звезды из-за параллакса изменилось на $0.014''$ по склонению, а по прямому восхождению не изменилось. Найдите расстояние до этой звезды от Земли. Экваториальные координаты звезды: $\\delta = -66.5^\\circ$, $\\alpha = 6^\\mathrm{ч}$.",
+     "orig_lang": "ru"
     },
     {
      "day": 2,
      "number": 5,
      "problem": "After watching the film \"Interstellar\" many people began to criticise it for some \"blunders\" from the point of view of physics. One of these \"blunders\" was that the main character could be near a supermassive black hole which had no effect on him, whereas, in the opinion of the critics, he should have died because of the tidal forces of the black hole. Is this so? What tidal acceleration will a person of mass 80 kg and height 180 cm experience near the event horizon of a black hole with a mass of $10^{7}$ solar masses? Assume that a person can withstand overloads of not more than $10g$ for a long time.",
-     "paper_label": "Theoretical round (grades 10–11)"
+     "paper_label": "Theoretical round (grades 10–11)",
+     "problem_orig": "После просмотра фильма «Интерстеллар» многие люди стали критиковать его за некоторые «ляпы» с точки зрения физики. Одним из таких «ляпов» было то, что главный герой мог находиться вблизи сверхмассивной черной дыры, которая не оказала на него никакого влияния, тогда как, согласно мнению критикующих, он должен был погибнуть из-за приливных сил со стороны черной дыры. Так ли это? Какое приливное ускорение испытает человек массой 80 кг и ростом 180 см, находящийся вблизи горизонта событий черной дыры с массой $10^{7}$ масс Солнца? Считать, что человек может выдерживать длительное время перегрузки не более $10g$.",
+     "orig_lang": "ru"
     },
     {
      "day": 2,
      "number": 6,
      "problem": "Determine how many times larger or smaller the gravitational redshift is for the radiation of Betelgeuse than for the Sun. The mass of Betelgeuse is 17 solar masses and its radius is 800 solar radii.",
-     "paper_label": "Theoretical round (grades 10–11)"
+     "paper_label": "Theoretical round (grades 10–11)",
+     "problem_orig": "Определите, во сколько раз гравитационное красное смещение для излучения Бетельгейзе больше или меньше, чем для Солнца? Масса Бетельгейзе равна 17 масс Солнца, радиус – 800 радиусов Солнца.",
+     "orig_lang": "ru"
     },
     {
      "day": 2,
      "number": 7,
      "problem": "For another 5 billion years the Sun will shine as a main-sequence star, gradually increasing its luminosity by 10% every billion years.\n\n7.1. Determine the luminosity of the Sun before it turns into a red giant (in units of the present luminosity $L_0$).\n\n7.2. How far will the habitable zone in the Solar System shift by the end of the Sun's life? Take the present boundaries of the habitable zone to be 0.8–1.1 AU.\n\n7.3. The present mass loss of the Sun is about $5\\cdot10^{-12}$ solar masses per year. If we assume that the rate of mass loss grows in the same way as the luminosity, what fraction of its mass will the Sun lose before turning into a red giant?\n\n7.4. Compare the result obtained with the change of the mass of the Sun due to the mass defect in thermonuclear reactions.\n\nThe red-giant stage of the Sun will last for 100 million years, until the whole envelope of the star gradually dissipates and the Sun turns into a white dwarf with a mass of 0.6 of the present solar mass.\n\n7.5. Determine the rate of mass loss of the Sun (in solar masses per year) at this stage.\n\n7.6. Determine by what factor the radii of the orbits of the surviving planets have changed.",
-     "paper_label": "Theoretical round (grades 10–11)"
+     "paper_label": "Theoretical round (grades 10–11)",
+     "problem_orig": "Солнце еще на протяжении 5 миллиардов лет будет светить как звезда главной последовательности, постепенно увеличивая свою светимость на 10% каждый миллиард лет.\n\n7.1. Определите светимость Солнца перед превращением его в красный гигант (в единицах современной светимости $L_0$).\n\n7.2. Как далеко сдвинется зона жизни (зона обитаемости) в Солнечной системе к концу жизни Солнца? Принять текущие границы зоны жизни 0.8 — 1.1 а. е.\n\n7.3. Текущая потеря массы Солнцем примерно $5\\cdot10^{-12}$ масс Солнца в год. Если предположить, что рост темпа потери массы будет таким же как и рост светимости, какую часть массы Солнце потеряет до превращения в красный гигант?\n\n7.4. Сравните полученный результат с изменением массы Солнца за счет явления дефекта массы в термоядерных реакциях.\n\nСтадия красного гиганта для Солнца продолжится на протяжении 100 миллионов лет пока постепенно не рассеется вся оболочка звезды, а Солнце не превратится в белый карлик массой 0.6 современной массы Солнца.\n\n7.5. Определите скорость потери массы Солнцем (в массах Солнца в год) на этом этапе.\n\n7.6. Определите, во сколько раз изменился радиус орбит уцелевших планет.",
+     "orig_lang": "ru"
     },
     {
      "day": 2,
      "number": 8,
      "problem": "Clusters of galaxies are gravitationally bound objects with a nearly spherical shape. Being gravitationally bound means that the galaxies in a cluster do not take part in the Hubble expansion but move chaotically relative to the centre of mass of the cluster. As a result, on \"right ascension – radial velocity\" maps like the one shown in the figure, clusters are strongly elongated in the direction towards the observer and have a spindle-like shape. Estimate from this map the mass of the cluster marked by the arrows. Express the answer in solar masses. Give the uncertainty of the value obtained.\n\nIn the figure the radial coordinate is the radial velocity in km/s and the angular coordinate is the right ascension in hours. Each point represents an individual galaxy.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2015-g1011-q8.png",
-     "paper_label": "Theoretical round (grades 10–11)"
+     "paper_label": "Theoretical round (grades 10–11)",
+     "problem_orig": "Скопления галактик представляют собой гравитационно-связанные объекты, имеющие форму, близкую к сферической. Гравитационная связанность означает, что галактики, входящие в скопления, не участвуют в хаббловском расширении, а движутся хаотически по отношению к центру масс скопления. Это приводит к тому, что на картах «прямое восхождение» – «лучевая скорость», наподобие изображенной на рисунке, скопления сильно вытянуты по направлению к наблюдателю и имеют веретенообразную форму. Оцените из этой карты массу скопления, помеченного стрелками. Ответ выразите в массах Солнца. Укажите погрешность полученной величины.\n\nНа рисунке по радиусу – лучевая скорость в км/с, по углу – прямое восхождение в часах. Каждая точка представляет собой отдельную галактику.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2015-g1011-q8.png",
+     "orig_lang": "ru"
     },
     {
      "day": 2,
      "number": 9,
      "problem": "You are given a photograph of comet C/2014 Q2 (Lovejoy) and a chart of this region of the starry sky. The photograph was taken on 17 January 2015. At that time the comet was at a distance of 0.53 AU from the Earth. Determine the size of the coma and the size of the tail of the comet in kilometres. For convenience, the end of the tail is marked.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2015-g1011-q9-1.png\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2015-g1011-q9-2.png",
-     "paper_label": "Theoretical round (grades 10–11)"
+     "paper_label": "Theoretical round (grades 10–11)",
+     "problem_orig": "Вам предоставлена фотография кометы C/2014 Q2 (Lovejoy) и карта данного участка звездного неба. Фотография была сделана 17 января 2015 года. В это время комета находилась на расстоянии 0.53 а. е. от Земли. Определите размер комы и размер хвоста кометы в километрах. Для удобства граница хвоста помечена.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2015-g1011-q9-1.png\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2015-g1011-q9-2.png",
+     "orig_lang": "ru"
     }
    ]
   },
@@ -103,85 +133,113 @@
      "day": 1,
      "number": 1,
      "problem": "How often would full moons occur if the mass of the Earth were 27 times smaller and the distance from the Earth to the Moon 4 times smaller?\n\nReference data (from the paper): mean distance of the Moon from the Earth 384 400 km; sidereal period of the Moon 27.321662 days; synodic period 29.530589 days.",
-     "paper_label": "Theoretical round (grades 8–9)"
+     "paper_label": "Theoretical round (grades 8–9)",
+     "problem_orig": "Как часто наступали бы полнолуния, если бы масса Земли была в 27 раз меньше, а расстояние от Земли до Луны – в 4 раза меньше?\n\nСправочные данные (из условия): среднее расстояние Луны от Земли 384 400 км; сидерический (звёздный) период обращения Луны 27.321662 сут; синодический период обращения 29.530589 сут.",
+     "orig_lang": "ru"
     },
     {
      "day": 1,
      "number": 2,
      "problem": "At latitude $23.5^\\circ$ two stars at upper culmination are located symmetrically with respect to the zenith. Both stars set. At what minimum altitude can the lower culmination of these stars take place (down to what minimum altitude can the star that sinks lower descend)? Accompany the solution with a drawing.",
-     "paper_label": "Theoretical round (grades 8–9)"
+     "paper_label": "Theoretical round (grades 8–9)",
+     "problem_orig": "Две звезды на широте $23.5^\\circ$ в верхней кульминации располагаются симметрично относительно зенита. Обе звезды заходящие. На какой минимальной высоте может происходить нижняя кульминация этих звёзд (до какой минимальной высоты может опуститься та из звёзд, которая опускается ниже)? Решение сопроводите чертежом.",
+     "orig_lang": "ru"
     },
     {
      "day": 1,
      "number": 3,
      "problem": "A steamship left Naples on 26 February 1900 and arrived in Novorossiysk on 20 February 1900. After spending 5 days in Novorossiysk, the steamship set off back to Naples. Determine the date that will be on the calendar of the head of the port of Naples at the moment of the ship's return, if both voyages took the same time. Determine the average speed of the steamship in kilometres per hour, if it was at sea for a whole number of days. The distance travelled by the ship from Naples to Novorossiysk is 2880 km.",
-     "paper_label": "Theoretical round (grades 8–9)"
+     "paper_label": "Theoretical round (grades 8–9)",
+     "problem_orig": "Пароход отправился из Неаполя 26 февраля 1900 года и прибыл в Новороссийск 20 февраля 1900 года. Проведя в Новороссийске 5 дней пароход отправился обратно в Неаполь. Определите дату, которая будет на календаре начальника неаполитанского порта в момент возвращения парохода, если оба путешествия заняли одинаковое время. Определите среднюю скорость парохода в километрах в час, если он находился в плавании целое число суток. Расстояние, пройденное пароходом от Неаполя до Новороссийска, равно 2880 км.",
+     "orig_lang": "ru"
     },
     {
      "day": 1,
      "number": 4,
      "problem": "Can the following take place in the same month:\n\na) occultations of Aldebaran and Regulus by the Moon;\n\nb) occultations of Aldebaran and Antares by the Moon;\n\nc) occultations of Antares and Regulus by the Moon?\n\nJustify the answer mathematically.\n\n$$\\begin{array}{|l|c|c|}\n\\hline\n\\text{Star} & \\text{Ecliptic longitude} & \\text{Ecliptic latitude} \\\\\n\\hline\n\\text{Aldebaran} & 4^\\mathrm{h}39^\\mathrm{m} & -5^\\circ 28' \\\\\n\\text{Antares} & 16^\\mathrm{h}39^\\mathrm{m} & -4^\\circ 34' \\\\\n\\text{Regulus} & 9^\\mathrm{h}56^\\mathrm{m} & 0^\\circ 27' \\\\\n\\hline\n\\end{array}$$",
-     "paper_label": "Theoretical round (grades 8–9)"
+     "paper_label": "Theoretical round (grades 8–9)",
+     "problem_orig": "Могут ли произойти в один и тот же месяц:\n\nа) покрытия Луной Альдебарана и Регула;\n\nб) покрытия Луной Альдебарана и Антареса;\n\nв) покрытия Луной Антареса и Регула?\n\nОтвет обоснуйте математически.\n\n$$\\begin{array}{|l|c|c|}\n\\hline\n\\text{Звезда} & \\text{Эклиптическая долгота} & \\text{Эклиптическая широта} \\\\\n\\hline\n\\text{Альдебаран} & 4^\\mathrm{h}39^\\mathrm{m} & -5^\\circ 28' \\\\\n\\text{Антарес} & 16^\\mathrm{h}39^\\mathrm{m} & -4^\\circ 34' \\\\\n\\text{Регул} & 9^\\mathrm{h}56^\\mathrm{m} & 0^\\circ 27' \\\\\n\\hline\n\\end{array}$$",
+     "orig_lang": "ru"
     },
     {
      "day": 1,
      "number": 5,
      "problem": "After a gravity-assist manoeuvre near Jupiter, the probe \"Ulysses\", designed to study the solar magnetosphere, headed towards the Sun along an energy-efficient (Hohmann) trajectory on a heliocentric orbit perpendicular to the plane of the ecliptic, with a period of 6.2 years. At what height did it fly over the north pole of the Sun? Neglect the inclination of the Sun's rotation axis to the axis of the ecliptic.",
-     "paper_label": "Theoretical round (grades 8–9)"
+     "paper_label": "Theoretical round (grades 8–9)",
+     "problem_orig": "После гравитационного маневра около Юпитера зонд «Улисс», предназначенный для изучения солнечной магнитосферы, направился к Солнцу по энергетически выгодной (гомановской) траектории по гелиоцентрической орбите, перпендикулярной плоскости эклиптики, с периодом 6.2 года. На какой высоте он пролетел над северным полюсом Солнца? Наклоном оси вращения Солнца к оси эклиптики пренебречь.",
+     "orig_lang": "ru"
     },
     {
      "day": 1,
      "number": 6,
      "problem": "In the twenties of December the Sun is in the sky near the well-known Messier objects M8 and M20. The figure shows a fragment of a chart (the image is not inverted; the direction to the north celestial pole is shown by the arrow) on which the positions of the Sun and Mercury (shown by a cross) are drawn. Which of these objects do you think will be the first to cross, with its centre, the line joining the centres of the nebulae: the Sun or Mercury? After how much time will the first crossing take place? Justify your answers.\n\nReference data (from the paper): Mercury: semi-major axis 0.3871 AU (57.9 million km), eccentricity 0.2056, inclination to the ecliptic $7.004^\\circ$, orbital period 87.97 days, synodic period 115.9 days.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2018-g89-q6.png",
-     "paper_label": "Theoretical round (grades 8–9)"
+     "paper_label": "Theoretical round (grades 8–9)",
+     "problem_orig": "В 20-ых числах декабря Солнце находится на небе рядом с известными объектами Мессье – М8 и М20. На рисунке представлен фрагмент карты (изображение не перевёрнутое, направление на северный полюс Мира указано стрелкой) с нарисованным на ней положением Солнца и Меркурия (оно показано крестиком). Как Вы думаете, центр какого из этих объектов раньше пересечёт линию, соединяющую центры туманностей – Солнца или Меркурия? Через сколько времени произойдёт первое пересечение? Ответы обоснуйте.\n\nСправочные данные (из условия): Меркурий: большая полуось 0,3871 а. е. (57,9 млн км), эксцентриситет 0,2056, наклон к плоскости эклиптики $7{,}004^\\circ$, период обращения 87,97 суток, синодический период 115,9 суток.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2018-g89-q6.png",
+     "orig_lang": "ru"
     },
     {
      "day": 2,
      "number": 1,
      "problem": "A sailor on the deck of a ship, which is 4 m above sea level, sees a star exactly on the horizon. At what altitude above or below the visible horizon does a sailor standing on a platform fixed to the mast at a height of 25 m above sea level see the same star? Take the height of a person to be 2 metres. Neglect refraction.",
-     "paper_label": "Theoretical round (grades 10–11)"
+     "paper_label": "Theoretical round (grades 10–11)",
+     "problem_orig": "Матрос, находящийся на палубе корабля, расположенной на высоте 4 м над уровнем моря, видит звезду точно на горизонте. На какой высоте над/под видимым горизонтом видит эту же звезду матрос, стоящий на площадке, закреплённой на мачте на высоте 25 м над уровнем моря? Считать, что рост человека 2 метра. Рефракцией пренебречь.",
+     "orig_lang": "ru"
     },
     {
      "day": 2,
      "number": 2,
      "problem": "On the evening of 1 July a ship approached the International Date Line and crossed it at exactly 23 o'clock (by the time of the zone it was in before that moment). What date and time should be set on the ship?",
-     "paper_label": "Theoretical round (grades 10–11)"
+     "paper_label": "Theoretical round (grades 10–11)",
+     "problem_orig": "Вечером 1 июля корабль подошёл к линии перемены дат и пересёк её ровно в 23 часа (по времени того пояса, в котором он был до этого момента). Какое число и время нужно установить на корабле?",
+     "orig_lang": "ru"
     },
     {
      "day": 2,
      "number": 3,
      "problem": "On 15 January 2016 a transit of the ISS across the disc of Saturn could be observed on the Earth. Estimate the duration of this phenomenon and the width of the strip in which it could be observed, provided that Saturn was near the zenith at that moment. The characteristic size of the ISS is 50 m. The orbital altitude is about 400 km.\n\nReference data (from the paper): Saturn: semi-major axis 9.5388 AU, radius 60 268 km.",
-     "paper_label": "Theoretical round (grades 10–11)"
+     "paper_label": "Theoretical round (grades 10–11)",
+     "problem_orig": "15 января 2016 г. на Земле можно было наблюдать прохождение МКС по диску Сатурна. Оцените длительность этого явления и ширину полосы, в которой можно было наблюдать его, при условии, что Сатурн находился в этот момент близи зенита. Характерный размер МКС – 50 м. Высота орбиты около 400 км.\n\nСправочные данные (из условия): Сатурн: большая полуось 9,5388 а. е., радиус 60 268 км.",
+     "orig_lang": "ru"
     },
     {
      "day": 2,
      "number": 4,
      "problem": "In radio astronomy the jansky is widely used as the unit of spectral flux density: $1\\ \\mathrm{Jy} = 10^{-26}\\ \\mathrm{W\\,m^{-2}\\,Hz^{-1}}$. Determine, in janskys, the flux density from a star of magnitude $0^\\mathrm{m}$ at a wavelength of 550 nm. It is known that $10^{4}$ quanta $\\mathrm{cm^{-2}\\,s^{-1}\\,nm^{-1}}$ reach the observer from a star of magnitude $0^\\mathrm{m}$. For a star of what magnitude will the flux density be 1 Jy?",
-     "paper_label": "Theoretical round (grades 10–11)"
+     "paper_label": "Theoretical round (grades 10–11)",
+     "problem_orig": "В радиоастрономии для измерения спектральной плотности потока излучения широко применима единица янский. $1\\ \\text{Ян} = 10^{-26}\\ \\text{Вт}\\,\\text{м}^{-2}\\,\\text{Гц}^{-1}$. Определите в янских плотность потока энергии от звезды 0-й звездной величины на длине волны 550 нм. Известно, что от звезды $0^\\mathrm{m}$ до наблюдателя доходит $10^{4}$ квантов$\\cdot\\text{см}^{-2}\\cdot\\text{с}^{-1}\\cdot\\text{нм}^{-1}$. От звезды какой звездной величины плотность потока излучения будет 1 Ян?",
+     "orig_lang": "ru"
     },
     {
      "day": 2,
      "number": 5,
      "problem": "Two nights were allocated for observing an object with a large telescope. On the first night the image quality (diameter of the seeing disc) was $1.5''$ and the transparency $0.2^\\mathrm{m}$, and on the second night $0.5''$ and $0.3^\\mathrm{m}$. Compare the times required for photometric measurements of a point object with a given signal-to-noise ratio. The brightness of the object outside the atmosphere is equal to the sky background from $1''$. Consider the sky background itself to be constant. Assume that the detector registers all the incoming radiation and that there is no absorption in the optical system of the telescope.\n\nThe signal-to-noise ratio is given by\n$$\\epsilon = \\frac{N_\\mathrm{s}}{\\sqrt{N_\\mathrm{s} + 2N_\\mathrm{bg}}},$$\nwhere $N_\\mathrm{s}$ and $N_\\mathrm{bg}$ are the numbers of quanta from the source and from the background, respectively, received by the detector.",
-     "paper_label": "Theoretical round (grades 10–11)"
+     "paper_label": "Theoretical round (grades 10–11)",
+     "problem_orig": "Для наблюдения объекта на крупном телескопе было выделено две ночи: в первую ночь качество изображения (диаметр кружка рассеяния) составило $1.5''$, прозрачность $0.2^\\mathrm{m}$, а во вторую – $0.5''$, прозрачность $0.3^\\mathrm{m}$. Сравните время, требуемое для фотометрических измерений точечного объекта с заданным соотношением сигнал-шум. Внеатмосферный блеск объекта равен фону неба с $1''$. Сам фон неба считать постоянным. Считать, что приёмник регистрирует всё приходящее излучение, а поглощения в оптической системе телескопа отсутствует.\n\nОтношение сигнал/шум задаётся величиной\n$$\\epsilon = \\frac{N_\\mathrm{s}}{\\sqrt{N_\\mathrm{s} + 2N_\\mathrm{bg}}},$$\nгде $N_\\mathrm{s}$ и $N_\\mathrm{bg}$ – число квантов от источника и от фона соответственно, принятых приёмником.",
+     "orig_lang": "ru"
     },
     {
      "day": 2,
      "number": 6,
      "problem": "A non-rotating star of mass $M = 10\\,M_0$ and radius $R = 5\\,R_0$ is spun up about its axis and becomes an ellipsoid of revolution. Find:\n\n1) the critical ratio of the semi-axes of the ellipsoid at which the star begins to break up because of its fast rotation;\n\n2) the maximum possible linear rotational velocity at the equator;\n\n3) the minimum rotation period of the star about its axis.\n\nAssume that the matter of the star is concentrated at the centre (the mass of the envelope and the distribution of matter in it can be neglected), while the volume of the star remains constant. The volume of an ellipsoid of revolution is $(4/3)\\pi a^2 b$, where $b$ is the semi-axis about which the rotation takes place.",
-     "paper_label": "Theoretical round (grades 10–11)"
+     "paper_label": "Theoretical round (grades 10–11)",
+     "problem_orig": "Невращающаяся звезда с массой $M = 10\\,M_0$ и радиусом $R = 5\\,R_0$ раскручивается вокруг своей оси и становится эллипсоидом вращения. Найдите:\n\n1) критическое отношение полуосей эллипсоида, при котором звезда начинает разрушаться из-за своего быстрого вращения;\n\n2) максимально возможную линейную скорость вращения на экваторе;\n\n3) минимальный период обращения звезды вокруг своей оси.\n\nСчитать, что вещество звезды сосредоточено в центре (массой оболочки и распределением вещества в ней можно пренебречь), при этом объём звезды остаётся постоянным. Объём эллипсоида вращения равен $(4/3)\\pi a^2 b$, где $b$ – полуось, вокруг которой происходит вращение.",
+     "orig_lang": "ru"
     },
     {
      "day": 2,
      "number": 7,
      "problem": "The figure shows the light curve of a binary star obtained in the V filter. Knowing that the eclipses in the system are central, that one of the components of the binary has spectral class A0 and the other G2, and that both components are main-sequence stars, construct the curve of the variation of the colour index B−V of this system. Direct the vertical axis of your graph upwards, mark the divisions and put the corresponding values of the colour index. For a G2V star $(B-V) = 0.65$.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2018-g1011-q7.png",
-     "paper_label": "Theoretical round (grades 10–11)"
+     "paper_label": "Theoretical round (grades 10–11)",
+     "problem_orig": "На рисунке представлена кривая блеска двойной звезды, полученная в фильтре V. Зная, что затмения в системе центральные, один из компонентов двойной имеет спектральный класс A0, а второй – G2, и оба компонента являются звёздами главной последовательности, постройте кривую изменения показателя цвета B-V этой системы. Ось ординат Вашего графика направьте вверх, нанесите деления и поставьте соответствующие значения показателей цвета. Для звезды G2V $(B-V) = 0.65$.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2018-g1011-q7.png",
+     "orig_lang": "ru"
     },
     {
      "day": 2,
      "number": 8,
      "problem": "You are given a chart of the starry sky on a planet in a distant galaxy in stereographic projection. The field of the chart is exactly half of the celestial sphere, visible at a given moment from some point of the planet. The stereographic projection of a point A onto the plane is the point B, the intersection of the line O′A with this plane (see the figure). O is the centre of the chart; O′ is the point diametrically opposite to the centre.\n\n1) Three brightest stars are clearly visible on the chart. Determine their altitudes above the horizon at the moment of observation.\n\n2) Calculate the pairwise angular distances between these stars.\n\n3) What can you say about the type of this distant galaxy?\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2018-g1011-q8-1.png\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2018-g1011-q8-2.png",
-     "paper_label": "Theoretical round (grades 10–11)"
+     "paper_label": "Theoretical round (grades 10–11)",
+     "problem_orig": "Вам дана карта звёздного неба на планете в далёкой галактике в стереографической проекции. Поле зрения карты - ровно половина небесной сферы, видимая в данный момент с какой-то точки планеты. Стереографической проекцией точки A на плоскость является точка B – пересечение прямой O′A с этой плоскостью (см. рисунок). O – центр карты. O′ – точка, диаметрально противоположная центру.\n\n1) На карте отчётливо видно три наиболее яркие звезды. Определите их высоты над горизонтом в момент наблюдения.\n\n2) Вычислите попарные угловые расстояния между этими звёздами.\n\n3) Что Вы можете сказать о типе этой далёкой галактики?\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2018-g1011-q8-1.png\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2018-g1011-q8-2.png",
+     "orig_lang": "ru"
     }
    ]
   },
@@ -192,85 +250,113 @@
      "day": 1,
      "number": 1,
      "problem": "Two school friends decided to find the maximum distance between points on the surface of the Earth where the Sun (the Moon) can be at the zenith. Help them with a drawing and calculations. What will this distance be for the star Capella ($5^\\mathrm{h}17^\\mathrm{m}$, $46^\\circ$)? The distance is measured along the surface of the Earth.",
-     "paper_label": "Theoretical round (grades 8–9)"
+     "paper_label": "Theoretical round (grades 8–9)",
+     "problem_orig": "Два школьных приятеля решили найти максимальное расстояние между точками на поверхности Земли, где Солнце (Луна) бывает в зените. Помогите ребятам с рисунком и вычислениями. Чему будет равно такое расстояние для звезды Капелла ($5^\\mathrm{h}17^\\mathrm{m}$, $46^\\circ$)? Расстояние измеряется вдоль земной поверхности.",
+     "orig_lang": "ru"
     },
     {
      "day": 1,
      "number": 2,
      "problem": "The equatorial coordinates of the Lagoon Nebula M8 are now $18^\\mathrm{h}03^\\mathrm{m}$ and $-24.5^\\circ$. Estimate its present ecliptic coordinates. Determine the maximum declination this nebula will have during the next 26 000 years. After how much time will this happen?",
-     "paper_label": "Theoretical round (grades 8–9)"
+     "paper_label": "Theoretical round (grades 8–9)",
+     "problem_orig": "Экваториальные координаты туманности M8 «Лагуна» сейчас $18^\\mathrm{h}03^\\mathrm{m}$ и $-24{,}5^\\circ$. Оцените её текущие эклиптические координаты. Определите, какое максимальное склонение будет иметь эта туманность в течение ближайших 26000 лет? Через какое время это произойдёт?",
+     "orig_lang": "ru"
     },
     {
      "day": 1,
      "number": 3,
      "problem": "An astronomer wants to take a magnifying glass on a hike for lighting a fire. One lens has a focal length of 20 cm and a diameter of 5 cm, and the other a focal length of 50 cm and a diameter of 10 cm. With which of them will it be easier to set fire to a thin wooden stick? By what factor will the ignition times differ, if heat losses of the stick and the aberrations of the lenses are neglected?",
-     "paper_label": "Theoretical round (grades 8–9)"
+     "paper_label": "Theoretical round (grades 8–9)",
+     "problem_orig": "Астроном хочет взять с собой в поход лупу для разведения огня. У одной линзы фокусное расстояние 20 см и диаметр 5 см, а у другой – фокусное расстояние 50 см, а диаметр 10 см. Какой из них будет легче поджечь тонкую деревянную палочку? Во сколько раз будет отличаться время поджига, если пренебречь потерями тепла палочкой и аберрациями линз?",
+     "orig_lang": "ru"
     },
     {
      "day": 1,
      "number": 4,
      "problem": "A signal from a spacecraft orbiting Venus reached the mission control centre 300 seconds after it was sent. What is the phase of Venus as seen from the Earth? The radius of the orbit of Venus is 0.723 AU. Consider all orbits to be circular.",
-     "paper_label": "Theoretical round (grades 8–9)"
+     "paper_label": "Theoretical round (grades 8–9)",
+     "problem_orig": "Сигнал от космического аппарата, летающего вокруг Венеры, пришёл в центр управления полётами через 300 секунд после того, как был отправлен. Чему равна фаза Венеры, наблюдаемая с Земли? Радиус орбиты Венеры равен 0,723 а. е. Все орбиты считать круговыми.",
+     "orig_lang": "ru"
     },
     {
      "day": 1,
      "number": 5,
      "problem": "Oppositions of Mars and Saturn occurred on the same day. Which planet will reach its next opposition earlier? What will the angular distance between Mars and Saturn be at the next opposition of Mars? Will Saturn be seen to the west or to the east of Mars? The radius of the orbit of Mars is 1.524 AU and that of Saturn 9.583 AU. Consider the orbits of the planets to be circular and to lie in the same plane.",
-     "paper_label": "Theoretical round (grades 8–9)"
+     "paper_label": "Theoretical round (grades 8–9)",
+     "problem_orig": "Противостояние Марса и Сатурна случилось в один день. Какая планета окажется в следующем противостоянии раньше? Какое угловое расстояние будет между Марсом и Сатурном во время следующего противостояния Марса? К западу или к востоку от Марса будет наблюдаться Сатурн? Радиус орбиты Марса равен 1,524 а. е., Сатурна – 9.583 а. е. Орбиты планет считать круговыми и лежащими в одной плоскости.",
+     "orig_lang": "ru"
     },
     {
      "day": 1,
      "number": 6,
      "problem": "The tower of the BTA telescope has a base diameter $D = 45$ metres and a dome height $H = 53$ metres. The BTA is located at the Special Astrophysical Observatory and has the coordinates $43^\\circ 39'$ N, $41^\\circ 26'$ E. At what distance from the foot of the tower did the photographer set up the camera to take this photograph? Give the answer in metres, rounded to whole numbers. Identify at least one star in the image. Mark it on the image or describe the position of the star in the text. The tower may be considered as a hemisphere placed on a cylindrical base.\n\nDeclinations of some stars:\n$$\\begin{array}{|l|c|l|c|}\n\\hline\n\\text{Star} & \\text{Declination} & \\text{Star} & \\text{Declination} \\\\\n\\hline\n\\text{Alioth } (\\varepsilon\\ \\text{UMa}) & 56.0^\\circ & \\text{Kochab } (\\beta\\ \\text{UMi}) & 74.8^\\circ \\\\\n\\text{Albireo } (\\beta\\ \\text{Cyg}) & 28.0^\\circ & \\text{Menkalinan } (\\beta\\ \\text{Aur}) & 44.9^\\circ \\\\\n\\text{Alderamin } (\\alpha\\ \\text{Cep}) & 62.6^\\circ & \\text{Polaris } (\\alpha\\ \\text{UMi}) & 89.3^\\circ \\\\\n\\text{Vega } (\\alpha\\ \\text{Lyr}) & 38.8^\\circ & \\text{Sadr } (\\gamma\\ \\text{Cyg}) & 40.3^\\circ \\\\\n\\text{Deneb } (\\alpha\\ \\text{Cyg}) & 45.3^\\circ & \\text{Talitha Borealis } (\\iota\\ \\text{UMa}) & 48.0^\\circ \\\\\n\\text{Dubhe } (\\alpha\\ \\text{UMa}) & 61.8^\\circ & \\text{Schedar } (\\alpha\\ \\text{Cas}) & 56.5^\\circ \\\\\n\\text{Capella } (\\alpha\\ \\text{Aur}) & 46.0^\\circ & \\text{Eltanin } (\\gamma\\ \\text{Dra}) & 51.5^\\circ \\\\\n\\hline\n\\end{array}$$\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2019-g89-q6.png",
-     "paper_label": "Theoretical round (grades 8–9)"
+     "paper_label": "Theoretical round (grades 8–9)",
+     "problem_orig": "Башня телескопа БТА имеет диаметр основания $D = 45$ метров и высоту купола $H = 53$ метра. БТА расположен в Специальной Астрофизической Обсерватории и имеет координаты $43^\\circ 39'$ с. ш. $41^\\circ 26'$ в. д. На каком расстоянии от подножья башни фотограф установил свой фотоаппарат, чтобы сделать это фото? Ответ дайте в метрах, округлённых до целых. Отождествите на изображении хотя бы одну звезду. Отметьте её на изображении или опишите положение звезды в тексте. Можно считать, что башня имеет вид полусферы, установленной на цилиндрическое основание.\n\nСклонения некоторых звёзд:\n$$\\begin{array}{|l|c|l|c|}\n\\hline\n\\text{Звезда} & \\text{Склонение} & \\text{Звезда} & \\text{Склонение} \\\\\n\\hline\n\\text{Алиот } (\\varepsilon\\ \\text{UMa}) & 56{,}0^\\circ & \\text{Кохаб } (\\beta\\ \\text{UMi}) & 74{,}8^\\circ \\\\\n\\text{Альбирео } (\\beta\\ \\text{Cyg}) & 28{,}0^\\circ & \\text{Менкалинан } (\\beta\\ \\text{Aur}) & 44{,}9^\\circ \\\\\n\\text{Альдерамин } (\\alpha\\ \\text{Cep}) & 62{,}6^\\circ & \\text{Полярная } (\\alpha\\ \\text{UMi}) & 89{,}3^\\circ \\\\\n\\text{Вега } (\\alpha\\ \\text{Lyr}) & 38{,}8^\\circ & \\text{Садр } (\\gamma\\ \\text{Cyg}) & 40{,}3^\\circ \\\\\n\\text{Денеб } (\\alpha\\ \\text{Cyg}) & 45{,}3^\\circ & \\text{Талита Северная } (\\iota\\ \\text{UMa}) & 48{,}0^\\circ \\\\\n\\text{Дубхе } (\\alpha\\ \\text{UMa}) & 61{,}8^\\circ & \\text{Шедар } (\\alpha\\ \\text{Cas}) & 56{,}5^\\circ \\\\\n\\text{Капелла } (\\alpha\\ \\text{Aur}) & 46{,}0^\\circ & \\text{Этамин } (\\gamma\\ \\text{Dra}) & 51{,}5^\\circ \\\\\n\\hline\n\\end{array}$$\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2019-g89-q6.png",
+     "orig_lang": "ru"
     },
     {
      "day": 2,
      "number": 1,
      "problem": "Two stars that are neighbours in the sky have the same brightness of $6^\\mathrm{m}$ when observed with the naked eye, but when observed with large binoculars the first star looks brighter than the second. Which of the stars has the higher temperature? Neglect interstellar and atmospheric absorption of light.",
-     "paper_label": "Theoretical round (grades 10–11)"
+     "paper_label": "Theoretical round (grades 10–11)",
+     "problem_orig": "Две соседние на небе звезды при наблюдении невооружённым глазом имеют одинаковый блеск $6^\\mathrm{m}$, а при наблюдении в крупный бинокль первая звезда выглядит ярче второй. Какая из звёзд имеет большую температуру? Межзвёздным и атмосферным поглощением света пренебречь.",
+     "orig_lang": "ru"
     },
     {
      "day": 2,
      "number": 2,
      "problem": "Sometimes in souvenir shops one can find an unusual gift: a can of preserved air, for example of some city. Estimate by what factor the net mass (i.e. without the packaging) of such a can of volume $V = 0.3$ L with ordinary air is larger than the mass of the same can with gas taken from the photosphere of the Sun ($T = 6000$ K, $p = 0.1$ atm, chemical composition: H 75%, He 25%). Assume that the matter of the photosphere is not ionised. The density of air $\\rho_0$ is $1.225\\ \\mathrm{kg/m^3}$.",
-     "paper_label": "Theoretical round (grades 10–11)"
+     "paper_label": "Theoretical round (grades 10–11)",
+     "problem_orig": "Иногда в сувенирных магазинах можно найти необычный подарок – банку с законсервированным воздухом, например, какого-нибудь города. Оцените, во сколько раз масса нетто (т. е. без упаковки) такой банки объёмом $V = 0{,}3$ л с обычным воздухом будет больше массы такой же банки с газом, взятым из фотосферы Солнца ($T = 6000$ K, $p = 0{,}1$ атм, хим. состав: H 75%, He 25%). Считать, что вещество фотосферы не ионизовано. Плотность воздуха $\\rho_0$ равна $1{,}225\\ \\text{кг/м}^3$.",
+     "orig_lang": "ru"
     },
     {
      "day": 2,
      "number": 3,
      "problem": "Two galaxies are $20^\\circ$ apart in the sky and have redshifts 0.001 and 0.002, respectively. Estimate the magnitude and the redshift of one galaxy as observed from the other, assuming that these are typical spiral galaxies similar to the Milky Way. Take the Hubble constant to be 70 km/s/Mpc.",
-     "paper_label": "Theoretical round (grades 10–11)"
+     "paper_label": "Theoretical round (grades 10–11)",
+     "problem_orig": "Две галактики расположены на расстоянии $20^\\circ$ друг от друга на небе и имеют красные смещения 0.001 и 0.002 соответственно. Оцените звёздную величину и красное смещение одной галактики при наблюдении с другой, считая, что это типичные спиральные галактики, подобные Млечному Пути. Постоянную Хаббла считать равной 70 км/с/Мпк.",
+     "orig_lang": "ru"
     },
     {
      "day": 2,
      "number": 4,
      "problem": "In 2019 the following events have already happened or will happen:\n\n- 21 January: a total lunar eclipse, during which the Moon crossed the northern part of the Earth's shadow shortly after passing a node of its orbit;\n- 5 February: an occultation of Mercury by the Moon;\n- 11 April: Mercury will be at greatest western elongation at an angular distance of $27^\\circ 43'$;\n- 11 November: a transit of Mercury across the disc of the Sun.\n\nFrom these data determine:\n\n1) Near which configuration was Mercury on 5 February?\n\n2) Where will it be on 11 April with respect to the celestial equator, north or south of it?\n\n3) Will it be north or south of the ecliptic on 11 April?\n\nThe semi-major axis of the orbit of Mercury is 0.387 AU, the eccentricity 0.2, the orbital inclination $7^\\circ$.",
-     "paper_label": "Theoretical round (grades 10–11)"
+     "paper_label": "Theoretical round (grades 10–11)",
+     "problem_orig": "В 2019 году уже произошли или произойдут следующие события:\n\n- 21 января – полное лунное затмение, во время которого Луна пересекла северную часть земной тени вскоре после прохождения узла своей орбиты;\n- 5 февраля – покрытие Меркурия Луной;\n- 11 апреля – Меркурий окажется в максимальной западной элонгации на угловом расстоянии $27^\\circ 43'$;\n- 11 ноября – прохождение Меркурия по диску Солнца.\n\nИсходя из этих данных определите:\n\n1) Вблизи какой конфигурации находился Меркурий 5 февраля?\n\n2) Как он будет располагаться 11 апреля относительно небесного экватора, севернее или южнее?\n\n3) Севернее или южнее эклиптики он окажется 11 апреля?\n\nБольшая полуось орбиты Меркурия равна 0,387 а. е., эксцентриситет – 0,2. Наклонение орбиты – $7^\\circ$.",
+     "orig_lang": "ru"
     },
     {
      "day": 2,
      "number": 5,
      "problem": "The International Space Station (ISS) moves in a circular orbit at an altitude $H = 415$ km, whose plane is inclined to the plane of the Earth's equator at an angle $i_0 = 51^\\circ$. At the moment when the ISS reached the northernmost point of its orbit, it was given an impulse that changed its orbit so that the station could be observed from any point of the Earth. Determine the magnitude and direction of the minimum impulse (relative to the previous direction of the velocity), if the orbit remained circular. The mass of the ISS is $m = 4.2\\cdot10^{5}$ kg.",
-     "paper_label": "Theoretical round (grades 10–11)"
+     "paper_label": "Theoretical round (grades 10–11)",
+     "problem_orig": "Международная космическая станция (МКС) движется по круговой орбите высотой $H = 415$ км, плоскость которой наклонена к плоскости земного экватора на угол $i_0 = 51^\\circ$. В тот момент, когда МКС достигла самой северной точки орбиты, ей был сообщён импульс, изменивший её орбиту так, что станцию стало возможным наблюдать из любой точки Земли. Определите величину и направление минимального импульса (относительно предыдущего направления скорости), если орбита осталась круговой. Масса МКС $m = 4{,}2\\cdot10^{5}$ кг.",
+     "orig_lang": "ru"
     },
     {
      "day": 2,
      "number": 6,
      "problem": "A star of apparent magnitude $m = 14^\\mathrm{m}$ is located at the point with galactic coordinates $l = 180^\\circ$, $b = 0^\\circ$. Its absolute magnitude is $H = 3.4^\\mathrm{m}$. How many revolutions around the centre of the Galaxy has it made during its whole life? Assume that very little hydrogen is left in its interior. Take the distance from the centre of the Galaxy to the Sun to be $R_0 = 8.2$ kpc. Take the mass of the Galaxy within such a radius to be of the order of $10^{11}\\,M_\\odot$.",
-     "paper_label": "Theoretical round (grades 10–11)"
+     "paper_label": "Theoretical round (grades 10–11)",
+     "problem_orig": "Звезда с видимой звёздной величиной $m = 14^\\mathrm{m}$ находится в точке с галактическими координатами $l = 180^\\circ$, $b = 0^\\circ$. Её абсолютная звёздная величина $H = 3.4^\\mathrm{m}$. Сколько оборотов вокруг центра Галактики она совершила за всю свою жизнь? Считать, что в её недрах водорода осталось уже очень мало. Расстояние от центра Галактики до Солнца принять равным $R_0 = 8.2$ кпк. Массу Галактики внутри такого радиуса принять порядка $10^{11}\\,M_\\odot$.",
+     "orig_lang": "ru"
     },
     {
      "day": 2,
      "number": 7,
      "problem": "While at the Caucasus Mountain Observatory of Moscow State University ($43^\\circ 44'10''$ N, $42^\\circ 40'03''$ E, height above sea level $h = 2061$ m), an astronomer took a long-exposure photograph of Mount Elbrus. On the photograph he was able to identify the trails of the brightest stars of the constellation Eridanus:\n\n1) Theemin ($\\upsilon^2$ Eri): $\\alpha = 4^\\mathrm{h}35^\\mathrm{m}18^\\mathrm{s}$, $\\delta = -30^\\circ 31'31''$;\n\n2) Timim (Beemim II, $\\upsilon^3$ Eri): $\\alpha = 4^\\mathrm{h}24^\\mathrm{m}46^\\mathrm{s}$, $\\delta = -33^\\circ 58'27''$;\n\n3) Beemim I ($\\upsilon^4$ Eri): $\\alpha = 4^\\mathrm{h}18^\\mathrm{m}38^\\mathrm{s}$, $\\delta = -33^\\circ 45'12''$.\n\nAssuming that the lower edge of the photograph corresponds to the position of the mathematical horizon, estimate the height of the western summit of Mount Elbrus above sea level. The geographical coordinates of the western summit are $43^\\circ 20'45''$ N, $42^\\circ 26'55''$ E. The solution must state which of the summits is the western one.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2019-g1011-q7.png",
-     "paper_label": "Theoretical round (grades 10–11)"
+     "paper_label": "Theoretical round (grades 10–11)",
+     "problem_orig": "Находясь в Кавказской горной обсерватории МГУ ($43^\\circ 44'10''$ с. ш., $42^\\circ 40'03''$ в. д., высота над уровнем моря $h = 2061$ м) астроном сделал фотографию Эльбруса с длительной экспозицией. На полученной фотографии он смог отождествить треки наиболее ярких звёзд созвездия Эридан:\n\n1) Тхеемин ($\\upsilon^2$ Eri): $\\alpha = 4^\\mathrm{h}35^\\mathrm{m}18^\\mathrm{s}$, $\\delta = -30^\\circ 31'31''$;\n\n2) Тимим (Беемин II, $\\upsilon^3$ Eri): $\\alpha = 4^\\mathrm{h}24^\\mathrm{m}46^\\mathrm{s}$, $\\delta = -33^\\circ 58'27''$;\n\n3) Беемин I ($\\upsilon^4$ Eri): $\\alpha = 4^\\mathrm{h}18^\\mathrm{m}38^\\mathrm{s}$, $\\delta = -33^\\circ 45'12''$.\n\nСчитая, что нижняя сторона фотографии соответствует положению математического горизонта, оцените высоту западной вершины г. Эльбрус над уровнем моря. Географические координаты западной вершины: $43^\\circ 20'45''$ с. ш., $42^\\circ 26'55''$ в. д. В решении обязательно необходимо указать, какая именно из вершин является западной.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2019-g1011-q7.png",
+     "orig_lang": "ru"
     },
     {
      "day": 2,
      "number": 8,
      "problem": "Here is how William Huggins, in a note of 1878 (an excerpt from it in the original language is given below for reference), describes the first observations of stars in the infrared ever made, carried out with a bolometer: \"the amount of heat received from Arcturus, observed at an altitude of 25 degrees, turned out to be the same as is observed at a distance of 360 m from a [blackened] metal cube with an edge of 76 mm filled with boiling water\". Confirm or refute this statement by calculation, if it is known that the magnitude of Arcturus in the infrared is $-3^\\mathrm{m}$. The figures give the energy distribution in the spectrum of Vega outside the Earth's atmosphere and the transmission curve of the Earth's atmosphere in the infrared.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2019-g1011-q8-1.png\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2019-g1011-q8-2.png\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2019-g1011-q8-3.png",
-     "paper_label": "Theoretical round (grades 10–11)"
+     "paper_label": "Theoretical round (grades 10–11)",
+     "problem_orig": "Вот как Уильям Хаггинс в заметке 1878 г. (отрывок из неё на языке оригинала для справки приведён ниже) описывает первые в истории наблюдения звёзд в инфракрасном диапазоне, проведённые с помощью болометра: «количество тепла, полученное от Арктура, наблюдавшегося на высоте 25 градусов, оказалось таким же, как наблюдается с расстояния 360 м от заполненного кипящей водой [зачернённого] металлического куба с ребром 76 мм». Подтвердите или опровергните это высказывание расчётами, если известно, что звёздная величина Арктура в инфракрасном диапазоне $-3^\\mathrm{m}$. На рисунках дано распределение энергии в спектре Веги за пределами атмосферы Земли и кривая пропускания атмосферы Земли в ИК-диапазоне.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2019-g1011-q8-1.png\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2019-g1011-q8-2.png\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2019-g1011-q8-3.png",
+     "orig_lang": "ru"
     }
    ]
   },
