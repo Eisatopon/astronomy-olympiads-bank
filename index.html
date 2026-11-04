@@ -441,7 +441,7 @@ dialog p { color: var(--muted); font-size: .92rem; }
 @page { margin: 18mm 16mm; }
 @media print {
     body { background: #fff; }
-    .skip, .hero, .layout, .footer, dialog, noscript { display: none !important; }
+    .skip, .hero, .layout, .footer, .praise, dialog, noscript { display: none !important; }
     .ps-item { break-inside: avoid; page-break-inside: avoid; }
     .ps-head { break-after: avoid; }
     .ps-body .fig { break-inside: avoid; }
@@ -651,7 +651,7 @@ dialog p { color: var(--muted); font-size: .92rem; }
 // Local copies (python -m http.server) read the files next to the page; the published site reads the raw files.
 const BASE = /^(localhost|127\.)/.test(location.hostname) ? './' : 'https://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/';
 // Bump on every data change so browsers never mix old and new files.
-const DATA_VERSION = '20261103-moscow1';
+const DATA_VERSION = '20261104-print-praise';
 const FIRST = 1990, LAST = 2026;
 const REGIONS = [['europe', 'Europe'], ['asia', 'Asia'], ['americas', 'Americas'], ['africa', 'Africa'], ['oceania', 'Oceania'], ['world', 'World'], ['other', 'Other']];
 const REGION_OF = {
