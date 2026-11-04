@@ -2,6 +2,279 @@
  "competition": "Moscow Astronomy Olympiad (Moscow Olympiad for Schoolchildren in Astronomy), theoretical round, grades 8–11",
  "years": [
   {
+   "year": 2015,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "A planet the size of Jupiter revolves around a Sun-like star in a circular orbit whose radius is equal to the semi-major axis of the orbit of Mercury. Observers on the Earth see regular drops in the brightness of the star caused by transits of this planet across its disc. Estimate the characteristic duration of the eclipse.\n\nReference data (from the paper):\n$$\\begin{array}{|l|c|c|c|c|c|}\n\\hline\n\\text{Body} & \\text{Radius, km} & \\text{Rotation period} & \\text{Semi-major axis, AU} & \\text{Eccentricity} & \\text{Orbital period, years} \\\\\n\\hline\n\\text{Sun} & 695\\,000 & 25.380\\ \\text{d} & - & - & - \\\\\n\\text{Mercury} & 2439.7 & 58.646\\ \\text{d} & 0.3871 & 0.2056 & 0.2408 \\\\\n\\text{Venus} & 6051.8 & 243.019\\ \\text{d}^{*} & 0.7233 & 0.0068 & 0.6152 \\\\\n\\text{Earth} & 6378.1 & 23.934\\ \\text{h} & 1.000 & 0.0167 & 1 \\\\\n\\text{Mars} & 3397.2 & 24.623\\ \\text{h} & 1.523 & 0.0934 & 1.881 \\\\\n\\text{Jupiter} & 71\\,492 & 9.924\\ \\text{h} & 5.202 & 0.0483 & 11.86 \\\\\n\\text{Vesta} & 289 \\times 280 \\times 226 & 5.342\\ \\text{h} & 2.361 & 0.089 & 3.628 \\\\\n\\text{Ceres} & 487.3 & 8.074\\ \\text{h} & 2.765 & 0.0793 & 4.601 \\\\\n\\hline\n\\end{array}$$\n$^{*}$ retrograde rotation.",
+     "paper_label": "Theoretical round (grades 8–9)"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "On the surface of which terrestrial planets can a sunrise be observed? Where will it be the shortest? Estimate its duration.\n\nReference data (from the paper):\n$$\\begin{array}{|l|c|c|c|c|c|}\n\\hline\n\\text{Body} & \\text{Radius, km} & \\text{Rotation period} & \\text{Semi-major axis, AU} & \\text{Eccentricity} & \\text{Orbital period, years} \\\\\n\\hline\n\\text{Sun} & 695\\,000 & 25.380\\ \\text{d} & - & - & - \\\\\n\\text{Mercury} & 2439.7 & 58.646\\ \\text{d} & 0.3871 & 0.2056 & 0.2408 \\\\\n\\text{Venus} & 6051.8 & 243.019\\ \\text{d}^{*} & 0.7233 & 0.0068 & 0.6152 \\\\\n\\text{Earth} & 6378.1 & 23.934\\ \\text{h} & 1.000 & 0.0167 & 1 \\\\\n\\text{Mars} & 3397.2 & 24.623\\ \\text{h} & 1.523 & 0.0934 & 1.881 \\\\\n\\hline\n\\end{array}$$\n$^{*}$ retrograde rotation.",
+     "paper_label": "Theoretical round (grades 8–9)"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "A resident of the island of Kiritimati ($1^\\circ 53'$ N, $157^\\circ 24'$ W, UTC+14) decided to sail to visit his friend who lives on the island of Nuku Hiva ($8^\\circ 52'$ S, $140^\\circ 06'$ W, UTC−9.5). For this he boarded a ship which delivered him to Nuku Hiva along a straight line at a speed of 40 km/h. What day was it and what was the time on Nuku Hiva when the traveller arrived there, if he started his journey at noon on Monday? UTC is Universal Time.",
+     "paper_label": "Theoretical round (grades 8–9)"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "In February 2015 the spacecraft \"Dawn\" arrives at the last target of its journey, the dwarf planet Ceres. On the way it visited Mars and studied the asteroid Vesta for a long time. Determine how much time the spacecraft would have needed to carry out its programme if, after its encounter with Mars, it had moved only along optimal (Hohmann) ellipses. How much time would it have had for studying Vesta? Consider the orbits of Mars, Vesta and Ceres to be circular and to lie in the same plane. At the moment of departure from Mars, Ceres lagged behind Mars in its orbital motion by $140^\\circ$.\n\nReference data (from the paper):\n$$\\begin{array}{|l|c|c|c|c|c|}\n\\hline\n\\text{Body} & \\text{Radius, km} & \\text{Rotation period} & \\text{Semi-major axis, AU} & \\text{Eccentricity} & \\text{Orbital period, years} \\\\\n\\hline\n\\text{Earth} & 6378.1 & 23.934\\ \\text{h} & 1.000 & 0.0167 & 1 \\\\\n\\text{Mars} & 3397.2 & 24.623\\ \\text{h} & 1.523 & 0.0934 & 1.881 \\\\\n\\text{Vesta} & 289 \\times 280 \\times 226 & 5.342\\ \\text{h} & 2.361 & 0.089 & 3.628 \\\\\n\\text{Ceres} & 487.3 & 8.074\\ \\text{h} & 2.765 & 0.0793 & 4.601 \\\\\n\\hline\n\\end{array}$$",
+     "paper_label": "Theoretical round (grades 8–9)"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "An interstellar cloud has a size of 100 AU and a mean number density of $10^{6}\\ \\mathrm{cm^{-3}}$. The number density of water molecules in this cloud is $10^{-5}$ of the mean. A spaceship flies through this cloud along a straight line at a speed of 50 km/s. The crew decided to replenish the on-board water supply by opening a special trap 10 m in diameter outside the ship. How long will it take to collect one tonne of water with this trap? The mass of a water molecule is $3\\cdot10^{-23}$ g.",
+     "paper_label": "Theoretical round (grades 8–9)"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "problem": "In front of you is a photograph of one of the hemispheres of the Moon. Estimate the maximum angular size of the lunar mare (marked by the arrow) when observed from the orbit of Venus, from the surface of the Earth and from Mars. Can it be observed at this moment with a 150 mm telescope?\n\nReference data (from the paper): radius of the Moon 1738 km; mean distance of the Moon from the Earth 384 400 km; semi-major axes of the orbits of Venus, the Earth and Mars 0.7233, 1.000 and 1.523 AU; resolution of a telescope $R = 140/D$, where $R$ is in arcseconds when the objective diameter $D$ is in millimetres.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2015-g89-q6.png",
+     "paper_label": "Theoretical round (grades 8–9)"
+    },
+    {
+     "day": 2,
+     "number": 1,
+     "problem": "One year on a distant planet equals $T = 456.789$ of its solar days. One solar day on this planet equals $s = 20$ Earth hours, and the planet rotates about its axis in the direction opposite to its orbital motion. What is the length of the sidereal day on this planet?",
+     "paper_label": "Theoretical round (grades 10–11)"
+    },
+    {
+     "day": 2,
+     "number": 2,
+     "problem": "What should the maximum inclination of the lunar orbit be for solar eclipses to be observed on the Earth once a month? Would umbral lunar eclipses then also occur once a month at such an inclination? Consider the orbits of the Earth and the Moon to be circular.",
+     "paper_label": "Theoretical round (grades 10–11)"
+    },
+    {
+     "day": 2,
+     "number": 3,
+     "problem": "A Newtonian telescope has a primary mirror 130 mm in diameter, a focal length of 500 mm and a maximum field of view not vignetted by the tube (i.e. not shaded by the tube) of $1^\\circ$. The flat secondary (diagonal) mirror brings the focus out to a distance of 10 cm from the main optical axis of the system. Estimate by how many stellar magnitudes the received light is weakened because of the obstruction by the secondary mirror.",
+     "paper_label": "Theoretical round (grades 10–11)"
+    },
+    {
+     "day": 2,
+     "number": 4,
+     "problem": "In three months the position of a certain star changed because of parallax by $0.014''$ in declination, while in right ascension it did not change. Find the distance from the Earth to this star. The equatorial coordinates of the star are $\\delta = -66.5^\\circ$, $\\alpha = 6^\\mathrm{h}$.",
+     "paper_label": "Theoretical round (grades 10–11)"
+    },
+    {
+     "day": 2,
+     "number": 5,
+     "problem": "After watching the film \"Interstellar\" many people began to criticise it for some \"blunders\" from the point of view of physics. One of these \"blunders\" was that the main character could be near a supermassive black hole which had no effect on him, whereas, in the opinion of the critics, he should have died because of the tidal forces of the black hole. Is this so? What tidal acceleration will a person of mass 80 kg and height 180 cm experience near the event horizon of a black hole with a mass of $10^{7}$ solar masses? Assume that a person can withstand overloads of not more than $10g$ for a long time.",
+     "paper_label": "Theoretical round (grades 10–11)"
+    },
+    {
+     "day": 2,
+     "number": 6,
+     "problem": "Determine how many times larger or smaller the gravitational redshift is for the radiation of Betelgeuse than for the Sun. The mass of Betelgeuse is 17 solar masses and its radius is 800 solar radii.",
+     "paper_label": "Theoretical round (grades 10–11)"
+    },
+    {
+     "day": 2,
+     "number": 7,
+     "problem": "For another 5 billion years the Sun will shine as a main-sequence star, gradually increasing its luminosity by 10% every billion years.\n\n7.1. Determine the luminosity of the Sun before it turns into a red giant (in units of the present luminosity $L_0$).\n\n7.2. How far will the habitable zone in the Solar System shift by the end of the Sun's life? Take the present boundaries of the habitable zone to be 0.8–1.1 AU.\n\n7.3. The present mass loss of the Sun is about $5\\cdot10^{-12}$ solar masses per year. If we assume that the rate of mass loss grows in the same way as the luminosity, what fraction of its mass will the Sun lose before turning into a red giant?\n\n7.4. Compare the result obtained with the change of the mass of the Sun due to the mass defect in thermonuclear reactions.\n\nThe red-giant stage of the Sun will last for 100 million years, until the whole envelope of the star gradually dissipates and the Sun turns into a white dwarf with a mass of 0.6 of the present solar mass.\n\n7.5. Determine the rate of mass loss of the Sun (in solar masses per year) at this stage.\n\n7.6. Determine by what factor the radii of the orbits of the surviving planets have changed.",
+     "paper_label": "Theoretical round (grades 10–11)"
+    },
+    {
+     "day": 2,
+     "number": 8,
+     "problem": "Clusters of galaxies are gravitationally bound objects with a nearly spherical shape. Being gravitationally bound means that the galaxies in a cluster do not take part in the Hubble expansion but move chaotically relative to the centre of mass of the cluster. As a result, on \"right ascension – radial velocity\" maps like the one shown in the figure, clusters are strongly elongated in the direction towards the observer and have a spindle-like shape. Estimate from this map the mass of the cluster marked by the arrows. Express the answer in solar masses. Give the uncertainty of the value obtained.\n\nIn the figure the radial coordinate is the radial velocity in km/s and the angular coordinate is the right ascension in hours. Each point represents an individual galaxy.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2015-g1011-q8.png",
+     "paper_label": "Theoretical round (grades 10–11)"
+    },
+    {
+     "day": 2,
+     "number": 9,
+     "problem": "You are given a photograph of comet C/2014 Q2 (Lovejoy) and a chart of this region of the starry sky. The photograph was taken on 17 January 2015. At that time the comet was at a distance of 0.53 AU from the Earth. Determine the size of the coma and the size of the tail of the comet in kilometres. For convenience, the end of the tail is marked.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2015-g1011-q9-1.png\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2015-g1011-q9-2.png",
+     "paper_label": "Theoretical round (grades 10–11)"
+    }
+   ]
+  },
+  {
+   "year": 2018,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "How often would full moons occur if the mass of the Earth were 27 times smaller and the distance from the Earth to the Moon 4 times smaller?\n\nReference data (from the paper): mean distance of the Moon from the Earth 384 400 km; sidereal period of the Moon 27.321662 days; synodic period 29.530589 days.",
+     "paper_label": "Theoretical round (grades 8–9)"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "At latitude $23.5^\\circ$ two stars at upper culmination are located symmetrically with respect to the zenith. Both stars set. At what minimum altitude can the lower culmination of these stars take place (down to what minimum altitude can the star that sinks lower descend)? Accompany the solution with a drawing.",
+     "paper_label": "Theoretical round (grades 8–9)"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "A steamship left Naples on 26 February 1900 and arrived in Novorossiysk on 20 February 1900. After spending 5 days in Novorossiysk, the steamship set off back to Naples. Determine the date that will be on the calendar of the head of the port of Naples at the moment of the ship's return, if both voyages took the same time. Determine the average speed of the steamship in kilometres per hour, if it was at sea for a whole number of days. The distance travelled by the ship from Naples to Novorossiysk is 2880 km.",
+     "paper_label": "Theoretical round (grades 8–9)"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "Can the following take place in the same month:\n\na) occultations of Aldebaran and Regulus by the Moon;\n\nb) occultations of Aldebaran and Antares by the Moon;\n\nc) occultations of Antares and Regulus by the Moon?\n\nJustify the answer mathematically.\n\n$$\\begin{array}{|l|c|c|}\n\\hline\n\\text{Star} & \\text{Ecliptic longitude} & \\text{Ecliptic latitude} \\\\\n\\hline\n\\text{Aldebaran} & 4^\\mathrm{h}39^\\mathrm{m} & -5^\\circ 28' \\\\\n\\text{Antares} & 16^\\mathrm{h}39^\\mathrm{m} & -4^\\circ 34' \\\\\n\\text{Regulus} & 9^\\mathrm{h}56^\\mathrm{m} & 0^\\circ 27' \\\\\n\\hline\n\\end{array}$$",
+     "paper_label": "Theoretical round (grades 8–9)"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "After a gravity-assist manoeuvre near Jupiter, the probe \"Ulysses\", designed to study the solar magnetosphere, headed towards the Sun along an energy-efficient (Hohmann) trajectory on a heliocentric orbit perpendicular to the plane of the ecliptic, with a period of 6.2 years. At what height did it fly over the north pole of the Sun? Neglect the inclination of the Sun's rotation axis to the axis of the ecliptic.",
+     "paper_label": "Theoretical round (grades 8–9)"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "problem": "In the twenties of December the Sun is in the sky near the well-known Messier objects M8 and M20. The figure shows a fragment of a chart (the image is not inverted; the direction to the north celestial pole is shown by the arrow) on which the positions of the Sun and Mercury (shown by a cross) are drawn. Which of these objects do you think will be the first to cross, with its centre, the line joining the centres of the nebulae: the Sun or Mercury? After how much time will the first crossing take place? Justify your answers.\n\nReference data (from the paper): Mercury: semi-major axis 0.3871 AU (57.9 million km), eccentricity 0.2056, inclination to the ecliptic $7.004^\\circ$, orbital period 87.97 days, synodic period 115.9 days.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2018-g89-q6.png",
+     "paper_label": "Theoretical round (grades 8–9)"
+    },
+    {
+     "day": 2,
+     "number": 1,
+     "problem": "A sailor on the deck of a ship, which is 4 m above sea level, sees a star exactly on the horizon. At what altitude above or below the visible horizon does a sailor standing on a platform fixed to the mast at a height of 25 m above sea level see the same star? Take the height of a person to be 2 metres. Neglect refraction.",
+     "paper_label": "Theoretical round (grades 10–11)"
+    },
+    {
+     "day": 2,
+     "number": 2,
+     "problem": "On the evening of 1 July a ship approached the International Date Line and crossed it at exactly 23 o'clock (by the time of the zone it was in before that moment). What date and time should be set on the ship?",
+     "paper_label": "Theoretical round (grades 10–11)"
+    },
+    {
+     "day": 2,
+     "number": 3,
+     "problem": "On 15 January 2016 a transit of the ISS across the disc of Saturn could be observed on the Earth. Estimate the duration of this phenomenon and the width of the strip in which it could be observed, provided that Saturn was near the zenith at that moment. The characteristic size of the ISS is 50 m. The orbital altitude is about 400 km.\n\nReference data (from the paper): Saturn: semi-major axis 9.5388 AU, radius 60 268 km.",
+     "paper_label": "Theoretical round (grades 10–11)"
+    },
+    {
+     "day": 2,
+     "number": 4,
+     "problem": "In radio astronomy the jansky is widely used as the unit of spectral flux density: $1\\ \\mathrm{Jy} = 10^{-26}\\ \\mathrm{W\\,m^{-2}\\,Hz^{-1}}$. Determine, in janskys, the flux density from a star of magnitude $0^\\mathrm{m}$ at a wavelength of 550 nm. It is known that $10^{4}$ quanta $\\mathrm{cm^{-2}\\,s^{-1}\\,nm^{-1}}$ reach the observer from a star of magnitude $0^\\mathrm{m}$. For a star of what magnitude will the flux density be 1 Jy?",
+     "paper_label": "Theoretical round (grades 10–11)"
+    },
+    {
+     "day": 2,
+     "number": 5,
+     "problem": "Two nights were allocated for observing an object with a large telescope. On the first night the image quality (diameter of the seeing disc) was $1.5''$ and the transparency $0.2^\\mathrm{m}$, and on the second night $0.5''$ and $0.3^\\mathrm{m}$. Compare the times required for photometric measurements of a point object with a given signal-to-noise ratio. The brightness of the object outside the atmosphere is equal to the sky background from $1''$. Consider the sky background itself to be constant. Assume that the detector registers all the incoming radiation and that there is no absorption in the optical system of the telescope.\n\nThe signal-to-noise ratio is given by\n$$\\epsilon = \\frac{N_\\mathrm{s}}{\\sqrt{N_\\mathrm{s} + 2N_\\mathrm{bg}}},$$\nwhere $N_\\mathrm{s}$ and $N_\\mathrm{bg}$ are the numbers of quanta from the source and from the background, respectively, received by the detector.",
+     "paper_label": "Theoretical round (grades 10–11)"
+    },
+    {
+     "day": 2,
+     "number": 6,
+     "problem": "A non-rotating star of mass $M = 10\\,M_0$ and radius $R = 5\\,R_0$ is spun up about its axis and becomes an ellipsoid of revolution. Find:\n\n1) the critical ratio of the semi-axes of the ellipsoid at which the star begins to break up because of its fast rotation;\n\n2) the maximum possible linear rotational velocity at the equator;\n\n3) the minimum rotation period of the star about its axis.\n\nAssume that the matter of the star is concentrated at the centre (the mass of the envelope and the distribution of matter in it can be neglected), while the volume of the star remains constant. The volume of an ellipsoid of revolution is $(4/3)\\pi a^2 b$, where $b$ is the semi-axis about which the rotation takes place.",
+     "paper_label": "Theoretical round (grades 10–11)"
+    },
+    {
+     "day": 2,
+     "number": 7,
+     "problem": "The figure shows the light curve of a binary star obtained in the V filter. Knowing that the eclipses in the system are central, that one of the components of the binary has spectral class A0 and the other G2, and that both components are main-sequence stars, construct the curve of the variation of the colour index B−V of this system. Direct the vertical axis of your graph upwards, mark the divisions and put the corresponding values of the colour index. For a G2V star $(B-V) = 0.65$.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2018-g1011-q7.png",
+     "paper_label": "Theoretical round (grades 10–11)"
+    },
+    {
+     "day": 2,
+     "number": 8,
+     "problem": "You are given a chart of the starry sky on a planet in a distant galaxy in stereographic projection. The field of the chart is exactly half of the celestial sphere, visible at a given moment from some point of the planet. The stereographic projection of a point A onto the plane is the point B, the intersection of the line O′A with this plane (see the figure). O is the centre of the chart; O′ is the point diametrically opposite to the centre.\n\n1) Three brightest stars are clearly visible on the chart. Determine their altitudes above the horizon at the moment of observation.\n\n2) Calculate the pairwise angular distances between these stars.\n\n3) What can you say about the type of this distant galaxy?\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2018-g1011-q8-1.png\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2018-g1011-q8-2.png",
+     "paper_label": "Theoretical round (grades 10–11)"
+    }
+   ]
+  },
+  {
+   "year": 2019,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "Two school friends decided to find the maximum distance between points on the surface of the Earth where the Sun (the Moon) can be at the zenith. Help them with a drawing and calculations. What will this distance be for the star Capella ($5^\\mathrm{h}17^\\mathrm{m}$, $46^\\circ$)? The distance is measured along the surface of the Earth.",
+     "paper_label": "Theoretical round (grades 8–9)"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "The equatorial coordinates of the Lagoon Nebula M8 are now $18^\\mathrm{h}03^\\mathrm{m}$ and $-24.5^\\circ$. Estimate its present ecliptic coordinates. Determine the maximum declination this nebula will have during the next 26 000 years. After how much time will this happen?",
+     "paper_label": "Theoretical round (grades 8–9)"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "An astronomer wants to take a magnifying glass on a hike for lighting a fire. One lens has a focal length of 20 cm and a diameter of 5 cm, and the other a focal length of 50 cm and a diameter of 10 cm. With which of them will it be easier to set fire to a thin wooden stick? By what factor will the ignition times differ, if heat losses of the stick and the aberrations of the lenses are neglected?",
+     "paper_label": "Theoretical round (grades 8–9)"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "A signal from a spacecraft orbiting Venus reached the mission control centre 300 seconds after it was sent. What is the phase of Venus as seen from the Earth? The radius of the orbit of Venus is 0.723 AU. Consider all orbits to be circular.",
+     "paper_label": "Theoretical round (grades 8–9)"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "Oppositions of Mars and Saturn occurred on the same day. Which planet will reach its next opposition earlier? What will the angular distance between Mars and Saturn be at the next opposition of Mars? Will Saturn be seen to the west or to the east of Mars? The radius of the orbit of Mars is 1.524 AU and that of Saturn 9.583 AU. Consider the orbits of the planets to be circular and to lie in the same plane.",
+     "paper_label": "Theoretical round (grades 8–9)"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "problem": "The tower of the BTA telescope has a base diameter $D = 45$ metres and a dome height $H = 53$ metres. The BTA is located at the Special Astrophysical Observatory and has the coordinates $43^\\circ 39'$ N, $41^\\circ 26'$ E. At what distance from the foot of the tower did the photographer set up the camera to take this photograph? Give the answer in metres, rounded to whole numbers. Identify at least one star in the image. Mark it on the image or describe the position of the star in the text. The tower may be considered as a hemisphere placed on a cylindrical base.\n\nDeclinations of some stars:\n$$\\begin{array}{|l|c|l|c|}\n\\hline\n\\text{Star} & \\text{Declination} & \\text{Star} & \\text{Declination} \\\\\n\\hline\n\\text{Alioth } (\\varepsilon\\ \\text{UMa}) & 56.0^\\circ & \\text{Kochab } (\\beta\\ \\text{UMi}) & 74.8^\\circ \\\\\n\\text{Albireo } (\\beta\\ \\text{Cyg}) & 28.0^\\circ & \\text{Menkalinan } (\\beta\\ \\text{Aur}) & 44.9^\\circ \\\\\n\\text{Alderamin } (\\alpha\\ \\text{Cep}) & 62.6^\\circ & \\text{Polaris } (\\alpha\\ \\text{UMi}) & 89.3^\\circ \\\\\n\\text{Vega } (\\alpha\\ \\text{Lyr}) & 38.8^\\circ & \\text{Sadr } (\\gamma\\ \\text{Cyg}) & 40.3^\\circ \\\\\n\\text{Deneb } (\\alpha\\ \\text{Cyg}) & 45.3^\\circ & \\text{Talitha Borealis } (\\iota\\ \\text{UMa}) & 48.0^\\circ \\\\\n\\text{Dubhe } (\\alpha\\ \\text{UMa}) & 61.8^\\circ & \\text{Schedar } (\\alpha\\ \\text{Cas}) & 56.5^\\circ \\\\\n\\text{Capella } (\\alpha\\ \\text{Aur}) & 46.0^\\circ & \\text{Eltanin } (\\gamma\\ \\text{Dra}) & 51.5^\\circ \\\\\n\\hline\n\\end{array}$$\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2019-g89-q6.png",
+     "paper_label": "Theoretical round (grades 8–9)"
+    },
+    {
+     "day": 2,
+     "number": 1,
+     "problem": "Two stars that are neighbours in the sky have the same brightness of $6^\\mathrm{m}$ when observed with the naked eye, but when observed with large binoculars the first star looks brighter than the second. Which of the stars has the higher temperature? Neglect interstellar and atmospheric absorption of light.",
+     "paper_label": "Theoretical round (grades 10–11)"
+    },
+    {
+     "day": 2,
+     "number": 2,
+     "problem": "Sometimes in souvenir shops one can find an unusual gift: a can of preserved air, for example of some city. Estimate by what factor the net mass (i.e. without the packaging) of such a can of volume $V = 0.3$ L with ordinary air is larger than the mass of the same can with gas taken from the photosphere of the Sun ($T = 6000$ K, $p = 0.1$ atm, chemical composition: H 75%, He 25%). Assume that the matter of the photosphere is not ionised. The density of air $\\rho_0$ is $1.225\\ \\mathrm{kg/m^3}$.",
+     "paper_label": "Theoretical round (grades 10–11)"
+    },
+    {
+     "day": 2,
+     "number": 3,
+     "problem": "Two galaxies are $20^\\circ$ apart in the sky and have redshifts 0.001 and 0.002, respectively. Estimate the magnitude and the redshift of one galaxy as observed from the other, assuming that these are typical spiral galaxies similar to the Milky Way. Take the Hubble constant to be 70 km/s/Mpc.",
+     "paper_label": "Theoretical round (grades 10–11)"
+    },
+    {
+     "day": 2,
+     "number": 4,
+     "problem": "In 2019 the following events have already happened or will happen:\n\n- 21 January: a total lunar eclipse, during which the Moon crossed the northern part of the Earth's shadow shortly after passing a node of its orbit;\n- 5 February: an occultation of Mercury by the Moon;\n- 11 April: Mercury will be at greatest western elongation at an angular distance of $27^\\circ 43'$;\n- 11 November: a transit of Mercury across the disc of the Sun.\n\nFrom these data determine:\n\n1) Near which configuration was Mercury on 5 February?\n\n2) Where will it be on 11 April with respect to the celestial equator, north or south of it?\n\n3) Will it be north or south of the ecliptic on 11 April?\n\nThe semi-major axis of the orbit of Mercury is 0.387 AU, the eccentricity 0.2, the orbital inclination $7^\\circ$.",
+     "paper_label": "Theoretical round (grades 10–11)"
+    },
+    {
+     "day": 2,
+     "number": 5,
+     "problem": "The International Space Station (ISS) moves in a circular orbit at an altitude $H = 415$ km, whose plane is inclined to the plane of the Earth's equator at an angle $i_0 = 51^\\circ$. At the moment when the ISS reached the northernmost point of its orbit, it was given an impulse that changed its orbit so that the station could be observed from any point of the Earth. Determine the magnitude and direction of the minimum impulse (relative to the previous direction of the velocity), if the orbit remained circular. The mass of the ISS is $m = 4.2\\cdot10^{5}$ kg.",
+     "paper_label": "Theoretical round (grades 10–11)"
+    },
+    {
+     "day": 2,
+     "number": 6,
+     "problem": "A star of apparent magnitude $m = 14^\\mathrm{m}$ is located at the point with galactic coordinates $l = 180^\\circ$, $b = 0^\\circ$. Its absolute magnitude is $H = 3.4^\\mathrm{m}$. How many revolutions around the centre of the Galaxy has it made during its whole life? Assume that very little hydrogen is left in its interior. Take the distance from the centre of the Galaxy to the Sun to be $R_0 = 8.2$ kpc. Take the mass of the Galaxy within such a radius to be of the order of $10^{11}\\,M_\\odot$.",
+     "paper_label": "Theoretical round (grades 10–11)"
+    },
+    {
+     "day": 2,
+     "number": 7,
+     "problem": "While at the Caucasus Mountain Observatory of Moscow State University ($43^\\circ 44'10''$ N, $42^\\circ 40'03''$ E, height above sea level $h = 2061$ m), an astronomer took a long-exposure photograph of Mount Elbrus. On the photograph he was able to identify the trails of the brightest stars of the constellation Eridanus:\n\n1) Theemin ($\\upsilon^2$ Eri): $\\alpha = 4^\\mathrm{h}35^\\mathrm{m}18^\\mathrm{s}$, $\\delta = -30^\\circ 31'31''$;\n\n2) Timim (Beemim II, $\\upsilon^3$ Eri): $\\alpha = 4^\\mathrm{h}24^\\mathrm{m}46^\\mathrm{s}$, $\\delta = -33^\\circ 58'27''$;\n\n3) Beemim I ($\\upsilon^4$ Eri): $\\alpha = 4^\\mathrm{h}18^\\mathrm{m}38^\\mathrm{s}$, $\\delta = -33^\\circ 45'12''$.\n\nAssuming that the lower edge of the photograph corresponds to the position of the mathematical horizon, estimate the height of the western summit of Mount Elbrus above sea level. The geographical coordinates of the western summit are $43^\\circ 20'45''$ N, $42^\\circ 26'55''$ E. The solution must state which of the summits is the western one.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2019-g1011-q7.png",
+     "paper_label": "Theoretical round (grades 10–11)"
+    },
+    {
+     "day": 2,
+     "number": 8,
+     "problem": "Here is how William Huggins, in a note of 1878 (an excerpt from it in the original language is given below for reference), describes the first observations of stars in the infrared ever made, carried out with a bolometer: \"the amount of heat received from Arcturus, observed at an altitude of 25 degrees, turned out to be the same as is observed at a distance of 360 m from a [blackened] metal cube with an edge of 76 mm filled with boiling water\". Confirm or refute this statement by calculation, if it is known that the magnitude of Arcturus in the infrared is $-3^\\mathrm{m}$. The figures give the energy distribution in the spectrum of Vega outside the Earth's atmosphere and the transmission curve of the Earth's atmosphere in the infrared.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2019-g1011-q8-1.png\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2019-g1011-q8-2.png\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2019-g1011-q8-3.png",
+     "paper_label": "Theoretical round (grades 10–11)"
+    }
+   ]
+  },
+  {
    "year": 2020,
    "problems": [
     {
