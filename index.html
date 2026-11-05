@@ -420,6 +420,7 @@ dialog p { color: var(--muted); font-size: .92rem; }
 .ps-item { display: grid; grid-template-columns: 2.2rem minmax(0, 1fr); gap: 4px; margin-bottom: 22px; }
 .solution-space { border-bottom: 1px solid #ddd; }
 .ps-num { font: 700 12pt/1.7 var(--serif); }
+.p-credit a, .yr-credit a { color: inherit; }
 .p-credit { margin: 0 0 10px; font: .74rem/1.45 var(--sans); color: var(--muted); }
 .yr-credit { margin-left: auto; font: .72rem/1.4 var(--sans); color: var(--muted); }
 .res-title .sub.affil { font-size: .86rem; font-style: italic; }
@@ -692,7 +693,7 @@ dialog p { color: var(--muted); font-size: .92rem; }
 // Local copies (python -m http.server) read the files next to the page; the published site reads the raw files.
 const BASE = /^(localhost|127\.)/.test(location.hostname) ? './' : 'https://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/';
 // Bump on every data change so browsers never mix old and new files.
-const DATA_VERSION = '20261105-bellos-link';
+const DATA_VERSION = '20261105-msk-2016-2017';
 const FIRST = 1990, LAST = 2026;
 const REGIONS = [['europe', 'Europe'], ['asia', 'Asia'], ['americas', 'Americas'], ['africa', 'Africa'], ['oceania', 'Oceania'], ['world', 'World'], ['other', 'Other']];
 const REGION_OF = {
@@ -1844,7 +1845,8 @@ const ORGANISERS = {
     ruao: {comp: 'All-Russian Astronomy Olympiad, final stage', org: 'the All-Russian Astronomy Olympiad (its central subject-methodological commission, astroolymp.ru)', rights: 'the All-Russian Astronomy Olympiad', short: 'the All-Russian Astronomy Olympiad or its commissions', lang: () => 'Russian'},
     rureg: {comp: 'All-Russian Astronomy Olympiad, regional stage', org: 'the All-Russian Astronomy Olympiad (its central subject-methodological commission, astroolymp.ru)', rights: 'the All-Russian Astronomy Olympiad', short: 'the All-Russian Astronomy Olympiad or its commissions', lang: () => 'Russian'},
     spb: {comp: 'St Petersburg Astronomy Olympiad', org: 'the St Petersburg Astronomy Olympiad (St Petersburg State University, school.astro.spbu.ru)', rights: 'the St Petersburg Astronomy Olympiad', short: 'the St Petersburg Astronomy Olympiad or St Petersburg State University', lang: () => 'Russian'},
-    msk: {comp: 'Moscow Astronomy Olympiad', org: 'the Moscow Department of Education and Science, with the Centre for Pedagogical Excellence (CPM), Moscow Astronomy Olympiad (mosastro.olimpiada.ru)', rights: 'Moscow Astronomy Olympiad', short: 'the Moscow Astronomy Olympiad or the Moscow Department of Education and Science', lang: () => 'Russian'},
+    // 2016-2017: included with the organisers' written permission (5 Nov 2026), credited as they asked.
+    msk: {comp: 'Moscow Astronomy Olympiad', org: 'the Moscow Department of Education and Science, with the Centre for Pedagogical Excellence (CPM), Moscow Astronomy Olympiad (mosastro.olimpiada.ru)', rights: p => p.year === 2016 || p.year === 2017 ? 'ГАОУ ДПО ЦПМ' : 'Moscow Astronomy Olympiad', link: p => p.year === 2016 || p.year === 2017 ? 'https://mosastro.olimpiada.ru/' : '', short: 'the Moscow Astronomy Olympiad or the Moscow Department of Education and Science', lang: () => 'Russian'},
     sk: {comp: 'Slovak Astronomy Olympiad', org: 'the Slovak Astronomy Olympiad (Astronomicka olympiada, astronomickaolympiada.sk), organised with the Slovak Central Observatory in Hurbanovo and the Slovak Astronomical Society at the Slovak Academy of Sciences', rights: 'Astronomicka olympiada (Slovakia)', short: 'the Slovak Astronomy Olympiad or its organisers', lang: () => 'Slovak'},
     tr: {comp: 'TUBITAK Astronomy and Astrophysics Olympiad, second stage', org: 'TUBITAK (Scientific and Technological Research Council of Turkey), Science Olympiads', rights: 'TUBITAK', short: 'TUBITAK', lang: () => 'Turkish'},
     pl: {comp: 'Polish Astronomy Olympiad', org: 'the Polish Astronomy Olympiad (Olimpiada Astronomiczna, Planetarium - Silesian Science Park, Chorzow)', rights: 'Olimpiada Astronomiczna', short: 'the Olimpiada Astronomiczna or the Silesian Planetarium', lang: () => 'Polish'},
@@ -1857,7 +1859,7 @@ function affiliationText(key) { const o = ORGANISERS[key]; return o ? `Not affil
 function creditText(p) {
     const o = ORGANISERS[p.country];
     if (!o) return '';
-    const holder = ['ioaa', 'ioaada', 'olaa'].includes(p.country) ? `${o.comp} ${p.year} organisers` : o.rights;
+    const holder = ['ioaa', 'ioaada', 'olaa'].includes(p.country) ? `${o.comp} ${p.year} organisers` : typeof o.rights === 'function' ? o.rights(p) : o.rights;
     return `© ${holder}${o.note && o.note(p) ? ' · from a later compilation' : ''}`;
 }
 // One credit line per competition-year group; notes a later compilation when some or all of its problems come from one.
@@ -1867,7 +1869,12 @@ function groupCreditText(list) {
     const base = ts[0].split(' · ')[0], comp = ts.filter(t => t.includes(' · ')).length;
     return base + (comp === 0 ? '' : comp === ts.length ? ' · from a later compilation' : ' · some problems from a later compilation');
 }
-function creditHtml(p) { const t = creditText(p); return t ? `<p class="p-credit">${esc(t)}</p>` : ''; }
+// The © line, linked to the organiser's site where they asked for a link.
+function creditLinked(t, p) {
+    const o = p && ORGANISERS[p.country], url = o && o.link ? o.link(p) : '';
+    return url ? `<a href="${esc(url)}" target="_blank" rel="noopener">${esc(t)}</a>` : esc(t);
+}
+function creditHtml(p) { const t = creditText(p); return t ? `<p class="p-credit">${creditLinked(t, p)}</p>` : ''; }
 
 // Bilingual records (problem_el, or problem_orig + orig_lang): EN / original-language switch, remembered per visitor ('el' = show the original).
 function setLang(l) {
@@ -2038,7 +2045,7 @@ function renderResults() {
     const groupOf = p => shown.filter(q => q.country === p.country && q.year === p.year);
     if (singleGroup) {
         const ct = shown.length ? groupCreditText(shown) : '';
-        if (ct) html += `<p class="p-credit">${esc(ct)}</p>`;
+        if (ct) html += `<p class="p-credit">${creditLinked(ct, shown[0])}</p>`;
         html += shown.map(problemHtml).join('');
     } else {
         let cur = null;
@@ -2046,7 +2053,7 @@ function renderResults() {
             const key = p.country + '|' + p.year;
             if (key !== cur) {
                 cur = key;
-                html += `<div class="yr-head"><h3 class="yr">${p.year}</h3><span class="kd">${CBY[p.country].flag} ${CBY[p.country].name}</span><span class="yr-credit">${esc(groupCreditText(groupOf(p)))}</span></div>`;
+                html += `<div class="yr-head"><h3 class="yr">${p.year}</h3><span class="kd">${CBY[p.country].flag} ${CBY[p.country].name}</span><span class="yr-credit">${creditLinked(groupCreditText(groupOf(p)), p)}</span></div>`;
             }
             html += problemHtml(p);
         });

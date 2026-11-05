@@ -127,6 +127,240 @@
    ]
   },
   {
+   "year": 2016,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "According to data obtained by the Galileo spacecraft, which explored the Jovian system from 1995 to 2003, there is a huge deep water ocean on Europa under the surface layer of ice. The depth of this ocean together with the layer of surface ice is on average 100 kilometres. Where is there more water: on Europa or on the Earth?",
+     "paper_label": "Theoretical round (grades 8–9)",
+     "problem_orig": "Согласно данным, полученным аппаратом «Галилео», который исследовал юпитерианскую систему с 1995 по 2003 год, на Европе под поверхностным слоем льда есть огромный глубокий водный океан. Глубина этого океана вместе со слоем поверхностного льда в среднем составляет 100 километров. Где больше воды: на Европе или на Земле?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "When was (or will be) the daylight in Moscow longer: on 23 September 2015 or on 23 September 2016? Justify your answer.",
+     "paper_label": "Theoretical round (grades 8–9)",
+     "problem_orig": "Когда световой день в Москве был (или будет) длиннее: 23 сентября 2015 года или 23 сентября 2016 года? Ответ обоснуйте.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "At $18^\\mathrm{h}$ of sidereal time a star with coordinates $\\beta = 47^\\circ$ of ecliptic latitude and $\\lambda = 90^\\circ$ of ecliptic longitude was at an altitude of $23.5^\\circ$. Determine the geographic latitude of the place of observation. Be sure to supplement the solution with a drawing.",
+     "paper_label": "Theoretical round (grades 8–9)",
+     "problem_orig": "В $18^\\mathrm{h}$ звездного времени звезда с координатами $\\beta = 47^\\circ$ эклиптической широты, $\\lambda = 90^\\circ$ эклиптической долготы находилась на высоте $23{,}5^\\circ$. Определите географическую широту места наблюдения. Обязательно дополните решение чертежом.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "The sidereal period of a certain asteroid is exactly 1.5 years. At what eccentricity does the orbit of the asteroid touch the orbit of the Earth? Can this asteroid collide with the Earth if at some oppositions it is at the aphelion of its orbit? All the orbits lie in one plane. Neglect the influence of the other planets. Consider the orbit of the Earth circular.",
+     "paper_label": "Theoretical round (grades 8–9)",
+     "problem_orig": "Сидерический период некоторого астероида равен ровно 1,5 года. При каком эксцентриситете орбита астероида касается орбиты Земли? Может ли произойти столкновение этого астероида с Землёй, если в некоторых противостояниях он оказывается в афелии своей орбиты? Все орбиты лежат в одной плоскости. Влиянием других планет пренебречь. Орбиту Земли считать круговой.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "During a central annular solar eclipse the stellar magnitude of the Sun decreased by 5 magnitudes. At what distance from the observer was the Moon, if the apparent angular size of the Sun was $32'$? Neglect limb darkening of the Sun.",
+     "paper_label": "Theoretical round (grades 8–9)",
+     "problem_orig": "Во время центрального кольцеобразного солнечного затмения звёздная величина Солнца уменьшилась на 5 звёздных величин. На каком расстоянии от наблюдателя находилась Луна, если видимый угловой размер Солнца составлял $32'$? Потемнением Солнца к краю пренебречь.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "problem": "The figure shows various planetary nebulae as they would look if observed from the same distance. Assuming that the expansion velocity of all the nebulae is constant and equal to $30 \\pm 15$ km/s, determine the age of each of them. Also determine the error of the measurement.\n\n[The picture is not reproduced here (its author is not credited in the paper); it carries a scale bar of 4 light years. It is on page 2 of the official paper: https://mosastro.olimpiada.ru/upload/files/Moscow_2016_8-9_problems.pdf]",
+     "paper_label": "Theoretical round (grades 8–9)",
+     "problem_orig": "На рисунке показаны различные планетарные туманности так, как они выглядели бы при наблюдении с одного и того же расстояния. Считая, что скорость расширения всех туманностей постоянна и составляет $30 \\pm 15$ км/с, определите возраст каждой из них. Определите также погрешность измерения.\n\n[Рисунок здесь не воспроизводится (автор в условии не указан); на нём есть масштабная линейка «4 световых года». Он находится на стр. 2 официального варианта: https://mosastro.olimpiada.ru/upload/files/Moscow_2016_8-9_problems.pdf]",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 2,
+     "number": 1,
+     "problem": "The radio telescopes at Arecibo ($18^\\circ$ N, $67^\\circ$ W) and at Jodrell Bank ($53^\\circ$ N, $2^\\circ$ E) carry out joint radio-interferometric observations. For Arecibo the source is at the zenith. Estimate at what zenith distance the source is for Jodrell Bank. Does the zenith distance of the source at these sites increase or decrease during the observations?",
+     "paper_label": "Theoretical round (grades 10–11)",
+     "problem_orig": "Радиотелескопы в Аресибо ($18^\\circ$ с. ш., $67^\\circ$ з. д.) и в Джодрелл Бэнк ($53^\\circ$ с. ш., $2^\\circ$ в. д.) проводят совместные радиоинтерферометрические наблюдения. Для Аресибо источник находится в зените. Оцените, на каком зенитном расстоянии находится источник для Джодрелл Бэнк. Увеличивается или уменьшается зенитное расстояние источника в этих пунктах в процессе наблюдений?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 2,
+     "number": 2,
+     "problem": "A long-period comet with a period of 500 years, flying past Jupiter at the perihelion of its orbit, received an additional velocity of 1 km/s (without a change of direction). After what interval of time will this comet pass perihelion again?",
+     "paper_label": "Theoretical round (grades 10–11)",
+     "problem_orig": "Долгопериодическая комета с периодом 500 лет в перигелии орбиты, пролетая мимо Юпитера, получила дополнительную скорость 1 км/с (без изменения направления). Через какой промежуток времени эта комета снова пройдёт перигелий?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 2,
+     "number": 3,
+     "problem": "It is known that during its period of revolution around the Sun Pluto spends 20 years inside the orbit of Neptune. Determine how much time Neptune spends outside the orbit of Pluto. Assume that both orbits lie in one plane and that the orbit of Neptune is circular. Supplement the solution with a drawing.",
+     "paper_label": "Theoretical round (grades 10–11)",
+     "problem_orig": "Известно, что Плутон в течение своего периода обращения вокруг Солнца 20 лет проводит внутри орбиты Нептуна. Определите, какое время Нептун проводит вне орбиты Плутона. Считайте, что обе орбиты лежат в одной плоскости, а орбита Нептуна круговая. Решение дополните чертежом.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 2,
+     "number": 4,
+     "problem": "Imagine that a through tunnel has been built on the Moon from the north pole to the south pole. What minimum velocity must be given to a body located at the centre of the Moon for it to fly away for ever? In what time will the body reach a lunar pole in this case? Neglect the influence of the Earth and the Sun. Assume that the density of the Moon is distributed uniformly.",
+     "paper_label": "Theoretical round (grades 10–11)",
+     "problem_orig": "Представьте себе, что на Луне построили сквозной тоннель от северного полюса до южного. Какую минимальную скорость нужно придать телу, находящемуся в центре Луны, чтобы оно навсегда улетело? За какое время в этом случае тело достигнет лунного полюса? Влиянием Земли и Солнца пренебречь. Считать, что плотность Луны распределена равномерно.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 2,
+     "number": 5,
+     "problem": "It is known that during their lifetime on the main sequence stars consume about 10% of the hydrogen they contain. The lifetime of the Sun on the main sequence is $10^{10}$ years. Estimate the minimum possible mass of the red giants that can exist at the present moment.",
+     "paper_label": "Theoretical round (grades 10–11)",
+     "problem_orig": "Известно, что за время жизни на главной последовательности звёзды расходуют около 10% содержащегося в них водорода. Время жизни Солнца на главной последовательности составляет $10^{10}$ лет. Оцените минимально возможную массу красных гигантов, которые могут существовать на текущий момент.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 2,
+     "number": 6,
+     "problem": "A telescope with an objective diameter of 3 m and a focal ratio of f/10 is equipped with a CCD of $2048\\times2048$ pixels, the size of one pixel being $9\\times9$ μm. Can this telescope be used to photograph a double star whose components are separated by $1.5''$? $2.5''$? $3.5''$?",
+     "paper_label": "Theoretical round (grades 10–11)",
+     "problem_orig": "Телескоп с диаметром объектива 3 м и относительным отверстием f/10 оснащён ПЗС-матрицей размером $2048\\times2048$ пикселей при размере одного пикселя $9\\times9$ мкм. Можно ли с помощью этого телескопа сфотографировать двойную звезду, расстояние между компонентами которой равно $1{,}5''$? $2{,}5''$? $3{,}5''$?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 2,
+     "number": 7,
+     "problem": "It is known that for main-sequence stars there is a relation between the mass of a star and its luminosity of the form $L \\propto M^{\\alpha}$. On the basis of the data on the characteristics of 20 stars, determine the value of $\\alpha$.\n\n$$\\begin{array}{|c|c|c|c|c|}\n\\hline\n\\text{No.} & M/M_0 & \\pi,\\ '' & m_\\mathrm{v} & \\text{Spectral class} \\\\\n\\hline\n1 & 0.49 & 0.170 & 8.0 & \\text{M1V} \\\\\n2 & 0.49 & 0.105 & 8.9 & \\text{M1V} \\\\\n3 & 0.49 & 0.129 & 8.5 & \\text{M1V} \\\\\n4 & 0.43 & 0.114 & 11.0 & \\text{M2V} \\\\\n5 & 0.43 & 0.104 & 9.4 & \\text{M2V} \\\\\n6 & 0.43 & 0.129 & 10.5 & \\text{M2V} \\\\\n7 & 0.36 & 0.123 & 11.0 & \\text{M3V} \\\\\n8 & 0.2 & 0.207 & 11.2 & \\text{M4V} \\\\\n9 & 0.28 & 0.180 & 11.1 & \\text{M4V} \\\\\n10 & 0.28 & 0.141 & 11.7 & \\text{M4V} \\\\\n11 & 0.18 & 0.224 & 12.3 & \\text{M5V} \\\\\n12 & 0.16 & 0.105 & 12.8 & \\text{M5V} \\\\\n13 & 0.14 & 0.115 & 13.3 & \\text{M6V} \\\\\n14 & 0.10 & 0.145 & 13.6 & \\text{M6V} \\\\\n15 & 0.10 & 0.387 & 12.5 & \\text{M6V} \\\\\n16 & 0.09 & 0.387 & 13.0 & \\text{M4V} \\\\\n17 & 0.08 & 0.278 & 14.8 & \\text{M8V} \\\\\n18 & 0.09 & 0.192 & 14.1 & \\text{M7V} \\\\\n19 & 0.09 & 0.230 & 13.4 & \\text{M7V} \\\\\n20 & 0.08 & 0.246 & 14.5 & \\text{M8V} \\\\\n\\hline\n\\end{array}$$\n\nHere $M/M_0$ is the mass of the star in solar masses, $\\pi$ is the trigonometric parallax in arcseconds, and $m_\\mathrm{v}$ is the apparent magnitude.",
+     "paper_label": "Theoretical round (grades 10–11)",
+     "problem_orig": "Известно, что для звёзд главной последовательности существует зависимость между массой звезды и её светимостью в виде $L \\propto M^{\\alpha}$. На основании данных характеристик 20 звёзд определите величину $\\alpha$.\n\n$$\\begin{array}{|c|c|c|c|c|}\n\\hline\n\\text{№} & M/M_0 & \\pi,\\ '' & m_\\mathrm{v} & \\text{Спектральный класс} \\\\\n\\hline\n1 & 0{,}49 & 0{,}170 & 8{,}0 & \\text{M1V} \\\\\n2 & 0{,}49 & 0{,}105 & 8{,}9 & \\text{M1V} \\\\\n3 & 0{,}49 & 0{,}129 & 8{,}5 & \\text{M1V} \\\\\n4 & 0{,}43 & 0{,}114 & 11{,}0 & \\text{M2V} \\\\\n5 & 0{,}43 & 0{,}104 & 9{,}4 & \\text{M2V} \\\\\n6 & 0{,}43 & 0{,}129 & 10{,}5 & \\text{M2V} \\\\\n7 & 0{,}36 & 0{,}123 & 11{,}0 & \\text{M3V} \\\\\n8 & 0{,}2 & 0{,}207 & 11{,}2 & \\text{M4V} \\\\\n9 & 0{,}28 & 0{,}180 & 11{,}1 & \\text{M4V} \\\\\n10 & 0{,}28 & 0{,}141 & 11{,}7 & \\text{M4V} \\\\\n11 & 0{,}18 & 0{,}224 & 12{,}3 & \\text{M5V} \\\\\n12 & 0{,}16 & 0{,}105 & 12{,}8 & \\text{M5V} \\\\\n13 & 0{,}14 & 0{,}115 & 13{,}3 & \\text{M6V} \\\\\n14 & 0{,}10 & 0{,}145 & 13{,}6 & \\text{M6V} \\\\\n15 & 0{,}10 & 0{,}387 & 12{,}5 & \\text{M6V} \\\\\n16 & 0{,}09 & 0{,}387 & 13{,}0 & \\text{M4V} \\\\\n17 & 0{,}08 & 0{,}278 & 14{,}8 & \\text{M8V} \\\\\n18 & 0{,}09 & 0{,}192 & 14{,}1 & \\text{M7V} \\\\\n19 & 0{,}09 & 0{,}230 & 13{,}4 & \\text{M7V} \\\\\n20 & 0{,}08 & 0{,}246 & 14{,}5 & \\text{M8V} \\\\\n\\hline\n\\end{array}$$\n\nЗдесь $M/M_0$ – масса звезды в массах Солнца, $\\pi$ – тригонометрический параллакс в секундах дуги, $m_\\mathrm{v}$ – видимая звездная величина.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 2,
+     "number": 8,
+     "problem": "The graph shows the change of the distance of comet C/2013 US10 (Catalina) from the Sun and from the Earth over the period from the beginning of November 2015 to the end of January 2016. During this time the brightness of the comet practically did not change, remaining all the time approximately equal to $6.3^\\mathrm{m}$. Assuming that the particles of the coma and the tail of the comet scatter light equally in all directions, determine the relative amplitude of the change of the mass of dust particles during the time of observation. What was the maximum mass of the coma and the tail (i.e. of the dust around the comet)? Consider the dust grains spherical with a radius of 1 μm and a density of 1 g/cm$^3$.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2016-g1011-q8.png",
+     "paper_label": "Theoretical round (grades 10–11)",
+     "problem_orig": "На графике изображено изменение расстояния от кометы C/2013 US10 (Catalina) до Солнца и до Земли за период с начала ноября 2015 г. по конец января 2016 г. За это время блеск кометы практически не менялся, оставаясь всё время примерно равным $6.3^\\mathrm{m}$. Считая, что частицы комы и хвоста кометы рассеивают свет одинаково во всех направлениях, определите относительную амплитуду изменения массы пылевых частиц за время наблюдения. Чему была равна максимальная масса комы и хвоста (т. е. пыли вокруг кометы)? Считайте пылинки круглыми с радиусом 1 мкм и плотностью 1 г/см$^3$.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2016-g1011-q8.png",
+     "orig_lang": "ru"
+    }
+   ]
+  },
+  {
+   "year": 2017,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "(8 points)\n\n1 January 2001 was a Monday. Which (nearest) century will begin on a Sunday? Assume that in the future we will continue to use the present calendar.",
+     "paper_label": "Theoretical round (grades 8–9)",
+     "problem_orig": "(8 баллов)\n\n1 января 2001 года был понедельник. Какое (ближайшее) столетие начнётся с воскресенья? Считайте, что в будущем мы будем продолжать пользоваться современным календарём.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "(8 points)\n\nAt what maximum and at what minimum altitude can the upper culmination of Vega take place on the globe? The declination of Vega is $\\delta = +38^\\circ$. At what latitudes do these culminations take place?",
+     "paper_label": "Theoretical round (grades 8–9)",
+     "problem_orig": "(8 баллов)\n\nНа какой максимальной и на какой минимальной высоте может на земном шаре происходить верхняя кульминация Веги? Склонение Веги $\\delta = +38^\\circ$. На каких широтах происходят эти кульминации?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "(8 points)\n\nThe spherical nebula at the site of the supernova outburst of 1006 is at a distance of 2.2 kpc from the Earth and has an angular diameter of $30'$. Assuming that the supernova is at rest relative to the observer and that the nebula expands at a constant speed, determine its angular size for an observer who is at the present moment\na) twice as close to the supernova;\nb) twice as far from the supernova.",
+     "paper_label": "Theoretical round (grades 8–9)",
+     "problem_orig": "(8 баллов)\n\nСферическая туманность на месте вспышки сверхновой 1006 года находится на расстоянии 2,2 кпк от Земли и имеет угловой диаметр $30'$. Считая, что сверхновая неподвижна относительно наблюдателя, а туманность расширяется с постоянной скоростью, определите её угловой размер для наблюдателя, находящегося в настоящий момент\nа) вдвое ближе к сверхновой;\nб) вдвое дальше от сверхновой.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "(8 points)\n\nA third star of mass $M_3 = 0.5\\,M_0$ revolves around an eclipsing binary star with an orbital period of 2 days, whose components have masses $M_1 = M_2 = 1\\,M_0$. The orbital period of the third component relative to the centre of mass of the triple system is 100 days. Under the gravitational influence of this body the centre of mass of the binary system moves towards or away from the observer, causing a variation (a delay or an advance) of the moments of the eclipses relative to the mean value predicted by the ephemerides. Find the amplitude of this variation (i.e. the amplitude of the so-called light-time equation).",
+     "paper_label": "Theoretical round (grades 8–9)",
+     "problem_orig": "(8 баллов)\n\nВокруг затменной двойной звезды с орбитальным периодом 2 дня, компоненты которой имеют массы $M_1 = M_2 = 1\\,M_0$, обращается третья звезда с массой $M_3 = 0{,}5\\,M_0$. Орбитальный период обращения третьего компонента относительно центра масс тройной системы составляет 100 дней. Центр масс двойной системы под гравитационным воздействием этого тела смещается в сторону к наблюдателю или от наблюдателя, вызывая вариацию (запаздывание или опережение) моментов наступления затмений относительно средней величины, предсказываемой эфемеридами. Найдите амплитуду этой вариации (т. е. амплитуду так называемого светового уравнения).",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "(16 points)\n\nUse the insert with colour illustrations for this problem.\n\n11 February 2017 was marked not only by the 71st Moscow Astronomy Olympiad but also by a penumbral lunar eclipse.\n\nEclipse scheme: two dark concentric circles show the umbra and the penumbra of the Earth. Three small circles correspond to the position of the Moon at the beginning, the middle and the end of the eclipse. The long horizontal line marks the line of the ecliptic; the cardinal directions are marked with short ticks at the edges of the penumbra.\n\nMaximum phase of the penumbral eclipse: 0.9884. Maximum phase of the umbral eclipse: −0.0354. (The phase of an eclipse is the fraction of the diameter of the Moon covered by the eclipsing \"object\": the umbra or the penumbra.)\n\n$$\\begin{array}{|l|c|}\n\\hline\n\\text{Event} & \\text{Universal Time (UTC), hours:minutes (10/11 February)} \\\\\n\\hline\n\\text{Beginning of the penumbral eclipse} & 22{:}34 \\\\\n\\text{Maximum eclipse} & 00{:}44 \\\\\n\\text{End of the penumbral eclipse} & 02{:}53 \\\\\n\\hline\n\\end{array}$$\n\nDuring the penumbral eclipse the Moon does not enter the shadow of the Earth. The Moon will pass the ascending node of its orbit on 11 February at 19:50 UTC.\n\n1. You are given 6 photographs; on one (or several) of them the Moon is shown in the phase of a penumbral eclipse (of course, there is no photograph of today's eclipse among them). Indicate this (these) photograph(s) and explain why you decided so. Also explain why on the other photographs the Moon is not in the phase of a penumbral eclipse.\n\n2. On which side (top/bottom/right/left) of the eclipse scheme is the direction to the north?\n\n3. In which constellations are the Earth and the Sun for an observer near the North Pole of the Moon (assume that the celestial bodies are above the line of the local lunar horizon)?\n\n4. Using the data of the statement, determine where on the Earth this eclipse could be observed. Assume that the weather conditions did not prevent the observations.\na) The North Pole ($90^\\circ$ N)\nb) São Tomé ($0^\\circ$ N, $7^\\circ$ E)\nc) Nauru ($1^\\circ$ S, $167^\\circ$ E)\nd) The South Pole ($90^\\circ$ S)\n\n5. Determine the minimum altitude of a satellite in a lunar orbit that could get into the zone of visibility of a total solar eclipse.\n\n[The colour insert with the six photographs is not published with the paper on the olympiad's site.]\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2017-g89-q5.png",
+     "paper_label": "Theoretical round (grades 8–9)",
+     "problem_orig": "(16 баллов)\n\nДля выполнения задания используйте вкладку с цветными иллюстрациями.\n\n11 февраля 2017 года отмечено не только проведением 71-й Московской астрономической олимпиады, но и полутеневым лунным затмением.\n\nСхема затмения: две тёмные концентрические окружности показывают тень и полутень Земли. Три малые окружности соответствуют положению Луны в начале, середине и конце затмения. Длинной горизонтальной линией обозначена линия эклиптики, стороны света отмечены короткими штрихами на краях полутени.\n\nМаксимальная фаза полутеневого затмения: 0,9884. Максимальная фаза теневого затмения: −0,0354. (Фазой затмения называют долю диаметра Луны, закрытую затмевающим «объектом»: тенью или полутенью.)\n\n$$\\begin{array}{|l|c|}\n\\hline\n\\text{Событие} & \\text{Всемирное время (UTC), часы:минуты (10/11 февраля)} \\\\\n\\hline\n\\text{Начало полутеневого затмения} & 22{:}34 \\\\\n\\text{Максимальное затмение} & 00{:}44 \\\\\n\\text{Конец полутеневого затмения} & 02{:}53 \\\\\n\\hline\n\\end{array}$$\n\nВо время полутеневого затмения Луна не попадает в тень Земли. Луна пройдёт восходящий узел орбиты 11 февраля в 19:50 по UTC.\n\n1. Вам представлено 6 фотографий, на одной (или нескольких) из которых изображена Луна в фазе полутеневого затмения (конечно, среди них нет фотографии сегодняшнего затмения). Укажите эту(и) фотографию(и) и объясните, почему Вы так решили. Также объясните, почему на остальных фотографиях Луна не находится в фазе полутеневого затмения.\n\n2. С какой стороны (сверху/снизу/справа/слева) на схеме затмения находится направление на север?\n\n3. В каких созвездиях находятся Земля и Солнце для наблюдателя, находящегося вблизи Северного полюса Луны (считайте, что небесные тела находятся выше линии местного лунного горизонта)?\n\n4. Пользуясь данными из условия, определите, где на Земле можно было наблюдать данное затмение. Считайте, что метеорологические условия не препятствовали наблюдениям.\nа) Северный полюс ($90^\\circ$ с. ш.)\nб) Сан-Томе ($0^\\circ$ с. ш., $7^\\circ$ в. д.)\nв) Науру ($1^\\circ$ ю. ш., $167^\\circ$ в. д.)\nг) Южный полюс ($90^\\circ$ ю. ш.)\n\n5. Определите минимальную высоту спутника на окололунной орбите, который мог бы попасть в зону видимости полного солнечного затмения.\n\n[Вкладка с шестью цветными фотографиями вместе с условием на сайте олимпиады не опубликована.]\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2017-g89-q5.png",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "problem": "(12 points)\n\nOn one of the planets revolving around a distant star, a local astronomer who is in the northern hemisphere of his planet photographed one of the neighbouring planets for many days at equal intervals of time. By mistake all the images of the planet ended up on one frame. On the basis of this image:\na) Determine whether the astronomer photographed an outer or an inner planet.\nb) Write down the numbers of the images in the order in which they were taken.\nc) Determine the radius of the orbit of the planet in local astronomical units (i.e. in radii of the orbit of the observer's planet).\nd) Determine the angular distance between the local sun and the planet on the first (chronologically) image.\ne) If the astronomer had continued to photograph the planet, would he have waited for its (almost) full phase? What would the number of this photograph be?\n\nThe orbits of the planets are circular. For all the images the north pole of the ecliptic is at the top. Neglect the atmospheric effects of both planets. The planetary system is similar to the Solar System: all the planets move in the same direction, counterclockwise when viewed from the north pole of the ecliptic.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2017-g89-q6.png",
+     "paper_label": "Theoretical round (grades 8–9)",
+     "problem_orig": "(12 баллов)\n\nНа одной из планет, вращающихся вокруг далёкой звезды, местный астроном, находящийся в северном полушарии своей планеты, фотографировал одну из соседних планет в течение многих дней через равные промежутки времени. По ошибке все изображения планеты оказались на одном кадре. Исходя из этого изображения:\na) Определите, внешнюю или внутреннюю планету фотографировал астроном.\nb) Запишите номера снимков в том порядке, в котором они были сделаны.\nc) Определите радиус орбиты планеты в местных астрономических единицах (т. е. в радиусах орбиты планеты наблюдателя).\nd) Определите угловое расстояние между местным солнцем и планетой на первом (хронологически) снимке.\ne) Если бы астроном продолжил и дальше фотографировать планету, то он дождался бы её (почти) полной фазы? Какой был бы номер этой фотографии?\n\nОрбиты планет круговые. Для всех изображений северный полюс эклиптики находится вверху. Атмосферными эффектами обеих планет пренебречь. Планетная система подобна Солнечной: все планеты движутся в одну сторону, против часовой стрелки, если смотреть из северного полюса эклиптики.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2017-g89-q6.png",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 2,
+     "number": 1,
+     "problem": "(4 points)\n\nIn B. A. Vorontsov-Velyaminov's book \"Essays on the Universe\" (1959) the following formula for determining the absolute magnitude is given:\n$$M = m + 7\\tfrac{1}{2} - 5\\lg D.$$\nAt the same time, the \"General Course of Astronomy\" by E. V. Kononovich and V. I. Moroz uses the formula\n$$M = m + 5 - 5\\lg r.$$\nHere $M$ and $m$ are the absolute and the apparent magnitudes, and $D$ and $r$ are the distance to the star. Explain why the formulas are different and which one is correct.",
+     "paper_label": "Theoretical round (grades 10–11)",
+     "problem_orig": "(4 балла)\n\nВ книге Б. А. Воронцова-Вельяминова «Очерки о Вселенной» 1959 года приведена формула для определения абсолютной звёздной величины:\n$$M = m + 7\\tfrac{1}{2} - 5\\lg D.$$\nВ то же время в «Общем курсе астрономии» Э. В. Кононовича и В. И. Мороза используется формула\n$$M = m + 5 - 5\\lg r.$$\nЗдесь $M$ и $m$ – абсолютная и видимая звёздные величины, $D$ и $r$ – расстояние до звезды. Объясните, почему формулы разные и какая правильная?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 2,
+     "number": 2,
+     "problem": "(4 points)\n\nMany participants of the 70th Moscow Astronomy Olympiad wrote that since the Sun during its lifetime on the main sequence ($10^{10}$ years) consumes 10% of its hydrogen reserves, the mass of the Sun must therefore decrease by 10% over this time. Estimate the luminosity of the Sun if it really processed hydrogen in this way over 10 billion years. Are there main-sequence stars with such a luminosity?",
+     "paper_label": "Theoretical round (grades 10–11)",
+     "problem_orig": "(4 балла)\n\nМногие участники 70-й Московской астрономической олимпиады писали, что раз Солнце за время своей жизни на главной последовательности ($10^{10}$ лет) расходует 10 % запасов водорода, значит, за это время масса Солнца уменьшится на 10 %. Оцените светимость Солнца, если бы оно действительно за 10 млрд лет перерабатывало водород таким образом. Бывают ли звёзды главной последовательности с такой светимостью?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 2,
+     "number": 3,
+     "problem": "(8 points)\n\nSérsic's law is an empirical law that gives the dependence of the surface brightness of a galaxy $I$ on the angular distance $r$ from its centre. The law has the form\n$$I(r) = I_0 \\cdot e^{-r/h},$$\nwhere $I_0$ is the surface brightness at the centre of the image of the galaxy and $h$ is the distance at which the surface brightness falls by a factor of $e \\approx 2.7$. Having processed the data on a certain galaxy, an astronomer found that the angular distance between the isophotes (lines of equal surface brightness) of the 25th and the 24th magnitude is $0.03^\\circ$. What is the angular distance between the isophotes of the 20th magnitude (the central part of the galaxy) and of the 25th magnitude (the boundary of the galaxy)? What is the linear radius of the galaxy if its recession velocity is 300 km/s?",
+     "paper_label": "Theoretical round (grades 10–11)",
+     "problem_orig": "(8 баллов)\n\nЗакон Серсика – эмпирический закон, устанавливающий зависимость поверхностной яркости галактики $I$ от углового расстояния до её центра $r$. Закон имеет вид\n$$I(r) = I_0 \\cdot e^{-r/h},$$\nгде $I_0$ – поверхностная яркость в центре изображения галактики, $h$ – расстояние, на котором поверхностная яркость падает в $e \\approx 2{,}7$ раза. Обработав данные о некоторой галактике, астроном получил, что угловое расстояние между изофотами (линиями с одинаковой поверхностной яркостью) 25-й и 24-й звёздной величины равно $0{,}03^\\circ$. Чему равно угловое расстояние между изофотами 20-й звёздной величины (центральная часть галактики) и 25-ой (граница галактики)? Чему равен линейный радиус галактики, если скорость удаления галактики 300 км/с?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 2,
+     "number": 4,
+     "problem": "(8 points)\n\nThe radio telescopes at Green Bank ($38^\\circ 26'$ N, $70^\\circ 50'$ W) and in Sardinia ($39^\\circ 30'$ N, $9^\\circ 15'$ E) carry out joint radio astronomical observations. Determine the maximum possible duration of an observing session of the object Sagittarius A* with a declination of $-29^\\circ$. Objects with what declinations can be observed with this interferometer? For simplicity assume that an antenna can track an object until it sets below the horizon.",
+     "paper_label": "Theoretical round (grades 10–11)",
+     "problem_orig": "(8 баллов)\n\nРадиотелескопы в Грин-Бэнк ($38^\\circ 26'$ с. ш., $70^\\circ 50'$ з. д.) и Сардинии ($39^\\circ 30'$ с. ш., $9^\\circ 15'$ в. д.) проводят совместные радиоастрономические наблюдения. Определите максимально возможную продолжительность наблюдательного сеанса за объектом Стрелец A* со склонением $-29^\\circ$. Объекты с какими склонениями можно наблюдать с этим интерферометром? Для простоты считайте, что антенна может сопровождать объект, пока он не скроется за горизонтом.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 2,
+     "number": 5,
+     "problem": "(8 points)\n\nIn the middle of 2017, at the final stage of the Cassini–Huygens mission at Saturn, the spacecraft is to be transferred to a polar orbit of gradually decreasing radius and finally plunged into the atmosphere of the planet. Assuming that the transfer from an equatorial orbit around Saturn of radius 1 million kilometres to a circular polar orbit is performed in a single manoeuvre, find the magnitude and the direction of the impulse required for this. The mass of the spacecraft is 2.2 t. Which requires more energy: to escape from the orbit around Saturn or to perform this manoeuvre? By what factor will the required impulses differ?",
+     "paper_label": "Theoretical round (grades 10–11)",
+     "problem_orig": "(8 баллов)\n\nВ середине 2017 года, на заключительном этапе миссии Cassini-Huygens у Сатурна, аппарат хотят перевести на полярную орбиту с постепенно уменьшающимся радиусом и в конце концов погрузить в атмосферу планеты. Предполагая, что переход с экваториальной орбиты вокруг Сатурна радиусом 1 млн километров на круговую полярную орбиту выполняется одним манёвром, найдите модуль и направление импульса, который для этого потребуется. Масса аппарата составляет 2,2 т. Что более энергозатратно, улететь с орбиты вокруг Сатурна или выполнить данный манёвр? Во сколько раз будут отличаться нужные импульсы?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 2,
+     "number": 6,
+     "problem": "(16 points)\n\nUse the insert with colour illustrations for this problem.\n\n11 February 2017 was marked not only by the 71st Moscow Astronomy Olympiad but also by a penumbral lunar eclipse.\n\nEclipse scheme: two dark concentric circles show the umbra and the penumbra of the Earth. Three small circles correspond to the position of the Moon at the beginning, the middle and the end of the eclipse. The long horizontal line marks the line of the ecliptic; the cardinal directions are marked with short ticks at the edges of the penumbra.\n\nMaximum phase of the penumbral eclipse: 0.9884. Maximum phase of the umbral eclipse: −0.0354. (The phase of an eclipse is the fraction of the diameter of the Moon covered by the eclipsing \"object\": the umbra or the penumbra.)\n\n$$\\begin{array}{|l|c|}\n\\hline\n\\text{Event} & \\text{Universal Time (UTC), hours:minutes (10/11 February)} \\\\\n\\hline\n\\text{Beginning of the penumbral eclipse} & 22{:}34 \\\\\n\\text{Maximum eclipse} & 00{:}44 \\\\\n\\text{End of the penumbral eclipse} & 02{:}53 \\\\\n\\hline\n\\end{array}$$\n\nDuring the penumbral eclipse the Moon does not enter the shadow of the Earth. The Moon will pass the ascending node of its orbit on 11 February at 19.50 UTC.\n\n1. You are given 6 photographs; on one (or several) of them the Moon is shown in the phase of a penumbral eclipse (of course, there is no photograph of today's eclipse among them). Indicate this (these) photograph(s) and explain why you decided so. Also explain why on the other photographs the Moon is not in the phase of a penumbral eclipse.\n\n2. On which side (top/bottom/right/left) of the eclipse scheme is the direction to the north?\n\n3. In which constellations are the Earth and the Sun for an observer near the North Pole of the Moon (assume that the celestial bodies are above the line of the local lunar horizon)?\n\n4. Using the data of the statement, determine where on the Earth this eclipse could be observed. Assume that the weather conditions did not prevent the observations.\na) The North Pole ($90^\\circ$ N)\nb) São Tomé ($0^\\circ$ N, $7^\\circ$ E)\nc) Nauru ($1^\\circ$ S, $167^\\circ$ E)\nd) The South Pole ($90^\\circ$ S)\n\n5. Determine the minimum altitude of a satellite in a lunar orbit that could get into the zone of visibility of a total solar eclipse.\n\n[The colour insert with the six photographs is not published with the paper on the olympiad's site.]\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2017-g1011-q6.png",
+     "paper_label": "Theoretical round (grades 10–11)",
+     "problem_orig": "(16 баллов)\n\nДля выполнения задания используйте вкладку с цветными иллюстрациями.\n\n11 февраля 2017 года отмечено не только проведением 71-й Московской астрономической олимпиады, но и полутеневым лунным затмением.\n\nСхема затмения: две тёмные концентрические окружности показывают тень и полутень Земли. Три малые окружности соответствуют положению Луны в начале, середине и конце затмения. Длинной горизонтальной линией обозначена линия эклиптики, стороны света отмечены короткими штрихами на краях полутени.\n\nМаксимальная фаза полутеневого затмения: 0,9884. Максимальная фаза теневого затмения: −0,0354. (Фазой затмения называют долю диаметра Луны, закрытую затмевающим «объектом»: тенью или полутенью.)\n\n$$\\begin{array}{|l|c|}\n\\hline\n\\text{Событие} & \\text{Всемирное время (UTC), часы:минуты (10/11 февраля)} \\\\\n\\hline\n\\text{Начало полутеневого затмения} & 22{:}34 \\\\\n\\text{Максимальное затмение} & 00{:}44 \\\\\n\\text{Конец полутеневого затмения} & 02{:}53 \\\\\n\\hline\n\\end{array}$$\n\nВо время полутеневого затмения Луна не попадает в тень Земли. Луна пройдёт восходящий узел орбиты 11 февраля в 19.50 по UTC.\n\n1. Вам представлено 6 фотографий, на одной (или нескольких) из которых изображена Луна в фазе полутеневого затмения (конечно, среди них нет фотографии сегодняшнего затмения). Укажите эту(и) фотографию(и) и объясните, почему Вы так решили. Также объясните, почему на остальных фотографиях Луна не находится в фазе полутеневого затмения.\n\n2. С какой стороны (сверху/снизу/справа/слева) на схеме затмения находится направление на север?\n\n3. В каких созвездиях находятся Земля и Солнце для наблюдателя, находящегося вблизи Северного полюса Луны (считайте, что небесные тела находятся выше линии местного лунного горизонта)?\n\n4. Пользуясь данными из условия, определите, где на Земле можно было наблюдать данное затмение. Считайте, что метеорологические условия не препятствовали наблюдениям.\nа) Северный полюс ($90^\\circ$ с. ш.)\nб) Сан-Томе ($0^\\circ$ с. ш., $7^\\circ$ в. д.)\nв) Науру ($1^\\circ$ ю. ш., $167^\\circ$ в. д.)\nг) Южный полюс ($90^\\circ$ ю. ш.)\n\n5. Определите минимальную высоту спутника на окололунной орбите, который мог бы попасть в зону видимости полного солнечного затмения.\n\n[Вкладка с шестью цветными фотографиями вместе с условием на сайте олимпиады не опубликована.]\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2017-g1011-q6.png",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 2,
+     "number": 7,
+     "problem": "(12 points)\n\nYou are given a photograph taken at the Caucasus Mountain Observatory of the SAI MSU with an exposure of 10 minutes. The size of the camera sensor is $22.5 \\times 15.0$ mm. You are also given the number of counts at the marked points of the frame. Determine the focal length of the lens and the apparent magnitude of the meteor, assuming that its flight lasted 2 seconds. The magnitude of the star on whose track point 2 lies is $2.8^\\mathrm{m}$.\n\n$$\\begin{array}{|c|c|c|c|c|}\n\\hline\n\\text{Point} & 1 & 2 & 3 & 4 \\\\\n\\hline\n\\text{Counts} & 213 & 225 & 88 & 190 \\\\\n\\hline\n\\end{array}$$\n\n[The photograph is not reproduced here (its author is not credited in the paper). It is on page 4 of the official paper: https://mosastro.olimpiada.ru/upload/files/Moscow_2017_10-11.pdf]",
+     "paper_label": "Theoretical round (grades 10–11)",
+     "problem_orig": "(12 баллов)\n\nВам дан снимок, сделанный в Кавказской горной обсерватории ГАИШ МГУ с выдержкой 10 минут. Размер матрицы фотоаппарата $22{,}5 \\times 15{,}0$ мм. А так же количество отсчётов в выделенных точках кадра. Определите фокусное расстояние объектива и видимую звёздную величину метеора, если считать, что длительность его полёта составляла 2 секунды. Звёздная величина звезды, на треке которой стоит точка, 2: $2{,}8^\\mathrm{m}$.\n\n$$\\begin{array}{|c|c|c|c|c|}\n\\hline\n\\text{Точка} & 1 & 2 & 3 & 4 \\\\\n\\hline\n\\text{Отсчёты} & 213 & 225 & 88 & 190 \\\\\n\\hline\n\\end{array}$$\n\n[Фотография здесь не воспроизводится (авторство не указано). Она находится на стр. 4 официального варианта: https://mosastro.olimpiada.ru/upload/files/Moscow_2017_10-11.pdf]",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 2,
+     "number": 8,
+     "problem": "(12 points)\n\nUse the insert with colour illustrations for this problem.\n\nDuring a solar eclipse observed soon after sunrise, a video recording of the passage of an artificial Earth satellite across the solar disc was obtained. The frames obtained were then combined into one image. Estimate the frame rate (in frames per second) of the video camera used, if it is known that the orbit of the satellite is circular and its radius is 6800 km.\n\n[The colour insert with the image is not published with the paper on the olympiad's site.]",
+     "paper_label": "Theoretical round (grades 10–11)",
+     "problem_orig": "(12 баллов)\n\nДля выполнения задания используйте вкладку с цветными иллюстрациями.\n\nВо время солнечного затмения, наблюдавшегося вскоре после восхода Солнца, была получена видеозапись пролёта ИСЗ на фоне солнечного диска. После этого полученные кадры были смонтированы на один снимок. Оцените частоту (в кадрах/сек) работы использованной видеокамеры, если известно, что орбита спутника круговая, а её радиус 6800 км.\n\n[Вкладка с цветным снимком вместе с условием на сайте олимпиады не опубликована.]",
+     "orig_lang": "ru"
+    }
+   ]
+  },
+  {
    "year": 2018,
    "problems": [
     {
