@@ -693,7 +693,7 @@ dialog p { color: var(--muted); font-size: .92rem; }
 // Local copies (python -m http.server) read the files next to the page; the published site reads the raw files.
 const BASE = /^(localhost|127\.)/.test(location.hostname) ? './' : 'https://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/';
 // Bump on every data change so browsers never mix old and new files.
-const DATA_VERSION = '20261110-jioaa-2024-2025';
+const DATA_VERSION = '20261110-iaac-qr';
 const FIRST = 1990, LAST = 2026;
 const REGIONS = [['europe', 'Europe'], ['asia', 'Asia'], ['americas', 'Americas'], ['africa', 'Africa'], ['oceania', 'Oceania'], ['world', 'World'], ['other', 'Other']];
 const REGION_OF = {
@@ -701,6 +701,7 @@ const REGION_OF = {
     ioaada: 'world',
     jioaa: 'world',
     gecaa: 'world',
+    iaac: 'world',
     baao: 'europe',
     inao: 'asia',
     usaaao: 'americas',
@@ -748,7 +749,8 @@ const COUNTRIES = [
     { key: 'ee', name: 'Estonia', flag: '🇪🇪', file: 'Estonia-astronomy-problems.json', kind: 'years', full: 'Estonian Astronomy Open Competition (Astronoomia lahtine võistlus), senior group — translated from the official Estonian papers' },
     { key: 'cz', name: 'Czech Republic', flag: '🇨🇿', file: 'Czech-astronomy-problems.json', kind: 'years', full: 'Czech Astronomical Olympiad, final round, top category — translated from the official Czech papers' },
     { key: 'gr', name: 'Greece', flag: '🇬🇷', file: 'Greece-astronomy-problems.json', kind: 'years', full: 'Panhellenic Astronomy and Space Competition (Hellenic Astronomy and Space Society), Lyceum — 3rd round Hipparchos and final Ptolemaios, translated from the official Greek papers' },
-    { key: 'gecaa', name: 'GeCAA', flag: '🌐', file: 'GeCAA-problems.json', kind: 'years', scope: 'international', full: 'Global e-Competition on Astronomy and Astrophysics (online, 2020), theory and data analysis' }
+    { key: 'gecaa', name: 'GeCAA', flag: '🌐', file: 'GeCAA-problems.json', kind: 'years', scope: 'international', full: 'Global e-Competition on Astronomy and Astrophysics (online, 2020), theory and data analysis' },
+    { key: 'iaac', name: 'IAAC', flag: '🌐', file: 'IAAC-problems.json', kind: 'years', scope: 'international', full: 'International Astronomy and Astrophysics Competition (IAAC), online rounds: Qualification Round and Pre-Final Round' }
 ];
 COUNTRIES.sort((a, b) => a.name.localeCompare(b.name, 'en', { sensitivity: 'base' }));
 const CBY = Object.fromEntries(COUNTRIES.map(c => [c.key, c]));
@@ -1837,6 +1839,7 @@ const ORGANISERS = {
     ioaada: {comp: 'IOAA', org: 'the International Olympiad on Astronomy and Astrophysics (IOAA) and the host organising committee of each year', rights: 'IOAA', short: 'the IOAA or its host organising committees'},
     jioaa: {comp: 'Junior IOAA', org: 'the International Olympiad on Astronomy and Astrophysics (IOAA), which runs the Junior IOAA, and the host organising committee of each year', rights: 'IOAA', short: 'the IOAA or its host organising committees'},
     gecaa: {comp: 'GeCAA', org: 'the organisers of the Global e-Competition on Astronomy and Astrophysics (GeCAA 2020; papers in the IOAA archive)', rights: 'the GeCAA organisers', short: 'the GeCAA organisers or the IOAA'},
+    iaac: {comp: 'IAAC', org: 'the International Astronomy and Astrophysics Competition (IAAC, iaac.space)', rights: 'IAAC', short: 'the IAAC'},
     iao: {comp: 'International Astronomy Olympiad', org: 'the International Astronomy Olympiad (IAO) and the Euro-Asian Astronomical Society', rights: 'IAO / Euro-Asian Astronomical Society', short: 'the IAO or the Euro-Asian Astronomical Society'},
     apao: {comp: 'Asian-Pacific Astronomy Olympiad', org: 'the Asian-Pacific Astronomy Olympiad (APAO) organisers (papers published on the IAO web site)', rights: 'the APAO organisers', short: 'the APAO organisers or the IAO'},
     olaa: {comp: 'OLAA', org: 'the Olimpiada Latinoamericana de Astronomia y Astronautica (OLAA) and the host organising committee of each year', rights: 'OLAA', short: 'the OLAA or its host organising committees',

@@ -1,0 +1,285 @@
+{
+ "competition": "International Astronomy and Astrophysics Competition (IAAC) — Qualification Round and Pre-Final Round",
+ "years": [
+  {
+   "year": 2019,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "Problem A : Planets and Stars (5 Points)\n\nFill in the blank spaces with the correct information:\n\nThe earth has a distance of (1) light minutes to our sun. When the moon covers the sun we call this event a (2). There are eight planets in the solar system and (3) is the heaviest of them all. The smallest planet is (4) and it circles the sun in just (5) days. Besides the planets, there are thousands of stars visible in the night sky. The brightest star is called (6) and it is just one of about (7) billion stars in our Milky Way. The (8) galaxy is the closest spiral galaxy to our Mily Way.",
+     "paper_label": "Qualification Round"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "Problem B : The Size of Jupiter (5 Points)\n\nThe Earth has a radius of $R_E \\approx 6371\\ km$ and an average density of $\\rho_E \\approx 5.514\\ \\frac{g}{cm^3}$. Jupiter is much bigger and heavier with a radius of $R_J \\approx 70000\\ km$ and an average density of $\\rho_J \\approx 1326\\ \\frac{kg}{m^3}$. Use these values to answer following questions (write down your steps):\n\n(a). Approximately how many Earths fit into Jupiter (by volume)?\n\n(b). How many times heavier is Jupiter compared to Earth?",
+     "paper_label": "Qualification Round"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "Problem C : Space Race to the Moon (5 Points)\n\nAlice and Bob are doing a space race from Earth to the Moon which is $d \\approx 384000\\ km$ far away. Alice's spaceship flies with a constant speed of $v = 500\\ \\frac{km}{h}$. Bob's spaceship starts slowly but accelerates constantly with $a = 1.4\\ \\frac{km}{h^2}$.\n\nWho wins this space race? (Write down your steps.)",
+     "paper_label": "Qualification Round"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "Problem D : Forces between Earth and Moon (5 Points)\n\nAlice and Bob will encounter on their space race the so called Lagrange point $L_1$ at which the forces from Earth and Moon cancel out. The gravitational force on the spaceships is given by\n$$F(r) = mG\\left(\\frac{M_E}{r^2} - \\frac{M_M}{(d-r)^2}\\right)$$\nwith the constant $G$, the mass of the spaceship $m$, the masses $M_E$, $M_M$ of Earth and Moon, the distance $d$ between Earth and Moon, and the distance $r$ of the spacecraft to the center of the earth. For this problem we assume that the Earth-Moon system is at rest.\n\n(a). Use $F(r)$ to find a formula that calculates the distance to the Lagrange point $L_1$.\n\n(b). Explain missing aspects in this calculation due to the assumption that the 'Earth-Moon system is at rest'.",
+     "paper_label": "Qualification Round"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "Problem E : Polar Lights (5 Points)\n\nSince the existence of humans we were fascinated by the natural phenomena of polar lights (aurora). The various colors in the skies have inspired many stories and are a symbol for the beauty of nature. Today, we understand the underlying scientific reasons for this phenomena.\n\nExplain the causes and scientific reasons that explain polar lights.",
+     "paper_label": "Qualification Round"
+    }
+   ]
+  },
+  {
+   "year": 2020,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "Problem A : The Solar System (5 Points)\n\nFill in the blank spaces with the correct information:\n\nThe Sun is in the center of Solar System and is composed mainly of the elements (1) and (2). The distance from the Earth to the Sun is also called (3). Many people dream about building a colony on Mars, but the atmosphere is primarily made of (4). We have discovered the (5) between Mars and Jupiter, which contains millions of small objects. Jupiter has a total of (6) moons: The four largest moons are easily visible with a telescope and (7) is the closest and most active one. Uranus and Neptune are the outermost planets and it takes Neptune (8) years to complete one orbit around the Sun.",
+     "paper_label": "Qualification Round"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "Problem B : Cosmic Scales (5 Points)\n\nAssume the diameter of the Earth (12,700 km) is scaled down to 1 cm and answer the following:\n\n(a) How large is the Sun (diameter: $1.4\\times10^6$ km) on this scale?\n\n(b) How far away is the nearest star (distance: 4.24 light-years) on this scale?",
+     "paper_label": "Qualification Round"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "Problem C : Distance to the Moon (5 Points)\n\nDuring the daylight, you hold a ruler in a distance of 60 cm away from your eyes, and you find the size of the Moon to be 0.55 cm (try it yourself!). At night, you use a telescope to observe rock formations and craters on the Moon to estimate the diameter of the Moon to be about 3500 km.\n\nFind the distance to the Moon by using only the information from this experiment.",
+     "paper_label": "Qualification Round"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "Problem D : Energy of Satellites (5 Points)\n\nA satellite of mass $m_S$ orbits the Earth (with mass $m_E$ and radius $R_E$) with a velocity $v$ and an altitude $h$. The gravitational force $F_G$ and the centripetal force $F_C$ are given by:\n$$F_G = G\\,\\frac{m_S\\cdot m_E}{(R_E+h)^2},\\quad F_C = \\frac{m_S\\cdot v^2}{R_E+h},\\quad G = const.$$\n\n(a) Find an equation for the kinetic energy $E_{kin}(h)$ of a satellite with an altitude $h$.\n\n(b) Based on the kinetic energy, how much liquid hydrogen (energy density: $10^6$ J/Litre) is at least needed to bring a small 1 kg satellite in an orbit of 400 km. (Use literature to find $m_E$, $R_E$, $G$.)",
+     "paper_label": "Qualification Round"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "Problem E : Nuclear Fusion (5 Points)\n\nThe light from the Sun is essential for all life on Earth. For a long time, we did not understand where all of this energy is coming from and how the sunlight is generated. Today, we know that the process of nuclear fusion is responsible for the energy production in the Sun and other stars.\n\nExplain how nuclear fusion in the Sun produces the sunlight we see on Earth.",
+     "paper_label": "Qualification Round"
+    }
+   ]
+  },
+  {
+   "year": 2021,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "Problem A : Observing the Night Sky (5 Points)\n\nFill in the blank spaces with the correct answers:\n\n(1) Approximately how many stars are visible with the naked eye in the night sky?\n\n(2) Where in the night sky can you observe the famous double star system Mizar and Alcor?\n\n(3) What kind of celestial object is Neowise C/2020 F3 and what makes it special?\n\n(4) Which very intense meteor shower is taking place annually in December?\n\n(5)–(7) What are the names of the following three well-known constellations?\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/iaac-2021-qr-a.png",
+     "paper_label": "Qualification Round"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "Problem B : Shock Wave Escape (5 Points)\n\nThe star of a distant solar system explodes as a supernova. At the moment of the explosion, an resting exploration spaceship is 15 AU away from the shock wave. The shock wave of the explosion travels with 25000 km/s towards the spaceship. To save the crew, the spacecraft makes use of a special booster that uniformly accelerates at 150 m/s$^2$ in the opposite direction.\n\nDetermine if the crew manages to escape from the shock wave. (Neglect relativistic effects.)",
+     "paper_label": "Qualification Round"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "Problem C : Mysterious Planet (5 Points)\n\nA research team has discovered that a moon is circling a planet of our solar system: The moon orbits the planet once every 7 hours on a nearly circular orbit in a distance $R$ of 48000 km from the centre of the planet. Unfortunately, the mass $m$ of the moon is not known. Use Newton's law of gravitation with $G = 6.67\\cdot10^{-11}$ m$^3$/(kg·s$^2$) to approach the following questions:\n$$F = G\\cdot\\frac{mM}{R^2} \\qquad (1)$$\n\n(a) Based on the observations, determine the total mass $M$ of the planet.\n\n(b) Which moon and planet of our solar system is the team observing? (Use literature.)",
+     "paper_label": "Qualification Round"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "Problem D : Gravitational Constant (5 Points)\n\nAn astronaut working on the Moon tries to determine the gravitational constant $G$ by throwing a Moon rock of mass $m$ with a velocity of $v$ vertically into the sky. The astronaut knows that the Moon has a density $\\rho$ of 3340 kg/m$^3$ and a radius $R$ of 1740 km.\n\n(a) Show with (1) that the potential energy of the rock at height $h$ above the surface is given by:\n$$E = -\\frac{4\\pi G}{3}\\,m\\rho\\cdot\\frac{R^3}{R+h} \\qquad (2)$$\n\n(b) Next, show that the gravitational constant can be determined by:\n$$G = \\frac{3}{8\\pi}\\frac{v^2}{\\rho R^2}\\left(1 - \\frac{R}{R+h}\\right)^{-1} \\qquad (3)$$\n\n(c) What is the resulting $G$ if the rock is thrown with 30 km/h and reaches 21.5 m?",
+     "paper_label": "Qualification Round"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "Problem E : Pulsars (5 Points)\n\nRadio telescopes are an essential tool for modern astrophysics. They played a crucial role in discovering a fascinating astronomical object: Pulsars - highly compact objects that periodically emit radiation. Pulsars are still an active part of astrophysical research.\n\nExplain how pulsars are formed and the causes for their pulsating behaviour.",
+     "paper_label": "Qualification Round"
+    }
+   ]
+  },
+  {
+   "year": 2022,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "Problem A : The James Webb Space Telescope (5 Points)\n\nThe James Webb Space Telescope (JWSP) was finally launched into space on December 25, 2021, and is about to become one of the most important scientific instruments of our time. Name the major components of the JWSP shown in the figure below: (A)–(J).\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/iaac-2022-qr-a.png",
+     "paper_label": "Qualification Round"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "Problem B : Very Dense Earth (5 Points)\n\nNeutron stars are some of the densest objects in the universe. They form during supernova explosions and are very small compared to other astronomical objects. You can assume 5 x $10^{17}$ kg/m$^3$ as the average density of a neutron star. The Earth has a total mass of about 5.97 x $10^{24}$ kg.\n\nWhat would be the diameter of the Earth if it had the density of a neutron star?",
+     "paper_label": "Qualification Round"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "Problem C : Asteroid Field (5 Points)\n\nAssume that a gravitational anomaly in the solar system has shifted a field of asteroids into Earth's orbit, and the field is now moving directly towards Earth. The asteroid field has a density of $\\rho$ (asteroids/volume), and each asteroid has an average mass of $m$. The asteroid field stretches over a distance $d$ in Earth's path. Assume that the Earth moves with a velocity of $v$, the asteroids with $u$, and that $v \\gg u$. Let $R$ be the radius and $M$ the mass of the Earth. The Earth collides with the asteroid field:\n\nShow that the slow-down $\\Delta v$ of the Earth due to the asteroid collisions is given by:\n$$\\Delta v = v\\left(1 - \\frac{1}{1 + \\pi R^2 d\\rho\\frac{m}{M}}\\right)$$\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/iaac-2022-qr-c.png",
+     "paper_label": "Qualification Round"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "Problem D : Position of the JWST (5 Points)\n\nThe James Webb Space Telescope is positioned around 1.5 million kilometres from the Earth on the side facing away from the Sun. The telescope remains at this distance and orbits around the Sun with the Earth's orbital velocity.\n\n(a) Why is it important to position the JWST behind the Earth?\n\n(b) Determine the angular velocity $\\omega$ of the telescope as it orbits around the Sun.\n\nThe centrifugal $F_\\omega$ and gravitational force $F_G$ are acting on objects orbiting the Sun: $F = F_\\omega - F_G$\n\n(c) Based on this, how much should the telescope accelerate towards or away from the Sun?\n\n(d) Why is the orbit of the telescope stable nonetheless? What other forces need to be considered?",
+     "paper_label": "Qualification Round"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "Problem E : Infrared Radiation (5 Points)\n\nThe electromagnetic spectrum contains various types of radiation with different properties. The James Webb Space Telescope is not like an optical telescope at home and does not capture visible light; instead, it observes the sky in the infrared spectrum.\n\nExplain what infrared radiation is and answer the following questions: How is infrared radiation different from visible light? Why does the JWST observe infrared light, and what are the scientific advantages for astronomers?",
+     "paper_label": "Qualification Round"
+    }
+   ]
+  },
+  {
+   "year": 2023,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "Problem A : The Classification of Galaxies (5 Points)\n\nGalaxies are some of the most beautiful objects in the universe and are observable in many different shapes, colours and sizes. Astronomers have classified galaxies into different groups: spiral (SA), intermediate spiral (SAB), barred spiral (SB), lenticular (S0), elliptical (E), and irregular (Irr).\n\nWhich galaxy classes are illustrated by the shapes below (A1-A4)? Find the correct class (B1-B4) and name (C1-C4) of each galaxy shown in the images: NGC 2337, NGC 300, NGC 1365, Messier 110\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/iaac-2023-qr-a-1.png\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/iaac-2023-qr-a-2.png",
+     "paper_label": "Qualification Round"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "Problem B : The Speed of Light (5 Points)\n\nLight travels extremely fast through the universe. However, the speed of light is limited to about 300,000 km/s. Because of that, it takes sunlight 8.3 minutes to reach the Earth.\n\nHow long does it take light from the Sun's surface to reach Mars (223 million km distance to the Sun), Jupiter (777 million km) and Pluto (5,906 million km), respectively?",
+     "paper_label": "Qualification Round"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "Problem C : Elliptical Orbit (5 Points)\n\nObjects go around the Sun in elliptical orbits. Especially comets can have orbits with a high eccentricity. The newly found comet P/2023 IAAC has a semi-major axis of 16.5 AU and a semi-minor axis of 8.3 AU. The comet's mass is negligible compared to the Sun (1.9 x $10^{30}$ kg).\n\nThe vis-viva equation gives the orbital speed of an object travelling along the ellipse:\n$$v(x) = \\sqrt{\\mu\\left(\\frac{2}{x} - \\frac{1}{a}\\right)},\\qquad \\mu = G(m_1 + m_2)$$\nHere, $a$ is the semi-major axis, $m_1$ and $m_2$ are the masses of the orbiting bodies, $x$ is the distance between the comet and the centre of mass, and $G$ is the gravitational constant.\n\n(a) Calculate the eccentricity of P/2023 IAAC's orbit around the Sun.\n\n(b) Which one of the points $P_1$, $P_2$, $P_3$ is the aphelion and which one the perihelion?\n\n(c) Determine the comet's speed at the three points $P_1$, $P_2$, $P_3$.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/iaac-2023-qr-c.png",
+     "paper_label": "Qualification Round"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "Problem D : Distance between Stars (5 Points)\n\nDetermining the distance to stars can be challenging. The parallax method is one way of finding the distance to many stars around us. Your research team measures the parallax of two stars that have a distance of 5 degrees from each other in the night sky: The first star has a parallax of 0.11 arcsec, and the second has a parallax of 0.13 arcsec.\n\nHow far apart are the two stars from each other? Express your answer in light-years.",
+     "paper_label": "Qualification Round"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "Problem E : Dark Energy (5 Points)\n\nCosmology studies the dynamics of the universe on its largest scales. Its research reveals how the universe evolves over time and, in particular, how it expands. The term dark energy frequently appears in cosmology.\n\nWhat does the term dark energy describe? What are evidences for the existence of dark energy?",
+     "paper_label": "Qualification Round"
+    }
+   ]
+  },
+  {
+   "year": 2024,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "Problem A : The Southern Hemisphere (5 Points)\n\nMost people live in the northern hemisphere of the Earth and observe the northern night sky. However, the night sky in the southern hemisphere is different and features many interesting & important astronomical objects that cannot be seen in the northern hemisphere.\n\nBelow, you see a sketch of a particular section of the southern hemisphere night sky. Find the correct names of the objects tagged with the letters A to H.\n\nNote: A,B,H refer to stars; F refers to a constellation; C,D,E,G refer to other objects.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/iaac-2024-qr-a.png",
+     "paper_label": "Qualification Round"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "Problem B : Stars in the Milky Way (5 Points)\n\nOur Sun is one star among billions of stars in the Milky Way. However, it is difficult to determine the exact number of stars. By observing the nearby stars around us, you find that the local density of stars is 0.05 stars/(light-year)$^3$. For simplicity, assume that the Milky Way has a cylindrical shape with a diameter of 100,000 light-years and a thickness of 1,000 light-years.\n\nUse this information to estimate the total number of stars in the Milky Way.",
+     "paper_label": "Qualification Round"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "Problem C : Gravity at the ISS (5 Points)\n\nThe International Space Station (ISS) orbits the Earth at an altitude of around 410 km. The ISS does not fall towards the Earth, and the astronauts & objects are floating weightlessly. On Earth's surface, objects fall with a gravitational acceleration of approximately 9.81 m/s$^2$.\n\n(a) Show that the following equation gives the percentage $P$ of how much the grav. acceleration decreases between Earth's surface ($R$: Earth's radius, 6371 km) and an object at altitude $z$:\n$$P(z) = 1 - \\left(\\frac{1}{1+\\frac{z}{R}}\\right)^2$$\n\n(b) What is $P(z)$ for the altitude of the ISS, and why are objects weightless nevertheless?\n\n(c) At what distance does the grav. acceleration become only 1% of that on Earth's surface?",
+     "paper_label": "Qualification Round"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "Problem D : Field of View of the ISS (5 Points)\n\nThe astronauts living on the ISS have a spectacular view of Earth. However, they see only a certain part of the Earth at a given time, and the planet's curvature limits their view.\n\nUse geometry to determine (a) the field of view angle $\\theta$, (b) the total distance $S$ visible, and (c) the percentage of Earth's surface that astronauts can see.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/iaac-2024-qr-d.png",
+     "paper_label": "Qualification Round"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "Problem E : Microwave Background (5 Points)\n\nLooking into the universe around us reveals billions of galaxies across all directions. However, when looking past them into the empty space, we detect something called the cosmic microwave background (CMB). It was discovered by accident and is immensely important for cosmology.\n\nExplain what the CMB is and how it was discovered.",
+     "paper_label": "Qualification Round"
+    }
+   ]
+  },
+  {
+   "year": 2025,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "Problem A : Reflector Telescope (5 Points)\n\nOne of the most essential tools for astronomical research are telescopes. They allow us to see much further into space than possible with our eyes. Not only scientists but also astronomy enthusiasts from around the world use telescopes to explore the universe from home.\n\nFind the correct names of the components tagged with the letters A to I in the sketch below.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/iaac-2025-qr-a.png",
+     "paper_label": "Qualification Round"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "Problem B : Distance to Alpha Centauri (5 Points)\n\nTravelling to another star is a challenge because of the great distances between stars. The Alpha Centauri star system is the closest to the Sun, with its nearest member located 4.25 light-years away. The Sun and the Earth have a diameter of 1,400,000 km and 12,750 km, respectively, and they are on average 1 AU (astronomical unit; $\\approx 1.496\\cdot10^8$ km) far away from each other.\n\nAssume that the Sun has a diameter of 22 cm, the size of a football. On this scale, what would be the size of the Earth, the distance between the Earth and the Sun, and to the nearest star?\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/iaac-2025-qr-b.png",
+     "paper_label": "Qualification Round"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "Problem C : Density of Planets (5 Points)\n\nKnowing the density of planets is important for understanding their physical structure. It is possible to determine the average density $\\rho$ of a planet simply by measuring the gravitational acceleration $g$ at the planet's surface and the planet's radius $R$.\n\n(a) Show that the average density of a planet can be calculated using this equation:\n$$\\rho(g,R) = \\frac{3}{4\\gamma\\pi}\\cdot g\\cdot\\frac{1}{R}$$\n\n(b) The gravitational acceleration on Earth is 9.81 m/s$^2$. What is the Earth's average density?\n\n(Note: $\\gamma = 6.674\\cdot10^{-11}$ m$^3$/kg/s$^2$ is the gravitational constant.)",
+     "paper_label": "Qualification Round"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "Problem D : Cosmological Model (5 Points)\n\nCosmology studies the universe as a whole and how it develops over time: The scale factor $a(t)$ describes the change of distance in the universe. The Hubble parameter $H(t) = \\dot{a}(t)/a(t)$ (where the dot represents the rate of change with respect to time) describes the rate at which the universe expands, and was measured to be around 72.6 km/s/Mpc using the James Webb Space Telescope in 2024. The deceleration parameter $q$ describes the acceleration of the expansion:\n$$q = -\\left(1 + \\frac{\\dot{H}}{H^2}\\right)$$\nAssume a model with $a(t) = \\lambda\\cdot t^\\beta$, where $\\lambda$ and $\\beta$ are real numbers. Knowing that the universe is around 13.7 billion years old, determine if the expansion is accelerating or decelerating.",
+     "paper_label": "Qualification Round"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "Problem E : Comets (5 Points)\n\nIn January 2025, the comet C/2024 G3 passed by the Sun at a close distance of 0.09 AU. Because the comet was shining exceptionally bright, it is now called the Great Comet of 2025, and it is one of five comets in the last 100 years that can be observed with the naked eye during daylight. Other less bright comets pass by the Sun frequently and they are observable through telescopes.\n\nDescribe the materials of which a comet consist and explain why the bright tail forms.",
+     "paper_label": "Qualification Round"
+    }
+   ]
+  },
+  {
+   "year": 2026,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "Problem A : Cosmic Distances (5 Points)\n\nAstronomy explores a universe that spans an extraordinary range of distances. Below are astronomical images and a logarithmic distance ruler showing distance from Earth in light-years. Each image matches one object name and one labeled position (A–H) on the ruler: Coma Cluster, Aldebaran, Eagle Nebula, Large Magellanic Cloud, Pleiades, Andromeda Galaxy, Sagittarius A*, Vega.\n\nFor each image, find the matching name and position on the distance ruler (A-H):\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/iaac-2026-qr-a-1.png\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/iaac-2026-qr-a-2.png",
+     "paper_label": "Qualification Round"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "Problem B : Low Earth Orbit (5 Points)\n\nEarth is surrounded by an increasing number of human-made satellites. At present, approximately 13,500 satellites orbit our planet in low Earth orbit (LEO), the region of space extending from about 160 km to 2,000 km above Earth's surface.\n\n(a) Calculate the total volume of space contained within low Earth orbit (in km$^3$).\n\nNote: The radius of the Earth is around 6,370 km.\n\n(b) Determine the average volume of space available to each satellite.",
+     "paper_label": "Qualification Round"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "Problem C : Total Solar Eclipse (5 Points)\n\nSolar eclipses are among the most fascinating phenomena observable from Earth. They occur when the Moon passes between Earth and the Sun, temporarily blocking the Sun's light. Although the Sun is much larger than the Moon, both objects can appear nearly the same size in the sky because of their different distances from Earth.\n\n(a) What is the difference between total, partial, and annular solar eclipse?\n\n(b) The Qualification Round deadline is in April 2026. When will the next total solar eclipse occur?\n\n(c) Let $R_M$ and $R_S$ be the radii of the Moon and the Sun, and let $d_M$ and $d_S$ be the Earth-Moon and Earth-Sun distances. Show that a total solar eclipse is only possible if\n$$\\frac{R_M}{d_M} \\geq \\frac{R_S}{d_S}.$$\nNote: Explain the approximations used to get this simplified condition.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/iaac-2026-qr-c.png",
+     "paper_label": "Qualification Round"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "Problem D : The Last Eclipse (5 Points)\n\nTotal solar eclipses are possible today because the apparent sizes of the Sun and the Moon in Earth's sky are comparable. But, due to tidal interactions, the Moon is moving away from Earth by 3.8 cm per year. At the same time, stellar evolution causes the Sun's radius to increase gradually as it ages. According to Gough (1981), this increase can be approximated by\n$$\\frac{R_S(t)}{R_S(0)} = \\sqrt{\\frac{1}{1 - \\frac{2}{5}\\cdot\\frac{t}{t_0}}},$$\nwhere $R_S(t)$ is the Sun's radius at time $t$ from today, and $t_0$ is equal to 4.6 billion years. Determine when, relative to today, the last total solar eclipse will take place.\n\nNote: Use 1,740 km and 696,000 km for the Moon's and the Sun's radius; 356,000 km for today's Earth-Moon perigee distance; and 152,000,000 km for the constant Earth-Sun aphelion distance.",
+     "paper_label": "Qualification Round"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "Problem E : Testing the Theory of Relativity (5 Points)\n\nOn 29 May 1919, a total solar eclipse provided astronomers with a unique opportunity to test Einstein's theory of relativity, which proposed a new understanding of gravity. Teams of scientists traveled to remote locations across the world to carry out challenging observations under difficult conditions, and the results quickly attracted worldwide attention.\n\nExplain how the 1919 eclipse was used to test Einstein's theory of relativity.",
+     "paper_label": "Qualification Round"
+    }
+   ]
+  }
+ ]
+}
