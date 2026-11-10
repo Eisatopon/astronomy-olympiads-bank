@@ -693,12 +693,13 @@ dialog p { color: var(--muted); font-size: .92rem; }
 // Local copies (python -m http.server) read the files next to the page; the published site reads the raw files.
 const BASE = /^(localhost|127\.)/.test(location.hostname) ? './' : 'https://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/';
 // Bump on every data change so browsers never mix old and new files.
-const DATA_VERSION = '20261110-no-finals';
+const DATA_VERSION = '20261110-jioaa-2024-2025';
 const FIRST = 1990, LAST = 2026;
 const REGIONS = [['europe', 'Europe'], ['asia', 'Asia'], ['americas', 'Americas'], ['africa', 'Africa'], ['oceania', 'Oceania'], ['world', 'World'], ['other', 'Other']];
 const REGION_OF = {
     ioaa: 'world',
     ioaada: 'world',
+    jioaa: 'world',
     gecaa: 'world',
     baao: 'europe',
     inao: 'asia',
@@ -727,6 +728,7 @@ const STORAGE_KEY = 'eisatopon-astronomy:set:v1';
 const COUNTRIES = [
     { key: 'ioaa', name: 'IOAA', flag: '🌐', file: 'IOAA-theory-problems.json', kind: 'years', scope: 'international', full: 'International Olympiad on Astronomy and Astrophysics, theoretical examination', group: 'IOAA', groupName: 'IOAA', sub: 'Theory' },
     { key: 'ioaada', name: 'IOAA Data Analysis', flag: '🌐', file: 'IOAA-data-analysis-problems.json', kind: 'years', scope: 'international', full: 'International Olympiad on Astronomy and Astrophysics, data analysis examination', group: 'IOAA', groupName: 'IOAA', sub: 'Data analysis', order: 1 },
+    { key: 'jioaa', name: 'Junior IOAA', flag: '🌐', file: 'IOAA-junior-problems.json', kind: 'years', scope: 'international', full: 'International Olympiad on Astronomy and Astrophysics for juniors (Junior IOAA), theoretical examination', group: 'IOAA', groupName: 'IOAA', sub: 'Junior (theory)', order: 2 },
     { key: 'baao', name: 'UK BAAO', flag: '🇬🇧', file: 'UK-baao-problems.json', kind: 'years', full: 'British Astronomy and Astrophysics Olympiad, Competition Paper (final round)' },
     { key: 'inao', name: 'India INAO', flag: '🇮🇳', file: 'India-inao-problems.json', kind: 'years', full: 'Indian National Astronomy Olympiad (INAO), Senior level' },
     { key: 'usaaao', name: 'USA USAAAO', flag: '🇺🇸', file: 'USA-usaaao-problems.json', kind: 'years', full: 'USA Astronomy and Astrophysics Olympiad (USAAAO): National Astronomy Competition (NAC) and later selection exams' },
@@ -1833,6 +1835,7 @@ const OLAA_BOOK = 'Statement taken from the extract of the book "15 años de OLA
 const ORGANISERS = {
     ioaa: {comp: 'IOAA', org: 'the International Olympiad on Astronomy and Astrophysics (IOAA) and the host organising committee of each year', rights: 'IOAA', short: 'the IOAA or its host organising committees'},
     ioaada: {comp: 'IOAA', org: 'the International Olympiad on Astronomy and Astrophysics (IOAA) and the host organising committee of each year', rights: 'IOAA', short: 'the IOAA or its host organising committees'},
+    jioaa: {comp: 'Junior IOAA', org: 'the International Olympiad on Astronomy and Astrophysics (IOAA), which runs the Junior IOAA, and the host organising committee of each year', rights: 'IOAA', short: 'the IOAA or its host organising committees'},
     gecaa: {comp: 'GeCAA', org: 'the organisers of the Global e-Competition on Astronomy and Astrophysics (GeCAA 2020; papers in the IOAA archive)', rights: 'the GeCAA organisers', short: 'the GeCAA organisers or the IOAA'},
     iao: {comp: 'International Astronomy Olympiad', org: 'the International Astronomy Olympiad (IAO) and the Euro-Asian Astronomical Society', rights: 'IAO / Euro-Asian Astronomical Society', short: 'the IAO or the Euro-Asian Astronomical Society'},
     apao: {comp: 'Asian-Pacific Astronomy Olympiad', org: 'the Asian-Pacific Astronomy Olympiad (APAO) organisers (papers published on the IAO web site)', rights: 'the APAO organisers', short: 'the APAO organisers or the IAO'},

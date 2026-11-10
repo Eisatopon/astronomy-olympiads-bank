@@ -1,0 +1,141 @@
+{
+ "competition": "International Olympiad on Astronomy and Astrophysics for juniors (Junior IOAA) — Theoretical examination",
+ "years": [
+  {
+   "year": 2024,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "T1 (15 marks)\n\nA student used a telescope of diameter ($D$) 100cm, to observe a distant star whose absolute magnitude is -0.5. If we consider the limiting magnitude of the eye as 6 and the diameter of the pupil ($d$) to be 7mm, then answer the following questions:\n\n1. If no interstellar medium (ISM) is present, find the maximum distance to which student can detect this star.\n\n2. In reality, an ISM of extinction factor 0.05 mag/Kpc is present between the star and the Earth. Find the maximum distance to which the student can detect the star.\n\nNote: When an equation cannot be solved analytically, we use iterative methods to find an approximate numerical solution. As an example, suppose you want to find out the value of $x = x_{fin}$, for which $x_{fin} = f(x_{fin})$, we start with some value $x = x_0$ and proceed as follows:\n\n• Step 1: Find $f(x_0)$ and call it $x_1$.\n\n• Step 2: Find $f(x_1)$ and call it $x_2$.\n\n• Step 3: Find $f(x_2)$ and call it $x_3$.\n\nKeep repeating this iteration process till $x_n$ is almost same as $x_{n-1}$. That is your desired $x_{fin}$ value.",
+     "paper_label": "Theory"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "T2 (15 points)\n\nStarting from the law of conservation of energy, derive an expression for the total mechanical energy of a body of mass $m$ on an elliptical orbit, in terms of $G$, the mass of the object being orbited ($M$) and the semi-major axis of the orbit $a$. Use your derivation to then find the ratio of the speeds at perihelion and aphelion, for an object that has an orbit with eccentricity $e$.",
+     "paper_label": "Theory"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "T3 (15 points)\n\nNepal has a unique timezone of UTC +5:45, with the meridian for the country passing through the peak of Mt. Gaurishankar in the Himalayas.\n\n1. Knowing that Mt. Gaurishankar is about 105km due East from Kathmandu, estimate Kathmandu's longitude.\n\n2. Binod, who stays in Kathmandu, sees a bright star at meridian at exactly 8:35 pm as per his watch. Calculate Kathmandu's local time for this star's meridian crossing.\n\n3. Binod wants to tell about this bright star to his friend Ravi who lives in Ranchi, a city in India that has the same longitude as Kathmandu, but a timezone of UTC +5:30. What is the difference in local time and time in the watch for Ravi? What time will the same star cross the meridian as per Ravi's watch?",
+     "paper_label": "Theory"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "T4 (15 marks)\n\nIn Cosmology, Cepheid variables are called standard candles as they can be used to estimate distances. Edwin Hubble used these standard candles to settle the Shapley-Curtis debate by measuring the distance to the Andromeda Galaxy. Cepheid variables are variable stars whose brightness vary periodically. Henrietta Leavitt discovered the relation between the periodicity and average luminosity of these stars, and this relation can be used to derive the equation linking Absolute magnitude and Period. For Cepheid variables, Luminosity($L$) varies with Period($P$) as $L \\propto P^{2.5}$, where P is in days.\n\n1. Find the relation between Absolute Magnitude ($M$) and $P$ for this type of variable stars.\n\n2. You might notice that it is a linear equation between M and a function of P. If the unknown constatnt of the given equation is -1.5 mag, then find the distance to the given Cepheid Variable.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/jioaa-2024-t4.png",
+     "paper_label": "Theory"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "T5 (15 points)\n\nNepal has ambitions to launch a geostationary satellite of its own. If the satellite is to maintain a geostationary orbit such that, when viewed from Kathmandu, it is at the prime meridian. What would be its altitude when observed from Kathmandu? You can neglect refraction due to the atmosphere and other smaller effects.",
+     "paper_label": "Theory"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "problem": "T6 (15 points)\n\nThe festival of Dashain is one of the most important celebrations in the Nepali calendar. The final day of the festival coincides with a Waxing Gibbous Moon that is exactly 10 days old. The festival always happens in a fixed month of lunar calendar, which has 12 months. Answer the following questions regarding the estimated timing of the Dashain festival.\n\n1. In 2024, the final day is scheduled to fall on the 12th of October. Assuming that the Moon is exactly 10 days old at 11 am, predict on which date the final day of Dashain occurred in 2023.\n\n2. Predict on which day Kojagrat Purnima, which is the Full Moon immediately after Dashain, will fall in 2025.",
+     "paper_label": "Theory"
+    },
+    {
+     "day": 1,
+     "number": 7,
+     "problem": "T7 (15 points)\n\nThe Cosmic Horseshoe is a gravitationally lensed galaxy at $z = 2.379$. It has a magnification factor ($\\mu = 30$). The magnification that occurs due to gravitational lensing is analogous to that provided by an optical telescope, but is due to the gravitational effects of massive bodies. Answer some questions about this galaxy to help a researcher. [Note: AB magnitudes are converted analogously to the magnitude scale that you are familiar with. The average flux density of an object is the Flux ($F$) of that object divided by the bandwidth $\\Delta\\nu$ of the detector.]\n\n1. At what wavelength ($\\lambda_{obs}$) would you expect to detect the $H_\\alpha$ emission line emitted by this galaxy? [Note: $\\lambda_{rest} = 656.3\\,\\mathrm{nm}$.]\n\n2. Source plane reconstruction is the technique by which the lensing effects on the galaxy are estimated, in order to get an understanding of the galaxy's morphology. We use the technique and now need to determine the object's physical properties. Using the Hubble Space Telescope (HST), the F606W band AB magnitude is found to be 20.5. What is the object's magnitude after correcting for lensing?\n\n3. One can convert from AB magnitudes to flux density by using the fact that a source at 0 AB magnitude has 3631 Jy of flux density. What is (a) the apparent flux density of the Cosmic Horseshoe and (b) what is the magnification corrected flux density?\n\n4. The Cosmic Horseshoe is observed to have its F606W UV continuum emission spread across an area of $13\\,\\mathrm{arcsec}^2$. What is its apparent UV continuum emission surface density, in units of $\\mathrm{mag\\ arcsec^{-2}}$?\n\n5. If the angular scale at the Horseshoe's redshift is 8 kpc $\\mathrm{arcsec}^{-1}$, what is the radius of the galaxy, assuming that its a face-on disk?",
+     "paper_label": "Theory"
+    },
+    {
+     "day": 1,
+     "number": 8,
+     "problem": "T8 (15 points)\n\nAs we saw in the group competition, Nepal got the chance to name a star in the constellation of Leo. The name given to that star is Sagarmatha. The coordinates of this star are $\\alpha = 11^h35^m52^s$, $\\delta = -4^\\circ45'21''$. Given that the Autumnal equinox for the year 2024 happened on Sep 22 at 6:28 pm Nepal time, and neglecting the effects of atmospheric refraction,\n\n1. Find the rise time of Sagarmatha as seen from Kathmandu on $6^{th}$ October 2024. (Note: The rise time here refers to local time in Kathmandu)\n\n2. We want to find Sagarmatha through a telescope. Since Sagarmatha is too faint, we first point to $\\phi$ Leo ($\\alpha = 11^h16^m38^s$, $\\delta = -3^\\circ38'58''$). Find angular separation between $\\phi$ Leo and Sagarmatha.",
+     "paper_label": "Theory"
+    },
+    {
+     "day": 1,
+     "number": 9,
+     "problem": "T9 (15 points)\n\nSuppose you are travelling on a spacecraft that encounters a uniformly spherically distributed gas cloud with radius $R$, and volume density $\\rho$. At your moment of approach, you decelarate till you are at rest with respect to the gas cloud and then turn off your engines. You may neglect gas friction in this problem.\n\n*Note: Gravitational Potential inside the uniform solid sphere is given by\n$$V(r) = -\\frac{GM}{R^3}\\left(\\frac{3R^2}{2} - \\frac{r^2}{2}\\right)$$\nwhere $r$ is the distance from the center of the gas cloud. You may also find the following fact useful. For an equation of the form $a = -k^2 r$, where $k$ is some constant and $a$ is acceleration, the time period of the oscillation is given by: $T = \\frac{2\\pi}{k}$.\n\n1. Once inside the gas cloud, how long will it take you to return to your original position if you are in free fall inside the cloud?\n\n2. Start from the law of conservation of energy. Suppose you are tired of being inside the gas cloud after investigating it for a while and want to escape it (to infinity). What is your required speed if you are initially located in the center of the cloud and are at rest?",
+     "paper_label": "Theory"
+    },
+    {
+     "day": 1,
+     "number": 10,
+     "problem": "T10 (15 points)\n\nSpectroscopic binary star systems are those systems in which individual stars of the system can't be resolved visually due to their low angular separation. But we can detect that the system is binary due to shifts in their spectral line caused by Doppler shift. In double lined spectroscopic binaries, we can detect two spectra, one for each star. From the change in wavelength of the spectrum over a period of time, we can find the radial velocity curve.\n\nSuppose an astronomer observed a hypothetical spectroscopic binary system having a circular orbit as shown in Figure 1. The plane of the orbit makes an angle $\\theta$ w.r.t the plane of the sky. Star 1 (mass $m_1$) is located on the outer orbit and Star 2 (mass $m_2$) is located in the inner orbit. The observed radial velocity graph is shown in Figure 2.\n\n1. The binary mass function is an expression which depends upon only the observable quantities such as radial velocity and period. Find the binary mass function for both star 1 and star 2.\n\n2. Use your expression in (1) to estimate the masses for the stars. Is your estimate exact, a lower-limit or an upper-limit?\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/jioaa-2024-t10-1.png\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/jioaa-2024-t10-2.png",
+     "paper_label": "Theory"
+    },
+    {
+     "day": 1,
+     "number": 11,
+     "problem": "T11 (15 points)\n\nIn a classical approximation to get a feel for expanding universe, one may assume that the universe is uniformly filled cloud with small particles, and that the critical density ($\\rho_c$) is the density of the cloud at which the expansion of the universe (the Hubble-Lemaitre law) stops at infinite time.\n\n1. Derive a classical expression for ($\\rho_c$) of the universe.\n\n2. Find the value of critical density in SI units.\n\n3. If the universe was filled with tennis balls of mass 0.145 kg each distributed uniformly (no other mass) and the mass density of this universe equal to the critical density then how many tennis balls would be included in a sphere of size of the Sun?",
+     "paper_label": "Theory"
+    },
+    {
+     "day": 1,
+     "number": 12,
+     "problem": "T12 (15 marks)\n\nInterstellar dust is heated up by hot ionizing radiation from young blue stars. They then re-emit the UV light. A dust cloud in a dusty galaxy was recently studied by a researcher. Make the simplifying approximation that you can treat the dust cloud as a blackbody. Help him to answer the following questions:\n\n1. Find the wavelength where the dust emission peaks ($\\lambda_{max}$) if it has a temperature of $T = 50\\,\\mathrm{K}$.\n\n2. The researcher determines that the dust has a total luminosity ($L_{dust}$) $= 1.6 \\times 10^{11} L_\\odot$. Estimate the size of the dust cloud, assuming a spherical distribution.\n\n3. If the cosmological redshift of the galaxy ($z$) is 0.01, estimate the angular size ($\\theta$) of the dust cloud.\n\n4. What aperture telescope is minimally needed if we want to resolve the dust cloud?",
+     "paper_label": "Theory"
+    }
+   ]
+  },
+  {
+   "year": 2025,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "Th.1 Binary System (10 Points)\n\nTwo stars A and B, that form a non-eclipsing binary system, have peaks of their blackbody radiation spectra at 650 nm and 400 nm, respectively. We also know that the radius of star A is twice the radius of star B.\n\na) Compute the difference between the absolute magnitudes of the stars A and B.\n\nb) If the combined absolute magnitude of the binary system is 0.00, find the absolute magnitude of each star.",
+     "paper_label": "Theory"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "Th.2 Speed of Asteroid (10 Points)\n\nAn asteroid moves in an elliptical orbit around the Sun. Its maximum orbital speed is 19.00 km/s and its minimum orbital speed is 14.00 km/s.\n\na) Compute the eccentricity of the orbit.\n\nb) What is the speed of the asteroid when it is exactly at either of the end points of the minor axis of its orbit?\n\nc) A comet from near the outer edge of our Solar System reaches perihelion with an orbital speed of 90.00 km/s. At this instant, the asteroid is at aphelion and the comet, Sun, and asteroid are aligned (comet-Sun-asteroid). Compute the distance between the comet and the asteroid.",
+     "paper_label": "Theory"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "Th.3 Where is Theodor? (10 Points)\n\nTheodor is in a random city somewhere in the world. Using his knowledge of geography, he narrows down the possible locations to the four cities listed below. Then, on October $20^{th}$, he measures the time between sunrise and sunset and finds it to be $t = 10^h42^m$.\n\nCan you help him figure out which city he is in? Ignore atmospheric refraction and Sun's apparent size.\n\na) Compute the Sun's equatorial coordinates on that date. (Consider that the sun moves with constant velocity on the ecliptic from the autumn equinox onward)\n\nb) Based on the measured daytime duration $t$, determine which of the four cities Theodor is in.\n\nc) On this day, exactly at the moment when the Sun sets for Theodor, determine the geographical coordinates of the point on Earth where the Sun is directly overhead.\n\nThe four cities (photograph captions in the paper):\n\n1) Kutaisi ($\\varphi = 42.27^\\circ$ N, $L = 42.66^\\circ$ E)\n\n2) Vassouras ($\\varphi = 22.41^\\circ$ S, $L = 43.66^\\circ$ W)\n\n3) Mumbai ($\\varphi = 18.96^\\circ$ N, $L = 72.83^\\circ$ E)\n\n4) Chorzów ($\\varphi = 50.31^\\circ$ N, $L = 18.97^\\circ$ E)\n\n[Editorial note: the photographs of the four cities are not reproduced here; see page 4 of the theoretical round in the official PDF.]",
+     "paper_label": "Theory"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "Th.4 Exploring NEAs (10 Points)\n\nNear-Earth Asteroids (NEAs) are small rocky bodies orbiting the Sun in the vicinity of Earth's orbit. A science mission designed to study a NEA target is operating a spacecraft that will make its closest approach to the target at a distance of $\\Delta_c = 100\\,\\mathrm{m}$. One of the instruments aboard the spacecraft is a CCD camera called the Asteroid Framer (AF), which can acquire images in the V-band at an effective wavelength of $\\lambda = 550\\,\\mathrm{nm}$. After the mission launched, the operations team conducted initial tests by acquiring images of the Earth using the AF camera with an aperture diameter of $D = 10\\,\\mathrm{mm}$. At that time, the spacecraft was at a distance of $d = 1.5\\times10^6\\,\\mathrm{km}$ from Earth. The Earth was observed on the images within a photometric aperture of $\\alpha_\\oplus = 60$ pixels in diameter.\n\na) Compute the pixel scale in arcseconds per pixel.\n\nb) Estimate the linear diameter of the smallest morphological feature that can be observed on the surface of the asteroid at the closest approach.\n\nThe saturation test on initial images showed Earth was just over-exposed at 10 s exposure time and just under-exposed at 0.5 s (under-exposed means signal-to-noise ratio < 5). Using this data, the operations team can determine the exposure time interval allowed to observe the NEA target, which has the expected albedo of $A = 0.10$. Ignore phase angle.\n\nNote: Assume that the detected signal is proportional to the object's surface brightness and the exposure time, and that the surface brightness is proportional to the albedo divided by the square of its distance from the Sun.\n\nc) Determine the corresponding exposure time interval for which the planned observations of the NEA target at the closest approach will be successful without any under–exposure or over–exposure. At that time, the target will be located at $r_{NEA} = 1.20\\,\\mathrm{au}$ from the Sun.",
+     "paper_label": "Theory"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "Th.5 Ceahlău Mountain (15 Points)\n\nCeahlău Mountain is located in Neamț County, not far from the city of Piatra Neamț. An observer on the top of the mountain ($\\varphi = 46^\\circ53'57''$ N, $L = 26^\\circ24'41''$ E, altitude $h = 1907$ m above sea level), looks at the starry sky, making observations of the star Almach in the constellation Andromeda.\n\na) Determine whether, from the top of Mount Ceahlău, the star Almach ($\\gamma$ AND, $\\alpha = 02^h03^m54^s$, $\\delta = 42^\\circ19'47''$) is circumpolar. The radius of the Earth is known to be $R_\\oplus = 6378$ km.\n\nb) In 1778, it was discovered that $\\gamma$ AND is a double star. The two stars are separated by an angle of about $10''$. What should be the diameter of the objective lens of a telescope to see the two components distinctly (the wavelength is known to be $\\lambda = 550$ nm)?\n\nc) It was later discovered that the Almach star is a multiple star system consisting of the primary component $\\gamma_1$ (A) with apparent magnitude $m_1 = 2.27$ and a subsystem $\\gamma_2$ with apparent magnitude $m_2 = 4.84$. Calculate the apparent magnitude of the system consisting of the star $\\gamma_1$ and the subsystem $\\gamma_2$.\n\nd) What is the absolute magnitude of the star, knowing that it is approximately 355 light-years away?",
+     "paper_label": "Theory"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "problem": "Th.6 The Flying Aquila (15 Points)\n\nRadu is observing the night sky from Aveiro ($\\varphi = 40.67^\\circ N$; $L = 8.65^\\circ W$ in the year 2024.\n\nDuring his observations, he sees Altair ($\\alpha_{Altair} - 19^h51^m$; $\\delta_{Altair} = 8^\\circ55'50''$) rising at local solar time $\\mathrm{T_{Local,1}}$ =22:39:43. Later, at local solar time $\\mathrm{T_{Local,2}}$ =02:42:58, he observes that Altair and Arcturus ($\\delta_{Arcturus} = 19^\\circ33'6''$) are at the same altitude. The observations are made from sea level. Ignore atmospheric effects.\n\na) Determine the sidereal time at the moment Altair rises.\n\nb) Determine the current date (at the moment Altair rises). Ignore the equation of time, and consider that the right ascension of the Sun is increasing uniformly through the year, at a rate of $3^m56^s$ per day. The spring equinox occurs on March 21st.\n\nc) Determine the right ascension of Arcturus. Take into account that Arcturus is in the Western hemisphere of the sky at $\\mathrm{T_{Local,2}}$.\n\nNote: In your solution, please use the following notation: $a$ - altitude; $H$ - hour angle; $\\delta$- declination; $\\alpha$- right ascension",
+     "paper_label": "Theory"
+    },
+    {
+     "day": 1,
+     "number": 7,
+     "problem": "Th.7 Lunar Eclipse (30 Points)\n\nOn September $7^{th}$ 2025, there was a total lunar eclipse, visible from Australia, Asia, Africa and Europe. A detailed lunar eclipse figure, obtained from the website eclipsewise.com of eclipse predictions by Fred Espenak, is shown below. Based on the figure, respond to the following items:\n\na) Measure the inclination between the orbit of the Moon around the Earth and the Ecliptic plane. The orbit of the Moon is assumed to be circular.\n\nb) During the total eclipse phase, the moon appears red in colour. Which of the following factors are necessary to explain this red colour? Write their item letters in the aswersheet.\n\nA) Density of atmosphere\n\nB) Albedo of Moon\n\nC) Orbital radius of Moon\n\nD) Albedo of Earth\n\nE) Effective temperature of the Sun\n\nc) Measure the angular diameter of the Moon. Knowing the value of the radius of the Moon, calculate the Earth - Moon distance during the eclipse, in kilometres.\n\nd) Measure the angular diameter of Earth's umbra and the angular diameter of Earth's penumbra.\n\ne) What is the instantaneous angular velocity of the Moon relative to the observer, during the total eclipse? Give the answer in arcminutes per hour ('/h).\n\nf) On 26 June 2029, a central total lunar eclipse will take place. This means that the centre of the disk of the Moon will pass through the axis of Earth's umbral shadow (see figure below). If the angular velocity is assumed to be the same for the two eclipses, by what percentage will the 2029 total lunar eclipse last longer than the one in 2025 (percentage to be calculated of the totality duration in 2025)?\n\ng) Calculate the total duration of the eclipse in 2029 (from Penumbral first contact to Penumbral last contact).\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/jioaa-2025-th7-1.png\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/jioaa-2025-th7-2.png",
+     "paper_label": "Theory"
+    },
+    {
+     "day": 1,
+     "number": 8,
+     "problem": "Th.8 Roche Limit, Hill Sphere, Lagrange Points (40 points)\n\nThe following astronomical data are given:\n\n• The masses of Mars $M_M$ and the Sun $M_\\odot$ are expressed relative to Earth's mass $M_\\oplus$: $M_M = 0.107 M_\\oplus$ and $M_\\odot = 333054 M_\\oplus$.\n\n• The mean Mars-Sun distance is $r_{MS} = 1.524\\,\\mathrm{au}$ and we consider that Mars has a circular orbit.\n\n• The mean Earth-Sun distance is $r_{ES} = 1\\,\\mathrm{au} = 1.496\\times10^{11}\\,\\mathrm{m}$ and we consider that Earth has a circular orbit.\n\n• Mars's moon Phobos has a mass equal to $M_{Phobos} = 1.5\\times10^{-8} M_M$;\n\n• Earth's sidereal period is $P_{Sid\\oplus} = 1\\,\\mathrm{year} = 365.2564\\,\\mathrm{days}$;\n\n• The average radius of the satellite Phobos is approximately $R_{Phobos} = 12.5\\,\\mathrm{km}$;\n\n• The radius of its orbit around Mars is $d_{PhobosM} = 9380\\,\\mathrm{km}$;\n\n• Phobos is spiraling inward towards Mars at the constant rate of 1.8 cm/yr.\n\n• You can use the following approximation:\n$$(1+x)^n \\approx 1 + nx, \\text{ when } x << 1.$$\n\n• Roche limit is the boundary inside which the tidal force of the planet on a small mass is more than its self-gravity.\n\na) Derive the formula for the $L_1$ Lagrange point (distance between secondary body and the $L_1$ point) and calculate its numerical value for the Sun-Mars system. Find the ratio of Phobos's orbital radius to this distance.\n\nb) Derive the formula for the $L_2$ Lagrange point (distance between secondary body and the $L_2$ point) and calculate its numerical value for the the Mars-Phobos system.\n\nc) Derive the formula for the Roche limit of the Mars-Phobos system. How long would it take Phobos to reach this limit? It is known that it approaches the surface of the planet during its rotation and will either collide with it or begin to disintegrate, forming a ring. The satellite is considered to be solid.\n\nd) Calculate the distance $l$ between the Lagrange points $L_4$ and $L_5$ for Sun - Mars system.",
+     "paper_label": "Theory"
+    },
+    {
+     "day": 1,
+     "number": 9,
+     "problem": "Th.9 Lightcurves (40 points)\n\n(A) Transiting Exoplanet\n\nThe figure below presents the light curve of an exoplanet transit. On the X-axis are represented the days elapsed since the first observation, and on the Y-axis is shown the percentage of the average luminosity by which the brightness of the system increases or decreases relative to the average brightness of the star, that is: $100 \\times \\frac{L(t) - L_{average}}{L_{average}}$. Determine the period $P$ of the planet and the ratio $\\frac{Planet\\ Radius}{Star\\ Radius}$.\n\nNote: On Y-axis 0.2 means 0.2% and 1.0 means 1%\n\n(B) Eclipsing Binary Star System\n\nAnother type of object with an interesting light curve is an eclipsing binary star system. The lightcurve of such an object is presented below, with the X-axis representing days since the start of the observing mission, and the Y-axis representing the relative brightness of the system, that is: $\\frac{L(t)}{L_{average}}$. We know that the smaller star is hotter than the larger star. Calculate the period P of the system and the ratio $\\frac{Small\\ Star\\ Radius}{Big\\ Star\\ Radius}$.\n\nNote: On Y-axis 0.7 means 70% and 1.0 means 100%\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/jioaa-2025-th9-1.png\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/jioaa-2025-th9-2.png",
+     "paper_label": "Theory"
+    }
+   ]
+  }
+ ]
+}
