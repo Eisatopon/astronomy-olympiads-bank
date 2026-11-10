@@ -33,6 +33,66 @@
      "number": 5,
      "problem": "Problem E : Polar Lights (5 Points)\n\nSince the existence of humans we were fascinated by the natural phenomena of polar lights (aurora). The various colors in the skies have inspired many stories and are a symbol for the beauty of nature. Today, we understand the underlying scientific reasons for this phenomena.\n\nExplain the causes and scientific reasons that explain polar lights.",
      "paper_label": "Qualification Round"
+    },
+    {
+     "day": 2,
+     "number": 1,
+     "problem": "Problem A.1 : Journey to Proxima Centauri (4 Points)\n\nThe diameter of the Sun is 1.39 million kilometres and the Earth is 8.3 light minutes far away. Proxima Centauri is the nearest star - it has a distance of 4.24 light years to our Sun.\n\n(a) How long does it take to travel to Proxima Centauri with (i) an airplane (920 km/h) or (ii) with the Voyager 1 space probe (17 km/s).\n\n(b) Let the Sun have the size of a tennis ball (diameter: 6.7 cm): How far away is the Earth and how far away is Proxima Centauri on this scale?",
+     "paper_label": "Pre-Final Round"
+    },
+    {
+     "day": 2,
+     "number": 2,
+     "problem": "Problem A.2 : Orbit of the Solar System (4 Points)\n\nThe Milky Way has a diameter of about 150,000 light years. Our solar system is located 27,000 light years from the center of the Milky Way and orbits the center with a speed of 220 km/s.\n\n(a) How long does it take for the solar system to circle the center of the Milky Way?\n\n(b) The earth has formed about 4.5 billion years ago. How often has the earth circled the center?",
+     "paper_label": "Pre-Final Round"
+    },
+    {
+     "day": 2,
+     "number": 3,
+     "problem": "Problem A.3 : Distance to Arcturus (4 Points)\n\nThe stellar parallax of the star Arcturus in the constellation Boötes was measures with $0.09''$.\n\n(a) Calculate the distance (in parsec) between Arcturus and the Earth.\n\n(b) How long does it take to send a light message from Earth to Arcturus?",
+     "paper_label": "Pre-Final Round"
+    },
+    {
+     "day": 2,
+     "number": 4,
+     "problem": "Problem A.4 : From Earth to Mars (4 Points)\n\nFor a special mission to Mars you need to know the smallest distance between Earth and Mars. However, you have lost your astronomy book and you could only find these values:\n\nDistance Earth to Sun: 149.6 million km\n\nOrbital period Earth: 1.00 years\n\nOrbital period Mars: 1.88 years\n\nBy using these values and assuming that Mars and Earth move an circular orbits, calculate the smallest possible distance between Earth and Mars.",
+     "paper_label": "Pre-Final Round"
+    },
+    {
+     "day": 2,
+     "number": 5,
+     "problem": "Problem B.1 : New Star (6 Points)\n\nYou have discovered a new star in the Milky Way: Your new star is red and has 3/5 the temperature of our Sun. The new star emits a total power that is 100,000 times greater than the power emitted by our Sun.\n\n(a) Determine the spectral type (i.e. spectral classification) of the new star.\n\n(b) How many times bigger is the radius of the new star compared to the radius of our Sun?",
+     "paper_label": "Pre-Final Round"
+    },
+    {
+     "day": 2,
+     "number": 6,
+     "problem": "Problem B.2 : Moon Satellite (6 Points)\n\nThe Moon has a mass of $M = 7.3\\cdot10^{22}$ kg, a radius of $R = 1.7\\cdot10^6$ m and a rotation period of $T = 27.3$ days. Scientists are planning to place a satellite around the Moon that always remains above the same position (geostationary).\n\n(a) Calculate the distance from the Moon's surface to this satellite.\n\n(b) Explain if such a Moon satellite is possible in reality.",
+     "paper_label": "Pre-Final Round"
+    },
+    {
+     "day": 2,
+     "number": 7,
+     "problem": "Problem B.3 : Binary Star System (6 Points)\n\nYou are the captain of a spaceship that is circling through a binary star system. Due to the gravitational forces and the rocket engines, the orbit of your spaceship looks like that:\n\nThe position of your spaceship (in AU) at the time $t$ (in days) is given by:\n$$x = 5\\sin(t) \\qquad y = \\sin(2t) \\qquad z = 0$$\n\n(a) How long does it take your spaceship to circle the orbit once?\n\n(b) Find an equation that calculates the velocity $v(t)$ of your spaceship at a given time $t$.\n\n(c) The two stars are positioned at the points $(4,0,0)$ and $(-4,0,0)$: What is the distance of your spaceship to the stars at the time $t = \\frac{\\pi}{2}$?\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/iaac-2019-pf-b3.png",
+     "paper_label": "Pre-Final Round"
+    },
+    {
+     "day": 2,
+     "number": 8,
+     "problem": "Problem B.4 : Asteroid Collision (6 Points)\n\nA warning system has calculated that two asteroids will collide not far from Earth any time soon. The smaller asteroid has the mass $m$ and moves with the velocity $v_m$. The bigger asteroid has the mass $M = 3m$ and the velocity of $v_M = \\frac{1}{2}v_m$. They collide at an angle of $\\alpha = 60^\\circ$ and turn into a single heavy asteroid (inelastic collision):\n\n(a) Calculate the velocity of the single object after the collision.\n\n(b) Determine the angle $\\beta$ after the collision.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/iaac-2019-pf-b4.png",
+     "paper_label": "Pre-Final Round"
+    },
+    {
+     "day": 2,
+     "number": 9,
+     "problem": "Problem C.1 : The Sunburst Arc (10 Points)\n\nThis problem requires you to read following recently published scientific article:\n\nThe Sunburst Arc: Direct Lyman α escape observed in the brightest known lensed galaxy. T.E. Rivera-Thorsen, H. Dahle, M. Gronke, M. Bayliss, J.R. Rigby, R. Simcoe, R. Bordoloi, M. Turner, and G. Furesz, Astronomy & Astrophysics 608, (2017). Link: https://www.aanda.org/articles/aa/pdf/2017/12/aa32173-17.pdf\n\nAnswer following questions related to this article:\n\n(a) Why is it difficulty for LyC radiation to escape galaxies with high star formation rates?\n\n(b) What is the difference between the density-bounded medium and the picket fence model?\n\n(c) Explain the spectral shape of the perforated shell model (see article: figure 1, right box).\n\n(d) What is the Sunburst Arc and how was it discovered?\n\n(e) When did the scientist observe the object and which instruments did they use?\n\n(f) What is the redshift of the Sunburst Arc and how was it determined from the data?\n\n(g) Explain the difference between the right and the left diagram in figure 4 (see article).",
+     "paper_label": "Pre-Final Round"
+    },
+    {
+     "day": 2,
+     "number": 10,
+     "problem": "Problem C.2 : Dark Matter (10 Points)\n\nThis problem requires you to read following recently published scientific article:\n\nProbing Dark Matter Using Precision Measurements of Stellar Accelerations. A. Ravi, N. Langellier, D.F. Phillips, M. Buschmann, B.R. Safdi, R.L. Walsworth, arXiv:1812.07578, (2018). Link: https://arxiv.org/pdf/1812.07578.pdf\n\nAnswer following questions related to this article:\n\n(a) What are the current methods to determine the dark matter density / radial velocity and what are the disadvantages of these methods?\n\n(b) Explain the new method for measuring dark matter density that is proposed in the article.\n\n(c) Let $a_r(r)$ be the dark matter contribution to the acceleration: Show that the dark matter density is given by $\\rho_{DM} \\approx \\frac{1}{4\\pi G}\\left(2(A-B)^2 - \\frac{\\partial a_r}{\\partial r}\\right)$ with Oort constants $2(A-B)^2 = 2GM(r)/r^3$.\n\n(d) How much does the velocity of the stars change during the lifetime of a human (80 years)?\n\n(e) What is important for measuring stellar accelerations and which instruments can be used?\n\n(f) Explain the curves of the four diagrams in figure 2 (see article).",
+     "paper_label": "Pre-Final Round"
     }
    ]
   },
@@ -68,6 +128,66 @@
      "number": 5,
      "problem": "Problem E : Nuclear Fusion (5 Points)\n\nThe light from the Sun is essential for all life on Earth. For a long time, we did not understand where all of this energy is coming from and how the sunlight is generated. Today, we know that the process of nuclear fusion is responsible for the energy production in the Sun and other stars.\n\nExplain how nuclear fusion in the Sun produces the sunlight we see on Earth.",
      "paper_label": "Qualification Round"
+    },
+    {
+     "day": 2,
+     "number": 1,
+     "problem": "Problem A.1: Interstellar Mission (4 Points)\n\nYou are on an interstellar mission from the Earth to the 8.7 light-years distant star Sirius. Your spaceship can travel with 70% the speed of light and has a cylindrical shape with a diameter of 6 m at the front surface and a length of 25 m. You have to cross the interstellar medium with an approximated density of 1 hydrogen atom/m$^3$.\n\n(a) Calculate the time it takes your spaceship to reach Sirius.\n\n(b) Determine the mass of interstellar gas that collides with your spaceship during the mission.\n\nNote: Use $1.673\\times10^{-27}$ kg as proton mass.",
+     "paper_label": "Pre-Final Round"
+    },
+    {
+     "day": 2,
+     "number": 2,
+     "problem": "Problem A.2: Time Dilation (4 Points)\n\nBecause you are moving with an enormous speed, your mission from the previous problem A.1 will be influenced by the effects of time dilation described by special relativity: Your spaceship launches in June 2020 and returns back to Earth directly after arriving at Sirius.\n\n(a) How many years will have passed from your perspective?\n\n(b) At which Earth date (year and month) will you arrive back to Earth?",
+     "paper_label": "Pre-Final Round"
+    },
+    {
+     "day": 2,
+     "number": 3,
+     "problem": "Problem A.3: Magnitude of Stars (4 Points)\n\nThe star Sirius has an apparent magnitude of -1.46 and appears 95-times brighter compared to the more distant star Tau Ceti, which has an absolute magnitude of 5.69.\n\n(a) Explain the terms apparent magnitude, absolute magnitude and bolometric magnitude.\n\n(b) Calculate the apparent magnitude of the star Tau Ceti.\n\n(c) Find the distance between the Earth and Tau Ceti.",
+     "paper_label": "Pre-Final Round"
+    },
+    {
+     "day": 2,
+     "number": 4,
+     "problem": "Problem A.4: Emergency Landing (4 Points)\n\nBecause your spaceship has an engine failure, you crash-land with an emergency capsule at the equator of a nearby planet. The planet is very small and the surface is a desert with some stones and small rocks laying around. You need water to survive. However, water is only available at the poles of the planet. You find the following items in your emergency capsule:\n\n• Stopwatch\n\n• Electronic scale\n\n• 2m yardstick\n\n• 1 Litre oil\n\n• Measuring cup\n\nDescribe an experiment to determine your distance to the poles by using the available items.\n\nHint: As the planet is very small, you can assume the same density everywhere.",
+     "paper_label": "Pre-Final Round"
+    },
+    {
+     "day": 2,
+     "number": 5,
+     "problem": "Problem B.1: Temperature of Earth (6 Points)\n\nOur Sun shines bright with a luminosity of 3.828 x $10^{26}$ Watt. Her energy is responsible for many processes and the habitable temperatures on the Earth that make our life possible.\n\n(a) Calculate the amount of energy arriving on the Earth in a single day.\n\n(b) To how many litres of heating oil (energy density: 37.3 x $10^6$ J/litre) is this equivalent?\n\n(c) The Earth reflects 30% of this energy: Determine the temperature on Earth's surface.\n\n(d) What other factors should be considered to get an even more precise temperature estimate?\n\nNote: The Earth's radius is 6370 km; the Sun's radius is 696 x $10^3$ km; 1 AU is 1.495 x $10^8$ km.",
+     "paper_label": "Pre-Final Round"
+    },
+    {
+     "day": 2,
+     "number": 6,
+     "problem": "Problem B.2: Distance of the Planets (6 Points)\n\nThe table below lists the average distance $R$ to the Sun and orbital period $T$ of the first planets:\n\n$$\\begin{array}{|l|r|r|} \\hline & \\text{Distance} & \\text{Orbital Period} \\\\ \\hline \\text{Mercury} & 0.39\\ \\text{AU} & 88\\ \\text{days} \\\\ \\text{Venus} & 0.72\\ \\text{AU} & 225\\ \\text{days} \\\\ \\text{Earth} & 1.00\\ \\text{AU} & 365\\ \\text{days} \\\\ \\text{Mars} & 1.52\\ \\text{AU} & 687\\ \\text{days} \\\\ \\hline \\end{array}$$\n\n(a) Calculate the average distance of Mercury, Venus and Mars to the Earth. Which one of these planets is the closest to Earth on average?\n\n(b) Calculate the average distance of Mercury, Venus and Earth to Mars. Which one of these planets is the closest to Mars on average?\n\n(c) What do you expect for the other planets?\n\nHint: Assume circular orbits and use symmetries to make the distance calculation easier. You can approximate the average distance by using four well-chosen points on the planet's orbit.",
+     "paper_label": "Pre-Final Round"
+    },
+    {
+     "day": 2,
+     "number": 7,
+     "problem": "Problem B.3: Mysterious Object (6 Points)\n\nYour research team analysis the light of a mysterious object in space. By using a spectrometer, you can observe the following spectrum of the object. The H$\\alpha$ line peak is clearly visible:\n\n(a) Mark the first four spectral lines of hydrogen (H$\\alpha$, H$\\beta$, H$\\gamma$, H$\\delta$) in the spectrum.\n\n(b) Determine the radial velocity and the direction of the object's movement.\n\n(c) Calculate the distance to the observed object.\n\n(d) What possible type of object is your team observing?\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/iaac-2020-pf-b3.png",
+     "paper_label": "Pre-Final Round"
+    },
+    {
+     "day": 2,
+     "number": 8,
+     "problem": "Problem B.4: Distribution of Dark Matter (6 Points)\n\nThe most mass of our Milky Way is contained in an inner region close to the core with radius $R_0$. Because the mass outside this inner region is almost constant, the density distribution can be written as following (assume a flat Milky Way with height $z_0$):\n$$\\rho(r) = \\begin{cases} \\rho_0, & r \\le R_0 \\\\ 0, & r > R_0 \\end{cases}$$\n\n(a) Derive an expression for the mass $M(r)$ enclosed within the radius $r$.\n\n(b) Derive the expected rotational velocity of the Milky Way $v(r)$ at a radius $r$.\n\n(c) Astronomical observations indicate that the rotational velocity follows a different behaviour:\n$$v_{obs}(r) = \\sqrt{G\\pi\\rho_0 z_0}\\,R_0\\left(\\frac{5/2}{1+e^{-4r/R_0}} - \\frac{5}{4}\\right)$$\nDraw the expected and observed rotational velocity into the plot below:\n\n(d) Scientists believe the reasons for the difference to be dark matter: Determine the rotational velocity due to dark matter $v_{DM}(r)$ from $R_0$ and draw it into the plot above.\n\n(e) Derive the dark matter mass $M_{DM}(r)$ enclosed in $r$ and explain its distributed.\n\n(f) Explain briefly three theories that provide explanations for dark matter.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/iaac-2020-pf-b4.png",
+     "paper_label": "Pre-Final Round"
+    },
+    {
+     "day": 2,
+     "number": 9,
+     "problem": "Problem C.1 : Detection of Gravitational Waves (10 Points)\n\nThis problem requires you to read the following recently published scientific article:\n\nObservation of Gravitational Waves from a Binary Black Hole Merger. B. P. Abbott et al., LIGO Scientific Collaboration and Virgo Collaboration, arXiv:1602.03837, (2016). Link: https://arxiv.org/pdf/1602.03837.pdf\n\nAnswer following questions related to this article:\n\n(a) How was the existence of gravitational waves first shown?\n\n(b) Which detectors exist around the world? Why did only LIGO detect GW150914?\n\n(c) Explain the components of the LIGO detectors.\n\n(d) Describe the different sources of noise. How was their impact reduced?\n\n(e) What indicates that the gravitational wave originated from the merger of a black hole?\n\n(f) Which are the methods used to search for gravitational wave signals in the detector data?\n\n(g) How were the source parameters (mass, distance, etc.) determined from the data?",
+     "paper_label": "Pre-Final Round"
+    },
+    {
+     "day": 2,
+     "number": 10,
+     "problem": "Problem C.2 : First Image of a Black Hole (10 Points)\n\nThis problem requires you to read the following recently published scientific article:\n\nFirst M87 Event Horizon Telescope Results. I. The Shadow of the Supermassive Black Hole. The Event Horizon Telescope Collaboration, arXiv:1906.11238, (2019). Link: https://arxiv.org/pdf/1906.11238.pdf\n\nAnswer following questions related to this article:\n\n(a) Calculate the photon capture radius and the Schwarzschild radius of M87$^*$ (in AU).\n\n(b) Why was it not possible for previous telescopes to take such a picture of the black hole?\n\n(c) Describe the components and functionality of the event horizon telescope.\n\n(d) Explain the two algorithms used to reconstruct the image from the telescope data.\n\n(e) What parameters were required for the GRMHD simulations to generate an image?\n\n(f) Explain the physical origins of the features in Figure 3 (central dark region, ring, shadow).\n\n(g) How can the image resolution be increased in future observations?",
+     "paper_label": "Pre-Final Round"
     }
    ]
   },
@@ -103,6 +223,66 @@
      "number": 5,
      "problem": "Problem E : Pulsars (5 Points)\n\nRadio telescopes are an essential tool for modern astrophysics. They played a crucial role in discovering a fascinating astronomical object: Pulsars - highly compact objects that periodically emit radiation. Pulsars are still an active part of astrophysical research.\n\nExplain how pulsars are formed and the causes for their pulsating behaviour.",
      "paper_label": "Qualification Round"
+    },
+    {
+     "day": 2,
+     "number": 1,
+     "problem": "Problem A.1: Equatorial Coordinate System (4 Points)\n\nAstronomers need to identify the position of objects in the sky with very high precision. For that, it is essential to have coordinate systems that specify the position of an object at a given time. One of them is the equatorial coordinate system that is widely used in astronomy.\n\n(a) Explain how the equatorial coordinate system works.\n\n(b) What is the meaning of J2000 that often occurs together with equatorial coordinates?\n\nThe object NGC 4440 is a galaxy located in the Virgo Cluster at the following equatorial coordinates (J2000): $12^h\\,27^m\\,53.6^s$ (right ascension), $12^\\circ\\,17'\\,36''$ (declination). The Calar Alto Observatory is located in Spain at the geographical coordinates $37.23^\\circ$N and $2.55^\\circ$W.\n\n(c) Is the NGC 4440 galaxy observable from the Calar Alto Observatory?",
+     "paper_label": "Pre-Final Round"
+    },
+    {
+     "day": 2,
+     "number": 2,
+     "problem": "Problem A.2: Resolution of Telescopes (4 Points)\n\nTelescopes are an essential tool for astronomers to study the universe. You plan to build your own telescope that can resolve the Great Red Spot on the surface of Jupiter at a wavelength of 600 nm. The farthest distance between the Earth and Jupiter is $968\\times10^6$ km and the Great Red Spot has currently a diameter of 16,500 km.\n\n(a) Use the Rayleigh criterion to determine the diameter of the lens' aperture of your telescope that is needed to resolve the Great Red Spot on Jupiter.\n\nImpacts have formed many craters on the Moon's surface. You would like to study some of the craters with your new telescope. The distance between Moon and Earth is 384,400 km.\n\n(b) What is the smallest possible size of the craters that your telescope can resolve?",
+     "paper_label": "Pre-Final Round"
+    },
+    {
+     "day": 2,
+     "number": 3,
+     "problem": "Problem A.3: Total Solar Eclipse (4 Points)\n\nA total solar eclipse occurs when the Moon moves between the Earth and the Sun and completely blocks out the Sun. This phenomenon is very spectacular and attracts people from all cultures. However, total solar eclipses can also take place on other planets of the Solar System.\n\nDetermine for each of the following moons if they can create a total solar eclipse on their planet.\n\n$$\\begin{array}{|l|r|r|l|r|} \\hline \\text{Moon} & \\text{Radius} & \\text{Distance to Planet} & \\text{Planet} & \\text{Distance to the Sun} \\\\ \\hline \\text{Phobos} & 11\\ \\text{km} & 9376\\ \\text{km} & \\text{Mars} & 228\\times10^6\\ \\text{km} \\\\ \\text{Callisto} & 2410\\ \\text{km} & 1.883\\times10^6\\ \\text{km} & \\text{Jupiter} & 779\\times10^6\\ \\text{km} \\\\ \\text{Titan} & 2574\\ \\text{km} & 1.222\\times10^6\\ \\text{km} & \\text{Saturn} & 1433\\times10^6\\ \\text{km} \\\\ \\text{Oberon} & 761\\ \\text{km} & 0.584\\times10^6\\ \\text{km} & \\text{Uranus} & 2875\\times10^6\\ \\text{km} \\\\ \\hline \\end{array}$$\n\nNote: The radius of the Sun is $696\\times10^3$ km.",
+     "paper_label": "Pre-Final Round"
+    },
+    {
+     "day": 2,
+     "number": 4,
+     "problem": "Problem A.4: Special Relativity - Part I (4 Points)\n\nSpecial relativity has become a fundamental theory in the 20th century and is crucial for explaining many astrophysical phenomena. A central aspect of special relativity is the transformation from one reference frame to another. The following Lorentz transformation matrix gives the transformation from a frame at rest to a moving frame with velocity $v$ along the z-axis:\n$$\\begin{pmatrix} \\gamma & 0 & 0 & \\gamma\\beta \\\\ 0 & 1 & 0 & 0 \\\\ 0 & 0 & 1 & 0 \\\\ \\gamma\\beta & 0 & 0 & \\gamma \\end{pmatrix}$$\nwhere $\\beta = v/c$ with $c$ being the speed of light in a vacuum, and $\\gamma$ is the Lorentz factor:\n$$\\gamma = \\frac{1}{\\sqrt{1-\\beta^2}}$$\n\n(a) State and explain the two traditional postulates from which special relativity originates.\n\n(b) Draw a plot of the Lorentz factor for $0 \\le \\beta \\le 0.9$ to see how its value changes.\n\nOne of the many exciting phenomena of special relativity is time dilation. Imagine astronauts in a spaceship that is passing by the Earth with a high velocity.\n\n(c) Are clocks ticking slower for the people on Earth or for the astronauts on the spaceship?\n\n(d) How fast must the spaceship travel such that the clocks go twice as slow?",
+     "paper_label": "Pre-Final Round"
+    },
+    {
+     "day": 2,
+     "number": 5,
+     "problem": "Problem B.1: Space Cannon (6 Points)\n\nScientists are developing a new space cannon to shoot objects from the surface of the Earth directly into a low orbit around the Earth. For testing purposes, a projectile is fired with an initial velocity of 2.8 km/s vertically into the sky.\n\nCalculate the height that the projectile reaches, ...\n\n(a) assuming a constant gravitational deceleration of 9.81 m/s$^2$.\n\n(b) considering the change of the gravitational force with height.\n\nNote: Neglect the air resistance for this problem. Use $6.67\\times10^{-11}$ m$^3$ kg$^{-1}$ s$^{-2}$ for the gravitational constant, 6371 km for the Earth's radius, and $5.97\\times10^{24}$ kg for the Earth's mass.",
+     "paper_label": "Pre-Final Round"
+    },
+    {
+     "day": 2,
+     "number": 6,
+     "problem": "Problem B.2: Shock Wave (6 Points)\n\nThis year's qualification round featured a spaceship escaping from a shock wave (Problem B). The crew survived and wants to study the shock wave in more detail. It can be assumed that the shock wave travels through a stationary flow of an ideal polytropic gas which is adiabatic on both sides of the shock. Properties in front and behind a shock are related through the three Rankine-Hugoniot jump conditions (mass, momentum, energy conservation):\n$$\\rho_1 v_1 = \\rho_2 v_2 \\qquad \\rho_1 v_1^2 + p_1 = \\rho_2 v_2^2 + p_2 \\qquad \\frac{v_1^2}{2} + h_1 = \\frac{v_2^2}{2} + h_2$$\nwhere $\\rho$, $v$, $p$, and $h$ are the density, shock velocity, pressure, and specific enthalpy in front ($_1$) and behind ($_2$) the shock respectively.\n\n(a) Explain briefly the following terms used in the text above: (i) stationary flow (ii) polytropic gas (iii) specific enthalpy\n\n(b) Show with the Rankine-Hugoniot conditions that the change in specific enthalpy is given by:\n$$\\Delta h = \\frac{p_2 - p_1}{2}\\cdot\\left(\\frac{1}{\\rho_1} + \\frac{1}{\\rho_2}\\right)$$\n\nThe general form of Bernoulli's law is fulfilled on both sides of the shock separately:\n$$\\frac{v^2}{2} + \\Phi + h = b$$\nwhere $\\Phi$ is the gravitational potential and $b$ a constant.\n\n(c) Assuming that the gravitational potential is the same on both sides, determine how the constant $b$ changes at the shock front.\n\n(d) Explain whether Bernoulli's law can be applied across shock fronts.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/iaac-2021-pf-b2.png",
+     "paper_label": "Pre-Final Round"
+    },
+    {
+     "day": 2,
+     "number": 7,
+     "problem": "Problem B.3: Interplanetary Journey (6 Points)\n\nA space probe is about to launch with the objective to explore the planets Mars and Jupiter. To use the lowest amount of energy, the rocket starts from the Earth's orbit (A) and flies in an elliptical orbit to Mars (B), such that the ellipse has its perihelion at Earth's orbit and its aphelion at Mars' orbit. The space probe explores Mars for some time until Mars has completed 1/4 of its orbit (C). After that, the space probe uses the same ellipse to get from Mars (C) to Jupiter (D). There the mission is completed, and the space probe will stay around Jupiter.\n\nThe drawing below shows the trajectory of the space probe (not drawn to scale).\n\nBelow you find the obrital period and the semi-major axis of the three planets:\n\n$$\\begin{array}{|l|c|c|} \\hline & \\text{Orbital period} & \\text{Semi-major axis} \\\\ \\hline \\text{Earth} & 365\\ \\text{days} & 1.00\\ \\text{AU} \\\\ \\text{Mars} & 687\\ \\text{days} & 1.52\\ \\text{AU} \\\\ \\text{Jupiter} & 4333\\ \\text{days} & 5.20\\ \\text{AU} \\\\ \\hline \\end{array}$$\n\nHow many years after its launch from the Earth (A) will the space probe arrive at Jupiter (D)?\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/iaac-2021-pf-b3.png",
+     "paper_label": "Pre-Final Round"
+    },
+    {
+     "day": 2,
+     "number": 8,
+     "problem": "Problem B.4: Special Relativity - Part II (6 Points)\n\nSpace and time are interconnected according to special relativity. Because of that, coordinates have four components (three position coordinates $x$, $y$, $z$, one time coordinate $t$) and can be expressed as a vector with four rows as such:\n$$\\begin{pmatrix} ct \\\\ x \\\\ y \\\\ z \\end{pmatrix}$$\nThe spaceship from problem A.4 (Special Relativity - Part I) travels away from the Earth into the deep space outside of our Milky Way. The Milky Way has a very circular shape and can be expressed as all vectors of the following form (for all $0 \\le \\varphi < 2\\pi$):\n$$\\begin{pmatrix} ct \\\\ 0 \\\\ \\sin\\varphi \\\\ \\cos\\varphi \\end{pmatrix}$$\n\n(a) How does the shape of the Milky Way look like for the astronauts in the fast-moving spaceship? To answer this question, apply the Lorentz transformation matrix (see A.4) on the circular shape to get the vectors $(ct', x', y', z')$ of the shape from the perspective of the moving spaceship.\n\n(b) Draw the shape of the Milky Way for a spaceship with a velocity of 20%, 50%, and 90% of the speed of light in the figure below (Note: The ring shape for a resting spaceship is already drawn.):\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/iaac-2021-pf-b4.png",
+     "paper_label": "Pre-Final Round"
+    },
+    {
+     "day": 2,
+     "number": 9,
+     "problem": "Problem C.1 : Earliest Galaxy Group (10 Points)\n\nThis problem requires you to read the following recently published scientific article:\n\nOnset of Cosmic Reionization: Evidence of an Ionized Bubble Merely 680 Myr after the Big Bang. V. Tilvi et al 2020 ApJL 891 L10. Link: https://iopscience.iop.org/article/10.3847/2041-8213/ab75ec\n\nAnswer the following questions related to this article:\n\n(a) What is the so called cosmic reionization process?\n\n(b) What are Ly$\\alpha$ lines and why did the researches want to observe them?\n\n(c) What do the authors intend to point out with Figure 1 (see article)?\n\n(d) How is confirmed that the peaks seen in Figure 3 are actually from Ly$\\alpha$ emissions?\n\n(e) How are the bubble sizes of the galaxies estimated?\n\n(f) What is special about the findings in the article and what are the scientific implications?",
+     "paper_label": "Pre-Final Round"
+    },
+    {
+     "day": 2,
+     "number": 10,
+     "problem": "Problem C.2 : Massive Protostar Jet (10 Points)\n\nThis problem requires you to read the following recently published scientific article:\n\nMeasuring the ionisation fraction in a jet from a massive protostar. Fedriani, R., Caratti o Garatti, A., Purser, S.J.D. et al. Nat Commun 10, 3630 (2019). Link: https://www.nature.com/articles/s41467-019-11595-x.pdf\n\nAnswer the following questions related to this article:\n\n(a) Why are massive stars important for the development of the universe?\n\n(b) How can the ionised part of jets be observed?\n\n(c) What kind of region is G35.2N? Describe how it is structured.\n\n(d) What is the ionisation fraction $\\chi_e$ and how do the authors calculate its value?\n\n(e) How is the mass-loss rate being determined for knots K3 and K4? Why not for K1 and K2?\n\n(f) Why is the ionisation fraction so small for G35.2N?",
+     "paper_label": "Pre-Final Round"
     }
    ]
   },
@@ -138,6 +318,42 @@
      "number": 5,
      "problem": "Problem E : Infrared Radiation (5 Points)\n\nThe electromagnetic spectrum contains various types of radiation with different properties. The James Webb Space Telescope is not like an optical telescope at home and does not capture visible light; instead, it observes the sky in the infrared spectrum.\n\nExplain what infrared radiation is and answer the following questions: How is infrared radiation different from visible light? Why does the JWST observe infrared light, and what are the scientific advantages for astronomers?",
      "paper_label": "Qualification Round"
+    },
+    {
+     "day": 2,
+     "number": 1,
+     "problem": "Problem A.1: Looking back with the JWST (4 Points)\n\nThe James Webb Space Telescope (JWST) will allow us to look back in time and observe the early universe. You are a scientist trying to observe an object that emitted its light a long time ago.\n\n(a) Explain why the light you receive from the object is red-shifted.\n\nThe object has a redshift of 7.6 and the JWST observes the object at a wavelength of 2 micrometres (mid-infrared light).\n\n(b) What is the wavelength of the light emitted by the object?\n\n(c) What type of radiation was originally emitted by the object?",
+     "paper_label": "Pre-Final Round"
+    },
+    {
+     "day": 2,
+     "number": 2,
+     "problem": "Problem A.2: Counting Asteroids (4 Points)\n\nAn extraterrestrial civilisation lives on a planet with a very elliptical orbit. Additionally, thousands of large asteroids orbit their solar system. The civilisation uses the light from their home star to count the number of asteroids in the direct line between the star and their planet.\n\nFor a first measurement, they count the asteroids for 60 days and detect 1000 objects. Several months later, they start a second measurement: This time, they count for 80 days.\n\nHow many asteroids will they detect during the second measurement? Explain why.\n\n(Note: Assume that the asteroids are homogeneously distributed in their solar system.)",
+     "paper_label": "Pre-Final Round"
+    },
+    {
+     "day": 2,
+     "number": 3,
+     "problem": "Problem B.1: Rotating the JWST (6 Points)\n\nThe JWST has a propulsion system to adjust the orbit and orientation of the telescope.\n\nFor this problem, we assume that the JWST only consists of the 18 primary mirror segments (with a weight of 40 kg each, $m_1$) forming a cylinder with a radius of 3.3 m ($R$), the Aft optical subsystem with a weight of 120 kg ($m_2$) forming a cone with a radius of 65 cm ($r$), and the science instrument module with a weight of 1400 kg ($m_3$) forming a cuboid with a side length of 5.3 m ($a$):\n\n(a) Derive a general expression for the moment of inertia $I$ of the telescope's shape with respect to the dimensions $R$, $r$, $a$ and the masses $m_1$, $m_2$, $m_3$. (Hint: Derive the moment of inertia for the individual components first. The rotational axis is the axis of symmetry.)\n\n(b) Calculate the numerical value of $I$ for the JWST. (Use only the values from the text above.)\n\nTo perform calibration measurements, the researchers need to rotate the telescope by 90 degrees. For that, they fire the MRE-1 thrusters at the bottom edge of the primary mirror (see figure) for 0.5 seconds with a thrust of 2.5 newtons.\n\n(c) How long does it take for the telescope to rotate by 90 degrees?\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/iaac-2022-pf-b1.png",
+     "paper_label": "Pre-Final Round"
+    },
+    {
+     "day": 2,
+     "number": 4,
+     "problem": "Problem B.2: Changing Temperature (6 Points)\n\nThe energy of our Sun is responsible for life on Earth. We are very lucky that the Sun has the right conditions and that the Earth is at the exact right position to create habitable temperatures.\n\n(a) Find an equation for the surface temperature of the Earth $T_E(R, T)$ with respect to the radius $R$ and the surface temperature $T$ of the Sun.\n\n(Note: Approach the Earth and the Sun as black bodies; then, account for the Earth's albedo of 30% and add an atmosphere correction factor of 1.13 to the surface temperature of the Earth.)\n\nThe radius of the Sun is 696 x $10^3$ km, and the surface temperature is 5772 K:\n\n(b) Confirm with your equation that Earth's current surface temperature is 15 °C.\n\nThe two axes of the diagram below display a relative change in the surface temperature (x-axis) and radius (y-axis) of the Sun.\n\n(c) Draw a black line in the diagram for all pairs $(R, T)$ that still result in a temperature of 15 °C on the Earth. If the Sun's temperature increases by 10%, how much needs the radius to decrease to maintain 15 °C on Earth?\n\n(d) Draw a grey area in the diagram for all $(R, T)$ that result in a temperature $\\pm\\,10^\\circ$ from 15 °C.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/iaac-2022-pf-b2.png",
+     "paper_label": "Pre-Final Round"
+    },
+    {
+     "day": 2,
+     "number": 5,
+     "problem": "Problem C.1 : The Surface of Planets (8 Points)\n\nThis problem requires you to read the following recently published scientific article:\n\nInferring Shallow Surfaces on Sub-Neptune Exoplanets with JWST. Shang-Min Tsai et al 2021 ApJL 922 L27. Link: https://iopscience.iop.org/article/10.3847/2041-8213/ac399a/pdf\n\nAnswer the following questions related to this article:\n\n(a) What is a proxy? What proxy is this study trying to find, and what are they doing differently compared to previous studies?\n\n(b) Explain the meaning and use of the following acronyms: HELIOS, Exo-FMS, HAZMAT, NIRSpec.\n\n(c) Make a sketch of the components used to model the planet (including the pressure-longitude grid and the equatorial regions):\n\n(d) Explain the components of Figure 1. Why was it included in the paper?\n\n(e) Why is CH$_4$ not a suitable proxy for the surface pressure?\n\n(f) You detect CH$_3$OH but non NH$_3$ in the atmosphere of a sub-Neptune planet. What type of surface does this planet have?",
+     "paper_label": "Pre-Final Round"
+    },
+    {
+     "day": 2,
+     "number": 6,
+     "problem": "Problem C.2 : Black Holes and the JWST (8 Points)\n\nThis problem requires you to read the following recently published scientific article:\n\nThe Age of Discovery with the James Webb: Excavating the Spectral Signatures of the First Massive Black Holes. Inayoshi, K. et al. arXiv:2204.09692 [astro-ph.GA] (2022). Link: https://arxiv.org/pdf/2204.09692.pdf\n\nAnswer the following questions related to this article:\n\n(a) What are massive black holes (BH)? Why is the observation of young massive BHs important?\n\n(b) What is the spectral energy distribution (SED)?\n\n(c) Figure 2 shows the total SED with three OI peaks: Where do they come from?\n\n(d) What are broad-band filters, and what is their use in astronomy?\n\n(e) Explain the increase of all lines for high z in Figure 3, top-left panel.\n\n(f) Explain the meaning and use of the magenta rectangle in Figure 4.",
+     "paper_label": "Pre-Final Round"
     }
    ]
   },
@@ -173,6 +389,42 @@
      "number": 5,
      "problem": "Problem E : Dark Energy (5 Points)\n\nCosmology studies the dynamics of the universe on its largest scales. Its research reveals how the universe evolves over time and, in particular, how it expands. The term dark energy frequently appears in cosmology.\n\nWhat does the term dark energy describe? What are evidences for the existence of dark energy?",
      "paper_label": "Qualification Round"
+    },
+    {
+     "day": 2,
+     "number": 1,
+     "problem": "Problem A.1: Parabolic Trajectory (4 Points)\n\nAs presented in the qualification round, the comet P/2023 IAAC circles the Sun in an elliptical orbit. There are other comets with a parabolic trajectory, for example the comet C/2023 IAAC.\n\n(a) Explain the meaning of the letters P and C in the names of the two comets.\n\nThe vis-viva-equation can be extended for different types of trajectories as follows:\n$$v(x) = \\sqrt{\\mu\\left(\\frac{2}{x} - \\frac{1}{a}\\right)} \\quad\\text{with}\\quad \\begin{array}{ll} a > 0 & \\text{for ellipses} \\\\ a = \\infty & \\text{for parabolas} \\\\ a < 0 & \\text{for hyperbolas} \\end{array}$$\nand $\\mu = G(m_1 + m_2)$. Here, $m_1$ is the comet's mass, $m_2$ the Sun's mass (1.9 x $10^{30}$ kg), $x$ the distance between the comet and the Sun, and $G$ is the gravitational constant (6.67 x $10^{-11}$ m$^3$kg$^{-1}$s$^{-2}$).\n\n(b) Determine the velocity (in km/s) of C/2023 IAAC for a distance of 0.8 AU to the Sun.",
+     "paper_label": "Pre-Final Round"
+    },
+    {
+     "day": 2,
+     "number": 2,
+     "problem": "Problem A.2: Brightness of a Binary Star (4 Points)\n\nA binary star system consists of two stars very close to one another. The two stars have apparent magnitudes of $m_1 = 2$ and $m_2 = 3$. The apparent magnitude $m$ is defined with a stars' flux density $F$, compared to a reference star with $m_0$ and $F_0$:\n$$m - m_0 = -2.5\\log_{10}\\left(\\frac{F}{F_0}\\right)$$\nCalculate the total apparent magnitude of the binary star system.",
+     "paper_label": "Pre-Final Round"
+    },
+    {
+     "day": 2,
+     "number": 3,
+     "problem": "Problem B.1: Temperature of the Sun (6 Points)\n\nAssume a constant density $\\bar\\rho$ of 1.4 x $10^3$ kg·m$^{-3}$ for the entire Sun. The ideal gas law states that\n$$pV = NkT$$\nwith the pressure $p$, the volume $V$, the number of particles $N$, the Boltzmann constant $k$ (1.38 x $10^{-23}$ m$^2$kg s$^{-2}$K$^{-1}$) and the temperature $T$.\n\n(a) Show that the temperature $T$ at a certain pressure $p$ is given by\n$$T(p) = \\frac{p\\bar m}{\\rho k}$$\nwith the average particle mass $\\bar m$ within the Sun (1.02 x $10^{-27}$ kg).\n\n(b) Explain why the Sun must be in a state of hydrostatic equilibrium:\n$$\\frac{dp}{dr} = -g(r)\\bar\\rho$$\n\n(c) Find the gravitational acceleration $g(r)$ at a radius $r$ from the Sun's center.\n\n(d) Use the condition of hydrostatic equilibrium to show that the pressure $p$ inside the Sun at a radius of $R/4$ from the centre is about 1.26 x $10^{14}$ Pa, where $R$ is the Sun's radius of 0.7 x $10^9$ m.\n\n(e) Determine the Sun's temperature at a radius of $R/4$. Why is this result only a broad estimate?",
+     "paper_label": "Pre-Final Round"
+    },
+    {
+     "day": 2,
+     "number": 4,
+     "problem": "Problem B.2: Escaping a Star (6 Points)\n\nIt takes many years for a photon produced in a star's centre to reach its surface and escape into space. This is due to its constant interaction with other particles. To estimate the time it takes for a photon to escape a star's interior, we assume that the photon is deflected in equal time intervals into a random direction in a two-dimensional space (i.e., a random walk):\n\nAt each step $i$, the photon moves a constant distance $\\varepsilon$ in an angle $\\varphi_i$, thus changing its position:\n$$\\Delta\\vec{x}_i = \\varepsilon\\begin{pmatrix}\\cos(\\varphi_i) \\\\ \\sin(\\varphi_i)\\end{pmatrix}$$\n\n(a) Determine the distance $R(n)$ from the centre (0,0) after $n$ steps.\n\nAssume that the step-distance $\\varepsilon$ is about 1.0 x $10^{-4}$ m for a photon moving inside the Sun:\n\n(b) How many steps does the photon need to reach the Sun's surface?\n\n(c) Estimate the time it takes for the photon to escape into space (in years).\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/iaac-2023-pf-b2.png",
+     "paper_label": "Pre-Final Round"
+    },
+    {
+     "day": 2,
+     "number": 5,
+     "problem": "Problem C.1 : Zhurong Rover Mars Landing (8 Points)\n\nThis problem requires you to read the following recently published scientific article:\n\nGeomorphic contexts and science focus of the Zhurong landing site on Mars. Liu, J., Li, C., Zhang, R. et al. Nat Astron 6, 65–71 (2022). Link: https://www.nature.com/articles/s41550-021-01519-5.pdf\n\nAnswer the following questions related to this article:\n\n(a) What was done to find a suitable landing site and which factors were considered?\n\n(b) Describe three geomorphic features present near the landing site.\n\n(c) Which features described in (b) are likely related to volcanism?\n\n(d) Name all instruments on board the Zhurong rover and explain the purpose of MarSCoDe.\n\n(e) Which instrument measures the magnetic field and for which scientific reason?\n\n(f) What is possible evidence for ancient oceans that the Zhurong rover may find?",
+     "paper_label": "Pre-Final Round"
+    },
+    {
+     "day": 2,
+     "number": 6,
+     "problem": "Problem C.2 : Young Stars in the Galactic Centre (8 Points)\n\nThis problem requires you to read the following recently published scientific article:\n\nDetection of an excess of young stars in the Galactic Centre Sagittarius B1 region. Nogueras-Lara, F., Schödel, R. & Neumayer, N. Nat Astron 6, 1178–1184 (2022). Link: https://www.nature.com/articles/s41550-022-01755-3.pdf\n\nAnswer the following questions related to this article:\n\n(a) How high is the star formation rate in the Galactic Center and how was it estimated?\n\n(b) What is the missing clusters problem?\n\n(c) What is the Ks luminosity function?\n\n(d) How do the regions in Figure 4 compare to each other?\n\n(e) Why is it hard to determine the location of where the young stars formed?\n\n(f) What do the findings tell us about the evolution of the young stars?",
+     "paper_label": "Pre-Final Round"
     }
    ]
   },
@@ -208,6 +460,42 @@
      "number": 5,
      "problem": "Problem E : Microwave Background (5 Points)\n\nLooking into the universe around us reveals billions of galaxies across all directions. However, when looking past them into the empty space, we detect something called the cosmic microwave background (CMB). It was discovered by accident and is immensely important for cosmology.\n\nExplain what the CMB is and how it was discovered.",
      "paper_label": "Qualification Round"
+    },
+    {
+     "day": 2,
+     "number": 1,
+     "problem": "Problem A.1: Rotation of the Earth (4 Points)\n\nRockets allow us to launch spacecraft and satellites into space, which are an essential part of our modern world. However, rocket launches need careful planning, and some places on Earth provide better launch conditions than others.\n\n(a) Explain why most rocket launches take place close to the equator.\n\n(b) Find an equation $v(\\varphi)$ that calculates the rotational speed $v$ of the Earth at latitude $\\varphi$.\n\n(c) Calculate the rotational speed at 5° S (near the equator) and 80° N (near the pole).\n\nNote: The Earth's radius is 6371 km.",
+     "paper_label": "Pre-Final Round"
+    },
+    {
+     "day": 2,
+     "number": 2,
+     "problem": "Problem A.2: Altitude of the ISS – Part 1 (4 Points)\n\nThe International Space Station (ISS) does not orbit the Earth at a perfectly constant altitude. Instead, the ISS changes its altitude over time due to collisions with atmospheric particles (downwards) and boosters that are used to adjust the orbit (upwards). The diagram below displays the ISS's altitude above the ground for the last months (December 2023 to April 2024).¹\n\n(a) How much did the ISS descend and ascend between December 2023 and April 2024?\n\n(b) Determine the average rate of descent of the ISS.\n\nSpace is often considered to start at an altitude of 100 km above ground (the edge of space).\n\n(c) How long would it take for the ISS to naturally descend to the edge of space?\n\n¹ A high-resolution version of the diagram is available online: https://iaac.space/A2-AltitudeISS.png\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/iaac-2024-pf-a2.png",
+     "paper_label": "Pre-Final Round"
+    },
+    {
+     "day": 2,
+     "number": 3,
+     "problem": "Problem B.1: Altitude of the ISS – Part 2 (6 Points)\n\nAs mentioned in Problem A.2, the ISS loses altitude due to the collision with atmospheric particles. This causes the ISS to experience a drag force $F_d$ according to the drag equation\n$$F_d = \\frac{1}{2}\\cdot\\rho\\cdot C_d\\cdot A\\cdot v^2$$\nwith the atmospheric density $\\rho$, the dimensionless drag coefficient $C_d$, the ISS's cross-sectional area $A$, and the ISS's speed relative to the particles $v$.\n\nUse the rate of descent from Problem A.2 to estimate\n\n(a) the atmospheric density $\\rho$ at the current position of the ISS and\n\n(b) the total amount of matter (in kg) which collides with the ISS every day.\n\nNote: The following constants may be helpful: the gravitational constant: 6.67 x $10^{-11}$ m$^3$ kg$^{-1}$ s$^{-2}$, the mass of Earth: 5.97 x $10^{24}$ kg, the drag coefficient of the ISS: 1.3, the cross-sectional area of the ISS: 4800 m$^2$, the total mass of the ISS: 450 tons.",
+     "paper_label": "Pre-Final Round"
+    },
+    {
+     "day": 2,
+     "number": 4,
+     "problem": "Problem B.2: Stars in the Milky Way (6 Points)\n\nIn Problem B of the Qualification Round, you estimated the number of stars in the Milky Way by assuming a constant density of stars throughout the galaxy. However, the density of stars is not constant and varies significantly across different regions.\n\n(a) Name the three regions A, B, C marked in the horizontal Milky Way drawing below.\n\nScientists have developed a basic model for the Milky Way to describe the density distribution of stars $\\rho(r)$ at distance $r$ from the center by evaluating the three regions A, B, C:\n$$\\rho(r) = \\Psi\\cdot\\left[\\exp\\left(\\Omega_A - \\frac{r}{R_A}\\right) + \\exp\\left(\\Omega_B - \\frac{r}{R_B}\\right) + \\exp\\left(\\Omega_C - \\frac{r}{R_C}\\right)\\right]$$\nThe model parameters have the values below:\n\n$\\Psi = 10^{-4}$ stars/(light-year)$^3$\n\n$R_A = 20$ light-years\n\n$R_B = 12\\cdot10^3$ light-years\n\n$R_C = 5\\cdot10^4$ light-years\n\n$\\Omega_A = 21,\\ \\Omega_B = -3,\\ \\Omega_C = -8$\n\n(b) Create a double logarithmic plot of the density distribution $\\rho(r)$ with respect to $r$.\n\n(c) Using this model, calculate the number of stars in the Milky Way ($r \\le 130{,}000$ light-years).\n\nNote: Assume that the Milky Way has a constant thickness of 1,000 light-years.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/iaac-2024-pf-b2.png",
+     "paper_label": "Pre-Final Round"
+    },
+    {
+     "day": 2,
+     "number": 5,
+     "problem": "Problem C.1 : Einstein Ring around Galaxy (8 Points)\n\nThis problem requires you to read the following recently published scientific article:\n\nA massive compact quiescent galaxy at z = 2 with a complete Einstein ring in JWST imaging. van Dokkum, P., Brammer, G., Wang, B. et al. Nat Astron 8, 119-125 (2024). Link: https://www.nature.com/articles/s41550-023-02103-9.pdf\n\nAnswer the following questions related to this article:\n\n(a) What kind of object is the article about, and how was it discovered?\n\n(b) Describe all elements visible in Figure 1a, including the names JWST-ER1g and JWST-ER1r.\n\n(c) Find the galaxy's age, mass, and radius and compare them to our Milky Way.\n\n(d) According to the study, what is and what is not likely to cause the lensing mass?\n\n(e) Explain what the IMF is by using Figure 3a.\n\n(f) Why is the ring in Figure 1a a gravitational lens and not a ring galaxy?",
+     "paper_label": "Pre-Final Round"
+    },
+    {
+     "day": 2,
+     "number": 6,
+     "problem": "Problem C.2 : Volcanic Activity on Io (8 Points)\n\nThis problem requires you to read the following recently published scientific article:\n\nIo's polar volcanic thermal emission indicative of magma ocean and shallow tidal heating. Davies, A.G., Perry, J.E., Williams, D.A. et al. Nat Astron 8, 94-100 (2024). Link: https://www.nature.com/articles/s41550-023-02123-5.pdf\n\nAnswer the following questions related to this article:\n\n(a) What is different about the presented observations compared to previous studies?\n\n(b) Explain how the north pole, south pole and the lower latitudes differ in volcanic activity.\n\n(c) What is Loki Patera and Tvashtar Paterae?\n\n(d) How many hot spots did the researchers find in the north and south polar caps?\n\n(e) According to the study's findings, which mechanism likely causes Io's volcanic activity?\n\n(f) Describe how the scientists identified hot spots from the observation pixel data.",
+     "paper_label": "Pre-Final Round"
     }
    ]
   },
@@ -243,6 +531,42 @@
      "number": 5,
      "problem": "Problem E : Comets (5 Points)\n\nIn January 2025, the comet C/2024 G3 passed by the Sun at a close distance of 0.09 AU. Because the comet was shining exceptionally bright, it is now called the Great Comet of 2025, and it is one of five comets in the last 100 years that can be observed with the naked eye during daylight. Other less bright comets pass by the Sun frequently and they are observable through telescopes.\n\nDescribe the materials of which a comet consist and explain why the bright tail forms.",
      "paper_label": "Qualification Round"
+    },
+    {
+     "day": 2,
+     "number": 1,
+     "problem": "Problem A.1: Scales of Gravitation (4 Points)\n\nEvery object around us exerts a gravitational force: from small items nearby to massive celestial bodies in our solar system and beyond. In this problem, you will compare the gravitational effects of various objects. For this comparison, assume your mass is 70 kg.\n\n(a) Determine the gravitational force (in Newton [N]) between you and the following objects:\n\n$$\\begin{array}{|l|l|l|l|} \\hline & \\text{Distance} & \\text{Mass} & \\text{Force} \\\\ \\hline \\text{Another Person} & 1\\ \\text{m} & 70\\ \\text{kg} & \\\\ \\hline \\text{Truck on the Street} & 3\\ \\text{m} & 30{,}000\\ \\text{kg} & \\\\ \\hline \\text{Moon} & 385{,}000\\ \\text{km} & 7.3\\times10^{22}\\ \\text{kg} & \\\\ \\hline \\text{Jupiter} & 780\\times10^6\\ \\text{km} & 1.9\\times10^{27}\\ \\text{kg} & \\\\ \\hline \\text{Alpha Centauri A} & 4.37\\ \\text{light-years} & 1.1\\ M_\\odot & \\\\ \\hline \\text{Andromeda Galaxy} & 2.5\\times10^6\\ \\text{light-years} & 1.5\\times10^{12}\\ M_\\odot & \\\\ \\hline \\end{array}$$\n\nNotes: Express results in exponential format (e.g., 2 x $10^{-3}$ N). One solar mass $M_\\odot$ = 2 x $10^{30}$ kg.\n\n(b) Rank the objects from strongest to weakest gravitational effect on you.\n\n(c) Which objects have a very similar force despite being of much different scale?",
+     "paper_label": "Pre-Final Round"
+    },
+    {
+     "day": 2,
+     "number": 2,
+     "problem": "Problem A.2: Variable Star (4 Points)\n\nIn May 2025, a research team observed a section of the night sky continuously for several days. One star appears to change its brightness. Here is a plot of its apparent magnitude:\n\nStars with such a behaviour are called Cepheids and their absolute magnitude $M$ can be calculated by applying the Leavitt Law (Period–Luminosity relation)\n$$M = -2.43\\cdot(\\log_{10}(T) - 1) - 4.05,$$\nwhere $T$ is the star's pulsation period in days. The research team finds that the star's average apparent magnitude is 6.5 mag. Determine the star's distance to the Earth in parsecs.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/iaac-2025-pf-a2.png",
+     "paper_label": "Pre-Final Round"
+    },
+    {
+     "day": 2,
+     "number": 3,
+     "problem": "Problem B.1: Brightness of the Night Sky (6 Points)\n\nThe night sky is not entirely dark because of the thousands of stars that shine. Some stars are closer to us, while others are farther away, which, along with other factors, affects their brightness. For simplicity, we assume that stars are uniformly distributed with a density of 0.004 stars per cubic light-year, and that their luminosity is comparable to that of the Sun (3.8 x $10^{26}$ watts).\n\nConsider a thin spherical shell of radius $r$ and thickness $\\Delta r$ with the Earth at its center:\n\n(a) Find an expression for the number of stars $\\Delta N(r)$ in this shell and for the total radiation power $\\Delta P(r)$ reaching the Earth from this shell.\n\n(b) Find an expression for the total power $P(r)$ received from all stars up to a distance $r$.\n\n(c) The universe is infinite. What is the total power received for $r \\to \\infty$?\n\n(d) Explain, why modern cosmology is relevant for correctly interpreting this result.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/iaac-2025-pf-b1.png",
+     "paper_label": "Pre-Final Round"
+    },
+    {
+     "day": 2,
+     "number": 4,
+     "problem": "Problem B.2: Non-relativistic Friedmann Equation (6 Points)\n\nBesides other questions, cosmology studies how the universe will evolve in the future. To determine its fate, we can consider the non-relativistic form of Hubble's law,\n$$v(t) = H(t)\\cdot r(t),$$\nwhich gives the recessional velocity $v$ at a distance $r$ from an observer at a given time $t$. It is possible to make predictions about the universe using non-relativistic mechanics. For this, we assume a constant matter density $\\rho$ throughout the universe and consider the behaviour of a sphere of radius $r$ centered on an observer, containing all the matter within it.\n\n(a) Find an expression for the kinetic energy $E_{kin}$ and the potential energy $E_{pot}$ of the sphere.\n\n(b) Show that the total energy $E$ is given by\n$$E = \\frac{4}{3}\\pi G m r^2(\\rho_c - \\rho),$$\nwhere $G$ is the gravitational constant, and find the expression for the critical density $\\rho_c$.\n\n(c) Discuss the fate of the universe for the following three scenarios: $\\rho < \\rho_c$, $\\rho = \\rho_c$, $\\rho > \\rho_c$\n\n(d) Derive the first non-relativistic Friedmann equation (with some constant $k$):\n$$H^2 = \\frac{8\\pi G\\rho}{3} - \\frac{k}{r^2}$$",
+     "paper_label": "Pre-Final Round"
+    },
+    {
+     "day": 2,
+     "number": 5,
+     "problem": "Problem C.1 : Milky Way-Andromeda Collision (8 Points)\n\nThis problem requires you to read the following recently published scientific article:\n\nNo certainty of a Milky Way-Andromeda collision. Sawala, T., Delhomelle, J., Deason, A.J. et al. Nat Astron (2025). Link: https://www.nature.com/articles/s41550-025-02563-1.pdf\n\nAnswer the following questions related to this article:\n\n(a) Which objects in the Local Group and which physical processes are most relevant for determining collision probabilities?\n\n(b) Explain the meaning of each column presented in Table 1.\n\n(c) What is the difference between Figure 1 and Figure 2?\n\n(d) How do M33 and the LMC each affect the probability of a MW–M31 collision?\n\n(e) How likely is a merger occurring within 5 Gyr, assuming a 20 kpc distance threshold?\n\n(f) What is gravit. softening, and why is a too small or too large softening length problematic?",
+     "paper_label": "Pre-Final Round"
+    },
+    {
+     "day": 2,
+     "number": 6,
+     "problem": "Problem C.2 : New Solar System Objects (8 Points)\n\nThis problem requires you to read the following recently published scientific article:\n\nDiscovery and dynamics of a Sedna-like object with a perihelion of 66 au. Chen, YT., Lykawka, P.S., Huang, Y. et al. Nat Astron (2025). Link: https://www.nature.com/articles/s41550-025-02595-7.pdf\n\nAnswer the following questions related to this article:\n\n(a) What do the terms trans-Neptunian object, perihelion distance, and semi-major axis mean?\n\n(b) What are Sedna-like objects, and why is Ammonite one of them?\n\n(c) Explain the perihelion gap, and why Ammonite is important for it.\n\n(d) How is Ammonite's orbit different from the other Senda-like TNOs?\n\n(e) How does Ammonite provide evidence for an important event about 4.2 billion years ago?\n\n(f) What challenges did the scientists face during their observations?",
+     "paper_label": "Pre-Final Round"
     }
    ]
   },
