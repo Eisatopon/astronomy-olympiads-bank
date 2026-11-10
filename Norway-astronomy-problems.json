@@ -1,0 +1,138 @@
+{
+ "competition": "Norwegian Olympiad on Astronomy and Astrophysics — final round, open questions",
+ "years": [
+  {
+   "year": 2022,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "Mars orbits the Sun at an average distance of $2.28 \\times 10^{11}$ m and has a radius of $3.39 \\times 10^{6}$ m. The Sun has a luminosity of $3.828 \\times 10^{26}$ W. How much solar energy falls on the surface of Mars each second? Ignore any effects of Mars' thin atmosphere.",
+     "paper_label": "Final round, open questions"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "Suppose that at some time in the very recent past all the hydrogen and helium in the universe had been instantly fused into iron in stars, and the released energy thermalized into black body radiation.\n\nConsider: baryon density $\\rho_b = 4.2 \\times 10^{-31}\\ \\mathrm{g\\,cm^{3}}$, about 75% hydrogen (=1 baryon) by mass and 25% helium (=4 baryons) by mass.\n\nNote that the binding energy per nucleon of ${}^{56}_{26}\\mathrm{Fe}$ is 8.8 MeV and that of ${}^{4}_{2}\\mathrm{He}$ is 7.1 MeV.)\n\na) What is the current temperature of this black body radiation? (2 points)\n\nb) Determine what wavelength the blackbody spectrum would peak at. What region of the electromagnetic spectrum would this be in? (1 point)",
+     "paper_label": "Final round, open questions"
+    }
+   ]
+  },
+  {
+   "year": 2023,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "This spherically averaged galaxy rotation curve shows observed orbital velocities $v$ of stars and gas at distances $r$ from a galactic center, compared to their predicted velocities from the masses of the observed stars.\n\na) (0.5 pts) What is the mass $M$ within $r < 8$ kpc in solar masses?\n\nb) (1.0 pts) What is the predicted velocity profile $v(r)$ for $r > 8$ kpc, assuming most mass is located within 8 kpc?\n\nc) (1.0 pts) What is the actual mass density profile $\\rho(r)$ for $r > 8$ kpc?\n\nd) (0.5 pts) What is the most widely accepted explanation of the discrepancy between the observed and predicted velocity profiles?\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/no-2023-1.png",
+     "paper_label": "Final round, open questions"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "(3 pts) If you were an observer on the surface of Saturn, could you ever see a total solar eclipse caused by Titan, one of its moons? Elaborate your answer. Titan's diameter is given to be 5150 km, and it orbits Saturn at a distance of 1 222 000 km. Saturn's diameter is 120 000 km and it orbits the Sun at a distance of 9.5 AU. The Sun's angular diameter as seen from Earth is $0.5^\\circ$.",
+     "paper_label": "Final round, open questions"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "Pulsars are a type of fast rotating, high density stars, which are known for their regular pulses of radiation. They are also sometimes called the 'lighthouses of the universe'. In this problem, we assume the pulsars to be spheres of uniform density, which are gravitationally bound.\n\na) (2 pts.) The rotation period of a pulsar was measured to be $P = 1.5$ ms. What limit does this put on its density?\n\nb) (1 pt) The pulsar's mass is measured to be $1.5\\,M_\\odot$. What limit can we place on its radius?",
+     "paper_label": "Final round, open questions"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "On the following blank constellation map (on its own page):\n\na) (1 pt) Mark and name at least one constellation belonging to the Zodiac\n\nb) (1pt) Mark at least two stars in the Aquila constellation with their Bayer designation ($\\alpha$, $\\beta$, $\\gamma$…)\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/no-2023-4.png",
+     "paper_label": "Final round, open questions"
+    }
+   ]
+  },
+  {
+   "year": 2024,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "(1 point) The Voyager 1 space probe launched in 1977 is the most distant human-made object from Earth. As of January 2024, it was 136 AU away from Earth and moving with velocity 17 km/s relative to the Sun. Will Voyager 1 escape the Solar System?",
+     "paper_label": "Final round, open questions"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "(2 points) Per is doing maintenance work outside his small private space station in outer space. Suddenly the rope that secured him to the station bursts! His 70 kg massive body is now separated 1 m from the space station and at rest relative to it. Luckily, he has a strong flashlight in his pocket that radiates light with a power of 10 W! Knowing of momentum conservation and that a photon with energy $E$ has momentum $p$ related through $E^2 = (pc)^2 + (mc^2)^2$, he shines the flashlight away from the space station to propel himself towards it. How many hours does it take him to reach the space station?",
+     "paper_label": "Final round, open questions"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "The given star map is of Oslo's night sky at 00:00 10.03.2024.\n\na. (4 x 0.5 points) Draw in the following constellations:\n\ni. Ursa Minor\n\nii. Cassiopeia\n\niii. Orion (hint: this constellation is not completely above the horizon)\n\niv. Virgo\n\nb. (4 x 0.5 points) Mark the brightest star in each of the four constellations in question 3a with the appropriate Greek letter.\n\nc. (2 points) Approximately draw the line representing the galactic equator. Hint: the coordinate system of the star map is alt-az.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/no-2024-3.png",
+     "paper_label": "Final round, open questions"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "The light curve shown on the image below is taken from research on exoplanet compositions. Both direct light from the star and reflections off the planet contribute. The host star of the exoplanet in question has a radius $R = 0.805 R_\\odot$.\n\na. (1 point) Explain the big difference noticed in the dips of the light curve. What do the smaller dips represent, and what does the larger one represent?\n\nb. (1 point) There is also a noticeable phase offset, meaning that the dips are happening after the light curve has reached a maximum/minimum. This can be explained as due to atmospheric circulation on the exoplanet from the pressure gradient of the dayside-to-nightside pressure. What kind of interaction between the planet and the star can cause this? (hint: our Moon exhibits the same interaction)\n\nc. (2 points) Because of the phenomenon from question b (that you do not need to have done to solve this problem), there is a difference between the dayside flux and the nightside flux emitted by the planet. Find the ratio between the dayside flux and the nightside flux from the light curve. (hint: normalise)\n\nd. (1 points) Finally, using the data from the curve, as well as the one given in the problem text, find the radius of the planet.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/no-2024-4.png",
+     "paper_label": "Final round, open questions"
+    }
+   ]
+  },
+  {
+   "year": 2025,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "(5 points) Cepheid variable stars are pulsating stars whose absolute magnitude $M$ changes as the stars swell larger and smaller in a regular pattern with period $P$. Data from many observations have shown that there is a relationship between $M$ and $P$ on the particular form $M = A \\cdot \\log_{10}(P/\\mathrm{days}) + B$ with constant $A$ and $B$. In other words, if we can observe the period, the absolute magnitude is known, so we call these stars standard candles: astronomical objects with known luminosity. This makes cepheids excellent targets for distance measurements!\n\na) (3 points) Seven cepheid variables have been observed pulsating with the average absolute magnitudes and periods below.\n\n$$\\begin{array}{|l|c|c|c|c|c|c|c|} \\hline \\text{Star} & \\text{A} & \\text{B} & \\text{C} & \\text{D} & \\text{E} & \\text{F} & \\text{G} \\\\ \\hline P/\\text{days} & 6.75 & 4.24 & 4.48 & 16.41 & 10.14 & 1.95 & 8.00 \\\\ \\hline M & -3.64 & -3.04 & -3.09 & -4.69 & -4.10 & -1.99 & -3.80 \\\\ \\hline \\end{array}$$\n\nUse a piece of gridded paper. Plot and fit the data points to the relation above with a straight line in a (x,y)-diagram, and find the coefficients $A$ and $B$. Show your calculations, label your axes and handle units properly to score all points.\n\nb) (2 points) Another cepheid is observed with the apparent magnitude $m = 5.5$ (not to be confused with its absolute magnitude $M$) and the pulsation pattern below. How many parsecs away is this star?\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/no-2025-1.png",
+     "paper_label": "Final round, data analysis and open questions"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "(3 points) The plots below show the full spectrum of a far-away star and a zoom-in into its hydrogen-alpha (H-$\\alpha$) absorption line. The hydrogen alpha line is not a straight line, but a distribution with a certain width. In this case, this symmetric line broadening is due to rotational movement of the star that we are observing head-on (such that its rotational axis is perpendicular to our line of sight). The surface of the star corresponds roughly to where the measured flux is halfway down to the minimum.\n\na) (1 points) What is the effective temperature of the star?\n\nb) (2 points) What is the rotational velocity of the star at its surface (in km/s)?\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/no-2025-2.png",
+     "paper_label": "Final round, data analysis and open questions"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "(6 points) A black hole with mass $M$ radiates energy from its event horizon through Hawking radiation. This radiation has a black body spectrum with temperature $T = \\hbar c^3/8\\pi G M k$, where $\\hbar = h/2\\pi$ is the reduced Planck constant, $G$ is the gravitational constant and $k$ is the Boltzmann constant. Thus, the same physical laws as for other black bodies apply (e.g. stars). This means that even a black hole, from which \"nothing can escape\", leaks energy and eventually evaporates!\n\na) (2 points) Show that the luminosity radiated by the black hole can be written $L = L_\\odot \\cdot \\left(\\frac{M}{M_\\odot}\\right)^{-2}$, where $M_\\odot$ is the Sun's mass and $L_\\odot$ is the luminosity radiated by a black hole with the Sun's mass. Hint: just calculate with proportionalities like $T \\propto M^{-1}$; you do not have to express $L_\\odot$ explicitly!\n\nb) (2 points) Assume the black hole radiates with constant luminosity. Show that the lifetime of a black hole (the time it takes for it to evaporate) can be written $t = t_\\odot \\cdot \\left(\\frac{M}{M_\\odot}\\right)^{3}$, where $t_\\odot$ is the lifetime of a solar mass black hole. Also express $t_\\odot$ in terms of $L_\\odot$, $M_\\odot$ and physical constants.\n\nc) (2 points) It is possible to calculate that $t_\\odot \\approx 10^{67}$ years (you actually have all needed numbers, but we will just give it for simplicity). Today, scientists are eagerly hoping to observe primordial black holes that explode as they reach the end of the evaporation process. Why is there a maximum mass of primordial black holes we can observe today? What is the value of this mass?",
+     "paper_label": "Final round, data analysis and open questions"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "(3 points) A smaller mass $m$ orbits a much larger mass $M$ with total energy $E$. Consider the points of furthest and closest approach $r_1$ and $r_2$ and the velocities of $m$ there.\n\na) (0.5 points) Why is $r_1 v_1 = r_2 v_2$?\n\nb) (0.5 points) Why is $E = \\frac{1}{2} m v_1^2 - \\frac{GMm}{r_1} = \\frac{1}{2} m v_2^2 - \\frac{GMm}{r_2}$?\n\nc) (2 points) Show that $E = -\\frac{GMm}{2a}$. Hints: start by eliminating the velocities from the energy equation.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/no-2025-4.png",
+     "paper_label": "Final round, data analysis and open questions"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "(6 points) The star map below is of Oslo's night sky at 00:00 Norwegian time on March 3rd, 2025. You can use your planisphere in this exercise!\n\na. (1 point) Use the map to find the approximate azimuth and altitude of Orion's belt.\n\nb. (0.5 points) Mark the celestial north pole with a cross.\n\nc. (1 point) Draw a circle to denote the region of circumpolar stars visible from Oslo.\n\nd. (0.5 x 3 points) Give the names of the three brightest stars which are circumpolar at the latitude of Oslo. Provide both given names (e.g., \"Algol\") and Bayer designations (e.g., \"Beta Persei\")\n\ne. (1 point) Draw and label a curve representing the approximate location of the celestial equator on this map.\n\nf. (1 point) Draw and label a curve representing the approximate location of the ecliptic on this map.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/no-2025-5.png",
+     "paper_label": "Final round, data analysis and open questions"
+    }
+   ]
+  },
+  {
+   "year": 2026,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "(6 points) On the sky chart of Trondheim on the 18th of February this year:\n\na) (0.5 points each) Mark the cardinal directions\n\nb) (0.5 points for marking, 0.5 points for name) Which star is located at approximately altitude $30^\\circ$ and azimuth $210^\\circ$ (both proper name and Bayer designation are acceptable)? Mark it on the sky chart. Take azimuth 0 to be in cardinal north, and positive azimuth eastwards.\n\nc) (1 point each) Draw in the Ecliptic and Celestial Equator.\n\nd) (0.5 points each) What is the name of the intersection point between the two that is visible on this sky chart? In which constellation does it lie?\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/no-2026-1.png",
+     "paper_label": "Final round, observation, data analysis and open questions"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "(10 points) Not all stars that exhibit interesting properties have been assigned a common name. One such star is $\\eta$Car, a seemingly unremarkable star in the southern constellation Carina. The plot under this text shows an incredible increase in apparent brightness this star exhibited in the mid-1800s, termed \"The Great Eruption\". At the peak, $\\eta$Car became the second brightest star in the sky, just under Sirius. Its mass is estimated to be around $100 M_\\odot$ and it is located approximately 7500ly away from us.\n\na) (1 point) Sir Arthur S. Eddington defined an upper limit for the luminosity of a star that is in hydrostatic equilibrium. This Eddington limit can be described by the expression $L_{Edd} = 3.2 \\cdot 10^4 \\cdot \\left(\\frac{M}{M_\\odot}\\right) L_\\odot$, so if a star with mass $M$ surpasses this luminosity, theory would state that its radiation pressure has become greater than the gravitational force holding the star together. What would be the result of the radiation pressure overcoming gravity?\n\nb) (1 point) Did $\\eta$Car ever cross this theoretical limit during its \"Great Eruption\"? How about during the second \"Lesser Eruption\" around 1890? Comment on these findings in the context of your answer in a). Take the Sun's absolute magnitude to be 4.83\n\nc) (7 points) In the 1990s, both amateur and professional observations started noting a steady brightening in $\\eta$Car's magnitude, hypothesised to be due to dissipation of a dust cloud located in front of the star. This brightening has continued on for several decades at approximately the same rate. You are provided with apparent magnitude data of $\\eta$Car between the years 2020-2025¹. Use the provided millimetre paper to plot these points accordingly, and draw a best fit line through them.\n\n$$\\begin{array}{|l|l|} \\hline \\text{Year} & \\text{Apparent Magnitude [mag]} \\\\ \\hline 2020 & 4.27 \\\\ \\hline 2021 & 4.16 \\\\ \\hline 2022 & 4.04 \\\\ \\hline 2023 & 3.93 \\\\ \\hline 2024 & 3.82 \\\\ \\hline 2025 & 3.70 \\\\ \\hline \\end{array}$$\n\n¹ Data taken from https://www.aavso.org/ and https://arxiv.org/pdf/1901.00531\n\nd) (1 point) $\\eta$Car is surrounded by a nebula called Homunculus, making it a beautiful target to image. You can see one such photograph below this text, taken by the Hubble Space Telescope. Unfortunately, if $\\eta$Car continues on its path of increasing magnitude, its brightness will completely outshine the nebula. From extinction calculations, this will happen when $\\eta$Car reaches apparent magnitude somewhere between 3.34 and 2.44, making it about 10 times brighter than the nebula. According to your data analysis in c), give the earliest and latest year during which this can happen.\n\n(Photograph caption: Homunculus Nebula; credits: NASA)\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/no-2026-2-1.png\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/no-2026-2-2.png",
+     "paper_label": "Final round, observation, data analysis and open questions"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "(4 points) The Laser Interferometer Gravitational-wave Observatory (LIGO) can detect gravitational waves from two coalescing black holes. By making extremely accurate measurements at two different locations, it is determined that two black holes were orbiting each other 250 times per second at the instance when their event horizons touched each other. What is the mass of the resulting, larger black hole that formed as a result of the collision? For this calculation you can assume that the black holes had zero spin and you can neglect the loss of black hole mass converted to energy of the gravitational waves.",
+     "paper_label": "Final round, observation, data analysis and open questions"
+    }
+   ]
+  }
+ ]
+}
