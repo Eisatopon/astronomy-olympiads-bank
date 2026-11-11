@@ -625,6 +625,612 @@
    ]
   },
   {
+   "year": 2009,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "Describe the appearance of the starry sky this evening (at about 22 h), assuming cloudless weather.",
+     "paper_label": "In-person round (grades 8–9)",
+     "problem_orig": "Опишите вид звёздного неба сегодня вечером (около 22 часов) при условии безоблачной погоды.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "During powerful flares on the Sun, clouds of hot plasma are ejected with speeds reaching 1 500 km/s; at the moment of the flare they emit a powerful flux of radio waves. Estimate the time in which the ejected plasma clouds and the radio emission reach the Earth. The distance from the Earth to the Sun is 150 000 000 km, the speed of light is 300 000 km/s.",
+     "paper_label": "In-person round (grades 8–9)",
+     "problem_orig": "Во время мощных вспышек на Солнце выбрасываются облака горячей плазмы, скорость которых достигает 1 500 км/с, и которые в момент вспышки излучают мощный поток радиоволн. Оцените время, за которое выброшенные облака плазмы и радиоизлучение достигнут Земли. Расстояние от Земли до Солнца 150 000 000 км., скорость света равна 300 000 км/с.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "The electric force of Coulomb attraction between an electron and a proton, $F_q$, exceeds the force of their gravitational attraction almost $10^{39}$ times. Celestial bodies contain enormous numbers of both electrons and protons, so why, when describing their motion, do we take into account only the force of their mutual gravitation and neglect the force of their Coulomb interaction?",
+     "paper_label": "In-person round (grades 8–9)",
+     "problem_orig": "Электрическая сила кулоновского притяжения между электроном и протоном $F_q$ почти в $10^{39}$ раз превышает силу их гравитационного притяжения. В небесных телах мы имеем огромное число и электронов и протонов, так почему же при описании их движения мы учитываем только силу их взаимного тяготения, пренебрегая силой их кулоновского взаимодействия?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "In the 3rd century BC Eratosthenes knew that above the city of Syene the Sun is at times so high that its rays reach the bottom of the deepest well. At the same time in Alexandria the Sun was $1/50$ of a full circle away from the zenith. Knowing that the distance between Syene and Alexandria is about 5 000 Greek stadia, estimate, together with Eratosthenes, the length of the Earth's meridian (in stadia).",
+     "paper_label": "In-person round (grades 8–9)",
+     "problem_orig": "В III в. до н. э. Эратосфен знал, что Солнце над городом Сиена бывает так высоко, что его лучи достигают дна самого глубокого колодца. В это же время в Александрии Солнце отстояло от зенита на $1/50$ часть окружности. Зная, что расстояние между Сиеной и Александрией составляет около 5 000 греческих стадий, оцените вместе с Эратосфеном длину земного меридиана (в стадиях).",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "Until the end of the 19th century some scientists believed that the source of the Sun's energy was chemical combustion reactions, in particular the burning of coal. Taking the heat of combustion of coal to be $q = 10^7$ J/kg, the mass of the Sun $2\\cdot10^{30}$ kg and its luminosity $4\\cdot10^{26}$ W, give convincing evidence for or against this hypothesis.",
+     "paper_label": "In-person round (grades 8–9)",
+     "problem_orig": "До конца XIX века некоторые ученые полагали, что источником энергии Солнца являются химические реакции горения, в частности, горения угля. Приняв, что теплота сгорания угля $q = 10^7$ Дж/кг, масса Солнца $2\\cdot10^{30}$ кг, а светимость $4\\cdot10^{26}$ вт, приведите веские доказательства правильности или неправильности этой гипотезы.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 2,
+     "number": 1,
+     "problem": "Describe the appearance of the starry sky this evening (at about 22 h), assuming cloudless weather.",
+     "paper_label": "In-person round (grade 10)",
+     "problem_orig": "Опишите вид звёздного неба сегодня вечером (около 22 часов) при условии безоблачной погоды.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 2,
+     "number": 2,
+     "problem": "During powerful flares on the Sun, clouds of hot plasma are ejected with speeds reaching 1 500 km/s; at the moment of the flare they emit a powerful flux of radio waves. Estimate the time in which the ejected plasma clouds and the radio emission reach the Earth. The distance from the Earth to the Sun is 150 000 000 km, the speed of light is 300 000 km/s.",
+     "paper_label": "In-person round (grade 10)",
+     "problem_orig": "Во время мощных вспышек на Солнце выбрасываются облака горячей плазмы, скорость которых достигает 1 500 км/с, и которые в момент вспышки излучают мощный поток радиоволн. Оцените время, за которое выброшенные облака плазмы и радиоизлучение достигнут Земли. Расстояние от Земли до Солнца 150 000 000 км., скорость света равна 300 000 км/с.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 2,
+     "number": 3,
+     "problem": "The electric force of Coulomb attraction between an electron and a proton, $F_q$, exceeds the force of their gravitational attraction almost $10^{39}$ times. Celestial bodies contain enormous numbers of both electrons and protons, so why, when describing their motion, do we take into account only the force of their mutual gravitation and neglect the force of their Coulomb interaction?",
+     "paper_label": "In-person round (grade 10)",
+     "problem_orig": "Электрическая сила кулоновского притяжения между электроном и протоном $F_q$ почти в $10^{39}$ раз превышает силу их гравитационного притяжения. В небесных телах мы имеем огромное число и электронов и протонов, так почему же при описании их движения мы учитываем только силу их взаимного тяготения, пренебрегая силой их кулоновского взаимодействия?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 2,
+     "number": 4,
+     "problem": "In the 3rd century BC Eratosthenes knew that above the city of Syene the Sun is at times so high that its rays reach the bottom of the deepest well. At the same time in Alexandria the Sun was $1/50$ of a full circle away from the zenith. Knowing that the distance between Syene and Alexandria is about 5 000 Greek stadia, estimate, together with Eratosthenes, the length of the Earth's meridian (in stadia).",
+     "paper_label": "In-person round (grade 10)",
+     "problem_orig": "В III в. до н. э. Эратосфен знал, что Солнце над городом Сиена бывает так высоко, что его лучи достигают дна самого глубокого колодца. В это же время в Александрии Солнце отстояло от зенита на $1/50$ часть окружности. Зная, что расстояние между Сиеной и Александрией составляет около 5 000 греческих стадий, оцените вместе с Эратосфеном длину земного меридиана (в стадиях).",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 2,
+     "number": 5,
+     "problem": "The orbital period of Uranus around the Sun is 84 years. Will the Sun show a disc when viewed from Uranus with the naked eye, or will it be a point-like object? Justify your answer.",
+     "paper_label": "In-person round (grade 10)",
+     "problem_orig": "Период обращения Урана вокруг Солнца равен 84 годам. Будет ли у Солнца виден диск, если смотреть на него с Урана невооруженным глазом, или оно будет точечным объектом? Обоснуйте свой ответ.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 1,
+     "problem": "Describe the appearance of the starry sky this evening (at about 22 h), assuming cloudless weather.",
+     "paper_label": "In-person round (grade 11)",
+     "problem_orig": "Опишите вид звёздного неба сегодня вечером (около 22 часов) при условии безоблачной погоды.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 2,
+     "problem": "Estimate how many times the electric force of Coulomb attraction between an electron and a proton, $F_q$, exceeds the force of their gravitational attraction, $F_g$. The charge of the electron is $e = 1.6\\cdot10^{-19}$ C, the mass of the proton $m_p = 1.7\\cdot10^{-27}$ kg and the mass of the electron $m_e = 1.7\\cdot10^{-31}$ kg. Celestial bodies consist of enormous numbers of both electrons and protons, so why, when describing their motion, do we take into account only the force of their mutual gravitation and neglect the force of their Coulomb interaction?",
+     "paper_label": "In-person round (grade 11)",
+     "problem_orig": "Оцените, во сколько раз электрическая сила кулоновского притяжения между электроном и протоном $F_q$ превышает силу их гравитационного притяжения $F_g$. Заряд электрона $e = 1{,}6\\cdot10^{-19}$ Кл., масса протона $m_p = 1{,}7\\cdot10^{-27}$ кг, а масса электрона $m_e = 1{,}7\\cdot10^{-31}$ кг. Небесные тела состоят из огромного числа и электронов и протонов, так почему же при описании их движения мы учитываем только силу их взаимного тяготения, пренебрегая силой их кулоновского взаимодействия?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 3,
+     "problem": "The size of a neutron is $10^{-15}$ m and its mass is $1.7\\cdot10^{-27}$ kg. Estimate the radius and the density of a neutron star with a mass twice the mass of the Sun. The mass of the Sun is $2\\cdot10^{30}$ kg.",
+     "paper_label": "In-person round (grade 11)",
+     "problem_orig": "Размер нейтрона равен $10^{-15}$ м, а его масса равна $1{,}7\\cdot10^{-27}$ кг, оцените радиус и плотность нейтронной звезды с массой в два раза большей массы Солнца. Масса Солнца равна $2\\cdot10^{30}$ кг.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 4,
+     "problem": "In 1929 E. Hubble discovered that all galaxies are receding from us. According to Hubble, the speed of recession is related to the distance $r$ by $V = H r$. If the speed $V$ is in km/s and the distance $r$ in megaparsecs (Mpc), then $H = 75$ km/(s$\\cdot$Mpc). Estimate how long ago the galaxies were next to each other. (This time is called the age of the Universe.)",
+     "paper_label": "In-person round (grade 11)",
+     "problem_orig": "В 1929 г. Э. Хаббл обнаружил, что все галактики удаляются от нас. Скорость удаления, по Хабблу, связана с расстоянием $r$ выражением $V = H\\cdot r$. Если скорость $V$ в км/с, расстояние $r$ в Мегапарсеках (Мпк), то $H = 75$ км/сМпк. Оцените время, когда галактики были рядом друг с другом. (Это время называют возрастом Вселенной).",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 5,
+     "problem": "Quaoar, one of the newly discovered planets of the Solar System, was discovered in 2002 in the constellation Ophiuchus. It is at a distance of about 49 AU from the Sun. For how long will it move through the constellation Ophiuchus, if the Sun needs about 20 days for this?",
+     "paper_label": "In-person round (grade 11)",
+     "problem_orig": "Одна из вновь открытых планет Солнечной системы Куауар была открыта в 2002 г. в созвездии Змееносца. Она находится на расстоянии около 49 а.е. от Солнца. Как долго она будет перемещаться по созвездию Змееносца, если Солнцу для этого требуется около 20 суток?",
+     "orig_lang": "ru"
+    }
+   ]
+  },
+  {
+   "year": 2010,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "Explain why, whatever the magnification of a telescope, we cannot see the discs of distant stars in its eyepiece.",
+     "paper_label": "Final stage (grades 8–9)",
+     "problem_orig": "Объясните, почему каким бы ни было увеличение телескопа, мы не можем увидеть в его окуляр диски далеких звезд.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "Describe the view of the starry sky from one of the Galilean satellites of Jupiter. Will it be possible to see the Earth and the Moon separately from it with the naked eye?",
+     "paper_label": "Final stage (grades 8–9)",
+     "problem_orig": "Опишите вид звездного неба с одного из галилеевых спутников Юпитера. Удастся ли с него увидеть невооруженным глазом Землю и Луну отдельно?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "A spacecraft in the form of a large sphere, half black and half white, moves through the space of the Solar System. Which side will this spacecraft eventually turn towards the Sun?",
+     "paper_label": "Final stage (grades 8–9)",
+     "problem_orig": "В пространстве Солнечной системы движется космический корабль в виде большой сферы, которая наполовину черная, наполовину белая. Какой из сторон в конце концов развернется к Солнцу этот космический корабль?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 2,
+     "number": 1,
+     "problem": "How will a pendulum clock brought from the Earth to the surface of Mars run?",
+     "paper_label": "Final stage (grades 10–11)",
+     "problem_orig": "Как будут идти маятниковые часы, доставленные с Земли на поверхность Марса?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 2,
+     "number": 2,
+     "problem": "Suppose that today the Moon, at first quarter, occults the star Aldebaran ($\\alpha$ Tauri). What season of the year is it now?",
+     "paper_label": "Final stage (grades 10–11)",
+     "problem_orig": "Предположим, что сегодня Луна в фазе первой четверти покрывает звезду Альдебаран ($\\alpha$ Тельца). Какой сейчас сезон года?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 2,
+     "number": 3,
+     "problem": "The brightness of Venus at superior conjunction is $-3.9^{\\mathrm{m}}$, and at greatest elongation $-4.4^{\\mathrm{m}}$. What is the brightness of Venus in these configurations when observed from Mars? The distance from Venus to the Sun is 0.723 AU, and from Mars to the Sun 1.524 AU.",
+     "paper_label": "Final stage (grades 10–11)",
+     "problem_orig": "Блеск Венеры во время верхнего соединения равен $-3.9^{\\mathrm{m}}$, а во время наибольшей элонгации $-4.4^{\\mathrm{m}}$. Чему равен блеск Венеры в этих конфигурациях при наблюдении с Марса? Расстояние от Венеры до Солнца равно 0.723 а.е., а от Марса до Солнца 1.524 а.е.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 2,
+     "number": 4,
+     "problem": "A binary system consists of two identical stars of 5 solar masses each, revolving in circular orbits around their common centre of mass with a period of 316 years. Will it be possible to resolve this pair visually with the \"TAL-M\" telescope, with an objective of diameter 8 cm and an eyepiece magnification of $105\\times$, if the distance to it is 100 pc?",
+     "paper_label": "Final stage (grades 10–11)",
+     "problem_orig": "Двойная система состоит из двух одинаковых звезд с массой 5 масс Солнца, обращающихся по круговым орбитам вокруг общего центра масс с периодом 316 лет. Удастся ли разрешить эту пару визуально в телескоп \"ТАЛ-М\" с диаметром объектива 8 см и увеличением окуляра $105\\times$, если расстояние до нее равно 100 пк?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 2,
+     "number": 5,
+     "problem": "A paraffin part in the form of a ball (with no cavities inside) of density 650 kg/m$^3$ floats in water at a lunar space base. How will the buoyant (Archimedes) force acting on the ball change if it floats in oil? (The density of water is 1000 kg/m$^3$, of oil 900 kg/m$^3$; the acceleration of free fall on the Moon is 1.6 m/s$^2$.)",
+     "paper_label": "Final stage (grades 10–11)",
+     "problem_orig": "Парафиновая деталь в виде шара (без пустот внутри) плотностью 650 кг/м$^3$ плавает в воде на лунной космической базе. Как изменится архимедова сила, действующая на шар, если он будет плавать в масле? (Плотность воды 1000 кг/м$^3$, масла 900 кг/м$^3$, ускорение свободного падения на Луне 1,6 м/с$^2$).",
+     "orig_lang": "ru"
+    }
+   ]
+  },
+  {
+   "year": 2011,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "One of the characters of a novel by Alexei Ivanov, a teacher, once read to his pupils a poem containing these lines:\n\n\"Above the snowy earth, a boundless darkness. / A thin crescent Moon is shining, and above it the Great Bear.\"\n\nFrom the astronomical point of view, where and when was this observation made?",
+     "paper_label": "In-person round (grades 8–9)",
+     "problem_orig": "Один из героев романа Алексея Иванова, учитель, однажды прочёл ученикам стихотворение, в котором были такие строки:\n\n\"Над землёю снежною темнота безбрежная. / Тонкий месяц светится, а над ним Медведица.\"\n\nС астрономической точки зрения, где и когда было сделано это наблюдение?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "When is the daytime longer: on 20 February or on 30 October? Explain your answer.",
+     "paper_label": "In-person round (grades 8–9)",
+     "problem_orig": "Когда световой день длиннее: 20 февраля или 30 октября? Ответ поясните.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "In which month will the Moon at first quarter be highest above the horizon? Explain your answer.",
+     "paper_label": "In-person round (grades 8–9)",
+     "problem_orig": "В каком месяце Луна в фазе первой четверти будет находиться выше всего над горизонтом? Ответ поясните.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "In the third millennium the Earthlings decided to build a railway across the Solar System. For this, a steel cube of size $100\\times100\\times100$ km was prepared. How far can rails made from this stock be laid? Will they reach the Moon? And Jupiter? Assume that the cross-section of a rail is a $5\\times10$ cm rectangle.",
+     "paper_label": "In-person round (grades 8–9)",
+     "problem_orig": "В третьем тысячелетии земляне решили построить железную дорогу по Солнечной системе. Для этого был заготовлен стальной куб размером $100\\times100\\times100$ км. Как далеко можно проложить рельсы, изготовленные из этого запаса? Достанут ли они до Луны? А до Юпитера? Считать, что в сечении рельс имеет вид прямоугольника $5\\times10$ см.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "An astronomer observed Mars and Saturn for a year. Which of these two planets did he see more often in retrograde motion during that time? For which of these planets does the motion change from direct to retrograde more often?",
+     "paper_label": "In-person round (grades 8–9)",
+     "problem_orig": "Астроном в течение года наблюдал Марс и Сатурн. Какую из этих двух планет за указанный промежуток времени он чаще видел в попятном движении? У какой из этих планет движение чаще меняется с прямого на попятное?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 2,
+     "number": 1,
+     "problem": "Suppose that on 21 March an observer sees the Sun rising exactly at the east point. At which point (observing from the same place) will the Sun cross the horizon at sunrise on 21 March of the following year: also at the east point, south of it or north of it?",
+     "paper_label": "In-person round (grades 10–11)",
+     "problem_orig": "Предположим, 21 марта наблюдатель видит Солнце восходящим точно в точке востока. В какой точке (при наблюдении из того же пункта) Солнце пересечёт горизонт при восходе 21 марта следующего года - тоже в точке востока, южнее или севернее неё?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 2,
+     "number": 2,
+     "problem": "With a telescope of diameter 300 mm one can register, at the limit, stars of magnitude $23^{\\mathrm{m}}$. What is the minimum size of asteroids that can be detected with it at the Lagrangian points $L_4$, $L_5$ of the Earth's orbit?",
+     "paper_label": "In-person round (grades 10–11)",
+     "problem_orig": "В телескоп диаметром 300 мм на пределе можно зарегистрировать звезды с блеском $23^{\\mathrm{m}}$. Какого минимального размера астероиды можно обнаружить с его помощью в лагранжевых точках: $L_4$, $L_5$ орбиты Земли?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 2,
+     "number": 3,
+     "problem": "A satellite of mass 2 tonnes moves around the Sun in an elliptical orbit with semi-major axis 2 AU and perihelion distance 0.5 AU. At the aphelion of its orbit it collides with an asteroid of diameter 1 km moving in a circular orbit. Estimate, in TNT equivalent, the energy released in the collision of the satellite with the asteroid, assuming the impact to be perfectly inelastic (all parts of the satellite remain on the asteroid).\n\nThe energy of the explosion of 1 kg of TNT is 4230 kJ/kg.",
+     "paper_label": "In-person round (grades 10–11)",
+     "problem_orig": "Спутник массой 2 тонны движется вокруг Солнца по эллиптической орбите с большой полуосью 2 а.е. и перигелийным расстоянием 0.5 а.е. В афелии своей орбиты он сталкивается с астероидом диаметром 1 км, движущимся по круговой орбите. Оцените в тротиловом эквиваленте энергию, выделившуюся при столкновении спутника с астероидом, считая удар абсолютно неупругим (все части спутника остались на астероиде).\n\nЭнергия взрыва 1 кг тротила 4230 кДж/кг.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 2,
+     "number": 4,
+     "problem": "Find the amplitude of the variation of the magnitude of the Sun as seen from the dwarf planet Eris. The semi-major axis of the orbit of Eris is 67 AU and its eccentricity is 0.44.",
+     "paper_label": "In-person round (grades 10–11)",
+     "problem_orig": "Найдите амплитуду изменения звездной величины Солнца, видимого с карликовой планеты Эрида. Большая полуось орбиты Эриды равна 67 а.е, а эксцентриситет – 0.44.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 2,
+     "number": 5,
+     "problem": "The maximum distance between two stars is 80 AU and the minimum 60 AU; the masses of the stars are 1 solar mass and 3 solar masses. Calculate the orbital period of this system and the eccentricities of the orbits of the stars.",
+     "paper_label": "In-person round (grades 10–11)",
+     "problem_orig": "Максимальное расстояние между звездами 80 а.е, минимальное 60 а.е, массы звезд 1 масса Солнца и 3 массы Солнца. Вычислите период обращения этой системы и эксцентриситеты орбит звезд.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 2,
+     "number": 6,
+     "problem": "The angular size of a star of magnitude 4.7 is $0.004''$. Spectroscopic observations of this star show that the sodium line of wavelength 5890 Å has two components, a bright one and a faint one. The wavelength of the faint component varies sinusoidally with an amplitude of 0.6 Å and a period of 30 years, and once per period the faint line disappears for 230 days. Estimate the distance to the star, its mass and its surface temperature. What type of star is it?",
+     "paper_label": "In-person round (grades 10–11)",
+     "problem_orig": "Угловой размер звезды блеском 4,7 составляет 0,004 угл. сек. Спектроскопические наблюдения этой звезды показывают, что линия натрия с длиной волны 5890 Å имеет две компоненты: яркую и слабую. Длина волны слабой компоненты меняется синусоидально с амплитудой 0,6 Å и периодом 30 лет, причем один раз за этот период слабая линия исчезает на 230 дней. Оцените расстояние до звезды, ее массу и температуру поверхности. К какому типу звезд она относится?",
+     "orig_lang": "ru"
+    }
+   ]
+  },
+  {
+   "year": 2012,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "Flight 178 departs from Tolmachevo airport in Novosibirsk at 10 a.m. local time. At Domodedovo airport the same flight lands at 10 a.m., but Moscow time. Estimate the average speed of the aircraft, taking into account that the cities are at the same latitude but in different time zones. What else can affect the accuracy of your calculation? Explain your answer graphically. Round the length of the Earth's equator to 40 thousand km.",
+     "paper_label": "In-person round (grades 8–9)",
+     "problem_orig": "Из аэропорта Толмачево в Новосибирске рейс 178 вылетает в 10 часов утра по местному времени. В аэропорту Домодедово этот же рейс приземляется в 10 утра, но уже по московскому времени. Оцените, с какой средней скоростью летит самолет, если учесть, что города находятся на одной широте, но в разных часовых поясах. Что также может повлиять на точность вашего расчета? Свой ответ поясняйте графически. Длину окружности экватора Земли округлим до 40 тыс. км.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "On the new astronomical platform of the Moscow Planetarium, recently reopened after reconstruction, a signpost has been installed showing the distances to various places on our planet: \"Lomonosov Moscow State University — 7.5 km\", \"Nizhny Novgorod — 390 km\", \"Mount Elbrus — 1485 km\", \"Philippine Islands — 8485 km\" — about thirty in all. The arrows of the signpost are not horizontal but point in the real direction of the given place.\n\na) At what angle to the vertical is the arrow labelled \"south pole\", mounted on the southern side of the post?\n\nb) The inscription on this arrow reads: \"south pole — 16195 km\". What is the actual straight-line distance from the signpost to the south pole of the Earth?",
+     "paper_label": "In-person round (grades 8–9)",
+     "problem_orig": "На новой астрономической площадке Московского планетария, недавно открытого после реконструкции, установлен указатель расстояний до разных пунктов на нашей планете: «МГУ им. Ломоносова — 7,5 км», «Нижний Новгород — 390 км», «г. Эльбрус — 1485 км», «Филиппинские о-ва — 8485 км» — всего около тридцати. Стрелки указателя расположены не горизонтально, а в соответствии с реальным направлением на данный пункт.\n\nа) Под каким углом к вертикали расположена установленная с южной стороны столба стрелка с надписью «южный полюс»?\n\nб) Надпись на этой стрелке гласит: «южный полюс — 16195 км». Каково на самом деле расстояние от указателя до южного полюса Земли «по прямой»?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "The heroes of a story by the contemporary Canadian science-fiction writer Richard Lovett carry out geological surveys on Triton. This is how the author describes the landscape:\n\n\"A large crescent of Neptune hung low above the western horizon. The sun hung a palm's width above the eastern one. When I wake up, Neptune will still be in the same place. And the sun will go round in a circle, completing it every few days.\" (Richard Lovett, \"Neptune's Treasure\", magazine \"Esli\" no. 12, 2010, p. 84, translated from English by Andrei Novikov)\n\nIs everything in this passage correct from the point of view of astronomy?",
+     "paper_label": "In-person round (grades 8–9)",
+     "problem_orig": "Герои повести современного канадского фантаста Ричарда Ловетта проводят геологические изыскания на Тритоне. Вот как автор описывает пейзаж:\n\n\"Низко над западным горизонтом висел большой полумесяц Нептуна. На ладонь выше восточного зависло солнце. Когда я проснусь, Нептун так и останется на прежнем месте. А солнце будет ходить по кругу, завершая его каждые несколько дней\". (Ричард Ловетт \"Сокровище Нептуна\" – журнал \"Если\" №12, 2010 год, стр.84, перевод с английского Андрея Новикова)\n\nВсё ли в этом отрывке правильно с точки зрения астрономии?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "One astronomy textbook states that \"the difference between the Old and New Style, which at present amounts to 13 days, will remain until the end of the 21st century\". Do you agree with this statement?",
+     "paper_label": "In-person round (grades 8–9)",
+     "problem_orig": "В одном учебнике по астрономии написано, что «расхождение между старым и новым стилем, составляющее в настоящее время в 13 суток, сохранится до конца XXI века». Согласны ли вы с этим утверждением?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "When your grandparents were small, there was a wonderful children's radio programme, \"Radionyanya\". Once the programme included a song to verses by Arkady Khait:\n\n\"Above the Earth late at night, / Just stretch out your hand, / You will catch hold of the stars: / They seem so close. / You can take a feather of the Peacock, / Touch the hands of the Clock, / Ride on the Dolphin, / Swing on the Scales.\"\n\nFrom which places on the Earth can all the constellations mentioned be observed? Is it possible to choose a time of observation so as to see all four at once?",
+     "paper_label": "In-person round (grades 8–9)",
+     "problem_orig": "Когда ваши бабушки и дедушки были маленькими, на радио была чудесная детская передача «Радионяня». Однажды в передаче прозвучала песенка на стихи Аркадия Хайта:\n\n\"Над Землею ночью поздней, / Только руку протяни, / Ты ухватишься за звёзды: / Рядом кажутся они. / Можно взять перо Павлина, / Тронуть стрелки на Часах, / Покататься на Дельфине, / Покачаться на Весах.\"\n\nИз каких мест на Земле можно наблюдать все упомянутые созвездия? Можно ли выбрать такое время наблюдения, чтобы увидеть одновременно все четыре?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 2,
+     "number": 1,
+     "problem": "Flight 178 departs from Tolmachevo airport in Novosibirsk at 10 a.m. local time. At Domodedovo airport the same flight lands at 10 a.m., but Moscow time. Estimate the accuracy with which the average speed of the aircraft can be determined, taking into account that the cities are at the same latitude but in different time zones. Explain your answer graphically. Round the length of the Earth's equator to 40 thousand km.",
+     "paper_label": "In-person round (grades 10–11)",
+     "problem_orig": "Из аэропорта Толмачево в Новосибирске рейс 178 вылетает в 10 часов утра по местному времени. В аэропорту Домодедово этот же рейс приземляется в 10 утра, но уже по московскому времени. Оцените, с какой точностью можно определить среднюю скорость самолета, если учесть, что города находятся на одной широте, но в разных часовых поясах. Свой ответ поясняйте графически. Длину окружности экватора Земли округлим до 40 тыс. км.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 2,
+     "number": 2,
+     "problem": "For one of its observing programmes, a Russian astronomical observatory decided to move its refracting telescope on an equatorial mount from Russia to Chile as a separate auxiliary observing instrument. What technical operations must the engineers plan in advance when installing this telescope at the new site? Do these technical operations differ for a similar transfer of the refractor to Australia?",
+     "paper_label": "In-person round (grades 10–11)",
+     "problem_orig": "Для решения одной из наблюдательных программ одна из отечественных астрономических обсерваторий решила свой телескоп-рефрактор на экваториальной монтировке перенести из России на территорию Чили в качестве отдельного вспомогательного наблюдательного инструмента. Какие технические операции должны заранее предусмотреть наладчики при установке данного телескопа на новом месте? Отличаются ли эти технические действия при аналогичном переносе рефрактора в Австралию?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 2,
+     "number": 3,
+     "problem": "Could Galileo Galilei, while sketching the positions of the four nearest satellites of Jupiter (named after him), have accidentally observed the \"planet\" Pluto with his telescope?",
+     "paper_label": "In-person round (grades 10–11)",
+     "problem_orig": "Мог ли Галилео Галилей, зарисовывая расположение четырёх ближайших к Юпитеру спутников «имени себя», случайно наблюдать в свой телескоп «планету» Плутон?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 2,
+     "number": 4,
+     "problem": "Anatoly Shcherbakov's poem \"Baikonur, 20th century\" contains these lines:\n\n\"Again the antennas look upwards / Ever more intently. / The distance is full of interstellar rustles. / And for about three hundred seconds there flies to her — / To her, to Venus — a radio wave...\"\n\nSuppose that a radio signal from the Earth reached Venus in exactly 300 seconds. In what phase was Venus seen by a terrestrial observer at the moment the signal was sent?",
+     "paper_label": "In-person round (grades 10–11)",
+     "problem_orig": "У Анатолия Щербакова в поэме «Байконур, ХХ век» есть такие строки:\n\n\"Вновь антенны смотрят ввысь / Все пристальней. / Даль межзвёздных шорохов полна. / И летит секунд примерно триста к ней,- / К ней, к Венере, радиоволна...\"\n\nПредположим, что радиосигнал с Земли достиг Венеры ровно за 300 секунд. В какой фазе была видна Венера земному наблюдателю в момент отправки этого сигнала?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 2,
+     "number": 5,
+     "problem": "Before you is a collage of photographs of Mars showing the apparent path of the planet over some period of time. From the photograph, determine whether the planet was above or below the plane of the ecliptic during this period. (North is at the top of the photograph.)\n\n[The photograph is not reproduced here (its author is not credited in the collection). It is on page 34 of the collection: http://astroolymp.ru/books/moscow_3.pdf]",
+     "paper_label": "In-person round (grades 10–11)",
+     "problem_orig": "Перед вами — коллаж из фотографий Марса, который показывает видимый путь планеты за некоторое время. По фото определите, выше или ниже плоскости эклиптики находилась в этот период планета. (Север на фото сверху)\n\n[Фотография здесь не воспроизводится (авторство не указано). Она находится на стр. 34 сборника: http://astroolymp.ru/books/moscow_3.pdf]",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 2,
+     "number": 6,
+     "problem": "Two star clusters are observed in different directions from us. In the direction of the first cluster the interstellar absorption is $0.0010^{\\mathrm{m}}$/pc, in the direction of the second $0.0020^{\\mathrm{m}}$/pc. Determine which of the clusters is nearer and by how many times, if in the first a $\\delta$ Cep type Cepheid with a period of 3 days and apparent magnitude $12^{\\mathrm{m}}$ is observed, and in the second a $\\delta$ Cep type Cepheid with a period of 25 days and apparent magnitude $10^{\\mathrm{m}}$. For $\\delta$ Cep type Cepheids the absolute magnitude depends on the period as $M_V = -1.01 + 2.87\\log P$.",
+     "paper_label": "In-person round (grades 10–11)",
+     "problem_orig": "Наблюдаются два звёздных скопления находящихся в разных направлениях от нас. В направлении первого скопления межзвёздное поглощение равно $0.0010^{\\mathrm{m}}$/пк, в направлении второго $0.0020^{\\mathrm{m}}$/пк. Определите какое из скоплений ближе и во сколько раз, если в первом наблюдается цефеида типа $\\delta$ Cep с периодом 3 суток и видимой звёздной величиной $12^{\\mathrm{m}}$, во втором также наблюдается цефеида типа $\\delta$ Cep, но с периодом 25 суток и видимой звёздной величиной $10^{\\mathrm{m}}$. Для цефеид типа $\\delta$ Cep характерна зависимость между абсолютной звёздной величиной и периодом $M_V = -1.01 + 2.87\\cdot\\log P$.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 2,
+     "number": 7,
+     "problem": "In the story \"Very Cold\" the contemporary Russian science-fiction writer Boris Rudenko describes the home planet of the main character as follows:\n\n\"Iceburg revolved around its sun in an elongated elliptical orbit. On each revolution it receded from its star for four standard years, turning for that time into a world of cold and ice, which kept its atmosphere and ocean depths unfrozen only thanks to the heat of the planet's hot core. And for the following two years a hot, unbearably hot summer reigned on Iceburg. Over millions of years the nature of Iceburg had adapted to these conditions.\" (Boris Rudenko, \"Very Cold\", \"Esli\" no. 11, 2010, p. 159.)\n\nEstimate the eccentricity of the planet's orbit.",
+     "paper_label": "In-person round (grades 10–11)",
+     "problem_orig": "В рассказе «Очень холодно» современный российский фантаст Борис Руденко так описывает родную планету главного героя:\n\n«Айсбург вращался вокруг своего солнца по вытянутой эллиптической орбите. Каждый оборот он на четыре стандартных года удалялся от светила, превращаясь на это время в мир холода и льда, сохраняющий атмосферу и океанские глубины незамерзающими лишь за счёт тепла горячего ядра планеты. А следующие два года на Айсбурге царило жаркое, невыносимо жаркое лето. Природа Айсбурга за миллионы лет приспособилась к этим условиям.» (Борис Руденко «Очень холодно» — «Если» №11, 2010 год, стр.159).\n\nОцените эксцентриситет орбиты планеты.",
+     "orig_lang": "ru"
+    }
+   ]
+  },
+  {
+   "year": 2013,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "The altitude of a celestial body at upper culmination is three times the latitude of the place, and its altitude at lower culmination is three times smaller than the latitude. What are the declination of the star and the latitude of the place of observation?",
+     "paper_label": "In-person round (grades 8–9)",
+     "problem_orig": "Высота светила в верхней кульминации в три раза больше широты места, а высота в нижней кульминации в три раза меньше широты. Чему равно склонение звезды и широта места наблюдения?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "Towards which constellation is the vector of the Earth's orbital velocity directed on the day of the olympiad, 2 March?",
+     "paper_label": "In-person round (grades 8–9)",
+     "problem_orig": "К какому созвездию направлен вектор орбитальной скорости Земли в день проведения олимпиады, 2 марта?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "Mankind decided to build from the planets of the Solar System a Dyson sphere, a shell around the Sun of radius 1 AU and density 5.5 g/cm$^3$. How thick will it be? The surface area of how many Earth-like planets would equal the area of its surface?",
+     "paper_label": "In-person round (grades 8–9)",
+     "problem_orig": "Человечество решило создать из планет Солнечной системы сферу Дайсона -- оболочку вокруг Солнца, радиусом 1 а.е. и плотностью 5,5 г/см$^3$. Какова она будет в толщину? Площадь скольких планет, подобных Земле, была бы равна площади её поверхности?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "The weight of the Curiosity rover on the Earth is 8.79 kN. What is its weight on Mars, if the mean density of Mars is 0.713 of the mean density of the Earth and its radius is 0.53 of the Earth's radius?",
+     "paper_label": "In-person round (grades 8–9)",
+     "problem_orig": "Вес марсохода Curiosity на Земле 8,79 кН. Каков его вес на Марсе, если средняя плотность Марса составляет 0,713 от средней плотности Земли, а его радиус 0.53 радиуса Земли.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "How did the magnitude of the Sun as seen from the Earth change during the transit of Venus across the solar disc on 6 June 2012?",
+     "paper_label": "In-person round (grades 8–9)",
+     "problem_orig": "Как менялась видимая с Земли звёздная величина Солнца в ходе прохождения Венеры по солнечному диску 6 июня 2012 года?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 2,
+     "number": 1,
+     "problem": "The altitude of a celestial body at upper culmination is three times the latitude of the place, and its altitude at lower culmination is three times smaller than the latitude. What are the declination of the star and the latitude of the place of observation?",
+     "paper_label": "In-person round (grades 10–11)",
+     "problem_orig": "Высота светила в верхней кульминации в три раза больше широты места, а высота в нижней кульминации в три раза меньше широты. Чему равно склонение звезды и широта места наблюдения?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 2,
+     "number": 2,
+     "problem": "Which of the major planets has the longest shadow? Does it exceed the distance from the Earth to the Sun?",
+     "paper_label": "In-person round (grades 10–11)",
+     "problem_orig": "У какой из больших планет самая длинная тень? Превышает ли она расстояние от Земли до Солнца?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 2,
+     "number": 3,
+     "problem": "From a space station in a circular orbit around the Earth at a height of 500 km above the Earth's surface, an astronaut pushed off vertically downwards with a speed of 2.5 m/s. After what time will he reach the Earth?",
+     "paper_label": "In-person round (grades 10–11)",
+     "problem_orig": "От космической станции, которая находится на круговой орбите вокруг Земли и имеет высоту 500 км над земной поверхностью, вертикально вниз оттолкнулся космонавт со скоростью 2.5 м/с. Через сколько времени он достигнет Земли?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 2,
+     "number": 4,
+     "problem": "Mankind decided to build from the planets of the Solar System a Dyson sphere, a shell of radius 1 AU and density 5.5 g/cm$^3$ around the Sun. How thick will it be? The surface area of how many planets like the Earth will equal the area of its surface?",
+     "paper_label": "In-person round (grades 10–11)",
+     "problem_orig": "Человечество решило создать из планет Солнечной системы сферу Дайсона -- оболочку с радиусом в 1 а.е. и плотностью 5,5 г/см$^3$ вокруг Солнца. Какова она будет в толщину? Площадь скольких планет наподобие Земли будет равна площади ее поверхности?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 2,
+     "number": 5,
+     "problem": "In which directions on the celestial sphere is the largest number of stars near us seen?",
+     "paper_label": "In-person round (grades 10–11)",
+     "problem_orig": "В каких направлениях на небесной сфере видно наибольшее количество близких к нам звезд?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 2,
+     "number": 6,
+     "problem": "Galaxy A has a redshift of 0.05. Galaxy B, located on the sky $90^\\circ$ from galaxy A, has a redshift of 0.1. What redshift will galaxy B have for an observer in galaxy A?",
+     "paper_label": "In-person round (grades 10–11)",
+     "problem_orig": "Галактика A имеет красное смещение 0,05. Галактика B, расположенная на небе в 90 градусах от галактики A, имеет красное смещение 0,1. Какое красное смещение будет иметь галактика B для наблюдателя в галактике A?",
+     "orig_lang": "ru"
+    }
+   ]
+  },
+  {
+   "year": 2014,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "Determine the radius of a ball of water whose mass equals the mass of the Earth. Of the Sun? Of the Milky Way Galaxy? Which objects in the Universe have sizes close to those obtained?",
+     "paper_label": "In-person round (grades 8–9)",
+     "problem_orig": "Определите радиус шара с водой масса которого равна массе Земли? Солнца? Галактики Млечный Путь? Какие объекты во Вселенной имеют близкие к полученным размеры?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "An observer noticed that Jupiter, being at opposition, made its upper culmination at an altitude of $45^\\circ$ south of the zenith, and its lower culmination on the same day was only $2^\\circ$. Estimate after what time Jupiter will rise at the east point. Neglect the inclination of the plane of Jupiter's orbit to the plane of the ecliptic.",
+     "paper_label": "In-person round (grades 8–9)",
+     "problem_orig": "Наблюдатель заметил, что Юпитер, находясь в противостоянии, совершил верхнюю кульминацию на высоте $45^\\circ$ к югу от зенита, а его нижняя кульминация в тот же день составила всего $2^\\circ$. Оцените, через какое время Юпитер взойдет в точке востока? Наклоном плоскости орбиты Юпитера к плоскости эклиптики пренебречь.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "To what distance from the eyes can a 5-rouble coin (radius 25 mm) be moved so that it still completely covers the Moon? Consider all cases.",
+     "paper_label": "In-person round (grades 8–9)",
+     "problem_orig": "На какое расстояние можно отодвинуть от глаз 5-рублевую монету (радиус 25 мм), чтобы полностью закрыть Луну? Рассмотрите все случаи.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "Mercury and Mars have approximately the same acceleration of free fall at their surfaces. From the surface of which of these bodies is it easier to launch an artificial satellite? Justify your answer.",
+     "paper_label": "In-person round (grades 8–9)",
+     "problem_orig": "У Меркурия и Марса на поверхности примерно одинаковое ускорение свободного падения. С поверхности какого из этих тел проще запустить искусственный спутник? Ответ обоснуйте.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "Light from the star Deneb takes 1500 years to reach the Earth. Determine the value of the annual parallax of Deneb.",
+     "paper_label": "In-person round (grades 8–9)",
+     "problem_orig": "Свет от звезды Денеб идет к Земле 1500 лет. Определите значение годичного параллакса у звезды Денеб.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "problem": "Determine and list the constellations in which the Moon can be in the sky of Moscow (latitude $56^\\circ$). The inclination of the lunar orbit to the ecliptic is $5.1^\\circ$. The radius of the Earth is 6400 km, the mean distance of the Moon from the Earth 384000 km.",
+     "paper_label": "In-person round (grades 8–9)",
+     "problem_orig": "Определите и перечислите созвездия, в которых бывает Луна на небе г. Москве (широта $56^\\circ$). Наклонение лунной орбиты к эклиптике $5.1^\\circ$. Радиус Земли 6400 км, среднее расстояние Луны от Земли 384000 км.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 2,
+     "number": 1,
+     "problem": "A telescope installed at latitude $45^\\circ$ can be pointed at objects not lower than $15^\\circ$ above the horizon. Determine for how long during the night celestial bodies on the celestial equator are accessible to this telescope.",
+     "paper_label": "In-person round (grades 10–11)",
+     "problem_orig": "Телескоп, установленный на широте $45^\\circ$, может наводиться на объекты не ниже $15^\\circ$ над горизонтом. Определите, как долго в течение ночи будут этому телескопу доступны светила на небесном экваторе?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 2,
+     "number": 2,
+     "problem": "The effective radius of a galaxy is the distance at which its surface brightness equals $25^{\\mathrm{m}}$ per square arcsecond. It is known that the surface brightness falls off exponentially from the centre according to the law $I = I_0 e^{-r/h}$, where $h$ is the distance from the centre at which the surface brightness decreases by a factor of $e$. Let a galaxy be located at a distance of 3 Mpc from us and have a central surface brightness of $20^{\\mathrm{m}}$, with $h = 2$ kpc. What is the angular size of the effective radius of this galaxy?",
+     "paper_label": "In-person round (grades 10–11)",
+     "problem_orig": "Под эффективным радиусом галактики понимают такое расстояние, на котором ее поверхностная яркость равна $25^{\\mathrm{m}}$ с квадратной секунды. Известно, что поверхностная яркость падает экспоненциально от центра по закону $I=I_0\\cdot e^{-r/h}$, где $h$ – расстояние от центра, на котором поверхностная яркость уменьшается в $e$ раз. Пусть некоторая галактика расположена на расстоянии 3 Мпк от нас, имеет поверхностную яркость в центре $20^{\\mathrm{m}}$, $h = 2$ кпк. Какие угловые размеры имеет эффективный радиус этой галактики?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 2,
+     "number": 3,
+     "problem": "In observations in the submillimetre range with a small but sensitive telescope, a \"confusion problem\" arises: there are so many sources on the sky that it is difficult to tell where there is one source and where there are several. These sources are very distant galaxies (at distances of several gigaparsecs). Estimate roughly the total number of sources on the sky at which this effect appears for the HERSCHEL space telescope of diameter 3.5 m observing at a wavelength of 250 µm.",
+     "paper_label": "In-person round (grades 10–11)",
+     "problem_orig": "При проведении наблюдений в субмиллиметровой области спектра небольшим, но чувствительным телескопом возникает «проблема путаницы»: источников на небе так много, что трудно понять, где один, а где несколько. Этими источниками являются очень далекие галактики (на расстояниях несколько гигапарсек). Оцените примерно полное количество источников на небе, при котором проявляется этот эффект для космического телескопа ГЕРШЕЛЬ диаметром 3.5 м при наблюдениях на длине волны 250 мкм.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 2,
+     "number": 4,
+     "problem": "Aliens decided to push a Kuiper belt object into the Sun by stopping its orbital motion. With what accuracy (relative error) must they impart the momentum to this object, if it moved in a circular orbit with speed $V$?",
+     "paper_label": "In-person round (grades 10–11)",
+     "problem_orig": "Инопланетяне решили столкнуть объект пояса Койпера на Солнце, остановив его орбитальное движение. С какой точностью (относительной ошибкой) они должны передать импульс этому объекту, если он вращался по круговой орбите со скоростью $V$.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 2,
+     "number": 5,
+     "problem": "The semi-major axis of the orbit of a visual binary star is seen from the Earth at an angle of $0.628''$, and the orbital period is 60.55 years. Taking the parallax to be $0.0284''$, determine the total mass of the binary system in solar masses.",
+     "paper_label": "In-person round (grades 10–11)",
+     "problem_orig": "Большая полуось орбиты визуальной двойной звезды наблюдается с Земли под углом $0.628''$, период обращения равен 60,55 годам. Считая параллакс равным $0.0284''$, определите суммарную массу двойной системы в массах Солнца.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 2,
+     "number": 6,
+     "problem": "The mean size of a white dwarf is approximately the diameter of the Earth, and its temperature is 13000 K. Estimate the luminosity of the white dwarf in solar luminosities. From what distance shall we be unable to see such a white dwarf without a telescope?",
+     "paper_label": "In-person round (grades 10–11)",
+     "problem_orig": "Зная, что средний размер белого карлика равен примерно диаметру Земли, а температура составляет 13000К. Оцените, какова светимость белого карлика в светимостях Солнца? С какого расстояния мы не сможем увидеть такой белый карлик без телескопа?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 2,
+     "number": 7,
+     "problem": "So-called transient lunar phenomena (TLP) are observed on the Moon: flashes, darkenings, colour changes, etc. Suppose that one explanation for some TLP may be the presence on the Moon of an area of mirror-like surface (for example, vitrified regolith or a piece of shiny film forgotten by the American astronauts). A TLP occurs when the reflected ray of the Sun reaches the observer.\n\n9.31.1. For what size of a flat mirror lying on the surface of the Moon can the spot of reflected sunlight directed at the observer be noticed\n\na) with a large telescope;\n\nb) with the naked eye?\n\n9.31.2. What is the maximum duration of such a phenomenon for an observer on the surface of the Earth?\n\n9.31.3. From what region on the Moon can the spot of reflected sunlight be observed if the mirror is horizontal?",
+     "paper_label": "In-person round (grades 10–11)",
+     "problem_orig": "На Луне наблюдаются т. н. Кратковременные лунные явления (КЛЯ): вспышки, потемнения, изменения цвета и т. п. Предположим, что одним из объяснений для некоторых из КЛЯ может быть наличие на Луне участка зеркальной поверхности (например, остекленевшего реголита или забытого американскими астронавтами куска блестящей плёнки). КЛЯ возникает, когда отражённый луч Солнца попадает в наблюдателя.\n\n9.31.1. При каком размере плоского зеркала, находящегося на поверхности Луны, направленный на наблюдателя солнечный зайчик можно заметить\n\nа) в крупный телескоп\n\nб) невооружённым глазом?\n\n9.31.2. Какова максимальная длительность такого явления для наблюдателя, находящегося на поверхности Земли?\n\n9.31.3. Из какой области на Луне может наблюдаться солнечный зайчик, если зеркало расположено горизонтально?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 2,
+     "number": 8,
+     "problem": "You are given a photograph of a meteor and a map of the starry sky. It is known that the trajectory of the meteor lies in the plane of the sky. The distance to the midpoint of the trajectory is 250 km. Assuming that the flight of the meteor lasted 1 second, estimate its average speed on this part of its path.\n\n[The photograph is not reproduced here (its author is not credited in the collection). It is on page 46 of the collection: http://astroolymp.ru/books/moscow_3.pdf. The star chart is not printed in the collection.]",
+     "paper_label": "In-person round (grades 10–11)",
+     "problem_orig": "Вам дан снимок метеора и карта звёздного неба. Известно, что траектория метеора лежит в картинной плоскости. Расстояние до средней точки траектории равно 250 км. Считая, что длительность полёта метеора 1 секунда, оцените его среднюю скорость на этом участке пути.\n\n[Фотография здесь не воспроизводится (авторство не указано). Она находится на стр. 46 сборника: http://astroolymp.ru/books/moscow_3.pdf. Карта звёздного неба в сборнике не приведена.]",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 2,
+     "number": 9,
+     "problem": "An astronomer lies in an attic under a sloping window. Directly overhead, next to the edge of the window, Mirfak ($\\alpha$ Persei) shines. At the opposite edge of the window Kochab ($\\beta$ Ursae Minoris) is seen. Determine the latitude and the inclination of the window. The window faces north.\n\nAppendix. Formulas of spherical trigonometry:\n$$\\frac{\\sin a}{\\sin A} = \\frac{\\sin b}{\\sin B} = \\frac{\\sin c}{\\sin C},$$\n$$\\cos a = \\cos b\\cos c + \\sin b\\sin c\\cos A,$$\n$$\\sin a\\cos B = \\cos b\\sin c - \\sin b\\cos c\\cos A.$$\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2014-g1011-q9.png",
+     "paper_label": "In-person round (grades 10–11)",
+     "problem_orig": "Астроном лежит на чердаке под наклонным окном. Прямо над головой, рядом с границей окна сияет Мирфак ($\\alpha$ Персея). На противоположной границе окна виден Кохаб ($\\beta$ Малой Медведицы). Определите широту и наклон окна. Окно направлено на север.\n\nПриложение. Формулы сферической тригонометрии:\n$$\\frac{\\sin a}{\\sin A} = \\frac{\\sin b}{\\sin B} = \\frac{\\sin c}{\\sin C},$$\n$$\\cos a = \\cos b\\cos c + \\sin b\\sin c\\cos A,$$\n$$\\sin a\\cos B = \\cos b\\sin c - \\sin b\\cos c\\cos A.$$\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/msk-2014-g1011-q9.png",
+     "orig_lang": "ru"
+    }
+   ]
+  },
+  {
    "year": 2015,
    "problems": [
     {
