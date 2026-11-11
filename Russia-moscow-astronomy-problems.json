@@ -2,6 +2,629 @@
  "competition": "Moscow Astronomy Olympiad (Moscow Olympiad for Schoolchildren in Astronomy), theoretical round, grades 8–11",
  "years": [
   {
+   "year": 2006,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "At what latitudes on the Earth does the Sun rise higher above the horizon on 22 June than on 21 December?",
+     "paper_label": "Round I (grade 8 and younger)",
+     "problem_orig": "На каких широтах на Земле Солнце 22 июня поднимается над горизонтом выше, чем 21 декабря?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "Which three planets can come closest to the Earth? Arrange them in order of increasing minimum distance from the Earth. Can they be seen from the Earth at the time of the close approach?",
+     "paper_label": "Round I (grade 8 and younger)",
+     "problem_orig": "Какие три планеты могут подходить ближе всего к Земле? Расположите их в порядке возрастания минимального расстояния от Земли. Можно ли их увидеть с Земли во время сближения?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "In which season of the year is the Moon at first quarter best seen in Moscow, and why?",
+     "paper_label": "Round I (grade 8 and younger)",
+     "problem_orig": "В какой сезон года в Москве лучше всего видна Луна в фазе первой четверти и почему?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "Do annular lunar eclipses occur on the Earth, and why?",
+     "paper_label": "Round I (grade 8 and younger)",
+     "problem_orig": "Бывают ли на Земле кольцеобразные лунные затмения и почему?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 2,
+     "number": 1,
+     "problem": "About 3 thousand years ago, on the day of the summer solstice, the noon zenith distance of the Sun at a certain place on the Earth's surface was $26^\\circ15'$ (south of the zenith), and on the day of the winter solstice the noon altitude of the Sun above the southern horizon was $+16^\\circ03'$. Calculate the inclination of the ecliptic to the celestial equator in that epoch.",
+     "paper_label": "Round I (grade 9)",
+     "problem_orig": "Около 3 тысяч лет назад в день летнего солнцестояния полуденное зенитное расстояние Солнца в одном из мест земной поверхности было $26^\\circ15'$ (к югу от зенита), а в день зимнего солнцестояния полуденная высота Солнца над южным горизонтом равнялась $+16^\\circ03'$. Вычислить наклонение эклиптики к небесному экватору в ту эпоху.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 2,
+     "number": 2,
+     "problem": "Determine the orbital speed and the orbital period of artificial Earth satellites moving around it in circular orbits at a distance of half an Earth radius and of two Earth radii from the surface.",
+     "paper_label": "Round I (grade 9)",
+     "problem_orig": "Определите орбитальную скорость и период обращения искусственных спутников Земли, движущихся вокруг нее по круговым орбитам на расстоянии половины и двух радиусов от поверхности.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 2,
+     "number": 3,
+     "problem": "Find the difference in stellar magnitude of celestial bodies whose brightnesses differ by factors of 10, 100 and 1000.",
+     "paper_label": "Round I (grade 9)",
+     "problem_orig": "Найти разность звездных величин светил, отличающихся по яркости в 10, 100 и 1000 раз.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 2,
+     "number": 4,
+     "problem": "How would the acceleration of free fall on the surface of a planet change if its mass were increased $m$ times and its mean density $n$ times?",
+     "paper_label": "Round I (grade 9)",
+     "problem_orig": "Как изменилось бы ускорение свободного падения на поверхности планеты при увеличении ее массы в $m$ раз, а средней плотности в $n$ раз?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 1,
+     "problem": "About 3 thousand years ago, on the day of the summer solstice, the noon zenith distance of the Sun at a certain place on the Earth's surface was $26^\\circ15'$ (south of the zenith), and on the day of the winter solstice the noon altitude of the Sun above the southern horizon was $+16^\\circ03'$. Calculate the inclination of the ecliptic to the celestial equator in that epoch.",
+     "paper_label": "Round I (grade 10)",
+     "problem_orig": "Около 3 тысяч лет назад в день летнего солнцестояния полуденное зенитное расстояние Солнца в одном из мест земной поверхности было $26^\\circ15'$ (к югу от зенита), а в день зимнего солнцестояния полуденная высота Солнца над южным горизонтом равнялась $+16^\\circ03'$. Вычислить наклонение эклиптики к небесному экватору в ту эпоху.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 2,
+     "problem": "Along what orbits will artificial celestial bodies move if they are launched with a horizontal speed of 9.5 km/s at a height of 200 km above the surface of the Earth, of Mars and of Jupiter? The masses of Mars and Jupiter are 0.107 and 318 Earth masses, and their radii are 0.53 and 11.2 Earth radii.",
+     "paper_label": "Round I (grade 10)",
+     "problem_orig": "По каким орбитам будут двигаться искусственные небесные тела, запущенные с горизонтальной скоростью 9.5 км/с на высоте 200 км над поверхностью Земли, Марса и Юпитера? Массы Марса и Юпитера составляют 0.107 и 318 масс Земли, а их радиусы – 0.53 и 11.2 радиуса Земли.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 3,
+     "problem": "The diameter of the Moon is 3.67 times smaller than that of the Earth; the spherical albedo of the Earth is 0.39 and that of the Moon 0.07. At the mean geocentric distance of 384 400 km the brightness of the full Moon is $-12.7^{\\mathrm{m}}$. What do the Earth and the Moon look like when observed from the Sun?",
+     "paper_label": "Round I (grade 10)",
+     "problem_orig": "Диаметр Луны меньше земного в 3.67 раза; сферическое альбедо Земли 0.39, Луны – 0.07. При среднем геоцентрическом расстоянии 384 400 км блеск полной Луны равен $-12.7^{\\mathrm{m}}$. Как выглядят Земля и Луна при наблюдении с Солнца?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 4,
+     "problem": "How would the acceleration of free fall on the surface of a planet change if its mass were increased $m$ times and its mean density $n$ times?",
+     "paper_label": "Round I (grade 10)",
+     "problem_orig": "Как изменилось бы ускорение свободного падения на поверхности планеты при увеличении ее массы в $m$ раз, а средней плотности в $n$ раз?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 4,
+     "number": 1,
+     "problem": "At what geographic latitude does the Sun culminate on the day of the summer solstice at a zenith distance of $10^\\circ41'$ north of the zenith? What are the noon and midnight altitudes of the Sun at the same latitude on the days of both equinoxes and both solstices?",
+     "paper_label": "Round I (grade 11)",
+     "problem_orig": "На какой географической широте Солнце кульминирует в день летнего солнцестояния на зенитном расстоянии $10^\\circ41'$ к северу от зенита? Чему равна полуденная и полуночная высота Солнца на той же широте в дни обоих равноденствий и солнцестояний?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 4,
+     "number": 2,
+     "problem": "Along what orbits will artificial celestial bodies move if they are launched with a horizontal speed of 9.5 km/s at a height of 200 km above the surface of the Earth, of Mars and of Jupiter? The masses of Mars and Jupiter are 0.107 and 318 Earth masses, and their radii are 0.53 and 11.2 Earth radii.",
+     "paper_label": "Round I (grade 11)",
+     "problem_orig": "По каким орбитам будут двигаться искусственные небесные тела, запущенные с горизонтальной скоростью 9.5 км/с на высоте 200 км над поверхностью Земли, Марса и Юпитера? Массы Марса и Юпитера составляют 0.107 и 318 масс Земли, а их радиусы – 0.53 и 11.2 радиуса Земли.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 4,
+     "number": 3,
+     "problem": "The diameter of the Moon is 3.67 times smaller than that of the Earth; the spherical albedo of the Earth is 0.39 and that of the Moon 0.07. At the mean geocentric distance of 384 400 km the brightness of the full Moon is $-12.7^{\\mathrm{m}}$. What do the Earth and the Moon look like when observed from the Sun?",
+     "paper_label": "Round I (grade 11)",
+     "problem_orig": "Диаметр Луны меньше земного в 3.67 раза; сферическое альбедо Земли 0.39, Луны – 0.07. При среднем геоцентрическом расстоянии 384 400 км блеск полной Луны равен $-12.7^{\\mathrm{m}}$. Как выглядят Земля и Луна при наблюдении с Солнца?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 4,
+     "number": 4,
+     "problem": "It is known that 10 000 years ago a star was at its minimum distance from the Sun, with a parallax of $0.15''$, and was $0.1^{\\mathrm{m}}$ brighter than it is now. Determine the present values of the parallax, of the radial, tangential and total velocity, and of the proper motion of the star.",
+     "paper_label": "Round I (grade 11)",
+     "problem_orig": "Известно, что 10 000 лет назад звезда находилась на минимальном расстоянии от Солнца при параллаксе $0.15''$ и имела блеск на $0.1^{\\mathrm{m}}$ ярче настоящего. Определите современные значения параллакса, лучевой, тангенциальной и полной скорости и собственного движения звезды.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 5,
+     "number": 1,
+     "problem": "Which shines brighter: one star of the first magnitude or 60 stars of the sixth magnitude?",
+     "paper_label": "Round II (grade 8 and younger)",
+     "problem_orig": "Что светит ярче – одна звезда первой величины или 60 звезд шестой величины?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 5,
+     "number": 2,
+     "problem": "A traveller went round the Earth along the equator from west to east in 60 days. What was his average speed?",
+     "paper_label": "Round II (grade 8 and younger)",
+     "problem_orig": "Путешественник объехал Землю по экватору с запада на восток за 60 дней. Какова была его средняя скорость?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 5,
+     "number": 3,
+     "problem": "Would the disc of the Moon be noticeable to the naked eye if the Moon were 60 times smaller?",
+     "paper_label": "Round II (grade 8 and younger)",
+     "problem_orig": "Был бы заметен диск Луны невооруженным глазом, если бы она была в 60 раз меньше?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 5,
+     "number": 4,
+     "problem": "At present Jupiter is in the constellation Libra and Saturn in the constellation Cancer. In which constellations were they at the time of the First Moscow Astronomy Olympiad?",
+     "paper_label": "Round II (grade 8 and younger)",
+     "problem_orig": "Сейчас Юпитер находится в созвездии Весов, а Сатурн – в созвездии Рака. В каких созвездиях они находились во время Первой Московской Астрономической олимпиады?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 5,
+     "number": 5,
+     "problem": "An asteroid revolves around the Sun in a circular orbit in the plane of the ecliptic. A few days before the 60th Moscow Astronomy Olympiad it came to opposition with the Sun. The previous opposition of this asteroid was observed at the time of the First Moscow Astronomy Olympiad. Determine the orbital period of the asteroid around the Sun.",
+     "paper_label": "Round II (grade 8 and younger)",
+     "problem_orig": "Астероид вращается вокруг Солнца по круговой орбите в плоскости эклиптики. За несколько дней до 60-й Московской Астрономической олимпиады он вступил в противостояние с Солнцем. Предыдущее противостояние этого астероида наблюдалось во время Первой Московской Астрономической олимпиады. Определите период обращения астероида вокруг Солнца.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 6,
+     "number": 1,
+     "problem": "To maintain regular communication with each other and with the Earth, it was decided to build a chain of 60 high-altitude radio stations around the equator of the Moon. It was necessary that the two neighbouring stations be visible from each station. Determine the minimum height of the stations. The radius of the Moon is 1738 km.",
+     "paper_label": "Round II (grade 9)",
+     "problem_orig": "Для поддержания регулярной связи друг с другом и с Землей вокруг экватора Луны было решено построить цепочку из 60 высотных пунктов радиосвязи. При этом было необходимо, чтобы из каждого пункта были видны два соседних. Определите минимальную высоту пунктов связи. Радиус Луны равен 1738 км.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 6,
+     "number": 2,
+     "problem": "A traveller went round the Earth from west to east in 60 days. What mean length of the sidereal day did he record during the journey?",
+     "paper_label": "Round II (grade 9)",
+     "problem_orig": "Путешественник объехал Землю с запада на восток за 60 дней. Какую среднюю продолжительность звездных суток он фиксировал во время путешествия?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 6,
+     "number": 3,
+     "problem": "An amateur astronomer observes a star with declination $+60^\\circ$ through a telescope with a magnification of 60 and a field of view of $1^\\circ$. Because of a wrong adjustment, the clock drive runs $(1/60)$ faster than required. For how long can this star be observed without correcting the telescope?",
+     "paper_label": "Round II (grade 9)",
+     "problem_orig": "Любитель астрономии наблюдает звезду со склонением $+60^\\circ$ в телескоп с 60-кратным увеличением и полем зрения $1^\\circ$. Из-за неверной настройки часовой механизм идет на $(1/60)$ быстрее, чем требуется. Сколько времени можно наблюдать данную звезду без коррекции телескопа?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 6,
+     "number": 4,
+     "problem": "A massive globular cluster has a radius of 60 pc and consists of 60 million stars similar to the Sun. One of the stars moves at the edge of the cluster with a speed of 60 km/s. Will this star leave the cluster?",
+     "paper_label": "Round II (grade 9)",
+     "problem_orig": "Массивное шаровое скопление имеет радиус 60 пк и состоит из 60 миллионов звезд, похожих на Солнце. Одна из звезд движется на краю скопления со скоростью 60 км/с. Покинет ли эта звезда скопление?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 6,
+     "number": 5,
+     "problem": "An asteroid revolves around the Sun in a circular orbit in the plane of the ecliptic. A few days before the 60th Moscow Astronomy Olympiad it came to opposition with the Sun. The previous opposition of this asteroid was observed at the time of the First Moscow Astronomy Olympiad. Determine the distance between the Earth and the asteroid at the opposition. Consider the Earth's orbit circular and neglect the interaction of the asteroid with the Earth.",
+     "paper_label": "Round II (grade 9)",
+     "problem_orig": "Астероид вращается вокруг Солнца по круговой орбите в плоскости эклиптики. За несколько дней до 60-й Московской Астрономической олимпиады он вступил в противостояние с Солнцем. Предыдущее противостояние этого астероида наблюдалось во время Первой Московской Астрономической олимпиады. Определите расстояние между Землей и астероидом во время противостояния. Орбиту Земли считать круговой, взаимодействие астероида с Землей не учитывать.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 7,
+     "number": 1,
+     "problem": "To maintain regular communication with each other and with the Earth, it was decided to build a chain of 60 high-altitude radio stations around the equator of the Moon. It was necessary that the two neighbouring stations be visible from each station. Determine the minimum height of the stations. The radius of the Moon is 1738 km.",
+     "paper_label": "Round II (grade 10)",
+     "problem_orig": "Для поддержания регулярной связи друг с другом и с Землей вокруг экватора Луны было решено построить цепочку из 60 высотных пунктов радиосвязи. При этом было необходимо, чтобы из каждого пункта были видны два соседних. Определите минимальную высоту пунктов связи. Радиус Луны равен 1738 км.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 7,
+     "number": 2,
+     "problem": "A faint spot with a radius 60 times smaller than the radius of the star appeared on the disc of a star. The surface temperature in the spot is $(1/60)$ lower than on the rest of the star's surface. By how much did the apparent magnitude of the star change, if the spot is at the centre of its disc? Neglect the limb darkening of the star's disc.",
+     "paper_label": "Round II (grade 10)",
+     "problem_orig": "На диске звезды появилось слабое пятно с радиусом, в 60 раз меньшим радиуса звезды. Температура поверхности в пятне на $(1/60)$ меньше, чем на остальной поверхности звезды. Насколько изменилась видимая звездная величина звезды, если пятно находится в центре ее диска? Потемнением диска звезды к краю пренебречь.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 7,
+     "number": 3,
+     "problem": "An amateur astronomer observes a star with declination $+60^\\circ$ through a telescope with a magnification of 60 and a field of view of $1^\\circ$. Because of a wrong adjustment, the clock drive runs $(1/60)$ faster than required. For how long can this star be observed without correcting the telescope?",
+     "paper_label": "Round II (grade 10)",
+     "problem_orig": "Любитель астрономии наблюдает звезду со склонением $+60^\\circ$ в телескоп с 60-кратным увеличением и полем зрения $1^\\circ$. Из-за неверной настройки часовой механизм идет на $(1/60)$ быстрее, чем требуется. Сколько времени можно наблюдать данную звезду без коррекции телескопа?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 7,
+     "number": 4,
+     "problem": "A massive globular cluster has a radius of 60 pc and consists of 60 million stars similar to the Sun. One of the stars moves at the edge of the cluster with a speed of 60 km/s. Will this star leave the cluster?",
+     "paper_label": "Round II (grade 10)",
+     "problem_orig": "Массивное шаровое скопление имеет радиус 60 пк и состоит из 60 миллионов звезд, похожих на Солнце. Одна из звезд движется на краю скопления со скоростью 60 км/с. Покинет ли эта звезда скопление?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 7,
+     "number": 5,
+     "problem": "An asteroid revolves around the Sun in a circular orbit in the plane of the ecliptic. A few days before the 60th Moscow Astronomy Olympiad it came to opposition with the Sun, having a brightness of $7.3^{\\mathrm{m}}$. The previous opposition of this asteroid was observed at the time of the First Moscow Astronomy Olympiad. Assuming that the surface of the asteroid is similar to the lunar surface, find its radius. Consider the Earth's orbit circular and neglect the interaction of the asteroid with the Earth.",
+     "paper_label": "Round II (grade 10)",
+     "problem_orig": "Астероид вращается вокруг Солнца по круговой орбите в плоскости эклиптики. За несколько дней до 60-й Московской Астрономической олимпиады он вступил в противостояние с Солнцем, имея блеск $7.3^{\\mathrm{m}}$. Предыдущее противостояние этого астероида наблюдалось во время Первой Московской Астрономической олимпиады. Считая, что поверхность астероида похожа на лунную, найдите его радиус. Орбиту Земли считать круговой, взаимодействие астероида с Землей не учитывать.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 8,
+     "number": 1,
+     "problem": "A spiral galaxy with a redshift of $(1/60)$ is seen from the Earth as a narrow strip 2 arcminutes long. The radial velocity of the edge regions of the galaxy differs from the radial velocity of its centre by 60 km/s. Estimate the mass of the galaxy.",
+     "paper_label": "Round II (grade 11)",
+     "problem_orig": "Спиральная галактика с красным смещением $(1/60)$ видна на Земле как узкая полоска длиной 2 угловые минуты. Лучевая скорость краевых областей галактики отличается от лучевой скорости ее центра на 60 км/с. Оцените массу галактики.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 8,
+     "number": 2,
+     "problem": "A faint spot with a radius 60 times smaller than the radius of the star appeared on the disc of a star. The surface temperature in the spot is $(1/60)$ lower than on the rest of the star's surface. By how much did the apparent magnitude of the star change, if the spot is at the centre of its disc? Neglect the limb darkening of the star's disc.",
+     "paper_label": "Round II (grade 11)",
+     "problem_orig": "На диске звезды появилось слабое пятно с радиусом, в 60 раз меньшим радиуса звезды. Температура поверхности в пятне на $(1/60)$ меньше, чем на остальной поверхности звезды. Насколько изменилась видимая звездная величина звезды, если пятно находится в центре ее диска? Потемнением диска звезды к краю пренебречь.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 8,
+     "number": 3,
+     "problem": "An amateur astronomer observes a star with declination $+60^\\circ$ through a telescope with a magnification of 60 and a field of view of $1^\\circ$. Because of a wrong adjustment, the clock drive runs $(1/60)$ faster than required. For how long can this star be observed without correcting the telescope?",
+     "paper_label": "Round II (grade 11)",
+     "problem_orig": "Любитель астрономии наблюдает звезду со склонением $+60^\\circ$ в телескоп с 60-кратным увеличением и полем зрения $1^\\circ$. Из-за неверной настройки часовой механизм идет на $(1/60)$ быстрее, чем требуется. Сколько времени можно наблюдать данную звезду без коррекции телескопа?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 8,
+     "number": 4,
+     "problem": "During the First Moscow Astronomy Olympiad its participants sent a signal to representatives of an extraterrestrial civilisation. Before the 60th Olympiad a reply was received in which the inhabitants of the distant system described their star, very similar to the Sun, and a small companion star revolving around it in a circular orbit with a period of 60 years and having a luminosity 10 times lower. What telescope should the participants of the Olympiad acquire in order to see the companion of the distant star?",
+     "paper_label": "Round II (grade 11)",
+     "problem_orig": "Во время Первой Московской Астрономической олимпиады ее участники отправили сигнал представителям внеземной цивилизации. Перед 60-й Олимпиадой был получен ответ, в котором жители далекой системы описывали свою звезду, очень похожую на Солнце, и небольшую звезду-спутник, обращающийся вокруг нее по круговой орбите с периодом 60 лет и имеющий в 10 раз меньшую светимость. Какой телескоп нужно приобрести участникам Олимпиады, чтобы увидеть спутник далекой звезды?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 8,
+     "number": 5,
+     "problem": "An asteroid revolves around the Sun in a circular orbit in the plane of the ecliptic. A few days before the 60th Moscow Astronomy Olympiad it came to opposition with the Sun, passing through the star cluster Praesepe (the Manger) and having a brightness of $7.3^{\\mathrm{m}}$. The previous opposition of this asteroid was observed at the time of the First Moscow Astronomy Olympiad. Find the radius of the asteroid and the duration of its passage through the Praesepe cluster. The angular diameter of the Praesepe cluster is $95'$; the surface of the asteroid is similar in its properties to the lunar surface. Consider the Earth's orbit circular; neglect the interaction of the asteroid with the Earth and its parallax.",
+     "paper_label": "Round II (grade 11)",
+     "problem_orig": "Астероид вращается вокруг Солнца по круговой орбите в плоскости эклиптики. За несколько дней до 60-й Московской Астрономической олимпиады он вступил в противостояние с Солнцем, проходя через звездное скопление Ясли и имея блеск $7.3^{\\mathrm{m}}$. Предыдущее противостояние этого астероида наблюдалось во время Первой Московской Астрономической олимпиады. Найдите радиус астероида и продолжительность его прохождения по скоплению Ясли. Угловой диаметр скопления Ясли равен $95'$, поверхность астероида по своим свойствам похожа на лунную. Орбиту Земли считать круговой, взаимодействие астероида с Землей и его параллакс не учитывать.",
+     "orig_lang": "ru"
+    }
+   ]
+  },
+  {
+   "year": 2007,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "The Soviet poet Stepan Shchipachev has the following poem:\n\n\"Born of a daring country, / he amazes the whole world. / He is small, but he is a dweller of the Universe, / subject to its laws.\n\nHe is small, he weighs little, / he does not drive away the darkness with his light, / but the moon praised by all / is his brother.\"\n\nWhat event does the poet describe? When did it happen? What exactly does he call \"the brother of the moon\"? Why?",
+     "paper_label": "Round I (grades 8–9)",
+     "problem_orig": "У советского поэта Степана Щипачёва есть такое стихотворение:\n\n«Рождённый страной дерзновенной, / весь мир удивляет он. / Он мал, но он житель Вселенной, / законам её подчинён.\n\nОн мал, он немного весит, / он светом не гонит тьму, / но всеми воспетый месяц / приходится братом ему.»\n\nО каком событии рассказывает поэт? Когда оно произошло? Что именно он называет \"братом месяца\"? Почему?.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "A young amateur astronomer, the fifth-grader Vanya from Moscow, recently made friends over the Internet with the fifth-grader Johnny from California. Telling his new friend about his family, Vanya mentioned a surprising fact: in 2004 his grandfather celebrated his birthday for the fifteenth time, although he turned 60. In his reply Johnny wrote that this fact did not surprise him at all and that he had guessed at once what the explanation was. But his own, Johnny's, great-grandfather was first able to celebrate his birthday only when he turned 8.\n\nWhen was Vanya's grandfather born? And Johnny's great-grandfather? Give the exact dates.",
+     "paper_label": "Round I (grades 8–9)",
+     "problem_orig": "Юный любитель астрономии, пятиклассник Ваня из Москвы, недавно познакомился по сети Интернет с пятиклассником Джонни из Калифорнии. Рассказывая новому другу о своей семье, Ваня упомянул удивительный факт: в 2004 году его дедушка отметил свой день рождения в пятнадцатый раз, хотя исполнилось ему 60 лет. В ответном письме Джонни сообщил, что его этот факт вовсе не удивил и что он сразу догадался, в чём тут дело. А вот его, Джонни, прадедушка впервые смог отметить день своего рождения только когда ему исполнилось 8 лет.\n\nКогда родился дедушка Вани? Прадедушка Джонни? Укажите точные даты.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "Why can radio astronomers observe in the daytime, whereas optical astronomers usually have to observe at night?",
+     "paper_label": "Round I (grades 8–9)",
+     "problem_orig": "Почему радиоастрономы могут проводить наблюдения днем, а астрономы-оптики обычно вынуждены наблюдать ночью?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "If a planet always faces the Sun with the same side, how many sidereal days and how many solar days pass on it in the course of a year?",
+     "paper_label": "Round I (grades 8–9)",
+     "problem_orig": "Если планета всегда повернута к Солнцу одной стороной, то сколько звездных и сколько солнечных суток проходит на ней в течение года?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 2,
+     "number": 1,
+     "problem": "Leonid Martynov has the following lines:\n\n\"Never before / had March behaved so roughly. / Look: was it not March that knocked it off its feet? / The crescent moon fell, trembling, onto its back, / just like a newborn puppy...\"\n\nYou have surely noticed that in spring the crescent of the young Moon is steeply inclined to the horizon and \"lies on its back\". Why does this happen?",
+     "paper_label": "Round I (grade 10)",
+     "problem_orig": "У Леонида Мартынова есть такие строки:\n\n«Столь грубо / Март ещё не поступал. / Смотрите-ка: не им ли сшиблен с ног, / На спинку месяц трепетно упал, / Совсем как новорожденный щенок...»\n\nВы наверняка замечали, что серп молодой Луны весной круто наклонён к горизонту, \"лежит на спинке\". Почему так происходит?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 2,
+     "number": 2,
+     "problem": "What would the mass of the Sun have to be for the Earth, revolving at twice the distance, to have the same period as at present?",
+     "paper_label": "Round I (grade 10)",
+     "problem_orig": "Какова должна была бы быть масса Солнца, чтобы Земля, обращаясь на вдвое большем расстоянии, имела тот же период, что и в настоящее время?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 2,
+     "number": 3,
+     "problem": "Why can radio astronomers observe in the daytime, whereas optical astronomers usually have to observe at night?",
+     "paper_label": "Round I (grade 10)",
+     "problem_orig": "Почему радиоастрономы могут проводить наблюдения днем, а астрономы-оптики обычно вынуждены наблюдать ночью?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 2,
+     "number": 4,
+     "problem": "If a planet always faces the Sun with the same side, how many sidereal days and how many solar days pass on it in the course of a year?",
+     "paper_label": "Round I (grade 10)",
+     "problem_orig": "Если планета всегда повернута к Солнцу одной стороной, то сколько звездных и сколько солнечных суток проходит на ней в течение года?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 1,
+     "problem": "Leonid Martynov has the following lines:\n\n\"Never before / had March behaved so roughly. / Look: was it not March that knocked it off its feet? / The crescent moon fell, trembling, onto its back, / just like a newborn puppy...\"\n\nYou have surely noticed that in spring the crescent of the young Moon is steeply inclined to the horizon and \"lies on its back\". Why does this happen?",
+     "paper_label": "Round I (grade 11)",
+     "problem_orig": "У Леонида Мартынова есть такие строки:\n\n«Столь грубо / Март ещё не поступал. / Смотрите-ка: не им ли сшиблен с ног, / На спинку месяц трепетно упал, / Совсем как новорожденный щенок...»\n\nВы наверняка замечали, что серп молодой Луны весной круто наклонён к горизонту, \"лежит на спинке\". Почему так происходит?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 2,
+     "problem": "Describe how and why the behaviour of a Foucault pendulum changes at the equator and at the North Pole.",
+     "paper_label": "Round I (grade 11)",
+     "problem_orig": "Опишите, как и почему изменяется поведение маятника Фуко на экваторе и на Северном полюсе.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 3,
+     "problem": "Why do some stars look double in blue light but are not resolved in red light?",
+     "paper_label": "Round I (grade 11)",
+     "problem_orig": "Почему некоторые звезды выглядят двойными в голубых лучах, но не разрешаются в красных лучах?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 4,
+     "problem": "Determine the luminosity of the quasar 3C 273, which has an apparent magnitude of $12.8^{\\mathrm{m}}$ and a redshift of 0.158.",
+     "paper_label": "Round I (grade 11)",
+     "problem_orig": "Определите светимость квазара 3C 273, имеющего видимую величину $12.8^{\\mathrm{m}}$ и красное смещение 0.158.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 4,
+     "number": 1,
+     "problem": "Waking up from a lethargic sleep, you find that you are on an uninhabited atoll lying exactly on the equator. The Sun is shining, and you are wearing only a swimsuit. Will you be able, within an hour or two, to say whether it is winter or summer at your home in Moscow?",
+     "paper_label": "Round II (grades 8–9)",
+     "problem_orig": "Проснувшись от летаргического сна, вы обнаружили, что находитесь на необитаемом атолле, лежащем точно на экваторе. Светит Солнце, на вас – только купальный костюм. Сможете ли вы через час-другой сказать, что у вас дома в Москве – зима или лето?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 4,
+     "number": 2,
+     "problem": "Estimate the safe speed of a Mars rover controlled from the Earth and equipped with a TV camera that \"sees\" only 10 metres ahead of itself.",
+     "paper_label": "Round II (grades 8–9)",
+     "problem_orig": "Оцените безопасную скорость движения управляемого с Земли марсохода, оснащенного телекамерой, которая «видит» только на 10 метров впереди себя.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 4,
+     "number": 3,
+     "problem": "How can one explain that the southern night falls very quickly, whereas in northern latitudes twilight lasts a long time after sunset?",
+     "paper_label": "Round II (grades 8–9)",
+     "problem_orig": "Чем объяснить, что южная ночь наступает очень быстро, тогда как в северных широтах после захода Солнца еще долго длятся сумерки?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 4,
+     "number": 4,
+     "problem": "In L. N. Tolstoy's novel \"Anna Karenina\" there is the following episode:\n\n\"It was getting dark. The bright silvery Venus was already shining with her tender light from behind the birches, and high in the east the gloomy Arcturus was already glittering with his red fires. Overhead Levin caught and lost the stars of the Bear. The woodcocks had already stopped flying; but Levin decided to wait a little longer, until Venus, which he saw below a twig of a birch, rose above it and the stars of the Bear became clearly visible. Venus had already risen above the twig, the chariot of the Bear with its shaft was already visible in the dark blue sky, but he still waited.\"\n\nIs everything in this episode presented correctly from the astronomical point of view? In which season of the year did the scene described take place?",
+     "paper_label": "Round II (grades 8–9)",
+     "problem_orig": "В романе Л.Н. Толстого «Анна Каренина» есть такой эпизод:\n\n«Стало темнеть. Ясная серебряная Венера уже сияла из-за березок своим нежным блеском, и высоко на востоке уже переливался своими красными огнями мрачный Арктурус. Над головой у себя Левин ловил и терял звезды Медведицы. Вальдшнепы уже перестали летать; но Левин решил подождать еще, пока видная ему ниже сучка березы Венера перейдет выше его и когда ясны будут видны звезды Медведицы. Венера уже перешла выше сучка, колесница Медведицы со своим дышлом была уже видна на темно-синем небе, но он все еще ждал».\n\nВсе ли правильно с астрономической точки зрения представлено в этом эпизоде? В какой сезон года происходила описанная картина?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 5,
+     "number": 1,
+     "problem": "The umbral phase of a lunar eclipse began at 0 h 22 min Moscow time and ended at 4 h 46 min. In which constellation was the Moon during the eclipse?",
+     "paper_label": "Round II (grades 10–11)",
+     "problem_orig": "Теневая фаза лунного затмения началась в 0 часов 22 минуты по московскому времени, а закончилась в 4 часа 46 минут. В каком созвездии находилась Луна во время затмения?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 5,
+     "number": 2,
+     "problem": "Suppose that the atmosphere of a planet does not transmit visible light but is transparent to infrared radiation. How would such an atmosphere affect the temperature of the planet? Compare with the greenhouse effect.",
+     "paper_label": "Round II (grades 10–11)",
+     "problem_orig": "Предположим, что атмосфера планеты не пропускает видимый свет, но прозрачна для инфракрасного излучения. Как такая атмосфера повлияет на температуру планеты? Сравните с парниковым эффектом.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 5,
+     "number": 3,
+     "problem": "What distance has the Earth covered during its existence while revolving around the Sun?\n\na) to the nearest star and back;\n\nb) to the centre of our Galaxy and back;\n\nc) to the nearest galaxy and back.",
+     "paper_label": "Round II (grades 10–11)",
+     "problem_orig": "Какое расстояние прошла Земля за время своего существования, обращаясь вокруг Солнца?\n\nа) до ближайшей звезды и обратно;\n\nб) до центра нашей Галактики и обратно;\n\nв) до ближайшей галактики и обратно.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 5,
+     "number": 4,
+     "problem": "Determine the eccentricity of the orbit of a comet if it is known that its linear speed at perihelion is 10 times its speed at aphelion.",
+     "paper_label": "Round II (grades 10–11)",
+     "problem_orig": "Определите эксцентриситет орбиты кометы, если известно, что линейная скорость в перигелии в 10 раз больше ее скорости в афелии.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 5,
+     "number": 5,
+     "problem": "Venus at its greatest eastern elongation is observed through a telescope with the equal-pupil (normal) magnification, and it appears to be of the same size as the Moon seen with the naked eye. Find the diameter of the telescope objective.",
+     "paper_label": "Round II (grades 10–11)",
+     "problem_orig": "В телескоп с равнозрачковым увеличением проводятся наблюдения Венеры в наибольшей восточной элонгации, и она кажется такого же размера, как Луна при наблюдении невооруженным глазом. Найти диаметр объектива телескопа.",
+     "orig_lang": "ru"
+    }
+   ]
+  },
+  {
+   "year": 2008,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "The Russian poet Vladimir Benediktov has the following lines:\n\n\"What a wonder! Klim Sidorych! Look out of the window! / At noon it has grown dark, by God! The sun has shrunk. / Not a cloud in the sky, not a bit... That is, not a speck, — / So why this shortage of God's light?\"\n\nWhat astronomical phenomenon is described? What do you know about this phenomenon?",
+     "paper_label": "Round I (grades 8–9)",
+     "problem_orig": "У русского поэта Владимира Бенедиктова есть такие строки:\n\n\"Экое диво! Клим Сидорыч! Глянь из оконца! / В полдень стемнело, ей-богу! Ведь убыло солнца. / В небе ни тучки, ни-ни... То есть - пятнышка нету,- / Ради ж чего недоимка господнего свету?\"\n\nКакое астрономическое явление описано? Что вы знаете об этом явлении?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "In autumn, towards morning, a hunter walks into the forest in the direction of the Pole Star. After sunrise he returns. How should the hunter walk back, guided by the position of the Sun?",
+     "paper_label": "Round I (grades 8–9)",
+     "problem_orig": "Охотник осенью идет под утро в лес по направлению Полярной звезды. После восхода Солнца он возвращается. Как охотник должен идти обратно, руководствуясь положением Солнца?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "How can one explain that the southern night falls very quickly, whereas in northern latitudes twilight lasts a long time after sunset?",
+     "paper_label": "Round I (grades 8–9)",
+     "problem_orig": "Чем объяснить, что южная ночь наступает очень быстро, тогда как в северных широтах после захода Солнца еще долго длятся сумерки?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "Suppose that the whole mass of Saturn's ring is gathered into one large satellite revolving around the planet at the distance of the middle of the ring and having the same density as the particles that make up the ring. Would the illumination on the night side of Saturn, in the places where the ring is well seen, increase or not?",
+     "paper_label": "Round I (grades 8–9)",
+     "problem_orig": "Допустим, что вся масса кольца Сатурна собрана в один большой спутник, обращающийся вокруг планеты на расстоянии середины кольца и имеющий ту же плотность, что у частиц, составляющих кольцо. Усилилось бы или нет освещение на ночной стороне на Сатурне в тех местах, где кольцо хорошо видно?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 2,
+     "number": 1,
+     "problem": "In 2008 there will be 4 eclipses: two solar eclipses (7 February and 1 August) and two lunar eclipses (21 February and 16 August). Which of them can be observed from the North Pole of the Earth? Assume that the weather is favourable for observations.",
+     "paper_label": "Round I (grades 10–11)",
+     "problem_orig": "В 2008 году будет 4 затмения – два солнечных (7 февраля и 1 августа) и два лунных (21 февраля и 16 августа). Какие из них можно будет наблюдать с северного полюса Земли? Считать, что погода благоприятствует наблюдениям.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 2,
+     "number": 2,
+     "problem": "The acceleration of free fall on Mars and on Mercury is approximately the same (about $3.7\\ \\text{m/s}^2$). Compare the mean densities of the planets if the radius of Mercury is 2440 km and the radius of Mars is 3400 km.",
+     "paper_label": "Round I (grades 10–11)",
+     "problem_orig": "Ускорение свободного падения на Марсе и на Меркурии примерно одинаковое (около $3.7\\ \\text{м/с}^2$). Сравните средние плотности планет, если радиус Меркурия 2440 км, а радиус Марса – 3400 км.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 2,
+     "number": 3,
+     "problem": "Assuming that the human eye can distinguish details seen at an angle of $2'$, calculate the size of the smallest details visible on Mars through a telescope with a magnification of 600 during the great oppositions of Mars, when its distance from the Earth is 0.4 AU.",
+     "paper_label": "Round I (grades 10–11)",
+     "problem_orig": "Считая, что человеческий глаз может различать детали, видимые под углом в $2'$, вычислите размер наименьших деталей, видимых на Марсе в телескоп с увеличением 600 раз во время великих противостояний Марса, когда его расстояние до Земли равно 0.4 а.е.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 2,
+     "number": 4,
+     "problem": "Suppose that the whole mass of Saturn's ring is gathered into one large satellite revolving around the planet at the distance of the middle of the ring and having the same density as the particles that make up the ring. Would the illumination on the night side of Saturn, in the places where the ring is well seen, increase or not?",
+     "paper_label": "Round I (grades 10–11)",
+     "problem_orig": "Допустим, что вся масса кольца Сатурна собрана в один большой спутник, обращающийся вокруг планеты на расстоянии середины кольца и имеющий ту же плотность, что у частиц, составляющих кольцо. Усилилось бы или нет освещение на ночной стороне на Сатурне в тех местах, где кольцо хорошо видно?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 2,
+     "number": 5,
+     "problem": "A. Chernyshev, in the poem \"Kama\", has the following lines:\n\n\"The evening is clear. / And in the expanses of the Kama distance, / where the banks are already barely visible, / the lights at the landing stages began to twinkle timidly, / like little stars of the sixth magnitude...\"\n\nEstimate the power of the lanterns at the landing stage.",
+     "paper_label": "Round I (grades 10–11)",
+     "problem_orig": "У А.Чернышёва в стихотворении \"Кама\" есть такие строки:\n\n\"Прозрачен вечер. / И в просторах камской дали, / Где берега уже едва видны, / Огни у пристаней несмело замигали, / Как звёздочки шестой величины...\"\n\nОцените мощность фонарей на пристани.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 1,
+     "problem": "The poem by Lyudmila Menshchikova \"At Night. June\" begins as follows:\n\n\"What an orchestra, what trills! / And what grasses, all in silver! / Now the lunar disc, now the young crescent / trace a dotted line along an arc...\"\n\nShow in one drawing the diurnal path of the young Moon and of the full Moon in June. The observer is at middle latitudes of the northern hemisphere.",
+     "paper_label": "Round II (grades 8–9)",
+     "problem_orig": "Стихотворение Людмилы Менщиковой \"В ночном. Июнь\" начинается так:\n\n\"Какой оркестр, какие трели! / А что за травы - в серебре! / То лунный диск, то юный месяц / Пунктиром чертят по дуге...\"\n\nПокажите на одном рисунке суточную траекторию молодой Луны и полной Луны в июне. Наблюдатель находится в средних широтах северного полушария.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 2,
+     "problem": "The synodic period of a planet is exactly 1 year, and its orbit is circular. Find the radius of the planet's orbit.",
+     "paper_label": "Round II (grades 8–9)",
+     "problem_orig": "Синодический период планеты составляет ровно 1 год, а ее орбита – круговая. Найти радиус орбиты планеты.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 3,
+     "problem": "At what time intervals do culminations of the same name and of opposite names of stars alternate?",
+     "paper_label": "Round II (grades 8–9)",
+     "problem_orig": "Через какие интервалы времени чередуются одноименные и разноименные кульминации звезд?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 4,
+     "problem": "You go outside in the evening and see the starry sky. How will you tell the planets from bright stars?",
+     "paper_label": "Round II (grades 8–9)",
+     "problem_orig": "Вы выходите вечером на улицу и видите звездное небо. Как вы отличите планеты от ярких звезд?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 5,
+     "problem": "If you climb in a supersonic aircraft to a height of 20 km, the Sun will look considerably brighter. So why do stars then appear in the sky?",
+     "paper_label": "Round II (grades 8–9)",
+     "problem_orig": "Если подняться на сверхзвуковом самолете на высоту 20 км, Солнце будет выглядеть значительно ярче. Так почему же при этом на небе появятся звезды?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 4,
+     "number": 1,
+     "problem": "Find the difference between the zenith distances of one and the same star at its culminations of opposite names (upper and lower) in Moscow, at latitude $+56^\\circ$.",
+     "paper_label": "Round II (grades 10–11)",
+     "problem_orig": "Найти разность зенитных расстояний одной и той же звезды при ее разноименных кульминациях в Москве, на широте $+56^\\circ$.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 4,
+     "number": 2,
+     "problem": "The synodic period of a planet is exactly 1 year, and its orbit is circular. Find the radius of the planet's orbit.",
+     "paper_label": "Round II (grades 10–11)",
+     "problem_orig": "Синодический период планеты составляет ровно 1 год, а ее орбита – круговая. Найти радиус орбиты планеты.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 4,
+     "number": 3,
+     "problem": "In a certain year a series of occultations by the Moon of the Pleiades star cluster, located in the north-western part of the constellation Taurus, is observed. In which months of that year are solar eclipses possible? And lunar eclipses?",
+     "paper_label": "Round II (grades 10–11)",
+     "problem_orig": "В некотором году наблюдается серия покрытий Луной звёздного скопления Плеяды, находящегося в северо-западной части созвездия Тельца. В какие месяцы этого года возможны затмения Солнца? затмения Луны?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 4,
+     "number": 4,
+     "problem": "It is believed that a person with normal eyesight under ideal observing conditions sees about 6000 stars in total over the whole celestial sphere. How many stars could an observer with normal eyesight living on the equator count during one clear night? Neglect atmospheric absorption.",
+     "paper_label": "Round II (grades 10–11)",
+     "problem_orig": "Считается, что человек с нормальным зрением в идеальных условиях наблюдения видит по всей небесной сфере в общей сложности около 6000 звёзд. Сколько звёзд мог бы насчитать за одну ясную ночь наблюдатель с нормальным зрением, проживающий на экваторе? Атмосферным поглощением пренебречь.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 4,
+     "number": 5,
+     "problem": "In novae the brightness usually increases at constant temperature because of the swelling of the photosphere. If the change in brightness is $8^{\\mathrm{m}}$, by what factor did the radius of the star change?",
+     "paper_label": "Round II (grades 10–11)",
+     "problem_orig": "У новых звезд блеск обычно возрастает при постоянной температуре вследствие вздутия фотосферы. Если изменение блеска равно $8^{\\mathrm{m}}$, то во сколько раз изменился радиус звезды?",
+     "orig_lang": "ru"
+    }
+   ]
+  },
+  {
    "year": 2015,
    "problems": [
     {
