@@ -8,13 +8,13 @@
 <meta name="theme-color" content="#0b1030">
 <link rel="icon" type="image/png" href="assets/eisatopon-logo.png">
 <link rel="apple-touch-icon" href="assets/eisatopon-logo.png">
-<link rel="canonical" href="https://eisatopon.github.io/astronomy-olympiads-bank/">
+<link rel="canonical" href="https://hipparchus.eisatopon.gr/">
 <!-- Link previews (Facebook, X, LinkedIn, Reddit, Viber, WhatsApp) -->
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="eisatopon.gr">
 <meta property="og:title" content="Hipparchus – World Astronomy &amp; Astrophysics Olympiads Bank">
 <meta property="og:description" content="Astronomy and astrophysics olympiad problems (IOAA and more) in English with LaTeX. Free, searchable, printable.">
-<meta property="og:url" content="https://eisatopon.github.io/astronomy-olympiads-bank/">
+<meta property="og:url" content="https://hipparchus.eisatopon.gr/">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Hipparchus – World Astronomy &amp; Astrophysics Olympiads Bank">
 <meta name="twitter:description" content="Astronomy and astrophysics olympiad problems in English with LaTeX. Free, searchable, printable.">
@@ -627,7 +627,7 @@ dialog p { color: var(--muted); font-size: .92rem; }
             </blockquote>
             <blockquote>
                 <p>This is quite a collection of problems from many different olympiads. Hipparchus will definitely be useful for our students for the next year's olympiad.</p>
-                <footer><span><b>Loa Hellsing</b><br>Project Leader, Swedish Astronomical Olympiad</span><a class="on" href="https://eisatopon.github.io/astronomy-olympiads-bank/">on Hipparchus</a></footer>
+                <footer><span><b>Loa Hellsing</b><br>Project Leader, Swedish Astronomical Olympiad</span><a class="on" href="https://hipparchus.eisatopon.gr/">on Hipparchus</a></footer>
             </blockquote>
             <blockquote>
                 <p>The resource is amazing.</p>
@@ -693,7 +693,7 @@ dialog p { color: var(--muted); font-size: .92rem; }
 // Local copies (python -m http.server) read the files next to the page; the published site reads the raw files.
 const BASE = /^(localhost|127\.)/.test(location.hostname) ? './' : 'https://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/';
 // Bump on every data change so browsers never mix old and new files.
-const DATA_VERSION = '20261111-br-oba-2023-2026';
+const DATA_VERSION = '20261112-custom-domain';
 const FIRST = 1990, LAST = 2026;
 const REGIONS = [['europe', 'Europe'], ['asia', 'Asia'], ['americas', 'Americas'], ['africa', 'Africa'], ['oceania', 'Oceania'], ['world', 'World'], ['other', 'Other']];
 const REGION_OF = {
@@ -2286,7 +2286,7 @@ function buildTex(items = getSelected(), title = $('#examTitle').value.trim() ||
     const showSrc = viewExport || $('#showSource').checked;
     const space = viewExport ? 0 : Number($('#solutionSpace').value);
     const head = String.raw`% Exported from Hipparchus – World Astronomy & Astrophysics Olympiads Bank
-% https://eisatopon.github.io/astronomy-olympiads-bank/
+% https://hipparchus.eisatopon.gr/
 % Compiles with pdfLaTeX, XeLaTeX or LuaLaTeX. The figures come in the same .zip; keep them next to this file
 % (otherwise their web address is printed instead).
 \documentclass[11pt,a4paper]{article}
