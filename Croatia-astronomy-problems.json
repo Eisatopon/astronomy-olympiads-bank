@@ -1,0 +1,268 @@
+{
+ "competition": "Croatia — Olympiad Qualifying Test in astronomy (selection for the IOAA team)",
+ "years": [
+  {
+   "year": 2021,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "In a galaxy with redshift $0.075$ a type Ia supernova was observed; on the basis of telescope measurements its brightness was found to be $7.4\\cdot10^{-8}$ of the brightness of Vega. How far is this galaxy (in pc) and what is the Hubble time, if the luminosity of the supernova was $5.9\\cdot10^{9}\\,L_\\odot$? The apparent magnitude of Vega is $0^\\mathrm{m}$.\n\n**Table of constants**\n\n$$\n\\begin{array}{|l|l|}\n\\hline\n\\text{name} & \\text{value} \\\\ \\hline\n\\text{Astronomical unit (AU)} & 149\\,600\\,000\\ \\mathrm{km} \\\\ \\hline\n\\text{Earth–Moon distance (}r_{ZM}\\text{)} & 384\\,400\\ \\mathrm{km} \\\\ \\hline\n\\text{Equatorial radius of the Earth (}r_Z\\text{)} & 6\\,378.1\\ \\mathrm{km} \\\\ \\hline\n\\text{Eccentricity of the Earth's orbit (}e_Z\\text{)} & 0.0167 \\\\ \\hline\n\\text{Density of the Earth (}\\rho_Z\\text{)} & 5500\\ \\mathrm{kg\\,m^{-3}} \\\\ \\hline\n\\text{Mass of the Earth (}m_Z\\text{)} & 5.97\\cdot10^{24}\\ \\mathrm{kg} \\\\ \\hline\n\\text{Mass of the Moon (}m_M\\text{)} & 7.35\\cdot10^{22}\\ \\mathrm{kg} \\\\ \\hline\n\\text{Radius of the Moon (}r_M\\text{)} & 1738\\ \\mathrm{km} \\\\ \\hline\n\\text{Mass of the Sun (}m_S\\text{)} & 1.99\\cdot10^{30}\\ \\mathrm{kg} \\\\ \\hline\n\\text{Luminosity of the Sun (}L_\\odot\\text{)} & 3.86\\cdot10^{26}\\ \\mathrm{J\\,s^{-1}} \\\\ \\hline\n\\text{Radius of the Sun (}R_\\odot\\text{)} & 6.96\\cdot10^{5}\\ \\mathrm{km} \\\\ \\hline\n\\text{Apparent magnitude of the Sun (}m_\\odot\\text{)} & -26.8^\\mathrm{m} \\\\ \\hline\n\\text{Absolute bolometric magnitude of the Sun (}M_\\odot\\text{)} & 4.82^\\mathrm{m} \\\\ \\hline\n\\text{Effective temperature of the Sun's surface (}T_{\\mathrm{ef}\\odot}\\text{)} & 5780\\ \\mathrm{K} \\\\ \\hline\n\\text{Mean distance of Jupiter from the Sun (}r_{JS}\\text{)} & 778\\cdot10^{6}\\ \\mathrm{km} \\\\ \\hline\n\\text{Semi-major axis of Mars's orbit (}a_\\mathrm{Mars}\\text{)} & 227.9\\cdot10^{6}\\ \\mathrm{km} \\\\ \\hline\n\\text{Eccentricity of Mars's orbit (}e_\\mathrm{Mars}\\text{)} & 0.0935 \\\\ \\hline\n\\text{Radius of Mars (}r_\\mathrm{Mars}\\text{)} & 3390\\ \\mathrm{km} \\\\ \\hline\n\\text{Sidereal rotation period of Mars (}T_\\mathrm{sidM}\\text{)} & 24^\\mathrm{h}\\,37^\\mathrm{m} \\\\ \\hline\n\\text{Synodic rotation period of Mars (}T_\\mathrm{sinM}\\text{)} & 24^\\mathrm{h}\\,39^\\mathrm{m}\\,35^\\mathrm{s} \\\\ \\hline\n\\text{Radius of Jupiter (}r_J\\text{)} & 7\\cdot10^{7}\\ \\mathrm{m} \\\\ \\hline\n\\text{Mass of Jupiter (}m_J\\text{)} & 1.9\\cdot10^{27}\\ \\mathrm{kg} \\\\ \\hline\n\\text{Density of Jupiter (}\\rho_J\\text{)} & 1326\\ \\mathrm{kg\\,m^{-3}} \\\\ \\hline\n\\text{Gravitational constant (}G\\text{)} & 6.67\\cdot10^{-11}\\ \\mathrm{N\\,m^{2}\\,kg^{-2}} \\\\ \\hline\n\\text{Stefan–Boltzmann constant (}\\sigma\\text{)} & 5.6705\\cdot10^{-8}\\ \\mathrm{J\\,s^{-1}\\,m^{-2}\\,K^{-4}} \\\\ \\hline\n\\text{Planck constant (}h\\text{)} & 6.626\\cdot10^{-34}\\ \\mathrm{J\\,s} \\\\ \\hline\n\\text{Wien constant (}b\\text{)} & 2.9\\cdot10^{-3}\\ \\mathrm{m\\,K} \\\\ \\hline\n\\text{Speed of light (}c\\text{)} & 3\\cdot10^{8}\\ \\mathrm{m/s} \\\\ \\hline\n\\text{Parsec (pc)} & 3.0860\\cdot10^{16}\\ \\mathrm{m} \\\\ \\hline\n\\text{Hubble constant} & 69\\ \\mathrm{km\\,s^{-1}\\,Mpc^{-1}} \\\\ \\hline\n\\end{array}\n$$\n\n**Main equations of spherical trigonometry**\n\n$$\n\\begin{aligned}\\sin a\\,\\sin B &= \\sin b\\,\\sin A,\\\\ \\sin a\\,\\cos B &= \\cos b\\,\\sin c-\\sin b\\,\\cos c\\,\\cos A,\\\\ \\cos a &= \\cos b\\,\\cos c+\\sin b\\,\\sin c\\,\\cos A.\\end{aligned}\n$$\n\n(The accompanying figure shows a spherical triangle with sides $a$, $b$, $c$ and the opposite angles $A$, $B$, $C$.)\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/hr-2021-d1-q1-1.png",
+     "paper_label": "Theory",
+     "problem_orig": "U galaktici s crvenim pomakom $0{,}075$ uočena je supernova tipa Ia kojoj je na osnovu mjerenja teleskopom utvrđeno da joj sjaj iznosi $7{,}4\\cdot10^{-8}$ sjaja Vege. Koliko je udaljena ova galaktika (u pc) i koliko je Hubbleovo vrijeme ako je luminozitet supernove iznosio $5{,}9\\cdot10^{9}\\,L_\\odot$. Prividna zvjezdana veličina Vege iznosi $0^\\mathrm{m}$.\n\n**Tablica konstanti**\n\n$$\n\\begin{array}{|l|l|}\n\\hline\n\\text{naziv} & \\text{iznos} \\\\ \\hline\n\\text{astronomska jedinica (AJ)} & 149\\,600\\,000\\ \\mathrm{km} \\\\ \\hline\n\\text{udaljenost Zemlja-Mjesec (}r_{ZM}\\text{)} & 384\\,400\\ \\mathrm{km} \\\\ \\hline\n\\text{Zemljin polumjer na ekvatoru (}r_Z\\text{)} & 6\\,378{,}1\\ \\mathrm{km} \\\\ \\hline\n\\text{ekscentricitet Zemljine staze (}e_Z\\text{)} & 0{,}0167 \\\\ \\hline\n\\text{Zemljina gustoća (}\\rho_Z\\text{)} & 5500\\ \\mathrm{kg\\,m^{-3}} \\\\ \\hline\n\\text{masa Zemlje (}m_Z\\text{)} & 5{,}97\\cdot10^{24}\\ \\mathrm{kg} \\\\ \\hline\n\\text{masa Mjeseca (}m_M\\text{)} & 7{,}35\\cdot10^{22}\\ \\mathrm{kg} \\\\ \\hline\n\\text{polumjer Mjeseca (}r_M\\text{)} & 1738\\ \\mathrm{km} \\\\ \\hline\n\\text{Sunčeva masa (}m_S\\text{)} & 1{,}99\\cdot10^{30}\\ \\mathrm{kg} \\\\ \\hline\n\\text{Sunčev luminozitet (}L_\\odot\\text{)} & 3{,}86\\cdot10^{26}\\ \\mathrm{J\\,s^{-1}} \\\\ \\hline\n\\text{polumjer Sunca (}R_\\odot\\text{)} & 6{,}96\\cdot10^{5}\\ \\mathrm{km} \\\\ \\hline\n\\text{prividna zvjezdana veličina Sunca (}m_\\odot\\text{)} & -26{,}8^\\mathrm{m} \\\\ \\hline\n\\text{apsolutna bol. zvjezdana veličina Sunca (}M_\\odot\\text{)} & 4{,}82^\\mathrm{m} \\\\ \\hline\n\\text{efektivna temperatura Sunčeve površine (}T_{\\mathrm{ef}\\odot}\\text{)} & 5780\\ \\mathrm{K} \\\\ \\hline\n\\text{srednja udaljenost Jupitera od Sunca (}r_{JS}\\text{)} & 778\\cdot10^{6}\\ \\mathrm{km} \\\\ \\hline\n\\text{velika poluos Marsove staze (}a_\\mathrm{Mars}\\text{)} & 227{,}9\\cdot10^{6}\\ \\mathrm{km} \\\\ \\hline\n\\text{ekscentricitet Marsove staze (}e_\\mathrm{Mars}\\text{)} & 0{,}0935 \\\\ \\hline\n\\text{polumjer Marsa (}r_\\mathrm{Mars}\\text{)} & 3390\\ \\mathrm{km} \\\\ \\hline\n\\text{siderički period rotacije Marsa (}T_\\mathrm{sidM}\\text{)} & 24^\\mathrm{h}\\,37^\\mathrm{m} \\\\ \\hline\n\\text{sinodički period rotacije Marsa (}T_\\mathrm{sinM}\\text{)} & 24^\\mathrm{h}\\,39^\\mathrm{m}\\,35^\\mathrm{s} \\\\ \\hline\n\\text{polumjer Jupitera (}r_J\\text{)} & 7\\cdot10^{7}\\ \\mathrm{m} \\\\ \\hline\n\\text{masa Jupitera (}m_J\\text{)} & 1{,}9\\cdot10^{27}\\ \\mathrm{kg} \\\\ \\hline\n\\text{gustoća Jupitera (}\\rho_J\\text{)} & 1326\\ \\mathrm{kg\\,m^{-3}} \\\\ \\hline\n\\text{gravitacijska konstanta (}G\\text{)} & 6{,}67\\cdot10^{-11}\\ \\mathrm{N\\,m^{2}\\,kg^{-2}} \\\\ \\hline\n\\text{Stefan-Boltzmannova konstanta (}\\sigma\\text{)} & 5{,}6705\\cdot10^{-8}\\ \\mathrm{J\\,s^{-1}\\,m^{-2}\\,K^{-4}} \\\\ \\hline\n\\text{Planckova konstanta (}h\\text{)} & 6{,}626\\cdot10^{-34}\\ \\mathrm{J\\,s} \\\\ \\hline\n\\text{Wienova konstanta (}b\\text{)} & 2{,}9\\cdot10^{-3}\\ \\mathrm{m\\,K} \\\\ \\hline\n\\text{brzina svjetlosti (}c\\text{)} & 3\\cdot10^{8}\\ \\mathrm{m/s} \\\\ \\hline\n\\text{parsek (pc)} & 3{,}0860\\cdot10^{16}\\ \\mathrm{m} \\\\ \\hline\n\\text{Hubbleova konstanta} & 69\\ \\mathrm{km\\,s^{-1}\\,Mpc^{-1}} \\\\ \\hline\n\\end{array}\n$$\n\n**Glavne jednadžbe u sfernoj trigonometriji**\n\n$$\n\\begin{aligned}\\sin a\\,\\sin B &= \\sin b\\,\\sin A,\\\\ \\sin a\\,\\cos B &= \\cos b\\,\\sin c-\\sin b\\,\\cos c\\,\\cos A,\\\\ \\cos a &= \\cos b\\,\\cos c+\\sin b\\,\\sin c\\,\\cos A.\\end{aligned}\n$$\n\n(Priložena slika prikazuje sferni trokut sa stranicama $a$, $b$, $c$ i nasuprotnim kutovima $A$, $B$, $C$.)\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/hr-2021-d1-q1-1.png",
+     "orig_lang": "hr"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "A white dwarf with an effective surface temperature of $25000$ K and an absolute bolometric magnitude of $11.1^\\mathrm{m}$ has a mass estimated at $95\\%$ of the mass of the Sun. The frequency at which its radiation has its maximum was measured with a spectroscope and equals $2.588\\cdot10^{15}$ Hz. What are its radius and density, and at what speed and in which direction does it move relative to us? The absolute bolometric magnitude of Sirius is $1.42^\\mathrm{m}$, the luminosity of Sirius is $9.8\\cdot10^{27}$ W.",
+     "paper_label": "Theory",
+     "problem_orig": "Bijeli patuljak efektivne površinske temperature od $25000$ K i apsolutne bolometrijske zvjezdane veličine $11{,}1^\\mathrm{m}$ ima masu koja mu je procijenjena na $95\\%$ mase Sunca. Frekvencija na kojoj mu je maksimum zračenja izmjerena je spektroskopom i iznosi $2{,}588\\cdot10^{15}$ Hz. Koliki mu je polumjer, gustoća, te kojom se brzinom i u kojem smjeru giba u odnosu na nas. Apsolutna bolometrijska zvjezdana veličina Sirijusa je $1{,}42^\\mathrm{m}$, luminozitet Sirijusa je $9{,}8\\cdot10^{27}$ W.",
+     "orig_lang": "hr"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "An extragalactic cloud of neutral hydrogen with apparent angular dimensions of $3.8''$ was observed with a radio telescope. The width of its spectral line was found to be $0.11$ mm at a wavelength of $23.1$ cm, where it radiates most strongly. The same line has a wavelength of $21$ cm under laboratory conditions. Determine the mass of this hydrogen cloud.",
+     "paper_label": "Theory",
+     "problem_orig": "Izvangalaktički oblak neutralnog vodika prividnih kutnih dimenzija $3{,}8''$ opažan je radioteleskopom. Utvrđeno je da mu je širina spektralne linije $0{,}11$ mm na valnoj duljini $23{,}1$ cm gdje najjače zrači. Ista linija u laboratorijskim uvjetima ima valnu duljinu $21$ cm. Odredite masu tog vodikova oblaka.",
+     "orig_lang": "hr"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "Observing a circumpolar star, an astronomer measured that the smallest and the largest altitude of the star are $38^\\circ 29'$ and $79^\\circ 34'$, respectively. Polaris was visible from the place of observation. Calculate all possible coordinates of the star, as well as all possible geographic latitudes of the place of observation, if the local sidereal time was $4^\\mathrm{h}\\,15^\\mathrm{m}$ at the moment when the star was at its lower culmination.",
+     "paper_label": "Theory",
+     "problem_orig": "Promatrajući cirkumpolarnu zvijezdu astronom je izmjerio da su najmanja i najveća visina zvijezde $38^\\circ 29'$, odnosno $79^\\circ 34'$. S mjesta opažanja vidjela se Sjevernjača. Izračunajte koje su sve moguće koordinate zvijezde, kao i sve moguće geografske širine mjesta promatranja, ako je mjesno zvjezdano vrijeme iznosilo $4^\\mathrm{h}\\,15^\\mathrm{m}$ u trenutku kada je zvijezda bila u donjoj kulminaciji.",
+     "orig_lang": "hr"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "The CMOS sensor of the ASI294MM Pro camera, of dimensions $19.1 \\times 13.0$ mm, has a matrix of $4144 \\times 2822$ pixels. If the camera were mounted on the telescope of the Zagreb Observatory (Zvjezdarnica Zagreb), with an objective diameter of $17.5$ cm and focal ratio f/8, what angle could be resolved per pixel? If instead of the camera we place on the telescope an eyepiece of focal length $13$ mm and apparent field of view $82^\\circ$, what would be the magnification and the true field of view of the telescope?",
+     "paper_label": "Theory",
+     "problem_orig": "CMOS senzor kamere ASI294MM Pro dimenzija $19{,}1 \\times 13{,}0$ mm ima matricu od $4144 \\times 2822$ piksela. Ako bi kameru postavili na teleskop Zvjezdarnice Zagreb promjera objektiva $17{,}5$ cm i f-broja f/8 koliki bi kut mogli razlučiti po pikselu? Ako umjesto kamere na teleskop stavimo okular žarišne daljine $13$ mm i vidnog polja $82^\\circ$ koliko bi bilo povećanje i stvarno vidno polje teleskopa?",
+     "orig_lang": "hr"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "problem": "At what distance from the white dwarf of problem 2 should a celestial body similar to Ganymede, of radius $2634$ km, be placed so that the average effective temperature on it equals the average one on Ganymede? Also calculate this temperature. The albedo of Ganymede is $0.43$.",
+     "paper_label": "Theory",
+     "problem_orig": "Na kolikoj udaljenosti od bijelog patuljka iz zadatka br. 2. bi se trebalo nalaziti nebesko tijelo slično Ganimedu polumjera $2634$ km da bi proječna efektivna temperatura na njemu bila jednaka kao i prosječna na Ganimedu? Izračunajte i tu temperaturu. Albedo Ganimeda iznosi $0{,}43$.",
+     "orig_lang": "hr"
+    },
+    {
+     "day": 1,
+     "number": 7,
+     "problem": "The redshift of the gamma-ray burst detected by the Swift satellite on 19 March 2008 was $0.937$. Its apparent magnitude in the visible part of the spectrum was $5.3^\\mathrm{m}$. At what distance was it located and what was its absolute magnitude? At what wavelength would (due to the redshift) the H$\\alpha$ emission line, of laboratory wavelength $656.3$ nm, be observed? Neglect extinction.",
+     "paper_label": "Theory",
+     "problem_orig": "Crveni pomak gama-bljeska koji je dana 19. ožujka 2008. g. detektirao satelit Swift iznosio je $0{,}937$. Njegova prividna zvjezdana veličina u vidljivom dijelu spektra iznosila je $5{,}3^\\mathrm{m}$. Na kojoj se udaljenosti nalazio i koliko je iznosila njegova apsolutna zvjezdana veličina. Na kojoj bi valnoj duljini (zbog crvenog pomaka) bila opažena emisijska linija H$\\alpha$, laboratorijske valne duljine $656{,}3$ nm. Zanemarite ekstinkciju.",
+     "orig_lang": "hr"
+    },
+    {
+     "day": 1,
+     "number": 8,
+     "problem": "On 1 January 2019 the New Horizons spacecraft passed, at a speed of $14.4$ km/s, the Kuiper belt planetoid 486958 Arrokoth, which was then at a distance of $44.2$ AU from the Sun. When the spacecraft reaches a distance where the Sun's gravitational potential becomes negligible, at what speed will it be moving away from it (the so-called asymptotic speed)? At what speed should it have been launched from the Earth (relative to the Sun) to achieve such a speed? Neglect the additional acceleration due to the flyby of Jupiter.",
+     "paper_label": "Theory",
+     "problem_orig": "Letjelica New Horizons prošla je 1. siječnja 2019. g. brzinom od $14{,}4$ km/s pokraj planetoida Kuiperova pojasa 486958 Arrokotha, koji se tada nalazio na udaljenosti od $44{,}2$ AJ od Sunca. Kada se letjelica nađe na udaljenosti gdje Sunčev gravitacijski potencijal postane zanemariv kojom će se brzinom udaljavati od njega (tzv. asimptotska brzina). Kojom je brzinom trebao biti lansiran sa Zemlje (u odnosu na Sunce) da bi postigao takvu brzinu. Zanemarite dodatno ubrzanje uslijed prolaska pokraj Jupitera.",
+     "orig_lang": "hr"
+    },
+    {
+     "day": 2,
+     "number": 1,
+     "problem": "Using the attached astronomical yearbook, determine the moment of the first passage of the Moon through the ascending node in 2021. Express the result in Central European Time (CET, in Croatian SEV). Neglect the difference between UT1 and UTC.",
+     "paper_label": "Practical",
+     "problem_orig": "Pomoću priloženog godišnjaka odredite trenutak prvog prolaska Mjeseca uzlaznim čvorom u 2021. godini. Rezultat iskažite po SEV-u. Zanemarite razliku između UT1 i UTC.",
+     "orig_lang": "hr"
+    },
+    {
+     "day": 2,
+     "number": 2,
+     "problem": "Using the attached astronomical yearbook, determine the distance of the centre of the Moon from Zagreb ($45^\\circ 49'$ N; $15^\\circ 59'$ E) on 9 May 2021 at $0^\\mathrm{h}$ UTC. Neglect the effects due to the finite speed of light. Assume that the Earth is a sphere. Is the Moon then above or below the horizon for an observer in Zagreb?\n\nHint: think about using a Cartesian (rectangular) coordinate system!",
+     "paper_label": "Practical",
+     "problem_orig": "Pomoću priloženog godišnjaka odredite udaljenost središta Mjeseca od Zagreba ($45^\\circ 49'$ N; $15^\\circ 59'$ E) dana 9. svibnja 2021. g. u $0^\\mathrm{h}$ UTC. Zanemarite efekte zbog konačne brzine svjetlosti. Pretpostavite da je Zemlja kugla. Je li Mjesec tada iznad ili ispod obzora za opažača u Zagrebu?\n\nUputa: razmislite o uporabi Kartezijeva (pravokutnog) koordinatnog sustava!",
+     "orig_lang": "hr"
+    },
+    {
+     "day": 2,
+     "number": 3,
+     "problem": "The star chart shows a part of the starry sky at $0^\\mathrm{h}$ UT. To which date in 2021 does the situation shown on the chart correspond? For that same date three planets are also plotted. Find them and write their names. Beware, they look like the other stars. Also mark the positions of the following stars: $\\alpha$ CMi (Procyon), $\\beta$ Gem (Pollux) and $\\beta$ CMa (Mirzam).\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/hr-2021-d2-q3-1.png",
+     "paper_label": "Practical",
+     "problem_orig": "Na zvjezdanoj karti prikazan je dio zvjezdanog neba u $0^\\mathrm{h}$ UT. Kojem datumu u 2021. g. odgovara situacija prikazana na karti? Za taj isti datum ucrtana su i tri planeta. Pronađite ih i napišite njihove nazive. Oprez, izgledaju poput ostalih zvijezda. Označite i položaje sljedećih zvijezda: $\\alpha$ CMi (Prokion), $\\beta$ Gem (Poluks) i $\\beta$ CMa (Mirzam).\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/hr-2021-d2-q3-1.png",
+     "orig_lang": "hr"
+    }
+   ]
+  },
+  {
+   "year": 2024,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "The absolute bolometric magnitude of a white dwarf is $13^\\mathrm{m}$. At what distance from it should a celestial body similar to our Moon be placed so that the average effective temperature on it equals that on the Moon? Calculate the value of this temperature.",
+     "paper_label": "Qualifying test",
+     "problem_orig": "Apsolutna bolometrijska zvjezdana veličina bijelog patuljka iznosi $13^\\mathrm{m}$. Na kolikoj udaljenosti od njega bi se trebalo nalaziti nebesko tijelo slično našem Mjesecu da bi prosječna efektivna temperatura na njemu bila jednaka kao i na Mjesecu? Izračunajte iznos te temperature.",
+     "orig_lang": "hr"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "An astronomer observes a circumpolar star from an unknown location in the northern hemisphere of the Earth. He measured that the smallest altitude of the star above the horizon is $38^\\circ$ and the largest $78^\\circ$. The local sidereal time when the star was at lower culmination is $\\mathrm{LST}=3^\\mathrm{h}$. Calculate all possibilities for the right ascension and declination of the star, and for the geographic latitude of observation.",
+     "paper_label": "Qualifying test",
+     "problem_orig": "Astronom promatra cirkumpolarnu zvijezdu s nepoznate lokacije na sjevernoj Zemljinoj polutci. Izmjerio je da je najmanja visina zvijezde iznad horizonta $38^\\circ$, a najveća $78^\\circ$. Mjesno zvjezdano vrijeme kada je zvijezda bila u donjoj kulminaciji je $\\mathrm{LST}=3^\\mathrm{h}$. Izračunajte koje su sve mogućnosti rektascenzije i deklinacije zvijezde, te geografske širine promatranja.",
+     "orig_lang": "hr"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "An extragalactic cloud of neutral hydrogen was observed with a radio telescope. The strongest radiation was measured at a wavelength of $21.5$ cm, and the width of the measured spectral line was $0.1$ mm. Under laboratory conditions neutral hydrogen radiates most strongly at a wavelength of $21$ cm. The apparent angular dimensions of the cloud were $2''$. What is the mass of this extragalactic cloud of neutral hydrogen?",
+     "paper_label": "Qualifying test",
+     "problem_orig": "Radioteleskopom je opažan izvangalaktički oblak neutralnog vodika. Izmjereno je najjače zračenje na valnoj duljini od $21{,}5$ cm, a širina izmjerene spektralne linije iznosila je $0{,}1$ mm. U laboratorijskim uvjetima neutralni vodik najviše zrači na valnoj duljini od $21$ cm. Prividne kutne dimenzije oblaka vodika su iznosile $2''$. Kolika je masa tog izvangalaktičkog oblaka neutralnog vodika?",
+     "orig_lang": "hr"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "The maximum luminosity of a type Ia supernova in a distant galaxy was $5.9\\cdot10^{9}\\,L_\\odot$. On the basis of telescope observations its brightness was found to be $2\\cdot10^{-8}$ of the brightness of Sirius. The redshift of the galaxy is $0.06$. Calculate the distance of the galaxy in parsecs and the Hubble time for this case.",
+     "paper_label": "Qualifying test",
+     "problem_orig": "Najveći luminozitet supernove tipa Ia u udaljenoj galaksiji je iznosio $5{,}9\\cdot10^{9}\\,L_\\odot$. Na osnovu promatranja teleskopom je utvrđeno da joj sjaj iznosi $2\\cdot10^{-8}$ sjaja Sirijusa. Crveni pomak galaksije iznosi $0{,}06$. Izračunajte udaljenost galaksije u parsecima i Hubbleovo vrijeme za ovaj slučaj.",
+     "orig_lang": "hr"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "The portable telescope of the Zagreb Observatory (Zvjezdarnica Zagreb) bears the marking $9\\,1/4''$ ($235$ mm) f/10. With which eyepiece can we achieve a magnification of $98$, and what is the apparent field of view of the eyepiece if we stop the tracking and measure that a star on the equator passes through the centre and across the whole field of view in $2^\\mathrm{m}\\,50^\\mathrm{s}$?",
+     "paper_label": "Qualifying test",
+     "problem_orig": "Na prijenosnom teleskopu Zvjezdarnice Zagreb nalazi se sljedeća oznaka $9\\,1/4''$ ($235$ mm) f/10. Kojim okularom možemo postići povećanje od $98$ puta i koliko je prividno vidno polje okulara ako zaustavimo praćenje i izmjerimo da zvijezda na ekvatoru prođe kroz sredinu i preko cijelog vidnog polja za $2^\\mathrm{m}\\,50^\\mathrm{s}$?",
+     "orig_lang": "hr"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "problem": "The horizontal parallax of a planetoid was $\\varphi = 6.12''$. Calculate its distance from the Sun at that moment if it was then at eastern quadrature and in the plane of the ecliptic.",
+     "paper_label": "Qualifying test",
+     "problem_orig": "Horizontska paralaksa nekog planetoida iznosila je $\\varphi = 6{,}12''$. Izračunajte njegovu udaljenost od Sunca u tom trenutku ako se tada nalazio u položaju istočne kvadrature i u ravnini ekliptike.",
+     "orig_lang": "hr"
+    },
+    {
+     "day": 1,
+     "number": 7,
+     "problem": "What is the minimum speed with which a particle must move in a medium of refractive index $n = 1.5$ for Cherenkov radiation to be produced? What is the angle $\\varphi$ of the cone of Cherenkov radiation in that medium if the particle moves at a speed of $220\\,000$ km/s? What is the speed of the light emitted (produced) by the particle?",
+     "paper_label": "Qualifying test",
+     "problem_orig": "Kojom najmanjom brzinom se treba gibati čestica u sredstvu indeksa loma $n = 1{,}5$ kako bi nastalo Čerenkovljevo zračenje? Koliki je kut stošca $\\varphi$ Čerenkovljeva zračenja u tom sredstvu ako se čestica giba brzinom od $220\\,000$ km/s? Kolika je emitirana brzina svjetlosti koju stvara čestica?",
+     "orig_lang": "hr"
+    },
+    {
+     "day": 1,
+     "number": 8,
+     "problem": "A binary star has components whose masses are $3.5$ and $2.5$ times the mass of the Sun, and they orbit the centre of mass on circular orbits. The orbital period of the system is $60$ years and its distance from the Earth is $35$ pc. Calculate the diameter of the objective of a telescope with which both components can be resolved.",
+     "paper_label": "Qualifying test",
+     "problem_orig": "Dvojna zvijezda ima komponente čije su mase $3{,}5$ i $2{,}5$ puta veće od Sunčeve i one obilaze oko središta mase po kružnim stazama. Orbitalni period sustava je $60$ godina, a njegova udaljenost od Zemlje iznosi $35$ pc. Izračunajte promjer objektiva teleskopa s kojim se mogu razlučiti obje komponente.",
+     "orig_lang": "hr"
+    },
+    {
+     "day": 1,
+     "number": 9,
+     "problem": "A hypothetical celestial body belonging to the Solar System lies in the plane of the ecliptic. From observations from the Earth it is known that the value of the annual parallax of this body is equal to the value of the annual aberration of light. Determine the distance of this body from the Sun and its period of revolution. Neglect the apparent displacement of the body due to its revolution around the Sun.",
+     "paper_label": "Qualifying test",
+     "problem_orig": "Hipotetsko nebesko tijelo koje pripada Sunčevu sustavu nalazi se u ravnini ekliptike. Nakon opažanja sa Zemlje poznato je da je iznos godišnje paralakse tog tijela jednak iznosu godišnje aberacije svjetlosti. Odredite udaljenost tog tijela od Sunca i njegov period revolucije. Zanemarite prividni pomak tijela uslijed njegove revolucije oko Sunca.",
+     "orig_lang": "hr"
+    },
+    {
+     "day": 1,
+     "number": 10,
+     "problem": "On a CCD detector in a spectroscope it was observed that the helium spectral line of laboratory wavelength $501.6$ nm in the spectrum of some star is shifted by $17$ pixels towards the red part of the spectrum. The resolution of the spectrometer is $0.002$ nm/pixel. The ecliptic longitude of the star is $\\lambda_z = 47^\\circ 55'$ and its ecliptic latitude is $\\beta_z = -26^\\circ 45'$. At the time the spectrum was recorded the ecliptic longitude of the Sun was $\\lambda_\\mathrm{Sun} = 223^\\circ 14'$. Determine the velocity of the star relative to the Sun. What is the measured wavelength of the maximum of the radiation of this star if its effective temperature is $7200$ K?",
+     "paper_label": "Qualifying test",
+     "problem_orig": "Na CCD detektoru u spektroskopu opaženo je da je spektralna linija helija laboratorijske valne duljine $501{,}6$ nm u spektru neke zvijezde pomaknuta za $17$ piksela prema crvenom dijelu spektra. Razlučivost spektrometra iznosi $0{,}002$ nm/pikselu. Ekliptička duljina zvijezde iznosi $\\lambda_z = 47^\\circ 55'$, a ekliptička širina $\\beta_z = -26^\\circ 45'$. U vrijeme snimanja spektra ekliptička duljina Sunca je iznosila $\\lambda_\\mathrm{Sun} = 223^\\circ 14'$. Odredite brzinu zvijezde u odnosu na Sunce. Koliko iznosi izmjerena valna duljina maksimuma zračenja te zvijezde ako je njena efektivna temperatura $7200$ K?",
+     "orig_lang": "hr"
+    },
+    {
+     "day": 1,
+     "number": 11,
+     "problem": "**Data analysis**\n\nOn 9 February 2015 a transit of Callisto across the disc of Jupiter could be observed. Take that at $22^\\mathrm{h}\\,50^\\mathrm{m}$ it was exactly at its centre. Assuming that the orbits of Jupiter, Callisto and the Earth around the Sun are circles lying in the same plane, calculate the moment when Callisto would, for the first time in June, again be in front of the centre of Jupiter's disc as seen from the Earth. The ecliptic longitudes of Jupiter and the Earth on 9 February 2015 were $\\lambda_J = 137.8819^\\circ$ and $\\lambda_Z = 140.6543^\\circ$. In the calculation you may use the following data: radius of Jupiter's orbit $a_J = 5.2043$ AU, period of revolution of Jupiter $T_J = 4332.6$ d, radius of the Earth's orbit $a_Z = 1$ AU ($149.6\\cdot10^{6}$ km), period of revolution of the Earth $T_Z = 365.256$ d, sidereal period of revolution of Callisto $T_K = 16.6890$ d. Because of the limited time it is sufficient to calculate only one iteration.",
+     "paper_label": "Qualifying test",
+     "problem_orig": "**ANALIZA PODATAKA**\n\nDana 9. 2. 2015. godine mogao se opažati tranzit Kalista preko Jupiterova diska. Uzmi da se u $22^\\mathrm{h}\\,50^\\mathrm{m}$ našao točno u njegovu središtu. Ako pretpostavimo da su Jupiterova, Kalistova i Zemljina staza oko Sunca kružnice i da leže u istoj ravnini, izračunaj trenutak kada bi se Kalisto prvi puta u lipnju opet našao ispred središta Jupiterova diska gledano sa Zemlje. Ekliptičke duljine Jupitera i Zemlje 9. 2. 2015. g. bile su $\\lambda_J = 137{,}8819^\\circ$ i $\\lambda_Z = 140{,}6543^\\circ$. Prilikom računanja možete koristiti sljedeće podatke: polumjer Jupiterove staze $a_J = 5{,}2043$ a.j., period revolucije Jupitera $T_J = 4332{,}6$ d, polumjer Zemljine staze $a_Z = 1$ a.j. ($149{,}6\\cdot10^{6}$ km), Period revolucije Zemlje $T_Z = 365{,}256$ d, siderički period revolucije Kalista $T_K = 16{,}6890$ d. Zbog ograničenog vremena dovoljno je računati samo jednu iteraciju.",
+     "orig_lang": "hr"
+    }
+   ]
+  },
+  {
+   "year": 2025,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "What is the apparent angular distance of Mars from the Sun for an observer on Jupiter if Mars is at the aphelion of its orbit at the time of maximum elongation when it is observed?\n\n**Table of constants**\n\n$$\n\\begin{array}{|l|l|}\n\\hline\n\\text{name} & \\text{value} \\\\ \\hline\n\\text{Astronomical unit (AU)} & 149\\,600\\,000\\ \\mathrm{km} \\\\ \\hline\n\\text{Earth–Moon distance (}r_{ZM}\\text{)} & 384\\,400\\ \\mathrm{km} \\\\ \\hline\n\\text{Equatorial radius of the Earth (}r_Z\\text{)} & 6\\,378.1\\ \\mathrm{km} \\\\ \\hline\n\\text{Eccentricity of the Earth's orbit (}e_Z\\text{)} & 0.0167 \\\\ \\hline\n\\text{Density of the Earth (}\\rho_Z\\text{)} & 5500\\ \\mathrm{kg\\,m^{-3}} \\\\ \\hline\n\\text{Mass of the Earth (}m_Z\\text{)} & 5.97\\cdot10^{24}\\ \\mathrm{kg} \\\\ \\hline\n\\text{Mass of the Moon (}m_M\\text{)} & 7.35\\cdot10^{22}\\ \\mathrm{kg} \\\\ \\hline\n\\text{Radius of the Moon (}r_M\\text{)} & 1738\\ \\mathrm{km} \\\\ \\hline\n\\text{Mass of the Sun (}m_S\\text{)} & 1.99\\cdot10^{30}\\ \\mathrm{kg} \\\\ \\hline\n\\text{Luminosity of the Sun (}L_\\odot\\text{)} & 3.86\\cdot10^{26}\\ \\mathrm{J\\,s^{-1}} \\\\ \\hline\n\\text{Radius of the Sun (}R_\\odot\\text{)} & 6.96\\cdot10^{5}\\ \\mathrm{km} \\\\ \\hline\n\\text{Apparent magnitude of the Sun (}m_\\odot\\text{)} & -26.8^\\mathrm{m} \\\\ \\hline\n\\text{Absolute bolometric magnitude of the Sun (}M_\\odot\\text{)} & 4.82^\\mathrm{m} \\\\ \\hline\n\\text{Effective temperature of the Sun's surface (}T_{\\mathrm{ef}\\odot}\\text{)} & 5780\\ \\mathrm{K} \\\\ \\hline\n\\text{Semi-major axis of Jupiter's orbit (}a_\\mathrm{Jupiter}\\text{)} & 778\\cdot10^{6}\\ \\mathrm{km} \\\\ \\hline\n\\text{Semi-major axis of Mars's orbit (}a_\\mathrm{Mars}\\text{)} & 227.9\\cdot10^{6}\\ \\mathrm{km} \\\\ \\hline\n\\text{Eccentricity of Mars's orbit (}e_\\mathrm{Mars}\\text{)} & 0.0935 \\\\ \\hline\n\\text{Radius of Mars (}r_\\mathrm{Mars}\\text{)} & 3390\\ \\mathrm{km} \\\\ \\hline\n\\text{Sidereal rotation period of Mars (}T_\\mathrm{sidM}\\text{)} & 24^\\mathrm{h}\\,37^\\mathrm{m} \\\\ \\hline\n\\text{Synodic rotation period of Mars (}T_\\mathrm{sinM}\\text{)} & 24^\\mathrm{h}\\,39^\\mathrm{m}\\,35^\\mathrm{s} \\\\ \\hline\n\\text{Radius of Jupiter (}r_J\\text{)} & 7\\cdot10^{7}\\ \\mathrm{m} \\\\ \\hline\n\\text{Mass of Jupiter (}m_J\\text{)} & 1.9\\cdot10^{27}\\ \\mathrm{kg} \\\\ \\hline\n\\text{Density of Jupiter (}\\rho_J\\text{)} & 1326\\ \\mathrm{kg\\,m^{-3}} \\\\ \\hline\n\\text{Gravitational constant (}G\\text{)} & 6.67\\cdot10^{-11}\\ \\mathrm{m^{3}\\,kg^{-1}\\,s^{-2}} \\\\ \\hline\n\\text{Stefan–Boltzmann constant (}\\sigma\\text{)} & 5.6705\\cdot10^{-8}\\ \\mathrm{J\\,s^{-1}\\,m^{-2}\\,K^{-4}} \\\\ \\hline\n\\text{Planck constant (}h\\text{)} & 6.626\\cdot10^{-34}\\ \\mathrm{J\\,s} \\\\ \\hline\n\\text{Wien constant (}b\\text{)} & 2.9\\cdot10^{-3}\\ \\mathrm{m\\,K} \\\\ \\hline\n\\text{Speed of light (}c\\text{)} & 3\\cdot10^{8}\\ \\mathrm{m/s} \\\\ \\hline\n\\text{Parsec (pc)} & 3.0860\\cdot10^{16}\\ \\mathrm{m} \\\\ \\hline\n\\text{Hubble constant} & 69\\ \\mathrm{km\\,s^{-1}\\,Mpc^{-1}} \\\\ \\hline\n\\text{Refraction at the horizon} & 35' \\\\ \\hline\n\\end{array}\n$$\n\n**Main equations of spherical trigonometry**\n\n$$\n\\begin{aligned}\\sin a\\,\\sin B &= \\sin b\\,\\sin A,\\\\ \\sin a\\,\\cos B &= \\cos b\\,\\sin c-\\sin b\\,\\cos c\\,\\cos A,\\\\ \\cos a &= \\cos b\\,\\cos c+\\sin b\\,\\sin c\\,\\cos A.\\end{aligned}\n$$\n\n(The accompanying figure shows a spherical triangle with sides $a$, $b$, $c$ and the opposite angles $A$, $B$, $C$.)\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/hr-2025-d1-q1-1.png",
+     "paper_label": "Theory",
+     "problem_orig": "Kolika je prividna kutna udaljenost Marsa od Sunca za motritelja na Jupiteru ako se Mars nalazi u afelu svoje staze u vrijeme maksimalne elongacije kada je opažan.\n\n**Tablica konstanti**\n\n$$\n\\begin{array}{|l|l|}\n\\hline\n\\text{naziv} & \\text{iznos} \\\\ \\hline\n\\text{astronomska jedinica (AJ)} & 149\\,600\\,000\\ \\mathrm{km} \\\\ \\hline\n\\text{udaljenost Zemlja-Mjesec (}r_{ZM}\\text{)} & 384\\,400\\ \\mathrm{km} \\\\ \\hline\n\\text{Zemljin polumjer na ekvatoru (}r_Z\\text{)} & 6\\,378{,}1\\ \\mathrm{km} \\\\ \\hline\n\\text{ekscentricitet Zemljine staze (}e_Z\\text{)} & 0{,}0167 \\\\ \\hline\n\\text{Zemljina gustoća (}\\rho_Z\\text{)} & 5500\\ \\mathrm{kg\\,m^{-3}} \\\\ \\hline\n\\text{masa Zemlje (}m_Z\\text{)} & 5{,}97\\cdot10^{24}\\ \\mathrm{kg} \\\\ \\hline\n\\text{masa Mjeseca (}m_M\\text{)} & 7{,}35\\cdot10^{22}\\ \\mathrm{kg} \\\\ \\hline\n\\text{polumjer Mjeseca (}r_M\\text{)} & 1738\\ \\mathrm{km} \\\\ \\hline\n\\text{Sunčeva masa (}m_S\\text{)} & 1{,}99\\cdot10^{30}\\ \\mathrm{kg} \\\\ \\hline\n\\text{Sunčev luminozitet (}L_\\odot\\text{)} & 3{,}86\\cdot10^{26}\\ \\mathrm{J\\,s^{-1}} \\\\ \\hline\n\\text{polumjer Sunca (}R_\\odot\\text{)} & 6{,}96\\cdot10^{5}\\ \\mathrm{km} \\\\ \\hline\n\\text{prividna zvjezdana veličina Sunca (}m_\\odot\\text{)} & -26{,}8^\\mathrm{m} \\\\ \\hline\n\\text{apsolutna bol. zvjezdana veličina Sunca (}M_\\odot\\text{)} & 4{,}82^\\mathrm{m} \\\\ \\hline\n\\text{efektivna temperatura Sunčeve površine (}T_{\\mathrm{ef}\\odot}\\text{)} & 5780\\ \\mathrm{K} \\\\ \\hline\n\\text{velika poluos Jupiterove staze (}a_\\mathrm{Jupiter}\\text{)} & 778\\cdot10^{6}\\ \\mathrm{km} \\\\ \\hline\n\\text{velika poluos Marsove staze (}a_\\mathrm{Mars}\\text{)} & 227{,}9\\cdot10^{6}\\ \\mathrm{km} \\\\ \\hline\n\\text{ekscentricitet Marsove staze (}e_\\mathrm{Mars}\\text{)} & 0{,}0935 \\\\ \\hline\n\\text{polumjer Marsa (}r_\\mathrm{Mars}\\text{)} & 3390\\ \\mathrm{km} \\\\ \\hline\n\\text{siderički period rotacije Marsa (}T_\\mathrm{sidM}\\text{)} & 24^\\mathrm{h}\\,37^\\mathrm{m} \\\\ \\hline\n\\text{sinodički period rotacije Marsa (}T_\\mathrm{sinM}\\text{)} & 24^\\mathrm{h}\\,39^\\mathrm{m}\\,35^\\mathrm{s} \\\\ \\hline\n\\text{polumjer Jupitera (}r_J\\text{)} & 7\\cdot10^{7}\\ \\mathrm{m} \\\\ \\hline\n\\text{masa Jupitera (}m_J\\text{)} & 1{,}9\\cdot10^{27}\\ \\mathrm{kg} \\\\ \\hline\n\\text{gustoća Jupitera (}\\rho_J\\text{)} & 1326\\ \\mathrm{kg\\,m^{-3}} \\\\ \\hline\n\\text{gravitacijska konstanta (}G\\text{)} & 6{,}67\\cdot10^{-11}\\ \\mathrm{m^{3}\\,kg^{-1}\\,s^{-2}} \\\\ \\hline\n\\text{Stefan-Boltzmannova konstanta (}\\sigma\\text{)} & 5{,}6705\\cdot10^{-8}\\ \\mathrm{J\\,s^{-1}\\,m^{-2}\\,K^{-4}} \\\\ \\hline\n\\text{Planckova konstanta (}h\\text{)} & 6{,}626\\cdot10^{-34}\\ \\mathrm{J\\,s} \\\\ \\hline\n\\text{Wienova konstanta (}b\\text{)} & 2{,}9\\cdot10^{-3}\\ \\mathrm{m\\,K} \\\\ \\hline\n\\text{brzina svjetlosti (}c\\text{)} & 3\\cdot10^{8}\\ \\mathrm{m/s} \\\\ \\hline\n\\text{parsek (pc)} & 3{,}0860\\cdot10^{16}\\ \\mathrm{m} \\\\ \\hline\n\\text{Hubbleova konstanta} & 69\\ \\mathrm{km\\,s^{-1}\\,Mpc^{-1}} \\\\ \\hline\n\\text{iznos refrakcije na obzoru} & 35' \\\\ \\hline\n\\end{array}\n$$\n\n**Glavne jednadžbe u sfernoj trigonometriji**\n\n$$\n\\begin{aligned}\\sin a\\,\\sin B &= \\sin b\\,\\sin A,\\\\ \\sin a\\,\\cos B &= \\cos b\\,\\sin c-\\sin b\\,\\cos c\\,\\cos A,\\\\ \\cos a &= \\cos b\\,\\cos c+\\sin b\\,\\sin c\\,\\cos A.\\end{aligned}\n$$\n\n(Priložena slika prikazuje sferni trokut sa stranicama $a$, $b$, $c$ i nasuprotnim kutovima $A$, $B$, $C$.)\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/hr-2025-d1-q1-1.png",
+     "orig_lang": "hr"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "An astronomer-astronaut observes the Sun from Mars with a telescope of focal length $3$ m and objective diameter $30$ cm, and uses an eyepiece of apparent field of view $60^\\circ$. Calculate:\n\n(a) what is the f-number of the telescope?\n\n(b) what is the diameter of the image of the Sun formed at the focus of the telescope?\n\n(c) what is the magnification of the telescope if the image of the Sun fills the entire true field of view of the telescope?\n\n(d) what is the focal length of the eyepiece from part (c)?\n\n(e) if the Sun is at declination $\\delta = -22^\\circ$ in the Martian sky, how long does it take the Sun to pass completely (from the 1st to the 4th contact) through the centre of the telescope's field of view, if the astronomer uses the same eyepiece as in part (c) and does not use telescope tracking?",
+     "paper_label": "Theory",
+     "problem_orig": "Astronom-astronaut promatra Sunce s Marsa teleskopom žarišne daljine $3$ m, promjera objektiva $30$ cm i koristi okular prividnog vidnog polja $60^\\circ$. Izračunajte:\n\na) koliki je f-broj teleskopa?\n\nb) koliki je promjer slike Sunca koja nastaje u žarištu teleskopa?\n\nc) koliko je povećanje teleskopa ako slika Sunca zauzima cijelo stvarno vidno polje teleskopa?\n\nd) kolika je žarišna daljina okulara iz zadatka c)?\n\ne) ako se Sunce nalazi na Marsovom nebu na deklinaciji $\\delta = -22^\\circ$, koliko vremena je potrebno Suncu da u potpunosti (od 1. do 4. kontakta) prođe kroz sredinu vidnog polja teleskopa, ako astronom koristi isti okular iz zadatka c) i ne koristi praćenje teleskopa?",
+     "orig_lang": "hr"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "Calculate the largest and the smallest value of the annual aberration of light for an observer on the Martian equator who observes a star located at the ecliptic pole of Mars. Determine the value of the diurnal aberration of light observed by the same observer for a star located at the celestial pole of Mars.",
+     "paper_label": "Theory",
+     "problem_orig": "Izračunajte najveći i najmanji iznos godišnje aberacije svjetlosti za motritelja na Marsovom ekvatoru koji promatra zvijezdu koja se nalazi na Marsovom ekliptičkom polu. Odredite iznos dnevne aberacije svjetlosti koju isti motritelj opaža za zvijezdu koja se nalazi na Marsovom nebeskom polu.",
+     "orig_lang": "hr"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "The temperature of a white dwarf is $18000$ K, its diameter is $14000$ km, it is $40$ light-years away and approaches us at a speed of $40$ km/s. Determine the apparent and the absolute magnitude of the white dwarf and the wavelength of the maximum of its radiation as observed from the Earth.",
+     "paper_label": "Theory",
+     "problem_orig": "Temperatura bijelog patuljka iznosi $18000$ K, promjer mu je $14000$ km, udaljen je $40$ s. g. i približava nam se brzinom od $40$ km/s. Odredite prividnu i apsolutnu zvjezdanu veličinu bijelog patuljka i valnu duljinu maksimuma njegova zračenja koju opažamo sa Zemlje.",
+     "orig_lang": "hr"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "Calculate what the mean distance (expressed in AU) of a hypothetical planet around the Sun can be, whose synodic period as seen from the Earth is $3.5$ years.",
+     "paper_label": "Theory",
+     "problem_orig": "Izračunajte koliko može iznositi srednja udaljenost hipotetskog planeta oko Sunca (izražena u AJ) čiji sinodički period, gledano sa Zemlje iznosi $3{,}5$ godine?",
+     "orig_lang": "hr"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "problem": "In the centre of the Sun's disc there is a sunspot whose diameter is twice that of the Earth. If the whole Sun disappeared and only this sunspot remained, what would be its apparent magnitude?",
+     "paper_label": "Theory",
+     "problem_orig": "Na središtu Sunčeve ploče nalazi se pjega u promjeru dva puta veća od Zemlje. Kad bi cijelo Sunce nestalo, a ostala samo ta pjega, kolika bi bila njena prividna zvjezdana veličina?",
+     "orig_lang": "hr"
+    },
+    {
+     "day": 1,
+     "number": 7,
+     "problem": "A hypothetical star is $6.33$ light-years away and approaches us with a radial velocity of $121$ km/s. If this velocity were constant, calculate in how many years the apparent magnitude of this star will be $8^\\mathrm{m}$. At what distance will it then be? The absolute magnitude of the hypothetical star is $13.22^\\mathrm{m}$.",
+     "paper_label": "Theory",
+     "problem_orig": "Hipotetska zvijezda je udaljena $6{,}33$ svjetlosnih godina i približava nam se radijalnom brzinom od $121$ km/s. Kada bi ta brzina bila konstantna, izračunajte za koliko godina će prividna zvjezdana veličina te zvijezde iznositi $8^\\mathrm{m}$. Na kojoj udaljenosti će se tada nalaziti? Apsolutna zvjezdana veličina hipotetske zvijezde iznosi $13{,}22^\\mathrm{m}$.",
+     "orig_lang": "hr"
+    },
+    {
+     "day": 1,
+     "number": 8,
+     "problem": "Determine the radius of Betelgeuse if its absolute magnitude is $M = -5.85^\\mathrm{m}$ and its surface temperature is $3600$ K.",
+     "paper_label": "Theory",
+     "problem_orig": "Odredite polumjer Betelgeza ako mu je apsolutna zvjezdana veličina $M = -5{,}85^\\mathrm{m}$, a površinska temperatura $3600$ K.",
+     "orig_lang": "hr"
+    },
+    {
+     "day": 1,
+     "number": 9,
+     "problem": "A spacecraft that can unfurl a solar sail has been sent from the Earth. The onboard automatics is in charge of always orienting the square sail so that the Sun's rays always fall perpendicularly on it, and at the same time allows the sail to be unfurled to different dimensions as needed. How large must the side of the sail be so that the force produced by the pressure of solar radiation equals the gravitational force between the Sun and a spacecraft of mass $1700$ kg, if it is $120$ million kilometres from the Sun and is at rest relative to the Sun? How large would the side of the sail have to be if the spacecraft were to be at rest relative to the Sun at a distance of $240$ million km?",
+     "paper_label": "Theory",
+     "problem_orig": "Sa Zemlje je poslana letjelica koja može razvući solarno jedro. Automatika na letjelici zadužena je da uvijek orijentira jedro kvadratnog oblika na način da Sunčeve zrake uvijek padaju okomito na njega, a ujedno omogućava da se jedro, ovisno o potrebi, može razvući na različite dimenzije. Koliko mora biti velika stranica jedra da bi sila nastala od tlaka Sunčeva zračenja bila jednaka gravitacijskoj sili između Sunca i letjelice mase $1700$ kg ako je udaljena $120$ milijuna kilometara od Sunca i ako miruje relativno u odnosu na Sunce. Kolika bi morala biti velika stranica jedra kada bi se željelo da letjelica miruje u odnosu na Sunce na udaljenosti od $240$ milijuna km?",
+     "orig_lang": "hr"
+    }
+   ]
+  }
+ ]
+}
