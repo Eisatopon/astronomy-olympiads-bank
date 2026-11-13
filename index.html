@@ -694,7 +694,7 @@ dialog p { color: var(--muted); font-size: .92rem; }
 // Local copies (python -m http.server) read the files next to the page; the published site reads the raw files.
 const BASE = /^(localhost|127\.)/.test(location.hostname) ? './' : 'https://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/';
 // Bump on every data change so browsers never mix old and new files.
-const DATA_VERSION = '20261113-by3-belarus-regional';
+const DATA_VERSION = '20261113-rs-serbia';
 const FIRST = 1990, LAST = 2026;
 const REGIONS = [['europe', 'Europe'], ['asia', 'Asia'], ['americas', 'Americas'], ['africa', 'Africa'], ['oceania', 'Oceania'], ['world', 'World'], ['other', 'Other']];
 const REGION_OF = {
@@ -725,7 +725,8 @@ const REGION_OF = {
     br: 'americas',
     br3: 'americas',
     by: 'europe',
-    by3: 'europe'
+    by3: 'europe',
+    rs: 'europe'
 };
 const regionOf = key => REGION_OF[key] || 'other';
 const PAGE = 20;
@@ -758,6 +759,7 @@ const COUNTRIES = [
     { key: 'br3', name: 'Brazil Level 3', flag: '🇧🇷', file: 'Brazil-oba-level3-problems.json', kind: 'years', full: 'Brazilian Astronomy and Astronautics Olympiad (OBA), level 3 paper (grades 6-9) — translated from the official Portuguese papers' },
     { key: 'by', name: 'Belarus', flag: '🇧🇾', file: 'Belarus-astronomy-problems.json', kind: 'years', full: 'Belarus Republican Olympiad in Astronomy, final stage — translated from the official Russian papers' },
     { key: 'by3', name: 'Belarus Regional', flag: '🇧🇾', file: 'Belarus-astronomy-regional-problems.json', kind: 'years', full: 'Belarus Republican Olympiad in Astronomy, 3rd (regional) stage — translated from the official Russian papers' },
+    { key: 'rs', name: 'Serbia', flag: '🇷🇸', file: 'Serbia-astronomy-problems.json', kind: 'years', full: 'Republic Competition in Astronomy of the Serbian Astronomical Society (national final, secondary schools): theory, data analysis and observation — translated from the official Serbian papers' },
     { key: 'gecaa', name: 'GeCAA', flag: '🌐', file: 'GeCAA-problems.json', kind: 'years', scope: 'international', full: 'Global e-Competition on Astronomy and Astrophysics (online, 2020), theory and data analysis' },
     { key: 'iaac', name: 'IAAC', flag: '🌐', file: 'IAAC-problems.json', kind: 'years', scope: 'international', full: 'International Astronomy and Astrophysics Competition (IAAC), online rounds: Qualification Round and Pre-Final Round' }
 ];
@@ -1901,6 +1903,7 @@ const ORGANISERS = {
         note: p => p.year === 2026 ? 'Statement taken from the official answer-key edition of the paper, the only publication found (answers not copied).' : ''},
     by: {comp: 'Belarus Republican Olympiad in Astronomy, final stage', org: 'the National Institute of Education of the Republic of Belarus (adu.by), which publishes the papers of the Republican Olympiad', rights: 'the National Institute of Education (adu.by)', short: 'the National Institute of Education of Belarus', lang: () => 'Russian'},
     by3: {comp: 'Belarus Republican Olympiad in Astronomy, 3rd (regional) stage', org: 'the National Institute of Education of the Republic of Belarus (adu.by), which publishes the papers of the Republican Olympiad', rights: 'the National Institute of Education (adu.by)', short: 'the National Institute of Education of Belarus', lang: () => 'Russian'},
+    rs: {comp: 'Serbia Republic Competition in Astronomy', org: 'the Serbian Astronomical Society (Društvo astronoma Srbije, das.org.rs), which organises the secondary-school astronomy competitions', rights: 'the Serbian Astronomical Society', short: 'the Serbian Astronomical Society', lang: () => 'Serbian'},
     iaac: {comp: 'IAAC', org: 'the International Astronomy and Astrophysics Competition (IAAC, iaac.space)', rights: 'IAAC', short: 'the IAAC'},
     iao: {comp: 'International Astronomy Olympiad', org: 'the International Astronomy Olympiad (IAO) and the Euro-Asian Astronomical Society', rights: 'IAO / Euro-Asian Astronomical Society', short: 'the IAO or the Euro-Asian Astronomical Society'},
     apao: {comp: 'Asian-Pacific Astronomy Olympiad', org: 'the Asian-Pacific Astronomy Olympiad (APAO) organisers (papers published on the IAO web site)', rights: 'the APAO organisers', short: 'the APAO organisers or the IAO'},
