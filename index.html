@@ -694,7 +694,7 @@ dialog p { color: var(--muted); font-size: .92rem; }
 // Local copies (python -m http.server) read the files next to the page; the published site reads the raw files.
 const BASE = /^(localhost|127\.)/.test(location.hostname) ? './' : 'https://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/';
 // Bump on every data change so browsers never mix old and new files.
-const DATA_VERSION = '20261113-hr-croatia';
+const DATA_VERSION = '20261113-ru910-grades9-10';
 const FIRST = 1990, LAST = 2026;
 const REGIONS = [['europe', 'Europe'], ['asia', 'Asia'], ['americas', 'Americas'], ['africa', 'Africa'], ['oceania', 'Oceania'], ['world', 'World'], ['other', 'Other']];
 const REGION_OF = {
@@ -727,7 +727,8 @@ const REGION_OF = {
     by: 'europe',
     by3: 'europe',
     rs: 'europe',
-    hr: 'europe'
+    hr: 'europe',
+    ru910: 'europe'
 };
 const regionOf = key => REGION_OF[key] || 'other';
 const PAGE = 20;
@@ -746,6 +747,7 @@ const COUNTRIES = [
     { key: 'apao', name: 'APAO', flag: '🌏', file: 'APAO-problems.json', kind: 'years', scope: 'regional', full: 'Asian-Pacific Astronomy Olympiad; English problem sheets from the official IAO web site' },
     { key: 'olaa', name: 'OLAA', flag: '🌎', file: 'OLAA-problems.json', kind: 'years', scope: 'regional', full: 'Latin American Olympiad on Astronomy and Astronautics (OLAA), theory tests — translated from the official Spanish papers' },
     { key: 'ruao', name: 'Russia', flag: '🇷🇺', file: 'Russia-astronomy-problems.json', kind: 'years', full: 'All-Russian Astronomy Olympiad, final stage, grade 11 — translated from the official Russian papers' },
+    { key: 'ru910', name: 'Russia Grades 9-10', flag: '🇷🇺', file: 'Russia-astronomy-grades9-10-problems.json', kind: 'years', full: 'All-Russian Astronomy Olympiad, final stage, grades 9 and 10 — translated from the official Russian papers' },
     { key: 'tr', name: 'Turkey', flag: '🇹🇷', file: 'Turkey-astronomy-problems.json', kind: 'years', full: 'TÜBİTAK Science Olympiads, Astronomy and Astrophysics, second stage — translated from the official Turkish papers' },
     { key: 'pl', name: 'Poland', flag: '🇵🇱', file: 'Poland-astronomy-problems.json', kind: 'years', full: 'Polish Astronomy Olympiad (Olimpiada Astronomiczna) — translated from the official Polish booklets' },
     { key: 'rureg', name: 'Russia Regional', flag: '🇷🇺', file: 'Russia-astronomy-regional-problems.json', kind: 'years', full: 'All-Russian Astronomy Olympiad, regional stage, grade 11 — translated from the official Russian papers' },
@@ -777,7 +779,8 @@ const tabRows = () => COUNTRIES.filter(c => scopeOf(c) === state.tab);
    (not of COUNTRIES) with `parts`, highest level first; each part gets `merge` and `grade`. */
 const MERGES = {
     brfin: { country: 'Brazil', sub: 'OBA', full: 'Brazilian Astronomy and Astronautics Olympiad (OBA), level 4 (secondary school) and level 3 (grades 6-9) papers — translated from the official Portuguese papers', parts: [['br', 'Level 4'], ['br3', 'Level 3']] },
-    byall: { country: 'Belarus', sub: 'Republican Olympiad', full: 'Belarus Republican Olympiad in Astronomy, final stage and 3rd (regional) stage — translated from the official Russian papers', parts: [['by', 'Final stage'], ['by3', 'Regional stage']] }
+    byall: { country: 'Belarus', sub: 'Republican Olympiad', full: 'Belarus Republican Olympiad in Astronomy, final stage and 3rd (regional) stage — translated from the official Russian papers', parts: [['by', 'Final stage'], ['by3', 'Regional stage']] },
+    ruall: { country: 'Russia', sub: 'All-Russian final', full: 'All-Russian Astronomy Olympiad, final stage: grade 11 and grades 9-10 — translated from the official Russian papers', parts: [['ruao', 'Grade 11'], ['ru910', 'Grades 9-10']] }
 };
 Object.entries(MERGES).forEach(([k, m]) => {
     const parts = m.parts.filter(([key]) => CBY[key]);
@@ -1919,6 +1922,7 @@ const ORGANISERS = {
     usaaao: {comp: 'USAAAO', org: 'the USA Astronomy and Astrophysics Organization (USAAAO)', rights: 'USAAAO', short: 'the USAAAO'},
     usaaao1: {comp: 'USAAAO First Round', org: 'the USA Astronomy and Astrophysics Organization (USAAAO)', rights: 'USAAAO', short: 'the USAAAO'},
     ruao: {comp: 'All-Russian Astronomy Olympiad, final stage', org: 'the All-Russian Astronomy Olympiad (its central subject-methodological commission, astroolymp.ru)', rights: 'the All-Russian Astronomy Olympiad', short: 'the All-Russian Astronomy Olympiad or its commissions', lang: () => 'Russian'},
+    ru910: {comp: 'All-Russian Astronomy Olympiad, final stage', org: 'the All-Russian Astronomy Olympiad (its central subject-methodological commission, astroolymp.ru)', rights: 'the All-Russian Astronomy Olympiad', short: 'the All-Russian Astronomy Olympiad or its commissions', lang: () => 'Russian'},
     rureg: {comp: 'All-Russian Astronomy Olympiad, regional stage', org: 'the All-Russian Astronomy Olympiad (its central subject-methodological commission, astroolymp.ru)', rights: 'the All-Russian Astronomy Olympiad', short: 'the All-Russian Astronomy Olympiad or its commissions', lang: () => 'Russian'},
     spb: {comp: 'St Petersburg Astronomy Olympiad', org: 'the St Petersburg Astronomy Olympiad (St Petersburg State University, school.astro.spbu.ru)', rights: 'the St Petersburg Astronomy Olympiad', short: 'the St Petersburg Astronomy Olympiad or St Petersburg State University', lang: () => 'Russian'},
     // 2016-2017: included with the organisers' written permission (5 Nov 2026), credited as they asked.
