@@ -2,6 +2,604 @@
  "competition": "All-Russian Astronomy Olympiad — final stage, grades 9 and 10",
  "years": [
   {
+   "year": 2005,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "10.1. A polar occultation\n\nStanding at the North Pole, you see in the dark sky a waxing Moon located right at the horizon. At the upper edge of its disc a star is visible. Is this the beginning or the end of the occultation of the star by the Moon?",
+     "paper_label": "Final – theoretical round (grade 10)",
+     "problem_orig": "10.1. Полярное покрытие\n\nНаходясь на северном полюсе, вы видите на темном небе растущую Луну, находящуюся у самого горизонта. На верхнем крае ее диска видна звезда. Что это – начало или конец покрытия звезды Луной?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "10.2. A Petersburg dawn\n\nIt is known that in St Petersburg the local mean solar midnight occurs at about 1 hour Moscow decree \"winter\" time. An observant resident of Petersburg noticed that at 18 hours on 9 November, 7 hours before local mean midnight, it was already quite dark, and then discovered with surprise that 7 hours after midnight, at 8 hours in the morning of 10 November, the dawn was already perceptible, and the sky was noticeably lighter than in the evening. The cloud conditions in the evening and in the morning were approximately the same. What is the reason for this phenomenon?",
+     "paper_label": "Final – theoretical round (grade 10)",
+     "problem_orig": "10.2. Петербургский рассвет\n\nИзвестно, что в Санкт-Петербурге местная средняя солнечная полночь наступает около 1 часа по московскому декретному \"зимнему\" времени. Наблюдательный петербуржец заметил, что в 18 часов 9 ноября, за 7 часов до местной средней полуночи, было уже совсем темно, а потом с удивлением обнаружил, что через 7 часов после полуночи, в 8 часов утра 10 ноября, рассвет был уже ощутим, и небо было заметно светлее, чем вечером. Условия облачности вечером и утром были примерно одинаковыми. В чем состоит причина явления?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "10.3. Configurations of Jupiter and Saturn\n\nOn 7 December 2004 the upper culmination of Jupiter occurred about 5 hours later than the upper culmination of Saturn. What distance separated these planets in space, if it is known that on 5 December the last quarter of the Moon was observed, and two days later the conjunction of Jupiter with the Moon took place? Consider the orbits of the Earth, Jupiter, Saturn and the Moon to be circular.",
+     "paper_label": "Final – theoretical round (grade 10)",
+     "problem_orig": "10.3. Конфигурации Юпитера и Сатурна\n\n7 декабря 2004 года верхняя кульминация Юпитера произошла примерно на 5 часов позже верхней кульминации Сатурна. Какое расстояние разделяло эти планеты в пространстве, если известно, что 5 декабря наблюдалась последняя четверть Луны, а двумя днями позже произошло соединение Юпитера с Луной? Орбиты Земли, Юпитера, Сатурна и Луны считать круговыми.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "10.4. Five bright planets\n\nBeing near one of the planets of the Solar System, you see at once five other planets in the same constellation, each of them shining brighter than $0^\\mathrm{m}$. Near which planet are you?",
+     "paper_label": "Final – theoretical round (grade 10)",
+     "problem_orig": "10.4. Пять ярких планет\n\nНаходясь вблизи одной из планет Солнечной системы, вы видите сразу пять других планет в одном созвездии, причем каждая из них светит ярче $0^\\mathrm{m}$. Вблизи какой планеты вы находитесь?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "10.5. A satellite of Jupiter\n\nA satellite of Jupiter revolves around this planet in a circular orbit in the same direction as the Galilean satellites. When observed from the Earth, this satellite and the Sun are always seen in the sky on opposite sides of Jupiter, and during the opposition of the planet the satellite can never be observed. What is the distance of the satellite from Jupiter? Assume that the planes of the orbits of the Earth, Jupiter and its satellite coincide.",
+     "paper_label": "Final – theoretical round (grade 10)",
+     "problem_orig": "10.5. Спутник Юпитера\n\nСпутник Юпитера обращается вокруг этой планеты по круговой орбите в том же направлении, что и галилеевы спутники. При наблюдении с Земли этот спутник и Солнце всегда наблюдаются на небе по разные стороны от Юпитера, а во время противостояния планеты спутник никогда нельзя наблюдать. Чему равно расстояние спутника от Юпитера? Считать, что плоскости орбит Земли, Юпитера и его спутника совпадают.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "problem": "10.6. Photographing the Moon and Mars\n\nMars at opposition (apparent angular diameter $27''$) had a stellar magnitude of $-2.8^\\mathrm{m}$. The full Moon has a stellar magnitude of $-12.8^\\mathrm{m}$. By how many times do the exposures required to obtain a normal image of the Moon and of Mars differ, when photographing them with a lens of focal length 11.4 metres? How will the ratio of the required exposures change as the focal length is reduced?",
+     "paper_label": "Final – theoretical round (grade 10)",
+     "problem_orig": "10.6. Фотографирование Луны и Марса\n\nМарс в противостоянии (видимый угловой диаметр $27''$) имел звездную величину $-2.8^\\mathrm{m}$. Луна в полнолунии имеет звездную величину $-12.8^\\mathrm{m}$. Во сколько раз различаются выдержки, необходимые для получения нормального изображения Луны и Марса, при их фотографировании с объективом с фокусным расстоянием 11.4 метра? Как будет меняться отношение требуемых выдержек при уменьшении фокусного расстояния?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 2,
+     "number": 1,
+     "problem": "10.2. A solar eclipse\n\nYou are given a negative enlarged copy of a negative frame of size 24 by 36 mm obtained during the solar eclipse of 11 August 1999. Determine from the photograph the duration of the eclipse and the focal length of the lens of the camera with which the photograph was taken.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/ru910-2005-d2-q1-1.png",
+     "paper_label": "Final – practical round (grade 10)",
+     "problem_orig": "10.2. Солнечное затмение\n\nВам выдана негативная увеличенная копия негативного кадра размером 24 на 36 мм, полученного во время солнечного затмения 11 августа 1999 года. Определите по снимку продолжительность затмения и фокусное расстояние объектива фотоаппарата, с которым был получен снимок.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/ru910-2005-d2-q1-1.png",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 1,
+     "problem": "9.1. Culminations of the poles of the ecliptic\n\nHow are the points of the vernal and autumnal equinoxes located relative to the horizon during the culminations of the poles of the ecliptic?",
+     "paper_label": "Final – theoretical round (grade 9)",
+     "problem_orig": "9.1. Кульминации полюсов эклиптики\n\nКак расположены относительно горизонта точки весеннего и осеннего равноденствий во время кульминаций полюсов эклиптики?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 2,
+     "problem": "9.3. Two travellers\n\nWhile in the middle belt of Russia, two people simultaneously observed the true solar noon. On the next day each of them moved 200 km to the west, and the first of them observed noon somewhat earlier than the second. Which of the two observers saw the Sun at noon at the greater altitude? Explain the answer.",
+     "paper_label": "Final – theoretical round (grade 9)",
+     "problem_orig": "9.3. Два путешественника\n\nНаходясь в средней полосе России, два человека одновременно наблюдали истинный солнечный полдень. На следующий день каждый из них переместился на 200 км на запад, и первый из них наблюдал полдень несколько раньше второго. Какой из двух наблюдателей видел в полдень Солнце на большей высоте? Ответ объяснить.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 3,
+     "problem": "9.4. The Ptolemaic system\n\nHow many errors are made in the figure on the right, which illustrates the Ptolemaic system?\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/ru910-2005-d3-q3-1.png",
+     "paper_label": "Final – theoretical round (grade 9)",
+     "problem_orig": "9.4. Система Птолемея\n\nСколько ошибок допущено на рисунке справа, иллюстрирующем систему Птолемея?\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/ru910-2005-d3-q3-1.png",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 4,
+     "number": 1,
+     "problem": "9.1. A close Moon\n\nSuppose that the Moon, without changing any of its physical characteristics (except the speed of revolution around the Earth), found itself in a circular orbit half as far from the Earth as it is now. Describe what changes on the Earth and in the sky could be expected in connection with this.",
+     "paper_label": "Final – practical round (grade 9)",
+     "problem_orig": "9.1. Близкая Луна\n\nПредположим, что Луна, не меняя никаких своих физических характеристик (кроме скорости обращения вокруг Земли), оказалась бы на круговой орбите вдвое ближе к Земле, чем сейчас. Опишите, какие изменения на Земле и на небе можно было бы ожидать в связи с этим?",
+     "orig_lang": "ru"
+    }
+   ]
+  },
+  {
+   "year": 2006,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "10.1. Inferior conjunction of Venus\n\nOn 14 January 2006 the planet Venus passed the point of inferior conjunction with the Sun, being in the sky $5.5^\\circ$ to the north of it, which allowed it to remain visible in the Earth's northern hemisphere against the background of the evening and morning twilight. Find the apparent thickness of the crescent of Venus at this time (in arcseconds). Would it be possible to distinguish this thickness in a telescope, or would the crescent appear perfectly thin?",
+     "paper_label": "Final – theoretical round (grade 10)",
+     "problem_orig": "10.1. Нижнее соединение Венеры\n\n14 января 2006 года планета Венера прошла точку нижнего соединения с Солнцем, располагаясь на небе в $5.5^\\circ$ к северу от него, что позволило ей остаться видимой в северном полушарии Земли на фоне вечерней и утренней зари. Найдите видимую толщину серпика Венеры в это время (в угловых секундах). Удалось бы различить эту толщину в телескоп, или серпик показался бы совершенно тонким?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "10.4. Atmospheric pressure\n\nThe atmospheric pressure at the surface of Mars is 750 Pa, or 0.75% of the pressure at the surface of the Earth. If on the Earth the pressure falls by a factor of 10 for every 15 km of ascent, and on Mars for every 35 km, how do the pressures at a height of 10 km above the surfaces of these planets differ?",
+     "paper_label": "Final – theoretical round (grade 10)",
+     "problem_orig": "10.4. Атмосферное давление\n\nАтмосферное давление на поверхности Марса составляет 750 Па или 0.75% от давления на поверхности Земли. Если на Земле давление падает в 10 раз на каждые 15 км подъема, а на Марсе – на каждые 35 км, то как отличаются давления на высоте 10 км над поверхностями этих планет?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "10.5. A launch from an asteroid\n\nAn asteroid has the same density as the Earth, and its radius is 100 times smaller than the Earth's. How much fuel, ejected from the rocket nozzle at a speed of 3 km/s, is required for a spacecraft of mass 1000 kg (not counting the fuel) to be able to leave the asteroid?",
+     "paper_label": "Final – theoretical round (grade 10)",
+     "problem_orig": "10.5. Старт с астероида\n\nАстероид имеет ту же плотность, что и Земля, а его радиус меньше земного в 100 раз. Сколько потребуется топлива, выбрасываемого из сопла ракеты со скоростью 3 км/с, чтобы космический аппарат массой 1000 кг (без учета топлива) смог покинуть астероид?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "10.6. A close binary system\n\nA close binary system consists of two identical components similar to the Sun. A planet revolves around the centre of mass of this pair in an orbit close to circular. The plane of the planet's orbit is perpendicular to the plane of the orbits of the stars, and the temperature conditions on this planet are practically indistinguishable from the terrestrial ones. Find the length of the year on the planet.",
+     "paper_label": "Final – theoretical round (grade 10)",
+     "problem_orig": "10.6. Тесная двойная система\n\nТесная двойная система состоит из двух одинаковых компонент, похожих на Солнце. Планета обращается вокруг центра масс этой пары по орбите, близкой к круговой. Плоскость орбиты планеты перпендикулярна плоскости орбит звезд, а температурные условия на этой планете практически неотличимы от земных. Найдите продолжительность года на планете.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 2,
+     "number": 1,
+     "problem": "10.2. A triple system\n\nA faint visually triple system, consisting of stars of magnitude 9.5 stretched out along one straight line, is observed in a small telescope (objective diameter 60 mm, focal length 240 mm). The angular distance between the first and the second star is $50''$, between the second and the third star $8''$. Describe the picture that the observer sees in eyepieces with focal lengths of 10, 20 and 40 mm. It is known that the observer saw stars down to magnitude 5 with the naked eye, the diameter of the pupil of the eye is 5 mm, and the resolving power of the eye is $2'$. Neglect the brightness of the sky background.",
+     "paper_label": "Final – practical round (grade 10)",
+     "problem_orig": "10.2. Тройная система\n\nВ небольшой телескоп (диаметр объектива 60 мм, фокусное расстояние 240 мм) наблюдают слабую визуально тройную систему, состоящую из звезд 9.5 звездной величины, вытянувшихся вдоль одной прямой. Угловое расстояние между первой и второй звездой равно $50''$, между второй и третьей звездой – $8''$. Опишите картину, которую видит наблюдатель в окуляры с фокусным расстоянием 10, 20, 40 мм. Известно, что наблюдатель видел невооруженным глазом звезды до 5 звездной величины, диаметр зрачка глаза 5 мм, разрешающая способность глаза $2'$. Яркостью фона неба пренебречь.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 2,
+     "number": 2,
+     "problem": "10.3. The centre of the Galaxy\n\nThe figure shows the vicinity of the centre of the Galaxy (Sgr A) and the observed trajectory of the motion of the star S0-2 around the centre. The dates of the measurements of the position of the star and the angular scale of the picture are marked (the length of the double-headed arrow corresponds to $0.05''$). Taking the distance to the centre of the Galaxy to be 8 kpc, estimate the mass of the central body of the Galaxy. What could be the nature of this body (its position is shown in the figure by an arrow)?\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/ru910-2006-d2-q2-1.png",
+     "paper_label": "Final – practical round (grade 10)",
+     "problem_orig": "10.3. Центр Галактики\n\nНа рисунке представлены окрестности центра Галактики (Sgr A) и наблюдаемая траектория движения звезды S0-2 вокруг центра. Отмечены даты измерений положений звезды и угловой масштаб фотографии (длина двусторонней стрелки соответствует $0.05''$). Принимая расстояние до центра Галактики равным 8 кпк, оцените массу центрального тела Галактики. Какова может быть природа этого тела (на рисунке его положение показано стрелкой)?\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/ru910-2006-d2-q2-1.png",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 1,
+     "problem": "9.1. Visibility of stars\n\nIs it possible in Saransk (latitude $+54^\\circ$) to observe Capella and Antares simultaneously? And Sirius and Vega? The declinations of Capella, Antares, Sirius and Vega are $+46^\\circ$, $-26^\\circ$, $-17^\\circ$ and $+39^\\circ$ respectively.",
+     "paper_label": "Final – theoretical round (grade 9)",
+     "problem_orig": "9.1. Видимость звезд\n\nМожно ли в Саранске (широта $+54^\\circ$) одновременно наблюдать Капеллу и Антарес? А Сириус и Вегу? Склонения Капеллы, Антареса, Сириуса и Веги равны соответственно $+46^\\circ$, $-26^\\circ$, $-17^\\circ$ и $+39^\\circ$.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 2,
+     "problem": "9.2. An artificial Earth satellite\n\nAn artificial satellite revolves around the Earth in a circular orbit. At every moment the satellite can be seen from exactly half of the surface of the Earth. Find the orbital period of the satellite. The atmospheric refraction at the horizon is $35'$; do not take atmospheric absorption into account.",
+     "paper_label": "Final – theoretical round (grade 9)",
+     "problem_orig": "9.2. Искусственный спутник Земли\n\nИскусственный спутник обращается вокруг Земли по круговой орбите. В каждый момент времени спутник можно видеть ровно с половины поверхности Земли. Найдите период обращения спутника. Атмосферная рефракция у горизонта составляет $35'$, атмосферное поглощение не учитывать.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 3,
+     "problem": "9.3. A sea voyage\n\nA seafarer wandering across the ocean along the equator at a constant speed used a clock with an alarm, running on Greenwich time, and after several days discovered that exactly at the moment of waking by the alarm bell the same star rose each time in the dark sky. In what direction and at what speed was the traveller moving?",
+     "paper_label": "Final – theoretical round (grade 9)",
+     "problem_orig": "9.3. Морское путешествие\n\nМореплаватель, странствующий по океану вдоль экватора с постоянной скоростью, использовал часы с будильником, идущие по Гринвичскому времени, и через несколько дней обнаружил, что точно в момент пробуждения по звонку будильника на темном небе каждый раз восходила одна и та же звезда. В каком направлении и с какой скоростью двигался путешественник?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 4,
+     "problem": "9.4. Culminations of planets\n\nAmateur astronomers observed the planets and found that Jupiter culminated at 6 p.m. local time at an altitude of $15^\\circ$, and Mars at 6 a.m. local time at an altitude of $62^\\circ$. In what season of the year and at what latitude were the observations made?",
+     "paper_label": "Final – theoretical round (grade 9)",
+     "problem_orig": "9.4. Кульминации планет\n\nЛюбители астрономии наблюдали планеты и обнаружили, что Юпитер кульминировал в 6 часов вечера по местному времени на высоте $15^\\circ$, а Марс – в 6 часов утра по местному времени на высоте $62^\\circ$. В какой сезон года и на какой широте проводились наблюдения?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 5,
+     "problem": "9.5. An artificial satellite of the Moon\n\nDetermine the minimum synodic period of an artificial satellite of the Moon (the interval between two successive passages of the satellite in front of the centre of the lunar disc as observed from the Earth).",
+     "paper_label": "Final – theoretical round (grade 9)",
+     "problem_orig": "9.5. Искусственный спутник Луны\n\nОпределите минимальный синодический период искусственного спутника Луны (промежуток между двумя последовательными пролетами спутника перед центром лунного диска при наблюдении с Земли).",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 6,
+     "problem": "9.6. A delayed radio source\n\nA radio astronomer noticed that the periodic signal from a source which he regularly follows arrives on 1 April and on 1 October $8^\\mathrm{m}20^\\mathrm{s}$ later than on 1 July. In which constellation is the radio source of the periodic signal located?",
+     "paper_label": "Final – theoretical round (grade 9)",
+     "problem_orig": "9.6. Запаздывающий радиоисточник\n\nРадиоастроном заметил, что периодический сигнал от источника, за которым он регулярно следит, 1 апреля и 1 октября приходит на $8^\\mathrm{м}20^\\mathrm{с}$ позже, чем 1 июля. В каком созвездии находится радиоисточник периодического сигнала?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 4,
+     "number": 1,
+     "problem": "9.1. A strange Moon\n\nThe following image of the lunar crescent (a negative) appeared on an advertising poster. At what distance from the Earth would the Moon have to be for such a picture to be possible?\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/ru910-2006-d4-q1-1.png",
+     "paper_label": "Final – practical round (grade 9)",
+     "problem_orig": "9.1. Странная Луна\n\nНа рекламном плакате появилось следующее изображение серпа Луны (негатив). На каком расстоянии от Земли должна была бы находиться Луна, чтобы такая картина была возможной?\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/ru910-2006-d4-q1-1.png",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 4,
+     "number": 2,
+     "problem": "9.3. A satellite in the Earth's sky\n\nYou are given a negative photograph of the starry sky obtained in August 2005 in the Crimea. It shows the trace of an artificial Earth satellite which had a flash of brightness during the exposure. Estimate the angle of inclination of the satellite's orbit to the plane of the Earth's orbit at the moment of the exposure. Neglect the parallactic displacement of the satellite.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/ru910-2006-d4-q2-1.png",
+     "paper_label": "Final – practical round (grade 9)",
+     "problem_orig": "9.3. Спутник в небе Земли\n\nВам выдана негативная фотография звездного неба, полученная в августе 2005 года в Крыму. На ней виден след искусственного спутника Земли, у которого в период съемки наблюдалась вспышка блеска. Оцените угол наклона орбиты спутника к плоскости орбиты Земли на момент съемки. Параллактическое смещение спутника не учитывать.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/ru910-2006-d4-q2-1.png",
+     "orig_lang": "ru"
+    }
+   ]
+  },
+  {
+   "year": 2007,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "10.1. Two culminations of a luminary\n\nA certain circumpolar luminary at its upper culmination in Saransk (latitude $+54^\\circ$) is located twice as high as at its lower culmination. What is the declination of the star? At what other latitudes can luminaries with this property be observed? Neglect atmospheric refraction.",
+     "paper_label": "Final – theoretical round (grade 10)",
+     "problem_orig": "10.1. Две кульминации светила\n\nНекоторое незаходящее светило в своей верхней кульминации в Саранске (широта $+54^\\circ$) располагается в два раза выше, чем в нижней кульминации. Чему равно склонение звезды? На каких других широтах могут наблюдаться светила, отличающиеся данным свойством? Атмосферной рефракцией пренебречь.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "10.3. A variable star behind the Sun\n\nFrom aboard an artificial Earth satellite, on 19 October at 12 hours 34 minutes Universal Time, the beginning of the occultation by the Sun of an eclipsing variable star in the constellation Virgo, whose period is exactly 38 minutes, was observed. The variable at that moment was at minimum brightness (phase equal to 0). In what phase will this variable be exactly half a year later? Take the length of the year to be 365 days 05 hours 49 minutes.",
+     "paper_label": "Final – theoretical round (grade 10)",
+     "problem_orig": "10.3. Переменная звезда за Солнцем\n\nС борта искусственного спутника Земли 19 октября в 12 часов 34 минуты по Всемирному времени наблюдалось начало покрытия Солнцем затменной переменной звезды из созвездия Девы, период которой равен ровно 38 минутам. Переменная в этот момент находилась в минимуме блеска (фаза равна 0). В какой фазе эта переменная будет находиться ровно через полгода? Длительность года считать равной 365 дням 05 часам 49 минутам.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "10.4. An explosion in a binary system\n\nA supernova outburst occurred (on star 1) in a binary system with circular orbits and component masses $M_1$ and $M_2$. What fraction of the mass must be ejected in this explosion for the system to disintegrate? Assume that the explosion occurs spherically symmetrically with respect to the centre of the exploding star, and that the shell is quickly dispersed in space.",
+     "paper_label": "Final – theoretical round (grade 10)",
+     "problem_orig": "10.4. Взрыв в двойной системе\n\nВ двойной системе с круговыми орбитами и массами компонент $M_1$ и $M_2$ произошла вспышка сверхновой (на звезде 1). Какая доля массы должна быть сброшена при этом взрыве, чтобы система распалась? Считать, что взрыв происходит сферически-симметрично относительно центра взрывающейся звезды, оболочка быстро рассеивается в космическом пространстве.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "10.5. An eclipsing system\n\nWhat maximum and minimum possible amplitude of brightness variation of an eclipsing system can be determined with modern photometric techniques, if the system consists of two stars with a surface temperature of 6000 K, one of which is a giant with an absolute stellar magnitude of $0^\\mathrm{m}$? Consider the eclipses to be central and the stars to be spherically symmetric. The accuracy of photometric measurements at present is $0.005^\\mathrm{m}$. Neglect the limb darkening of the stellar discs.",
+     "paper_label": "Final – theoretical round (grade 10)",
+     "problem_orig": "10.5. Затменная система\n\nКакую максимальную и минимальную возможную амплитуду изменения блеска затменной системы можно определить с помощью современной фотометрической техники, если система состоит из двух звезд с температурой поверхности 6000 К, одна из которых является гигантом с абсолютной звездной величиной $0^\\mathrm{m}$? Затмения считать центральными, а звезды сферически симметричными. Точность фотометрических измерений в настоящее время составляет $0.005^\\mathrm{m}$. Потемнением дисков звезд к краю пренебречь.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 2,
+     "number": 1,
+     "problem": "10.3. A rainbow\n\nYou are given a photograph with an image of a rainbow. The lens of the camera has a focal length of 7 mm. The sensor has a size of 4.5 by 6 mm. Determine the altitude of the Sun at the moment of the shot. At what altitude must the Sun be so that a rainbow of this type could no longer be seen from the ground? Neglect refraction.\n\n[The photograph is not reproduced here (its author is not credited in the paper). It is on page 5 of the official paper: http://www.astroolymp.ru/2007/files/prob2007tepr.pdf]",
+     "paper_label": "Final – practical round (grade 10)",
+     "problem_orig": "10.3. Радуга\n\nВам предоставлена фотография с изображением радуги. Объектив фотоаппарата имеет фокусное расстояние 7 мм. Матрица имеет размер 4.5 на 6 мм. Определить высоту Солнца в момент съемки. На какой высоте должно находиться Солнце, чтобы радугу этого типа увидеть с земли было уже нельзя? Рефракцией пренебречь.\n\n[Фотография здесь не воспроизводится (её автор не указан в задании). Она на странице 5 официального задания: http://www.astroolymp.ru/2007/files/prob2007tepr.pdf]",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 1,
+     "problem": "9.1. Two culminations of a luminary\n\nA certain circumpolar luminary at its upper culmination in Saransk (latitude $+54^\\circ$) is located twice as high as at its lower culmination. What is the declination of the star? Neglect atmospheric refraction.",
+     "paper_label": "Final – theoretical round (grade 9)",
+     "problem_orig": "9.1. Две кульминации светила\n\nНекоторое незаходящее светило в своей верхней кульминации в Саранске (широта $+54^\\circ$) располагается в два раза выше, чем в нижней кульминации. Чему равно склонение звезды? Атмосферной рефракцией пренебречь.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 2,
+     "problem": "9.2. \"The Mutiny of the Elsinore\"\n\n\"The Southern Cross, of course, has long been visible, for at least several weeks. The Pole Star has hidden behind the bulge of the Earth, and the Great Bear, even at its highest position, stands very low. Soon it too will hide, and we shall be approaching the Strait of Magellan.\" From this description of the starry sky in Jack London's work \"The Mutiny of the Elsinore\", determine the latitude of the sailing ship and estimate in how many days it will reach the Strait of Magellan.",
+     "paper_label": "Final – theoretical round (grade 9)",
+     "problem_orig": "9.2. \"Мятеж на Эльсиноре\"\n\n\"Южный Крест, разумеется, давно уже виден, по крайней мере, несколько недель. Полярная звезда скрылась за выпуклостью Земли, и Большая Медведица, даже при высшем своем положении, стоит очень низко. Скоро и она скроется, и мы будем подходить к Магелланову проливу\". По этому описанию звездного неба из произведения Джека Лондона \"Мятеж на \"Эльсиноре\"\", определите широту парусника и оцените, через сколько суток он достигнет Магелланова пролива.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 3,
+     "problem": "9.3. The day of the vernal equinox\n\nOn the morning of 20 March 2006 it was announced on the radio in Moscow that the length of the day would be $12^\\mathrm{h}10^\\mathrm{m}$. Where does such a discrepancy come from, since on 20 March, the day of the vernal equinox, the day should be equal to the night, and why does it amount to 10 minutes? The Sun crossed the celestial equator at $18^\\mathrm{h}23^\\mathrm{m}$ (UT). The latitude of Moscow is $55^\\circ45'$, the longitude $37^\\circ38'$.",
+     "paper_label": "Final – theoretical round (grade 9)",
+     "problem_orig": "9.3. День весеннего равноденствия\n\nУтром 20 марта 2006 года в Москве по радио объявили, что долгота дня составит $12^\\mathrm{ч}10^\\mathrm{м}$. Откуда такое несоответствие, ведь 20 марта в день весеннего равноденствия день должен быть равен ночи, и почему оно составляет 10 минут? Солнце пересекло небесный экватор в $18^\\mathrm{ч}23^\\mathrm{м}$ (UT). Широта Москвы $55^\\circ45'$, долгота $37^\\circ38'$.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 4,
+     "problem": "9.4. Collisions with the Earth\n\nWhat is the range of speeds with which dangerous cosmic bodies belonging to the Solar System can collide with the Earth? Neglect the deceleration of the bodies in the Earth's atmosphere.",
+     "paper_label": "Final – theoretical round (grade 9)",
+     "problem_orig": "9.4. Столкновения с Землей\n\nКаков диапазон скоростей, с которыми с Землей могут столкнуться опасные космические тела, принадлежащие Солнечной системе? Торможением тел в атмосфере Земли пренебречь.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 5,
+     "problem": "9.5. Configurations of planets\n\nFor an observer on the Earth, Mars is at eastern quadrature. For an observer on Mars, Mercury is at greatest eastern elongation, and Venus enters into conjunction with Mercury, being farther away than it. At what angular distance from the Sun is Venus at this moment for the terrestrial observer? Can it be observed? Consider the orbits of the planets to be circular, and neglect the inclination of the orbital planes to the ecliptic.",
+     "paper_label": "Final – theoretical round (grade 9)",
+     "problem_orig": "9.5. Конфигурации планет\n\nДля наблюдателя на Земле Марс находится в восточной квадратуре. Для наблюдателя на Марсе Меркурий находится в наибольшей восточной элонгации, а Венера вступает в соединение с Меркурием, находясь дальше него. На каком угловом расстоянии от Солнца находится в этот момент Венера для земного наблюдателя? Можно ли ее наблюдать? Орбиты планет считать круговыми, углом наклона плоскости орбит к эклиптике пренебречь.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 6,
+     "problem": "9.6. Chasing the Sun\n\nBy how many times faster must one run along the Earth's equator than along the Moon's equator in order to \"stop\" the apparent motion of the Sun across the sky?",
+     "paper_label": "Final – theoretical round (grade 9)",
+     "problem_orig": "9.6. Погоня за Солнцем\n\nВо сколько раз быстрее нужно бежать по экватору Земли, чем по экватору Луны, чтобы \"остановить\" видимое движение Солнца по небу?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 4,
+     "number": 1,
+     "problem": "9.2. An analemma\n\nThe photograph shows a so-called analemma. The Sun was photographed at one and the same local time on different days during the year 2004. The position of the horizon is shown by a line. Determine the latitude of the place from the photograph. Mark the positions of the Sun on the days of the solstices and equinoxes, and show with an arrow the direction of the Sun's movement along the analemma.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/ru910-2007-d4-q1-1.png",
+     "paper_label": "Final – practical round (grade 9)",
+     "problem_orig": "9.2. Аналемма\n\nНа фотографии изображена так называемая аналемма. Съемка Солнца производилась в одно и то же местное время в разные дни в течение 2004 года. Положение горизонта показано линией. Определите по снимку широту места. Обозначьте положения Солнца в дни солнцестояний и равноденствий, и покажите стрелкой направление перемещения Солнца вдоль аналеммы.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/ru910-2007-d4-q1-1.png",
+     "orig_lang": "ru"
+    }
+   ]
+  },
+  {
+   "year": 2008,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "10.1. A spring sunrise\n\nAt a certain point on the Earth, on the morning of 21 March the Sun detached itself from the horizon at the same point where its first ray had appeared on 20 March. Find the latitude of the observation point. Neglect atmospheric refraction.",
+     "paper_label": "Final – theoretical round (grade 10)",
+     "problem_orig": "10.1. Весенний восход Солнца\n\nВ некотором пункте Земли утром 21 марта Солнце оторвалось от горизонта в той же точке, где 20 марта появился его первый луч. Найти широту пункта наблюдения. Атмосферной рефракцией пренебречь.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "10.2. An artificial Earth satellite\n\nThe objective of a telescope has a diameter of 10 cm and a focal length of 1 m. The eyepiece has a focal length of 1 cm and an apparent field of view of 45 degrees. An artificial Earth satellite happened to be observed in this telescope, which passed through the centre of the field of view. Considering the orbit of the satellite to be circular, determine in what time it crossed the field of view, if it is known that the telescope was pointed at the zenith and the orbital period of the satellite is 1 hour 30 minutes.",
+     "paper_label": "Final – theoretical round (grade 10)",
+     "problem_orig": "10.2. Искусственный спутник Земли\n\nОбъектив телескопа имеет диаметр 10 см и фокусное расстояние 1 м. Окуляр имеет фокусное расстояние 1 см и собственное поле зрения 45 градусов. В этот телескоп случайно наблюдался искусственный спутник Земли, который прошел через центр поля зрения. Считая орбиту спутника круговой, определите, за какое время он пролетел через поле зрения, если известно, что телескоп был направлен в зенит, а период обращения спутника составляет 1 час 30 минут.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "10.3. Olympiad chronology\n\nThe ancient Greek historian Timaeus, around 264 BC, introduced a chronology counted from the first Olympiad. To denote a year it was necessary to state the number of Olympiads that had passed and the number of the year following the last Olympiad. Thus the Battle of Salamis took place in the first year after the 75th Olympiad (Ol 75.1). Calculate what year this was by the modern chronology, if the first Olympiad took place on 1 July 776 BC, and the battle itself took place at the beginning of autumn. What year by the Olympiad chronology is it now?",
+     "paper_label": "Final – theoretical round (grade 10)",
+     "problem_orig": "10.3. Олимпиадное летоисчисление\n\nДревнегреческий историк Тимей около 264 г. до н.э. ввел летоисчисление от первой олимпиады. Для обозначения года требовалось указать число прошедших олимпиад и номер года, идущего после последней олимпиады. Так, Саламинская битва произошла в первый год после 75 олимпиады (Ol 75.1). Вычислите, какой это был год по современному летоисчислению, если первая олимпиада произошла 1 июля 776 г. до н.э., а сама битва произошла в начале осени. Какой год по олимпиадному летоисчислению идет сейчас?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "10.4. Occultation of one star\n\nDetermine the maximum distance (over the surface of the Earth) between two points of our planet at which the occultation of one and the same star by the Moon can be observed simultaneously.",
+     "paper_label": "Final – theoretical round (grade 10)",
+     "problem_orig": "10.4. Покрытие одной звезды\n\nОпределите максимальное расстояние (по поверхности Земли) между двумя точками нашей планеты, в которых можно одновременно наблюдать покрытие Луной одной и той же звезды.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "10.5. The resolving power of the eye\n\nIn naked-eye observations a certain short-sighted person sees, in his glasses, stars of the 6th magnitude at the limit. Under the same conditions without glasses he sees stars of the 3rd magnitude at the limit. Estimate the resolving power of this observer's eye without glasses, if with glasses it is equal to 2 arcminutes.",
+     "paper_label": "Final – theoretical round (grade 10)",
+     "problem_orig": "10.5. Разрешающая способность глаза\n\nПри наблюдениях невооруженным глазом некий близорукий человек в своих очках видит на пределе звезды 6 звездной величины. В тех же условиях без очков он видит на пределе звезды 3 звездной величины. Оцените разрешающую способность глаза этого наблюдателя без очков, если с использованием очков она равна 2 угловым минутам.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "problem": "10.6. A binary star with a planet\n\nA binary star is at a distance of 10 pc from the Sun. The brightness of each of the components is $5^\\mathrm{m}$. The temperatures of the stars are 4000 and 6000 kelvin. A planet similar in its properties to Jupiter revolves around this pair. The line of sight makes some angle with the plane of the planet's orbit. The transit of the planet across the disc of which star will more probably be noticed, if the accuracy of the measurements of the brightness of the stars is $0.005^\\mathrm{m}$? $0.001^\\mathrm{m}$? Neglect the limb darkening of the stellar discs.",
+     "paper_label": "Final – theoretical round (grade 10)",
+     "problem_orig": "10.6. Двойная звезда с планетой\n\nДвойная звезда находится в 10 пк от Солнца. Блеск каждой из компонент составляет $5^\\mathrm{m}$. Температуры звезд равны 4000 и 6000 кельвин. Вокруг этой пары обращается планета, похожая по своим свойствам на Юпитер. Луч зрения образует некоторый угол с плоскостью орбиты планеты. Прохождение планеты по диску какой из звезд будет с большей вероятностью замечено, если точность измерений блеска звезд составляет $0.005^\\mathrm{m}$? $0.001^\\mathrm{m}$? Потемнением дисков звезд к краям пренебречь.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 2,
+     "number": 1,
+     "problem": "10.2. A lunar mountain\n\nYou are given 10 photographs of the Moon during the total eclipse of 3-4 March 2007, taken in the settlement of Nauchny (Crimea, $44.7^\\circ$ N, $34^\\circ$ E) at intervals of several seconds one after another (the Universal Time moments are indicated for each photograph). The first photograph was taken before the end of the occultation by the Moon of the star 56 Leonis, which disappeared again in the eighth photograph (arrows in the figure). Determine the minimum height of the mountain on the Moon behind which the star went in at the moment of the eighth photograph.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/ru910-2008-d2-q1-1.png",
+     "paper_label": "Final – practical round (grade 10)",
+     "problem_orig": "10.2. Лунная гора\n\nВам представлены 10 фотографий Луны во время полного затмения 3-4 марта 2007 года, сделанные в поселке Научный (Крым, $44.7^\\circ$ с.ш., $34^\\circ$ в.д.) с интервалом через несколько секунд друг после друга (моменты по Всемирному времени указаны для каждой фотографии). Первая фотография сделана перед окончанием покрытия Луной звезды 56 Льва, которая вновь исчезла на восьмой фотографии (стрелки на рисунке). Определите минимальную высоту горы на Луне, за которую зашла звезда в момент получения восьмой фотографии.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/ru910-2008-d2-q1-1.png",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 2,
+     "number": 2,
+     "problem": "10.3. Barnard's Star\n\nThe figure shows graphs of the deviation in the proper motion of Barnard's Star (a red dwarf of the main sequence) from the book by I. S. Shklovsky \"Universe. Life. Intelligence\". The scale of the graph is indicated in the upper right corner. Estimate from the graph the mass of the invisible companion of the star, if it is known that the distance to the star is 2 pc and its luminosity is 1600 times less than the solar one.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/ru910-2008-d2-q2-1.png",
+     "paper_label": "Final – practical round (grade 10)",
+     "problem_orig": "10.3. Звезда Барнарда\n\nНа рисунке приведены графики отклонения в собственном движении звезды Барнарда (красный карлик главной последовательности) из книги И.С. Шкловского \"Вселенная. Жизнь. Разум\". Масштаб графика указан в правом верхнем углу. Оцените по графику массу невидимого спутника звезды, если известно, что расстояние до звезды равно 2 пк, а ее светимость в 1600 раз меньше солнечной.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/ru910-2008-d2-q2-1.png",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 1,
+     "problem": "9.2. An artificial Earth satellite\n\nThe diameter of the field of view of a telescope is $30'$. An artificial Earth satellite happened to be observed in this telescope, which passed through the centre of the field of view. Considering the orbit of the satellite to be circular, determine in what time it crossed the field of view, if it is known that the telescope was pointed at the zenith and the orbital period of the satellite is 1 hour 30 minutes.",
+     "paper_label": "Final – theoretical round (grade 9)",
+     "problem_orig": "9.2. Искусственный спутник Земли\n\nДиаметр поля зрения телескопа составляет $30'$. В этот телескоп случайно наблюдался искусственный спутник Земли, который прошел через центр поля зрения. Считая орбиту спутника круговой, определите, за какое время он пролетел через поле зрения, если известно, что телескоп был направлен в зенит, а период обращения спутника составляет 1 час 30 минут.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 2,
+     "problem": "9.4. Occultation of two stars\n\nDetermine the maximum angular distance between two stars whose occultation by the Moon can be observed simultaneously on the Earth (at different points of it).",
+     "paper_label": "Final – theoretical round (grade 9)",
+     "problem_orig": "9.4. Покрытие двух звезд\n\nОпределите максимальное угловое расстояние между двумя звездами, покрытие которых Луной может одновременно наблюдаться на Земле (в разных ее пунктах).",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 3,
+     "problem": "9.5. A flat Earth\n\nAs an observer moves along the meridian from the city of Krasnodar (latitude $+45^\\circ$) to latitude $+55^\\circ$, the altitude of the Pole Star above the horizon increases. Within the framework of the \"flat Earth\" model, explain this phenomenon and calculate the radius of the sphere of fixed stars, assuming that Krasnodar is exactly at its centre. Take the position of the Pole Star to coincide with the North Celestial Pole.",
+     "paper_label": "Final – theoretical round (grade 9)",
+     "problem_orig": "9.5. Плоская Земля\n\nПри движении наблюдателя вдоль меридиана от города Краснодар (широта $+45^\\circ$) до широты $+55^\\circ$ высота Полярной звезды над горизонтом увеличивается. В рамках модели \"плоской Земли\" объясните это явление и вычислите радиус сферы неподвижных звезд, считая, что Краснодар находится точно в ее центре. Принять, что положение Полярной звезды совпадает с Северным Полюсом мира.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 4,
+     "problem": "9.6. Short-period comets\n\nIt is known that comets move onto elliptical orbits with a short period as a result of gravitational interaction with the giant planets. Proceeding from this, find the minimum value of the orbital period of a comet.",
+     "paper_label": "Final – theoretical round (grade 9)",
+     "problem_orig": "9.6. Короткопериодические кометы\n\nИзвестно, что кометы переходят на эллиптические орбиты с малым периодом в результате гравитационного взаимодействия с планетами-гигантами. Исходя из этого, найдите минимальное значение орбитального периода кометы.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 4,
+     "number": 1,
+     "problem": "9.1. Venus and the Pleiades\n\nThe star chart shows the apparent path of Venus among the stars not far from the star cluster the Pleiades (constellation Taurus) during one month. Determine in what season of the year (to within a month) such a picture could be observed. Will this approach of Venus and the Pleiades be visible in the middle belt of Russia in a dark sky, and if so, at what time of day? Is it possible to observe from the Earth a transit of Venus across the disc of the Sun in that year, before or after the approach to the Pleiades?\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/ru910-2008-d4-q1-1.png",
+     "paper_label": "Final – practical round (grade 9)",
+     "problem_orig": "9.1. Венера и Плеяды\n\nНа звездной карте показан видимый путь Венеры среди звезд неподалеку от звездного скопления Плеяды (созвездие Тельца) в течение месяца. Определите, в какой сезон года (с точностью до месяца) могла наблюдаться такая картина. Будет ли это сближение Венеры и Плеяд видно в средней полосе России на темном небе, и если да, то в какое время суток? Возможно ли наблюдать с Земли прохождение Венеры по диску Солнца в данный год, до или после сближения с Плеядами?\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/ru910-2008-d4-q1-1.png",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 4,
+     "number": 2,
+     "problem": "9.3. A sundial\n\nThe photograph shows a horizontal sundial. The role of the vertical object casting the shadow is played by the person himself who wants to know the time. For this he must stand on the axis of the clock at the position corresponding to the date of observation. Determine the latitude of the place where this sundial is installed.\n\n[The photograph is not reproduced here (its author is not credited in the paper). It is on page 5 of the official paper: http://www.astroolymp.ru/2008/files/prob2008tepr.pdf]",
+     "paper_label": "Final – practical round (grade 9)",
+     "problem_orig": "9.3. Солнечные часы\n\nНа фотографии представлены горизонтальные солнечные часы. Роль вертикального предмета, отбрасывающего тень, исполняет сам человек, желающий узнать время. Для этого он должен встать на ось часов в положение, соответствующее дате наблюдения. Определите широту места, где установлены эти солнечные часы.\n\n[Фотография здесь не воспроизводится (её автор не указан в задании). Она на странице 5 официального задания: http://www.astroolymp.ru/2008/files/prob2008tepr.pdf]",
+     "orig_lang": "ru"
+    }
+   ]
+  },
+  {
+   "year": 2009,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "10.1. Culminations of stars\n\nThe declination of star $A$ is twice the declination of star $B$. At what latitude will the upper culminations of these stars occur on the same almucantar, if the lower culmination of star $A$ occurs on the horizon? Neglect refraction. The observations are made in the northern hemisphere far from the pole.",
+     "paper_label": "Final – theoretical round (grade 10)",
+     "problem_orig": "10.1. Кульминации звезд\n\nСклонение звезды $A$ больше склонения звезды $B$ в два раза. На какой широте верхняя кульминация этих звезд будет происходить на одном альмукантарате, если нижняя кульминация звезды $A$ происходит на горизонте? Рефракцией пренебречь. Наблюдения проводятся в северном полушарии вдали от полюса.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "10.2. Approaching a triple system\n\nA visually triple star consists of stars with apparent stellar magnitudes $6^\\mathrm{m}$, $7^\\mathrm{m}$, $8^\\mathrm{m}$. The distances to the stars are 10, 15 and 20 pc respectively. An observer has flown 5 pc towards this triple star. Determine the total brightness of this system for the observer after the flight.",
+     "paper_label": "Final – theoretical round (grade 10)",
+     "problem_orig": "10.2. Приближение к тройной системе\n\nВизуально тройная звезда состоит из звезд с видимыми звездными величинами $6^\\mathrm{m}$, $7^\\mathrm{m}$, $8^\\mathrm{m}$. Расстояния до звезд оставляют 10, 15 и 20 пк соответственно. Наблюдатель пролетел 5 пк в сторону этой тройной звезды. Определите суммарный блеск этой системы для наблюдателя после перелета.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "10.4. Space football\n\nHalf of the spherical surface of an asteroid with a radius of 1 km and a density of 3 g/cm$^3$ is equipped as a large football pitch. Goals 7 m wide and 3 m high are set up at the poles of the asteroid. The ball lies on the line of one goal exactly at its middle. Within what range must the direction and magnitude of the velocity lie that must be given to the ball so that, after a horizontal kick, it hits the opposite goal without touching the surface of the asteroid in flight? Neglect the rotation of the asteroid.",
+     "paper_label": "Final – theoretical round (grade 10)",
+     "problem_orig": "10.4. Космический футбол\n\nПоловина сферической поверхности астероида с радиусом 1 км и плотностью 3 г/см$^3$ оборудована под большое футбольное поле. Ворота шириной 7 м и высотой 3 м установлены на полюсах астероида. Мяч находится на линии одних ворот точно в ее середине. В каком интервале должны находиться направление и величина скорости, которые нужно задать мячу, чтобы после горизонтального удара он попал в противоположные ворота, не касаясь в полете поверхности астероида? Вращением астероида пренебречь.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 2,
+     "number": 1,
+     "problem": "10.2. A lunar peak\n\nThe figure shows an image of the Moon. Determine the height of the mountain marked with the digit 1 (visible to the right of the terminator). The selenographic coordinates of the centres of craters No. 2 and No. 3 are respectively $\\lambda_2 = 1^\\circ10'$, $\\beta_2 = 0^\\circ20'$ and $\\lambda_3 = 2^\\circ40'$, $\\beta_3 = -10^\\circ15'$. Estimate the error with which the height of the mountain has been determined.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/ru910-2009-d2-q1-1.png",
+     "paper_label": "Final – practical round (grade 10)",
+     "problem_orig": "10.2. Лунная вершина\n\nНа рисунке показан снимок Луны. Определите высоту горы, обозначенной цифрой 1 (видна справа от терминатора). Селенографические координаты центров кратеров №2 и №3 соответственно равны $\\lambda_2 = 1^\\circ10'$, $\\beta_2 = 0^\\circ20'$ и $\\lambda_3 = 2^\\circ40'$, $\\beta_3 = -10^\\circ15'$. Оцените погрешность, с которой определена высота горы.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/ru910-2009-d2-q1-1.png",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 2,
+     "number": 2,
+     "problem": "10.3. Night in broad daylight\n\nThe table gives the results of measurements of the brightness of the sky background at the zenith (stellar magnitudes of 1 square second) before the beginning and during the total phase of the solar eclipse of 1 August 2008 in Novosibirsk. The values of the eclipse phase and (for the partial phases) the dimming of the Sun in stellar magnitudes are also given. Using these data, conclude whether the scattered light from the solar corona is the main factor forming the glow of the sky during a total solar eclipse. Assume that in brightness the solar corona is close to the full Moon.\n\n$$\\begin{array}{|c|c|c|c|}\\hline \\text{Time, UT} & \\text{Sky background brightness, }m\\text{} & \\text{Eclipse phase} & \\text{Dimming of the Sun, }m\\text{} \\\\ \\hline\n10.40 & 7.14 & 0.935 & 3.93 \\\\\n10.41 & 7.39 & 0.952 & 4.36 \\\\\n10.42 & 7.83 & 0.969 & 4.99 \\\\\n10.43 & 8.09 & 0.986 & 6.17 \\\\\n10.44 & 12.55 & 1.003 & – \\\\\n10.45 & 12.40 & 1.019 & – \\\\ \\hline \\end{array}$$",
+     "paper_label": "Final – practical round (grade 10)",
+     "problem_orig": "10.3. Ночь средь бела дня\n\nВ таблице приведены результаты измерений яркости фона неба в зените (звездные величины 1 квадратной секунды) перед началом и во время полной фазы солнечного затмения 1 августа 2008 года в Новосибирске. Приведены также значения фазы затмения и (для частных фаз) ослабления Солнца в звездных величинах. Пользуясь этими данными, сделайте вывод, является ли засветка от солнечной короны основным фактором, формирующим свечение неба во время полного солнечного затмения. Считать, что по своей яркости солнечная корона близка к полной Луне.\n\n$$\\begin{array}{|c|c|c|c|}\\hline \\text{Время, UT} & \\text{Яркость фона неба, }m\\text{} & \\text{Фаза затмения} & \\text{Ослабление Солнца, }m\\text{} \\\\ \\hline\n10.40 & 7.14 & 0.935 & 3.93 \\\\\n10.41 & 7.39 & 0.952 & 4.36 \\\\\n10.42 & 7.83 & 0.969 & 4.99 \\\\\n10.43 & 8.09 & 0.986 & 6.17 \\\\\n10.44 & 12.55 & 1.003 & – \\\\\n10.45 & 12.40 & 1.019 & – \\\\ \\hline \\end{array}$$",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 1,
+     "problem": "9.2. The plane of the ecliptic\n\nDetermine the maximum and minimum distance (in km) of the city of Anapa (latitude $+45^\\circ$) from the plane of the ecliptic.",
+     "paper_label": "Final – theoretical round (grade 9)",
+     "problem_orig": "9.2. Плоскость эклиптики\n\nОпределите максимальное и минимальное расстояние (в км) города Анапа (широта $+45^\\circ$) от плоскости эклиптики.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 2,
+     "problem": "9.5. An annular-total eclipse\n\nAn annular-total solar eclipse begins on the Earth. At the beginning of the path of the central eclipse on the Earth's surface an annular eclipse lasting 20 seconds is observed. At what altitude above the horizon on the Earth will the beginning of the total eclipse be observed (a central total eclipse with a phase exactly equal to one)? Neglect refraction.",
+     "paper_label": "Final – theoretical round (grade 9)",
+     "problem_orig": "9.5. Кольцеобразно-полное затмение\n\nНа Земле начинается кольцеобразно-полное солнечное затмение. В начале полосы центрального затмения на поверхности Земли наблюдается кольцеобразное затмение продолжительностью 20 секунд. На какой высоте над горизонтом на Земле будет наблюдаться начало полного затмения (центральное полное затмение с фазой, в точности равной единице)? Рефракцией пренебречь.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 3,
+     "problem": "9.6. An unfamiliar sky\n\nAstronauts arrived on the surface of an inhabited planet. Observing the starry sky, they discovered a natural satellite of this planet, and also another planet located closer to the central star. The synodic periods of the satellite and the planet coincided, and the sidereal period of the planet was half the sidereal period of the satellite. By what factor was the inner planet closer to the star than the planet from which the observations were made? All orbits in the system are circular and lie in one plane.",
+     "paper_label": "Final – theoretical round (grade 9)",
+     "problem_orig": "9.6. Незнакомое небо\n\nАстронавты прибыли на поверхность обитаемой планеты. Наблюдая звездное небо, они обнаружили естественный спутник этой планеты, а также еще одну планету, расположенную ближе к центральной звезде. Синодические периоды спутника и планеты совпадали, а сидерический период планеты был вдвое меньше сидерического периода спутника. Во сколько раз внутренняя планета располагалась ближе к звезде, чем планета, с которой велись наблюдения? Все орбиты в системе круговые и лежат в одной плоскости.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 4,
+     "number": 1,
+     "problem": "9.1. A flight to the stars\n\nDirectly along the course of a starship lies a visually double star with an angular separation between the stars of $1'$. The distance from the starship to the first star of this pair is 2 pc, to the second 3 pc. The starship flies between these stars. Draw a schematic graph of the change with time, over the next 30 years, of the angular distance between the stars as seen from the starship flying at a speed of 0.5 of the speed of light, assuming the stars to be stationary. Neglect the influence of the stars on the motion of the starship. All measurements are made in the reference frame attached to the starship. Do not take relativistic effects into account.",
+     "paper_label": "Final – practical round (grade 9)",
+     "problem_orig": "9.1. Полет к звездам\n\nПрямо по курсу звездолета находится визуально двойная звезда с угловым расстоянием между звездами $1'$. Расстояние от звездолета до первой звезды этой пары составляет 2 пк, до второй – 3 пк. Звездолет летит между этими звездами. Нарисуйте схематический график изменения углового расстояния между звездами, видимого со звездолета, летящего со скоростью в 0.5 скорости света, со временем на ближайшие 30 лет, считая звезды неподвижными. Влиянием звезд на движение звездолета пренебречь. Все измерения сделаны в системе отсчета, связанной со звездолетом. Релятивистские эффекты не учитывать.",
+     "orig_lang": "ru"
+    }
+   ]
+  },
+  {
+   "year": 2010,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "10.2. Two stars – the northern hemisphere\n\nThe north polar distance of star $A$ is equal to the declination of star $B$. The upper culmination of star $B$ occurs at the same altitude as the lower culmination of star $A$. At what latitude in the northern hemisphere is the observer, if at the upper culmination of star $A$ its zenith distance is a quarter of its declination?",
+     "paper_label": "Final – theoretical round (grade 10)",
+     "problem_orig": "10.2. Две звезды – северное полушарие\n\nСеверное полярное расстояние звезды $A$ равно склонению звезды $B$. Верхняя кульминация звезды $B$ происходит на той же высоте, что и нижняя кульминация звезды $A$. На какой широте в северном полушарии находится наблюдатель, если во время верхней кульминации звезды $A$ ее зенитное расстояние составляет четверть ее склонения?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "10.3. Two calendars\n\nWhen did the beginning of the new year last coincide in the Gregorian and Julian calendars? When may such a coincidence happen again? Assume that the beginning of the year always fell and will always fall on 1 January, and that the calendars were and will be in use in the years sought.",
+     "paper_label": "Final – theoretical round (grade 10)",
+     "problem_orig": "10.3. Два календаря\n\nКогда в последний раз совпадало начало нового года в Григорианском и Юлианском календарях? Когда такое совпадение может случиться снова? Считать, что начало года всегда приходилось и будет приходиться на 1 января, а календари использовались и будут использоваться в искомые годы.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "10.5. \"Apollo 11\"\n\nIn July 1969 the American astronauts Neil Armstrong and Edwin Aldrin made a landing on the surface of the Moon and spent 21 hours 36 minutes on it. How many times could they go onto direct communication (without the participation of the Earth) with the third member of the crew, John Collins, and what could be the maximum duration of each session? Collins was in the command module, which was revolving around the Moon in a circular orbit passing above the landing site of Armstrong and Aldrin at an altitude of 111 km. Neglect the orbital and axial rotation of the Moon.",
+     "paper_label": "Final – theoretical round (grade 10)",
+     "problem_orig": "10.5. \"Аполлон-11\"\n\nВ июле 1969 года американские астронавты Нил Армстронг и Эдвин Олдрин совершили посадку на поверхность Луны и провели на ней 21 час 36 минут. Сколько раз они могли выходить на прямую связь (без участия Земли) с третьим членом экипажа Джоном Коллинзом, и какова могла быть максимальная длительность каждого сеанса? Коллинз находился в командном модуле, обращающимся вокруг Луны по круговой орбите, проходящей над местом прилунения Армстронга и Олдрина на высоте 111 км. Орбитальное и осевое вращение Луны не учитывать.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "10.6. A pulsating variable star\n\nA pulsating variable star changes its characteristics in such a way that the ratio of the thermal velocity and the second cosmic velocity (escape velocity) of the matter at the surface of the star remains constant. Find the ratio of the sizes of the star at maximum and at minimum brightness, if it is known that the amplitude of the brightness variation is $1^\\mathrm{m}$. Consider the matter of the surface of the star to be un-ionized and in thermodynamic equilibrium.",
+     "paper_label": "Final – theoretical round (grade 10)",
+     "problem_orig": "10.6. Пульсирующая переменная звезда\n\nПульсирующая переменная звезда изменяет свои характеристики так, что отношение тепловой и второй космической скорости вещества на поверхности звезды остается постоянным. Найдите соотношение размеров звезды в максимуме и минимуме яркости, если известно, что амплитуда изменений блеска составляет $1^\\mathrm{m}$. Вещество поверхности звезды считать неионизованным и находящимся в термодинамическом равновесии.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 2,
+     "number": 1,
+     "problem": "10.1. A Newtonian telescope\n\nDraw the optical layout (to a scale of 1:4) of a Newtonian telescope with the following characteristics:\n\nPrimary mirror – diameter 200 mm;\n\nFocal length – 1 m;\n\nDiagonal mirror – length of the minor axis 50 mm;\n\nTube – diameter 240 mm, neglect the thickness of the tube;\n\nLength of the tube from the vertex of the primary mirror – 900 mm;\n\nBack focus (the distance from the surface of the tube to the focal point) – 100 mm.\n\nDraw the path of the rays for a star located on the optical axis of the telescope. Calculate the image scale in the focal plane and determine the linear and angular diameter of the field of view unvignetted (not shaded) by the tube. Indicate on the layout all the dimensions used in constructing it.",
+     "paper_label": "Final – practical round (grade 10)",
+     "problem_orig": "10.1. Телескоп системы Ньютона\n\nНарисуйте оптическую схему (в масштабе 1:4) телескопа Ньютона со следующими характеристиками:\n\nГлавное зеркало – диаметр 200 мм;\n\nФокусное расстояние – 1 м;\n\nДиагональное зеркало – длина малой оси 50 мм;\n\nТруба – диаметр 240 мм, толщиной трубы пренебречь;\n\nДлина трубы от вершины главного зеркала – 900 мм;\n\nВынос фокуса (расстояние от поверхности трубы до точки фокуса) – 100 мм.\n\nНарисуйте ход лучей для звезды, находящейся на оптической оси телескопа. Вычислите масштаб изображения в фокальной плоскости, определите линейный и угловой диаметр невиньетированного (незатененного) трубой поля зрения. Укажите на схеме все размеры, использованные при ее построении.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 2,
+     "number": 2,
+     "problem": "10.3. A meteor shower\n\nIn Anapa (latitude $+45^\\circ$) a strong outburst of a meteor shower is observed, lasting about an hour. In the middle of it the radiant of the shower, located on the celestial equator, passes the point of upper culmination. The observer records meteors belonging to the shower and appearing in a narrow strip (width $10^\\circ$) along the celestial meridian from north to south at an altitude of more than $20^\\circ$. In 20 minutes of observation near the maximum of the outburst he noticed 500 such meteors.\n\nDraw a graph of the number of recorded meteors as a function of the position of the point where they flare up on the meridian, with an interval of $10^\\circ$ (zenith distance from $0^\\circ$ to $10^\\circ$, from $10^\\circ$ to $20^\\circ$, ..., from $60^\\circ$ to $70^\\circ$ in the north and in the south).\n\nAssume that the limiting magnitude of the meteor observer is the same over the whole meridian, does not depend on the angular velocity of the meteors and is $4^\\mathrm{m}$. Assume that all meteors flare up at an altitude of 100 km in the Earth's atmosphere, and that their brightness distribution corresponds to an index of 2.512 (in each region of the sky there are 2.512 times more meteors brighter than $2^\\mathrm{m}$ than meteors brighter than $1^\\mathrm{m}$, 2.512 times more meteors brighter than $3^\\mathrm{m}$ than meteors brighter than $2^\\mathrm{m}$, and so on). Neglect the atmospheric absorption of light.",
+     "paper_label": "Final – practical round (grade 10)",
+     "problem_orig": "10.3. Метеорный ливень\n\nВ Анапе (широта $+45^\\circ$) наблюдается сильная вспышка метеорного дождя, продолжающаяся около часа. В ее середине радиант потока, находящийся на небесном экваторе, проходит точку верхней кульминации. Наблюдатель регистрирует метеоры, относящиеся к потоку и появляющиеся в узкой полосе (ширина $10^\\circ$) вдоль небесного меридиана от севера до юга на высоте более $20^\\circ$. За 20 минут наблюдений вблизи максимума вспышки он заметил 500 таких метеоров.\n\nНарисуйте график количества зафиксированных метеоров от положения точки возгорания на меридиане с интервалом в $10^\\circ$ (зенитное расстояние от $0^\\circ$ до $10^\\circ$, от $10^\\circ$ до $20^\\circ$, ... , от $60^\\circ$ до $70^\\circ$ на севере и юге).\n\nСчитать, что проницающая способность наблюдателя метеоров одинакова по всему меридиану, не зависит от угловой скорости метеоров и составляет $4^\\mathrm{m}$. Принять, что все метеоры загораются на высоте 100 км в атмосфере Земли, а их распределение по яркости соответствует индексу 2.512 (в каждом участке неба метеоров ярче $2^\\mathrm{m}$ в 2.512 раза больше, чем метеоров ярче $1^\\mathrm{m}$, метеоров ярче $3^\\mathrm{m}$ – в 2.512 раза больше, чем метеоров ярче $2^\\mathrm{m}$ и так далее). Атмосферным поглощением света пренебречь.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 1,
+     "problem": "9.2. Two stars – Russia\n\nThe north polar distance of star $A$ is equal to the declination of star $B$. The upper culmination of star $B$ occurs at the same altitude as the lower culmination of star $A$. Will star $B$ be visible during its lower culmination if the observer is in the middle belt of Russia?",
+     "paper_label": "Final – theoretical round (grade 9)",
+     "problem_orig": "9.2. Две звезды – Россия\n\nСеверное полярное расстояние звезды $A$ равно склонению звезды $B$. Верхняя кульминация звезды $B$ происходит на той же высоте, что и нижняя кульминация звезды $A$. Будет ли видно звезду $B$ во время ее нижней кульминации, если наблюдатель находится в средней полосе России?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 2,
+     "problem": "9.4. Mercury\n\nA horizontal sundial has been installed at the north pole of Mercury. Within what limits will the angular velocity (in degrees per Earth day) of the shadow of the vertical post of this clock vary? Can such a clock give reliable information about the time? Mercury moves around the Sun in an elliptical orbit with an eccentricity of 0.205 and an orbital period of 88 days. It makes a revolution about its axis in 2/3 of the orbital period, in the same direction. The plane of Mercury's equator coincides with the plane of its orbit; do not take the relief of the planet into account.",
+     "paper_label": "Final – theoretical round (grade 9)",
+     "problem_orig": "9.4. Меркурий\n\nНа северном полюсе Меркурия установили горизонтальные солнечные часы. В каких пределах будет меняться угловая скорость (в градусах за земные сутки) тени от вертикального столба этих часов? Могут ли такие часы дать достоверную информацию о времени? Меркурий движется вокруг Солнца по эллиптической орбите с эксцентриситетом 0.205 и орбитальным периодом 88 дней. Оборот вокруг оси Меркурий совершает за 2/3 орбитального периода в том же направлении. Плоскость экватора Меркурия совпадает с плоскостью его орбиты, рельеф планеты не учитывать.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 3,
+     "problem": "9.6. A globular cluster\n\nA globular cluster has an apparent diameter of $18.8'$, and within it the surface brightness exceeds the brightness of the surrounding sky background by 40%. Determine the integrated stellar magnitude of the cluster, if the brightness of 1 square second of the sky background corresponds to a star of $21^\\mathrm{m}$.",
+     "paper_label": "Final – theoretical round (grade 9)",
+     "problem_orig": "9.6. Шаровое скопление\n\nШаровое скопление имеет видимый диаметр $18.8'$, в его пределах поверхностная яркость на 40% превосходит яркость окружающего фона неба. Определите интегральную звездную величину скопления, если яркость 1 квадратной секунды фона неба соответствует звезде $21^\\mathrm{m}$.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 4,
+     "number": 1,
+     "problem": "9.2. The far side of the Moon\n\nYou are given a photograph taken from aboard a space station flying near the far side of the Moon. With what minimum speed (relative to the Moon) must this craft fly in order subsequently, without additional expenditure of energy, to leave the Earth–Moon system? Consider the orbit of the Moon to be circular.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/ru910-2010-d4-q1-1.png",
+     "paper_label": "Final – practical round (grade 9)",
+     "problem_orig": "9.2. Обратная сторона Луны\n\nВам предложена фотография, сделанная с борта космической станции, пролетающей вблизи обратной стороны Луны. С какой минимальной скоростью (относительно Луны) должен лететь этот аппарат, чтобы впоследствии без дополнительных затрат энергии покинуть систему Земля-Луна? Орбиту Луны считать круговой.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/ru910-2010-d4-q1-1.png",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 4,
+     "number": 2,
+     "problem": "9.3. The world of galaxies\n\nYou are given photographs of ten galaxies. Determine to which morphological class each of the galaxies belongs.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/ru910-2010-d4-q2-1.png",
+     "paper_label": "Final – practical round (grade 9)",
+     "problem_orig": "9.3. Мир галактик\n\nВам предоставлены фотографии десяти галактик. Определите, к какому морфологическому классу принадлежит каждая из галактик.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/ru910-2010-d4-q2-1.png",
+     "orig_lang": "ru"
+    }
+   ]
+  },
+  {
    "year": 2011,
    "problems": [
     {
