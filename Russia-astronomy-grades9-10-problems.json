@@ -2,6 +2,893 @@
  "competition": "All-Russian Astronomy Olympiad — final stage, grades 9 and 10",
  "years": [
   {
+   "year": 1994,
+   "problems": [
+    {
+     "day": 3,
+     "number": 1,
+     "problem": "1. Why are the longest solar eclipses observed in tropical countries?",
+     "paper_label": "Final – theoretical round (grades 8–9)",
+     "problem_orig": "1. Почему самые продолжительные солнечные затмения наблюдаются в тропических странах?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 2,
+     "problem": "2. The 12 signs of the Zodiac have equal extent along the ecliptic. In which of them is the Sun for the shortest time?",
+     "paper_label": "Final – theoretical round (grades 8–9)",
+     "problem_orig": "2. 12 знаков Зодиака имеют одинаковую протяженность по эклиптике. В каком из них Солнце находится наименьшее время?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 3,
+     "problem": "3. Halley's comet revolves around the Sun in 76 years, and the planet Neptune in 165 years. Which of them is farther from the Sun at the aphelion point of its orbit?",
+     "paper_label": "Final – theoretical round (grades 8–9)",
+     "problem_orig": "3. Комета Галлея обращается вокруг Солнца за 76 лет, а планета Нептун за 165 лет. Кто из них более удален от Солнца в точке афелия своей орбиты?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 4,
+     "problem": "4. Why is the surface of the young Moon not illuminated by the Sun clearly visible (the ashen light of the Moon), whereas at the moment of a solar eclipse it is not visible?",
+     "paper_label": "Final – theoretical round (grades 8–9)",
+     "problem_orig": "4. Почему у молодой Луны хорошо видна не освещенная Солнцем поверхность (пепельный свет Луны), а в момент солнечного затмения она не видна?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 5,
+     "problem": "5. From a star of $0^\\mathrm{m}$ about 1 million photons per second fall on one square centimetre of the Earth's surface. How many photons will fall on a photographic plate from a star of $20^\\mathrm{m}$ in 1 hour, if the diameter of the telescope objective is 1 m?",
+     "paper_label": "Final – theoretical round (grades 8–9)",
+     "problem_orig": "5. От звезды $0^\\mathrm{m}$ на один сантиметр земной поверхности падает около 1 млн. фотонов в секунду. Сколько фотонов попадет на фотопластинку от звезды $20^\\mathrm{m}$ за 1 час, если диаметр объектива телескопа 1 м?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 6,
+     "problem": "6. Having approached an unfamiliar planet and switched off the engines, a spacecraft entered a circular orbit. Can the cosmonauts, using only the on-board clock, determine the mean density of the matter of the planet being studied?",
+     "paper_label": "Final – theoretical round (grades 8–9)",
+     "problem_orig": "6. Подлетев к незнакомой планете и выключив двигатели, космический корабль вышел на круговую орбиту. Могут ли космонавты, используя только бортовые часы, определить среднюю плотность вещества исследуемой планеты?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 4,
+     "number": 1,
+     "problem": "1. A comet has been discovered whose orbit at perihelion and aphelion touches the orbits of the Earth and Mars. What can be said about this comet: orbital period, speed of encounter with the planets, whether the orbit is stable, conditions of observation, etc.",
+     "paper_label": "Final – creative round (grades 8–9)",
+     "problem_orig": "1. Обнаружена комета, орбита которой в перигелии и афелии касается орбит Земли и Марса. Что можно сказать об этой комете: орбитальный период, скорость встречи с планетами, устойчива ли орбита, условия наблюдения и т.п.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 4,
+     "number": 2,
+     "problem": "2. You are asked to make a telescope for visual observation of the Moon and planets using only one lens. Will you undertake this task? If yes, what lens will you order (state the size and the focal length)? What will then be the characteristics of your telescope: magnification, field of view?",
+     "paper_label": "Final – creative round (grades 8–9)",
+     "problem_orig": "2. Вам предложено сделать телескоп для визуального наблюдения Луны и планет, используя при этом лишь одну линзу. Возьметесь ли вы за это задание? Если да, то какую линзу закажите (укажите размер и фокусное расстояние). Каковы при этом будут характеристики вашего телескопа: увеличение, поле зрения?",
+     "orig_lang": "ru"
+    }
+   ]
+  },
+  {
+   "year": 1995,
+   "problems": [
+    {
+     "day": 3,
+     "number": 1,
+     "problem": "1. At what time of day does the greatest amount of meteoric matter fall, on average, on a given region of the Earth's surface (for example, the Ryazan region)?",
+     "paper_label": "Final – theoretical round (grades 8–9)",
+     "problem_orig": "1. В какое время суток на данную область земной поверхности (например, Рязанскую область) в среднем выпадает больше метеорного вещества?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 2,
+     "problem": "2. At what latitude $\\varphi$ can the observatory \"Medved\" be located, if the altitudes of a certain luminary at upper and lower culmination are $h_1 = 86^\\circ14'$ and $h_2 = 43^\\circ32'$?",
+     "paper_label": "Final – theoretical round (grades 8–9)",
+     "problem_orig": "2. На какой широте $\\varphi$ может находиться обсерватория \"Медведь\", если высоты некоторого светила в верхней и нижней кульминациях составляют $h_1 = 86^\\circ14'$ и $h_2 = 43^\\circ32'$.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 3,
+     "problem": "3. From which planet can the longest total eclipse of the Sun be observed? The parameters of the largest satellites of various planets are given in the table.\n\n$$\\begin{array}{|l|r|r|r|}\\hline & R_\\mathrm{sat}\\ (\\mathrm{km}) & R_\\mathrm{orb}\\ (\\text{thousand km}) & T_\\mathrm{sat}\\ (\\text{days}) \\\\ \\hline \\text{Moon} & 1738 & 384 & 27.3 \\\\ \\text{Callisto} & 2400 & 1880 & 16.7 \\\\ \\text{Titan} & 2575 & 1222 & 16.0 \\\\ \\text{Oberon} & 815 & 581 & 13.5 \\\\ \\text{Triton} & 1600 & 395 & 5.8 \\\\ \\text{Nereid} & 100 & 6212 & 358 \\\\ \\text{Charon} & 630 & 19.6 & 6.4 \\\\ \\hline \\end{array}$$",
+     "paper_label": "Final – theoretical round (grades 8–9)",
+     "problem_orig": "3. С какой планеты можно наблюдать наиболее продолжительное полное затмение Солнца? Параметры самых больших спутников различных планет даны в таблице.\n\n$$\\begin{array}{|l|r|r|r|}\\hline & R_\\mathrm{спутн}\\ (\\mathrm{км}) & R_\\mathrm{орб.}\\ (\\text{тыс. км}) & T_\\mathrm{спутн}\\ (\\text{сут}) \\\\ \\hline \\text{Луна} & 1738 & 384 & 27{,}3 \\\\ \\text{Каллисто} & 2400 & 1880 & 16{,}7 \\\\ \\text{Титан} & 2575 & 1222 & 16{,}0 \\\\ \\text{Оберон} & 815 & 581 & 13{,}5 \\\\ \\text{Тритон} & 1600 & 395 & 5{,}8 \\\\ \\text{Нереида} & 100 & 6212 & 358 \\\\ \\text{Харон} & 630 & 19{,}6 & 6{,}4 \\\\ \\hline \\end{array}$$",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 4,
+     "problem": "5. Estimate to what maximum altitude $h$ above the horizon the Sun will rise today in Ryazan. At what time will this happen? The geographical latitude of Ryazan is $\\varphi = 54^\\circ37'$ N, the longitude $\\lambda = 39^\\circ44'$ E.",
+     "paper_label": "Final – theoretical round (grades 8–9)",
+     "problem_orig": "5. Оцените, на какую максимальную высоту $h$ над горизонтом поднимется сегодня в Рязани Солнце. В какое время это произойдёт? Географическая широта Рязани $\\varphi = 54^\\circ37'$ с.ш., долгота $\\lambda = 39^\\circ44'$ в.д.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 4,
+     "number": 1,
+     "problem": "Propose a well-founded project for protecting the Earth from asteroids and other celestial bodies dangerous to the inhabitants of the Earth.",
+     "paper_label": "Final – creative round (grades 8–9)",
+     "problem_orig": "Предложите обоснованный проект защиты Земли от астероидов и других опасных для жителей Земли небесных тел.",
+     "orig_lang": "ru"
+    }
+   ]
+  },
+  {
+   "year": 1996,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "2. You are given the data on comet Hyakutake 1996 B2 (a file from the Internet). How can the contradiction in the table be explained: on the one hand, according to the calculated eccentricity the orbit of the comet is hyperbolic; on the other hand, the period of its revolution around the Sun has been calculated, which indicates an elliptical orbit.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/ruao-1996-d1-q2-1.png",
+     "paper_label": "Final – theoretical round (grade 10)",
+     "problem_orig": "2. Вам даны данные о комете Hyakutake 1996 В2 (файл из сети Internet): Как объяснить имеющееся в таблице противоречие: с одной стороны, согласно вычисленному эксцентриситету, орбита кометы является гиперболической; с другой же, — вычислен период её обращения вокруг Солнца, что говорит об эллиптической орбите.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/ruao-1996-d1-q2-1.png",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "4. Find the minimum possible period of revolution of a fireproof spacecraft around the Sun (in days), knowing that the angular size of the Sun seen from the Earth is $\\alpha = 9.3\\cdot10^{-3}$ rad.",
+     "paper_label": "Final – theoretical round (grade 10)",
+     "problem_orig": "4. Найти минимально возможный период обращения несгораемого космического корабля вокруг Солнца (в сутках), зная, что видимый с Земли угловой размер Солнца равен $\\alpha = 9{,}3\\cdot10^{-3}$ рад.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "5. As is known, the solar day lengthens by 0.0017 second per century. Estimate what error we shall make in calculating the observation of the solar eclipse of the year 2004 BC if we consider the day to be unchanged (equal in length to today's).",
+     "paper_label": "Final – theoretical round (grade 10)",
+     "problem_orig": "5. Как известно, солнечные сутки удлиняются на $0{,}0017$ секунды за столетие. Оцените, какую ошибку мы сделаем при вычислении наблюдения солнечного затмения в 2004 году до нашей эры, будем считать сутки неизменными (равными по продолжительности сегодняшним).",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 1,
+     "problem": "1. You are given the data on comet Hyakutake 1996 B2 (a file from the Internet). Using the necessary data, explain why the expected stellar magnitude of the comet has two minima, that is, first decreases, then increases, then decreases again and increases again?\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/ruao-1996-d1-q2-1.png",
+     "paper_label": "Final – theoretical round (grades 8–9)",
+     "problem_orig": "1. Вам даны данные о комете Hyakutake 1996 В2 (файл из сети Internet): Используя нужные данные, объясните, почему ожидаемая звёздная величина кометы имеет два минимума, то есть, сначала уменьшается, потом возрастает, затем опять уменьшается и опять возрастает?\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/ruao-1996-d1-q2-1.png",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 2,
+     "problem": "3. On 19 June 2004, during an emergency landing of a spacecraft, you ejected and landed very successfully. It turned out that at the place of your landing noon occurred at 8 hours 42 minutes Moscow summer time, and the altitude of the Sun at that moment was $h = 72^\\circ$. What language should you use to find out the location of the nearest Russian embassy? Estimate the distance to it. You have at your disposal a very rough map of the Hemispheres.",
+     "paper_label": "Final – theoretical round (grades 8–9)",
+     "problem_orig": "3. 19 июня 2004 года при аварийной посадке космического корабля Вы катапультировались и весьма удачно приземлились. Оказалось, что в местности Вашего приземления полдень наступил в 8 часов 42 минуты Московского летнего времени, а высота Солнца при этом $h = 72^\\circ$. Каким языком Вам следует воспользоваться для выяснения местонахождения ближайшего посольства России? Оцените расстояние до него. В Вашем распоряжении имеется весьма грубая карта Полушарий.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 3,
+     "problem": "5. Observing the night city of Kaluga from their planet, the Martians noticed that at the times of the Great Oppositions of the Earth and Mars this city looks like a star of the 17th magnitude. Estimate approximately how many street lamps burn at night in Kaluga, if on average one Kaluga street lamp seen from a distance of 250 metres shines like the full Moon (the stellar magnitude of the full Moon is about $-13$). The distance from the Earth to Mars at the times of the Great Oppositions is $a = 0.38$ a.u.",
+     "paper_label": "Final – theoretical round (grades 8–9)",
+     "problem_orig": "5. Наблюдая со своей планеты за ночной Калугой, марсиане заметили, что во времена Великих противостояний Земли и Марса этот город выглядит звездой 17-ой величины. Оценить, какое примерно число фонарей горит ночью в Калуге, если в среднем один калужский фонарь с расстояния 250 метров светит как полная Луна (звёздная величина полной Луны около $-13$). Расстояние от Земли до Марса во времена Великих противостояний равно $a = 0{,}38$ а.е.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 4,
+     "problem": "6. How do the linear velocities of astronauts on the Moon differ from each other, if one of them sees the Earth at the zenith and the second is at the diametrically opposite point of the lunar globe?",
+     "paper_label": "Final – theoretical round (grades 8–9)",
+     "problem_orig": "6. Как отличаются между собой линейные скорости космонавтов, находящихся на Луне, если один из них видит Землю в зените, а второй находится в диаметрально противоположной точке лунного шара?",
+     "orig_lang": "ru"
+    }
+   ]
+  },
+  {
+   "year": 1997,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "1. Travelling around the Crimean peninsula (a rough map of the Crimea is attached), a group of amateur astronomers wanted to observe the centre of the globular cluster $\\omega$ Centauri ($\\alpha = 13^\\mathrm{h}27^\\mathrm{m}$, $\\delta = -47^\\circ30'$). Will they be able to do it? If yes, where and how; if not, why not. Take the refraction near the horizon to be $1^\\circ$.",
+     "paper_label": "Final – theoretical round (grade 10)",
+     "problem_orig": "1. Путешествуя по Крымскому полуострову (грубая карта Крыма прилагается), группа любителей астрономии захотела пронаблюдать центр шарового скопления $\\omega$ Центавра ($\\alpha = 13^\\mathrm{h}27^\\mathrm{m}$, $\\delta = -47^\\circ30'$). Смогут ли они это сделать? Если да, то где и как, если нет, то почему. Рефракцию вблизи горизонта считать равной $1^\\circ$.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "3. Both components of a binary star belong to spectral class A3 (temperature 9500 K). The companion is fainter by 8 stellar magnitudes. The main star, with a mass of 2 solar masses, is seen at the focus of the ellipse described by the companion. The semi-major axis of the ellipse is seen at an angle of $2.5''$. The period of revolution of the star is 177 years. Estimate approximately the distance to the stars.",
+     "paper_label": "Final – theoretical round (grade 10)",
+     "problem_orig": "3. Обе компоненты двойной звезды принадлежат спектральному классу А3 (температура 9500 К). Спутник на 8 звёздных величин слабее. Главная звезда с массой 2 массы Солнца видна в фокусе эллипса, который описывает спутник. Большая полуось эллипса видна под углом $2{,}5''$. Период обращения звезды – 177 лет. Оцените приблизительно расстояние до звёзд.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "5. You are given some information about the orbit and the ephemerides of comet Hale-Bopp 1995 O1 (a file from the Internet), and also the geographical coordinates of the city of Troitsk: $\\varphi = 55^\\circ30'$ N, $\\lambda = 37^\\circ15'$ E. Taking the necessary data, calculate the period of revolution of the comet around the Sun.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/ruao-1997-d1-q5-1.png",
+     "paper_label": "Final – theoretical round (grade 10)",
+     "problem_orig": "5. Вам даны некоторые сведения об орбите и эфемеридах кометы Хейла-Боппа 1995 О1 (файл из сети Internet), а также географические координаты города Троицка: $\\varphi = 55^\\circ30'$ с.ш., $\\lambda = 37^\\circ15'$ в.д. Взяв необходимые данные, вычислите период обращения кометы вокруг Солнца.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/ruao-1997-d1-q5-1.png",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "6. You are given some information about the orbit and the ephemerides of comet Hale-Bopp 1995 O1 (a file from the Internet), and also the geographical coordinates of the city of Troitsk: $\\varphi = 55^\\circ30'$ N, $\\lambda = 37^\\circ15'$ E. When (date, time) did (will) the comet rise to its maximum altitude? What is this maximum altitude; is it possible to observe the comet with the naked eye during that day?\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/ruao-1997-d1-q5-1.png",
+     "paper_label": "Final – theoretical round (grade 10)",
+     "problem_orig": "6. Вам даны некоторые сведения об орбите и эфемеридах кометы Хейла-Боппа 1995 О1 (файл из сети Internet), а также географические координаты города Троицка: $\\varphi = 55^\\circ30'$ с.ш., $\\lambda = 37^\\circ15'$ в.д. Когда (дата, время) комета поднялась (поднимется) на максимальную высоту? Какова эта максимальная высота; можно ли в течение тех суток наблюдать комету невооружённым глазом?\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/ruao-1997-d1-q5-1.png",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 2,
+     "number": 1,
+     "problem": "From the two photographs of comet Hale–Bopp offered to you, taken specially for the IV Russian Astronomy Olympiad by Danila Chichmar with an interval of exactly 24 hours (on 3 and 4 March 1997 respectively) at the observing station in Zvenigorod, determine its tangential and radial velocities (in km/s). It is known that the focal length of the objective of the astrograph is 500 mm, and the photograph is an enlarged full frame having dimensions $25.2 \\times 35.7$ mm.\n\nEstimate with what error you have carried out the proposed task.\n\nAdditional materials: ephemerides of the comet, mathematical calculation tables.\n\nAdditional accessories: tracing paper, pencil, ruler, protractor.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/ruao-1997-d2-q1-1.png",
+     "paper_label": "Final – practical round (grade 10)",
+     "problem_orig": "По двум предложенным фотоснимкам кометы Хейла–Боппа, полученным специально для IV Российской астрономической олимпиады Данилой Чичмарем с интервалом ровно в 24 часа (соответственно 3 и 4 марта 1997 г.) на наблюдательной базе в Звенигороде, определить ее тангенциальную и лучевую скорости (в км/с). Известно, что фокусное расстояние объектива астрографа 500 мм, а фотоснимок представляет собой увеличенный полный фотокадр, имеющий размеры $25{,}2 \\times 35{,}7$ мм.\n\nОцените с какой погрешностью Вами выполнено предложенное задание.\n\nДополнительные материалы: эфемериды кометы, математические вычислительные таблицы.\n\nДополнительные принадлежности: калька, карандаш, линейка, транспортир.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/ruao-1997-d2-q1-1.png",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 1,
+     "problem": "1. Two stars have the same right ascension and different declinations. At what geographical latitude do they rise and set simultaneously?",
+     "paper_label": "Final – theoretical round (grades 8–9)",
+     "problem_orig": "1. Две звезды имеют одно и то же прямое восхождение и разные склонения. На какой географической широте они восходят и заходят одновременно?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 2,
+     "problem": "2. The eccentricity of the elliptical orbit of Pluto is $e_P = 0.249$ (unlike most of the other planets, for which – except Mercury – the eccentricity does not exceed 0.1, that is, the orbits are practically circular). By what factor is the aphelion distance of Pluto greater than its perihelion distance? Draw, on a convenient scale, the orbits of Pluto and of the giant planets and the position of the Sun relative to them.",
+     "paper_label": "Final – theoretical round (grades 8–9)",
+     "problem_orig": "2. Эксцентриситет эллиптической орбиты Плутона составляет $e_P = 0{,}249$ (в отличие от большинства других планет, для которых – кроме Меркурия – эксцентриситет не превышает 0,1, то есть орбиты являются практически круговыми). Во сколько раз афелий Плутона больше его перигелия? Нарисуйте в удобном масштабе орбиты Плутона и планет-гигантов, положение Солнца по отношению к ним.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 3,
+     "problem": "3. Why does the change of day and night occur on the Earth or on any other planet? Of course, you will say, because it rotates about its axis. But that is far from a complete answer. Think:\n\n– can it be that a planet rotates about its axis, and no change of day and night takes place?\n\n– can it be that a planet does not rotate about its axis, and a change of day and night takes place?\n\nIf at least once you say \"yes\", then you will have to look for a new, more complete answer to the question under what conditions the change of day and night takes place nowhere on the planet.",
+     "paper_label": "Final – theoretical round (grades 8–9)",
+     "problem_orig": "3. Почему на Земле или любой другой планете происходит смена дня и ночи? Конечно, скажете вы, потому что она вращается вокруг оси. Но это далеко не полный ответ. Подумайте:\n\n– может ли так быть, что планета вращается вокруг оси, а смены дня и ночи не происходит?\n\n– может ли так быть, что планета не вращается вокруг оси, а смена дня и ночи происходит?\n\nЕсли хотя бы один раз вы скажете \"да\", то вам придётся поискать новый, более полный ответ на вопрос, при каких условиях нигде на планете не происходит смена дня и ночи.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 4,
+     "problem": "4. During the total solar eclipse of 9 March 1997 in the Chita region the apparent angular radii of the Moon and the Sun were $\\rho_☾ = 16'41''$ and $\\rho_\\odot = 16'07''$ respectively. Using these data, estimate the maximum time for which the total solar eclipse could be observed. How should the point (or locality) of observation be chosen so that at that place the eclipse is observed for the longest time? Do not take into account the effects associated with the diurnal rotation of the Earth in the calculations.",
+     "paper_label": "Final – theoretical round (grades 8–9)",
+     "problem_orig": "4. Во время полного солнечного затмения 9 марта 1997 года в Читинской области видимые угловые радиусы Луны и Солнца составляли $\\rho_☾ = 16'41''$ и $\\rho_\\odot = 16'07''$ соответственно. Используя эти данные, оцените, какое максимальное время можно было наблюдать полное солнечное затмение. Как следует выбирать точку (или местность) наблюдений, чтобы в этом месте затмение наблюдалось наиболее продолжительное время? Эффекты, связанные с суточным вращением Земли не учитывайте.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 5,
+     "problem": "5. You are given some information about the orbit and the ephemerides of comet Hale-Bopp 1995 O1 (a file from the Internet), and also the geographical coordinates of the city of Troitsk: $\\varphi = 55^\\circ30'$ N, $\\lambda = 37^\\circ15'$ E. Determine during what period of time the comet is non-setting in the city of Troitsk.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/ruao-1997-d1-q5-1.png",
+     "paper_label": "Final – theoretical round (grades 8–9)",
+     "problem_orig": "5. Вам даны некоторые сведения об орбите и эфемеридах кометы Хейла-Боппа 1995 О1 (файл из сети Internet), а также географические координаты города Троицка: $\\varphi = 55^\\circ30'$ с.ш., $\\lambda = 37^\\circ15'$ в.д. Определите, в течение какого периода времени комета является незаходящей в городе Троицке.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/ruao-1997-d1-q5-1.png",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 4,
+     "number": 1,
+     "problem": "From the two photographs of comet Hale–Bopp offered to you, taken specially for the IV Russian Astronomy Olympiad by Danila Chichmar with an interval of exactly 24 hours (on 3 and 4 March 1997 respectively) at the observing station in Zvenigorod, determine its tangential and radial velocities (in km/s). It is known that the focal length of the objective of the astrograph is 500 mm, and the photograph is a full frame enlarged 6 times, having dimensions $25.2 \\times 35.7$ mm. The distance from the Earth to the head of the comet on 3 March was 1.461 a.u., and on 4 March it approached the Earth by 0.0124 a.u.\n\nAdditional materials: mathematical calculation tables.\n\nAdditional accessories: tracing paper, pencil, ruler.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/ruao-1997-d2-q1-1.png",
+     "paper_label": "Final – practical round (grades 8–9)",
+     "problem_orig": "По двум предложенным фотоснимкам кометы Хейла–Боппа, полученным специально для IV Российской астрономической олимпиады Данилой Чичмарем с интервалом ровно в 24 часа (соответственно 3 и 4 марта 1997 г.) на наблюдательной базе в Звенигороде, определить ее тангенциальную и лучевую скорости (в км/с). Известно, что фокусное расстояние объектива астрографа 500 мм, а фотоснимок представляет собой увеличенный в 6 раз полный фотокадр, имеющий размеры $25{,}2 \\times 35{,}7$ мм. Расстояние от Земли до головы кометы 3 марта составляло 1.461 а.е., а 4 марта она приблизилась к Земле на $0{,}0124$ а.е.\n\nДополнительные материалы: математические вычислительные таблицы.\n\nДополнительные принадлежности: калька, карандаш, линейка.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/ruao-1997-d2-q1-1.png",
+     "orig_lang": "ru"
+    }
+   ]
+  },
+  {
+   "year": 1998,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "1. What is the maximum altitude at which the Moon can culminate in Troitsk? The inclination of the ecliptic to the plane of the celestial equator is $\\varepsilon = 23.5^\\circ$, and of the plane of the lunar orbit to the plane of the ecliptic $I = 5.1^\\circ$; the latitude and longitude of Troitsk are $\\varphi = 55^\\circ30'$ N, $\\lambda = 37^\\circ15'$ E.",
+     "paper_label": "Final – theoretical round (grade 10)",
+     "problem_orig": "1. На какой максимальной высоте может кульминировать Луна в Троицке? Наклонение эклиптики к плоскости небесного экватора составляет $\\varepsilon = 23{,}5^\\circ$, а плоскости орбиты Луны к плоскости эклиптики $I = 5{,}1^\\circ$, широта и долгота Троицка – $\\varphi = 55^\\circ30'$ с.ш., $\\lambda = 37^\\circ15'$ в.д.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "2. Guinean astronomers have discovered a very dense planet of the system $\\tau$ Lynx Major. The period of revolution of the planet about its axis is only 6 minutes. What can the density of this planet be?",
+     "paper_label": "Final – theoretical round (grade 10)",
+     "problem_orig": "2. Гвинейскими астрономами обнаружена одна весьма плотная планета системы $\\tau$ Lynx Major. Период обращения планеты вокруг своей оси составляет всего лишь 6 минут. Какой может быть плотность этой планеты?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "3. Determine whether the centre of mass of the Solar System is inside or outside the Sun. Take the necessary data from the tables of the Solar System. The angular size of the Sun seen from the Earth is $\\alpha = 9.3\\cdot10^{-3}$ rad, and its mass is 333000 times the mass of the Earth.",
+     "paper_label": "Final – theoretical round (grade 10)",
+     "problem_orig": "3. Определите, внутри или вне Солнца находится центр масс Солнечной системы. Необходимые данные возьмите из таблиц Солнечной системы. Видимый с Земли угловой размер Солнца $\\alpha = 9{,}3\\cdot10^{-3}$ рад, а его масса в 333000 раз больше массы Земли.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "4. By how much do the apparent stellar magnitudes of the Sun in summer and in winter differ, if the eccentricity of the Earth's orbit is $e_\\oplus = 0.017$?",
+     "paper_label": "Final – theoretical round (grade 10)",
+     "problem_orig": "4. Насколько различаются видимые звездные величины Солнца летом и зимой, если эксцентриситет земной орбиты составляет $e_\\oplus = 0{,}017$?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "5. In the sky there are about 160 thousand stars brighter than $10^\\mathrm{m}$. Assuming that they are distributed uniformly over the sky, estimate how often their occultation by the Moon occurs.",
+     "paper_label": "Final – theoretical round (grade 10)",
+     "problem_orig": "5. На небе имеется около 160 тысяч звезд ярче $10^\\mathrm{m}$. Считая, что они распределены по небу равномерно, оцените, как часто происходит их покрытие Луной.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "problem": "6. From which planet, Venus or Mars, is it easier (from energy considerations) to launch a space probe onto the surface of the Sun, and in what way should this be done? How long will the flight last? Take the necessary data from the tables of the Solar System.",
+     "paper_label": "Final – theoretical round (grade 10)",
+     "problem_orig": "6. С какой планеты, Венеры или Марса, легче (по энергетическим соображениям) запустить космический зонд на поверхность Солнца, каким образом следует это осуществить? Какое время будет длиться полет? Необходимые данные возьмите из таблиц Солнечной системы.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 1,
+     "problem": "1. In which quarter does the Moon illuminate the Earth better: in the first or in the third? Justify the answer and explain it with a drawing.",
+     "paper_label": "Final – theoretical round (grades 8–9)",
+     "problem_orig": "1. В какой четверти Луна лучше освещает Землю – в первой или в третьей? Ответ обосновать и пояснить рисунком.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 2,
+     "problem": "2. On the night of 23 to 24 February 1987 astronomers recorded the outburst of a supernova in the galaxy Large Magellanic Cloud, the distance to which from the Earth is about 55 kpc. In what year did this outburst actually occur?",
+     "paper_label": "Final – theoretical round (grades 8–9)",
+     "problem_orig": "2. В ночь с 23 на 24 февраля 1987 года астрономы зафиксировали вспышку сверхновой звезды в галактике Большое Магелланово Облако, расстояние от Земли до которой около 55 кпк. В каком году на самом деле произошла эта вспышка?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 3,
+     "problem": "3. Approximately how many times a year can polar bears admire the full Moon in good weather? The inclination of the plane of the lunar orbit to the plane of the ecliptic is about $5^\\circ$. Assume that the polar bears live near the North Pole.",
+     "paper_label": "Final – theoretical round (grades 8–9)",
+     "problem_orig": "3. Приблизительно сколько раз в году при благоприятной погоде могут любоваться полной Луной белые медведи? Наклонение плоскости орбиты Луны к плоскости эклиптики составляет около $5^\\circ$. Считайте, что белые медведи живут вблизи Северного полюса.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 4,
+     "problem": "4. An artificial satellite in a low near-Earth orbit has flown over Kharkov ($\\varphi_x \\approx 50^\\circ$ N, $\\lambda_x \\approx 36^\\circ$ E). Over which city or which region (approximately) will it fly after one revolution around the Earth?",
+     "paper_label": "Final – theoretical round (grades 8–9)",
+     "problem_orig": "4. Искусственный спутник, находящийся на низкой околоземной орбите, пролетел над Харьковом ($\\varphi_x \\approx 50^\\circ$ с.ш., $\\lambda_x \\approx 36^\\circ$ в.д.). Над каким городом или над какой местностью (приблизительно) он пролетит через один оборот вокруг Земли?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 5,
+     "problem": "5. Estimate how long the sunset lasts in Troitsk (that is, the time from the first to the last contact of the solar disc with the horizon). The latitude of Troitsk is $\\varphi = 55^\\circ30'$ N, the longitude $\\lambda = 37^\\circ15'$ E, the angular diameter of the solar disc is $2\\rho = 32'$.",
+     "paper_label": "Final – theoretical round (grades 8–9)",
+     "problem_orig": "5. Оцените, сколько времени длится в Троицке заход Солнца (т.е. время от первого до последнего касания горизонта солнечным диском). Широта Троицка – $\\varphi = 55^\\circ30'$ с.ш., долгота – $\\lambda = 37^\\circ15'$ в.д., угловой диаметр солнечного диска $2\\rho = 32'$.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 6,
+     "problem": "6. You are travelling through the asteroid belt, the characteristic density of whose rocks is $\\rho = 3.5$ g/cm$^3$. What can be the sizes of asteroids on which one can run about (with the same speed as on the Earth) without fear of \"falling\" into space?",
+     "paper_label": "Final – theoretical round (grades 8–9)",
+     "problem_orig": "6. Вы путешествуете по поясу астероидов, характерная плотность пород которых составляет $\\rho = 3{,}5$ г/см$^3$. Каковы могут быть размеры астероидов, по которым можно бегать (с такой же скоростью, как на Земле), не боясь «упасть» в космос.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 4,
+     "number": 1,
+     "problem": "2. In the year 2098 the astronomers of Futureland, using an old ground-based twenty-metre telescope, discovered an asteroid remarkable in many respects, moving in a circular orbit. It turned out that the apparent path traversed by it in the sky over five years of observation has the form of a piece of taut chain with five elongated links, as if laid on top of a string.\n\nEstimate the angular size of the \"major axis\" of the links of this chain and the period of revolution around the Sun of the asteroid discovered by our Futureland colleagues. Redrawing the \"chain\" in your notebook, mark on it the points at which the brightness of the object reaches minima and maxima.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/ru910-1998-d4-q1-1.png",
+     "paper_label": "Final – creative-practical round (grades 8–9)",
+     "problem_orig": "2. В 2098 году астрономы Футурландии, пользуясь стареньким наземным двадцатиметровым телескопом, открыли замечательный во многих отношениях астероид, движущийся по круговой орбите. Оказалось, что видимый путь, пройденный им на небе за пять лет наблюдений, имеет вид куска натянутой цепи с пятью удлиненными звеньями, как бы положенной сверху на веревочку.\n\nОцените угловой размер «большой оси» звеньев этой цепи и период обращения вокруг Солнца открытого нашими футурландскими коллегами астероида. Перерисовав в тетрадь «цепочку», отметьте на ней точки, в которых блеск объекта достигает минимумов и максимумов.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/ru910-1998-d4-q1-1.png",
+     "orig_lang": "ru"
+    }
+   ]
+  },
+  {
+   "year": 1999,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "1. In Magadan (latitude of Magadan $\\varphi = 60^\\circ$) at full moon the Moon passed upper culmination at an altitude of $53.5^\\circ$. On what date did this happen, if the Moon was at one of the nodes of its orbit?",
+     "paper_label": "Final – theoretical round (grade 10)",
+     "problem_orig": "1. В Магадане (широта Магадана $\\varphi = 60^\\circ$) во время полнолуния Луна прошла верхнюю кульминацию на высоте $53{,}5^\\circ$. Какого числа это произошло, если Луна находилась в одном из узлов своей орбиты?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "3. Today, 26 March, at $0^\\mathrm{h}$ Universal Time the sidereal time at Greenwich was $S_0 = 12^\\mathrm{h}12^\\mathrm{m}00^\\mathrm{s}$. What is the sidereal time at Troitsk at the moment when you are solving this problem, say, at exactly $T_D = 10^\\mathrm{h}00^\\mathrm{m}$ (decree time)? The longitude of Troitsk is $\\lambda = 2^\\mathrm{h}29^\\mathrm{m}15^\\mathrm{s}$.",
+     "paper_label": "Final – theoretical round (grade 10)",
+     "problem_orig": "3. Сегодня, 26 марта в $0^\\mathrm{ч}$ Всемирного времени звёздное время в Гринвиче было $S_0 = 12^\\mathrm{ч}12^\\mathrm{м}00^\\mathrm{с}$. Чему равно звёздное время в Троицке в тот момент, когда Вы решаете эту задачу, скажем, ровно в $T_D = 10^\\mathrm{ч}00^\\mathrm{м}$? Долгота Троицка равна $\\lambda = 2^\\mathrm{ч}29^\\mathrm{м}15^\\mathrm{с}$.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "5. The Crab Nebula is expanding with a speed of about 1000 km/s. After what time will its size increase by 10%, if the distance to it is 2 kpc and its angular diameter seen from the Earth is approximately 5 arcminutes?",
+     "paper_label": "Final – theoretical round (grade 10)",
+     "problem_orig": "5. Крабовидная туманность расширяется со скоростью около 1000 км/с. Через какое время её размер возрастет на 10%, если расстояние до неё равно 2 кпк, а угловой диаметр, видимый с Земли, составляет примерно 5 угловых минут?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "6. Can the Moon be seen from the surface of Mars with the naked eye? The stellar magnitude of the full Moon as seen from the Earth is $-12.8^\\mathrm{m}$, the mean distance from the Earth to the Moon is 384 thousand km, from the Sun to Mars 1.52 a.u. Confirm your answer by calculations.",
+     "paper_label": "Final – theoretical round (grade 10)",
+     "problem_orig": "6. Можно ли увидеть Луну с поверхности Марса невооружённым глазом? Видимая с Земли звёздная величина Луны в полнолуние равна $-12{,}8^\\mathrm{m}$, среднее расстояние от Земли до Луны — 384 тыс. км, от Солнца до Марса — 1,52 а.е. Ответ подтвердите расчётами.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 1,
+     "problem": "1. You know well what the \"polar circle\" is on the Earth and how it is related to the seasonal motion of the Sun: only beyond the polar circle can there be days with a non-rising Sun. A \"polar circle\" analogous to the terrestrial one can also be introduced for the Moon. Find at what selenographic (by analogy with geographic) latitudes the centre of the Sun may fail to rise for an observer on the Moon, if the inclination of the equatorial plane of the Moon to the plane of the ecliptic is $i = 1.5^\\circ$. With what period do the \"polar nights\" repeat? Assume that the Moon is always in the plane of the ecliptic.",
+     "paper_label": "Final – theoretical round (grades 8–9)",
+     "problem_orig": "1. Вам хорошо известно, что такое на Земле \"полярный круг\" и как он связан с сезонным ходом Солнца: только за полярным кругом могут быть дни с невосходящим Солнцем. \"Полярный круг\", аналогичный земному, можно ввести и для Луны. Найдите, на каких селенографических (по аналогии с географическими) широтах центр Солнца может быть невосходящим для наблюдателя на Луне, если наклон экваториальной плоскости Луны к плоскости эклиптики составляет $i = 1{,}5^\\circ$? С каким периодом повторяются \"полярные ночи\"? Считать, что Луна всегда находится в плоскости эклиптики.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 2,
+     "problem": "2. A fixed camera photographs the circumpolar region of the sky. Why do the arcs left by stars of the same apparent stellar magnitude look the fainter, the farther from the celestial pole these stars are?",
+     "paper_label": "Final – theoretical round (grades 8–9)",
+     "problem_orig": "2. Неподвижным фотоаппаратом производится фотографирование околополярной области неба. Почему дуги, оставляемые звёздами одной и той же видимой звёздной величины, выглядят тем слабее, чем дальше от полюса мира эти звёзды находятся?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 3,
+     "problem": "3. Describe the appearance of the night and day sky (stars, the Sun, planets, other celestial objects, their brightness, etc.) for an observer on the surface of Mars.",
+     "paper_label": "Final – theoretical round (grades 8–9)",
+     "problem_orig": "3. Опишите вид ночного и дневного неба (звёзды, Солнце, планеты, другие небесные объекты, их яркость и т.п.) для наблюдателя, находящегося на поверхности Марса",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 4,
+     "problem": "4. By day stars are not visible, because the bright light of the sky prevents it. Why, then, can bright stars be observed by day in a telescope? In a telescope of what magnification will they be seen better?",
+     "paper_label": "Final – theoretical round (grades 8–9)",
+     "problem_orig": "4. Днём звёзды не видны, поскольку этому мешает яркий свет неба. Почему же тогда яркие звёзды можно днём наблюдать в телескоп? В телескоп с каким увеличением они будут видны лучше?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 5,
+     "problem": "5. The Crab Nebula is expanding with a speed of about 1000 km/s. After what time will its size increase by 10%, if the distance to it is 6500 light years and its angular diameter seen from the Earth is approximately 5 arcminutes?",
+     "paper_label": "Final – theoretical round (grades 8–9)",
+     "problem_orig": "5. Крабовидная туманность расширяется со скоростью около 1000 км/с. Через какое время её размер возрастет на 10%, если расстояние до неё равно 6500 св. лет, а угловой диаметр, видимый с Земли, составляет примерно 5 угловых минут?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 6,
+     "problem": "6. Propose the principle of operation of an instrument (device) with the help of which cosmonauts inside a space station can measure the masses of bodies.",
+     "paper_label": "Final – theoretical round (grades 8–9)",
+     "problem_orig": "6. Предложите принцип действия прибора (приспособления), с помощью которого космонавты внутри космической станции могут измерять массы тел.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 4,
+     "number": 1,
+     "problem": "7. For convenience in reckoning time the Earth's civilization invented the calendar: days are combined into weeks, weeks into months, months into years. Years are leap and non-leap, and a strict order is established in their alternation. Years are combined into twelve-year and sixty-year cycles, and so on. All this humanity invented on the basis of many years of observations of changes in the weather and of the motion of celestial objects. The same observations also gave the numbers that are magical for Earthlings (for example, 7 or 12).\n\nDevise a similar calendar for the inhabitants of Mars. Assume that they think in the same way as people (the same logic). Below are data on the motion of celestial bodies visible from Mars, some of which you may need. Naturally, other data may also be used if they are known to you. What numbers might the Martians revere?\n\n$$\\begin{array}{|l|c|c|}\\hline \\text{Planet or satellite} & \\text{Period of revolution about the central body (days)} & \\text{Period of rotation about its axis (days)} \\\\ \\hline \\text{Mercury} & 87.969 & \\\\ \\text{Venus} & 224.701 & \\\\ \\text{Earth} & 365.256 & 0.99726 \\\\ \\text{Mars} & 686.980 & 1.02596 \\\\ \\text{Jupiter} & 4332.588 & \\\\ \\text{Saturn} & 10759.201 & \\\\ \\text{Moon} & 27.320 & \\\\ \\text{Phobos} & 0.319 & \\\\ \\text{Deimos} & 1.263 & \\\\ \\hline \\end{array}$$\n\nThe inclination of the plane of the equator of Mars to the plane of its orbit is $25^\\circ 12'$.",
+     "paper_label": "Final – creative problem (grades 8–9)",
+     "problem_orig": "7. Для удобства счёта времени земная цивилизация придумала календарь: дни объединяются в недели, недели – в месяцы, месяцы – в годы. Годы при этом бывают високосными и невисокосными, причём в их чередовании установлен чёткий порядок. Годы объединяются в двенадцатилетние и шестидесятилетние циклы, и т.д. Всё это человечество придумало на основе многолетних наблюдений изменения погоды и движения небесных объектов. Эти же наблюдения дали и магические для землян числа (например, 7 или 12).\n\nРазработайте такой же календарь для жителей Марса. Считайте, что мыслят они так же, как люди (та же логика). Ниже приведены данные о движении небесных тел, видимых с Марса, некоторые из которых могут Вам понадобиться. Естественно, можно использовать и другие данные, если они Вам известны. Какие числа могут почитать марсиане?\n\n$$\\begin{array}{|l|c|c|}\\hline \\text{Планета или спутник} & \\text{Период обращения вокруг центрального тела (в сутках)} & \\text{Период обращения вокруг собственной оси (в сутках)} \\\\ \\hline \\text{Меркурий} & 87{,}969 & \\\\ \\text{Венера} & 224{,}701 & \\\\ \\text{Земля} & 365{,}256 & 0{,}99726 \\\\ \\text{Марс} & 686{,}980 & 1{,}02596 \\\\ \\text{Юпитер} & 4332{,}588 & \\\\ \\text{Сатурн} & 10759{,}201 & \\\\ \\text{Луна} & 27{,}320 & \\\\ \\text{Фобос} & 0{,}319 & \\\\ \\text{Деймос} & 1{,}263 & \\\\ \\hline \\end{array}$$\n\nНаклонение плоскости экватора Марса к плоскости его орбиты составляет $25^\\circ 12'$.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 5,
+     "number": 1,
+     "problem": "A series of photographs of the solar photosphere was obtained during the period when the Earth was crossing the plane of the solar equator. Despite the low quality of the copies, sunspots and the north and east points of heliographic coordinates are distinguishable on the solar limb. In the lower right corner of each of the images the dates and moments (fraction of a day) of the observations of the Sun are given.\n\nDetermine the synodic period of rotation of the Sun.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/ruao-1999-d3-q1-1.png\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/ruao-1999-d3-q1-2.png\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/ruao-1999-d3-q1-3.png",
+     "paper_label": "Final – practical round (grades 8–9)",
+     "problem_orig": "Серия фотографий фотосферы Солнца получена в период, когда Земля пересекала плоскость солнечного экватора. Несмотря на низкое качество копий, на солнечном лимбе различимы солнечные пятна, точки севера и востока гелиографических координат. В нижнем правом углу каждого из снимков приведены даты и моменты (долю суток) наблюдений Солнца.\n\nОпределите синодический период вращения Солнца.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/ruao-1999-d3-q1-1.png\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/ruao-1999-d3-q1-2.png\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/ruao-1999-d3-q1-3.png",
+     "orig_lang": "ru"
+    }
+   ]
+  },
+  {
+   "year": 2000,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "4. Estimate the mass of the atmosphere of Venus.",
+     "paper_label": "Final – theoretical round (grade 10)",
+     "problem_orig": "4. Оцените массу венерианской атмосферы.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "5. In the Strugatskys' novella \"Noon: 22nd Century\" the hero finds himself on the planet Leonida, very similar to the Earth:\n\n\"Among the twinkling stars a bright white speck slowly passed through the zenith. Komov raised himself on his elbows, following it with his eyes. It was the \"Sunflower\", a one-and-a-half-kilometre landing starship of ultra-long range. At this moment it was revolving around Leonida [on a circular orbit] at a distance of two megametres from the surface. One only has to send a distress signal, and help will come from there.\"\n\nBut this time, too, Komov did not give a signal. Will he have such an opportunity during the next revolution of the \"Sunflower\"? Assume that all parameters of Leonida correspond exactly to those of the Earth, that Komov is on the equator of the planet, and that the \"Sunflower\" revolves around it on a meridional orbit.",
+     "paper_label": "Final – theoretical round (grade 10)",
+     "problem_orig": "5. В повести Стругацких «Полдень, XXII век» герой попадает на планету Леонида, очень похожую на Землю:\n\n\"Среди мигающих звёзд неторопливо прошло через зенит яркое белое пятнышко. Комов приподнялся на локтях, следя глазами за ним. Это был \"Подсолнечник\" – полуторакилометровый десантный звездолёт сверхдальнего действия. Сейчас он обращался вокруг Леониды [по круговой орбите] па расстоянии двух мегаметров от поверхности. Стоит подать сигнал бедствия, и оттуда придут на помощь\".\n\nНо и этот раз Комов не подал сигнал. Представится ли ему такая возможность во время следующего витка «Подсолнечника»? Считайте, что все параметры Леониды в точности соответствуют земным, Комов находится на экваторе планеты, а «Подсолнечник» обращается вокруг неё по меридианальной орбите.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "6. The figure shows a view of the Solar System: the Sun, the four nearest planets and their orbits. This is how the \"little green men\" see us; more precisely, the figure shows, on some scale, the result of computer processing of many years of observations by the \"green astronomers\". It is known that the positions of the planets correspond to mid-March (15 March) on the Earth. Find from which constellation the \"little green men\" observed us.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/ru910-2000-d1-q3-1.png",
+     "paper_label": "Final – theoretical round (grade 10)",
+     "problem_orig": "6. На рисунке представлен вид Солнечной системы: это Солнце, четыре ближайшие планеты и их орбиты. Так видят нас «зелёные человечки», точнее говоря, на рисунке представлен в некотором масштабе результат компьютерной обработки многолетних наблюдений «зелёных астрономов». Известно, что положение планет соответствует середине марта (15-му марта) на Земле. Найдите, из какого созвездия «зелёные человечки» нас наблюдали.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/ru910-2000-d1-q3-1.png",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 1,
+     "problem": "2. At what position of the Moon can the longest occultations of stars by the Moon be observed: when it is near apogee or near perigee? What other conditions can you name under which stars will stay behind the Moon longer?",
+     "paper_label": "Final – theoretical round (grades 8–9)",
+     "problem_orig": "2. При каком положении Луны можно наблюдать наиболее продолжительные затмения звёзд Луной – когда она вблизи апогея или перигея? Какие ещё условия вы можете назвать, при которых звёзды будут дольше находиться за Луной?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 2,
+     "problem": "3. Today in Belgorod the Sun will be setting for 2 minutes 47 seconds. And how long does a sunset last on Mars? Calculate this duration for the case of a sunset on the equator of Mars. In solving the problem assume that Mars revolves around the Sun in a circular orbit.",
+     "paper_label": "Final – theoretical round (grades 8–9)",
+     "problem_orig": "3. Сегодня в Белгороде Солнце будет заходить в течение 2 минут 47 секунд. А какое время длится заход Солнца на Марсе? Вычислите эту продолжительность для случая захода Солнца на экваторе Марса. При решении задачи считайте, что Марс обращается вокруг Солнца по круговой орбите.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 3,
+     "problem": "4. In the Strugatskys' novella \"Noon: 22nd Century\" the hero finds himself on the planet Leonida, very similar to the Earth:\n\n\"Among the twinkling stars a bright white speck slowly passed through the zenith. Komov raised himself on his elbows, following it with his eyes. It was the \"Sunflower\", a one-and-a-half-kilometre landing starship of ultra-long range. At this moment it was revolving around Leonida [on a circular orbit] at a distance of two megametres from the surface. One only has to send a distress signal, and help will come from there.\"\n\nHow good was Komov's eyesight? It is usually considered that the limiting resolution of the eye of a sharp-sighted person is $1'$ (one arcminute).",
+     "paper_label": "Final – theoretical round (grades 8–9)",
+     "problem_orig": "4. В повести Стругацких «Полдень, XXII век» герой попадает на планету Леонида, очень похожую на Землю:\n\n\"Среди мигающих звёзд неторопливо прошло через зенит яркое белое пятнышко. Комов приподнялся на локтях, следя глазами за ним. Это был \"Подсолнечник\" - полуторакилометровый десантный звездолёт сверхдальнего действия. Сейчас он обращался вокруг Леониды [по круговой орбите] на расстоянии двух мегаметров от поверхности. Стоит подать сигнал бедствия, и оттуда придут на помощь.\"\n\nНасколько хорошим зрением обладал Комов? Обычно считается, что предельное разрешение глаза зоркого человека составляет $1'$ (одну угловую минуту).",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 4,
+     "number": 1,
+     "problem": "1. You are to conduct an excursion around the starry sky without a telescope or binoculars. Your main task is to give the celestial landmarks that determine our place in the Universe. Choose a suitable time for the excursion.\n\nMark on the map the centre of the Galaxy, the directions along its arms, individual star and dust clouds, the outlines of the Local System, the galaxies visible to the naked eye, etc.\n\nExplain the meaning of the symbols you used. Comments are desirable.",
+     "paper_label": "Final – second round (grades 8–9)",
+     "problem_orig": "1. Вам предстоит провести экскурсию по звёздному небу без телескопа и биноклей. Основная Ваша задача – дать небесные ориентиры, определяющие наше место во Вселенной. Наметьте подходящее время экскурсии.\n\nПометьте на карте центр Галактики, направления вдоль её рукавов, отдельные звёздные и пылевые облака, очертания Местной системы, видимые простым глазом галактики и т.д.\n\nОбъясните смысл использованных Вами значков. Желательны комментарии.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 4,
+     "number": 2,
+     "problem": "2. It is supposed that at a distance of about 60 a.u. from the Sun a new planet has appeared, revolving in a circular orbit in a plane that differs from the ecliptic by no more than $10^\\circ$. The stellar magnitude of this planet as seen from the Earth is $18^\\mathrm{m}$.\n\nIt is planned to detect the planet with a 1-m telescope with a recording system. The working field of the telescope is $20' \\times 20'$, and the recording system (for example, a photographic plate) can record an object of $17^\\mathrm{m}$ (on a dark sky) with a minimum exposure of 10 minutes.\n\nWork out a programme of work (observations, data processing, etc.) for detecting this planet. How much time will be needed to register this object for certain? Describe all the conditions necessary for carrying out the observations (registration) in the most optimal way. What configurations (positions of planets, celestial bodies) should be avoided? And so on.\n\nFor simplicity of the experiment, place the 1-m telescope in the neighbourhood of Belgorod.",
+     "paper_label": "Final – second round (grades 8–9)",
+     "problem_orig": "2. Предполагается, что на расстоянии около 60 а.е. от Солнца появилась новая планета, обращающаяся по круговой орбите в плоскости, отличающейся от эклиптики не более чем на $10^\\circ$. Видимая с Земли звездная величина этой планеты составляет $18^\\mathrm{m}$.\n\nПланету планируется обнаружить с помощью 1-м телескопа с регистрирующей системой. Рабочее поле телескопа $20' \\times 20'$, а регистрирующая система (например, фотопластинка) может зафиксировать объект $17^\\mathrm{m}$ (на тёмном небе) при минимальной экспозиции 10 минут.\n\nРазработайте программу работы (наблюдений, обработки данных и т.п.) для обнаружения этой планеты. Сколько времени потребуется, чтобы заведомо зарегистрировать этот объект? Опишите все необходимые условия для проведения наблюдений (регистрации) наиболее оптимальным образом. Каких конфигураций (положений планет, небесных тел) следует избегать? И т.д.\n\nДля простоты эксперимента 1-м телескоп разместите в окрестностях Белгорода.",
+     "orig_lang": "ru"
+    }
+   ]
+  },
+  {
+   "year": 2001,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "1. In February 2001 the spacecraft NEAR made the first soft landing on the asteroid Eros. The speed of descent of the spacecraft onto the surface of Eros was 2 m/s. If the impact were elastic, to what height would the spacecraft bounce after the impact? For simplified calculations consider the asteroid to be a sphere of diameter 30 km and mean density of matter $\\rho = 3000$ kg/m$^3$.\n\nNote: the volume of a sphere is calculated by the formula $V = \\frac{4}{3}\\pi R^3$.",
+     "paper_label": "Final – theoretical round (grade 10)",
+     "problem_orig": "1. В феврале 2001 года космический аппарат NEAR впервые осуществил мягкую посадку на астероид Эрос. Скорость опускания аппарата на поверхность Эроса составила 2 м/c. Если бы удар оказался упругим, то на какую высоту подпрыгнул бы аппарат от удара? Для упрощённых расчётов считать астероид шаром с диаметром 30 км и средней плотностью вещества $\\rho = 3000$ кг/м$^3$.\n\nПримечание: объём шара вычисляется по формуле $V = \\frac{4}{3}\\pi R^3$.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "5. Can it happen on some hypothetical planet that the seasons of the year change synchronously over the whole planet, and not as on the Earth or Mars, where in the northern and southern hemispheres they change in antiphase?",
+     "paper_label": "Final – theoretical round (grade 10)",
+     "problem_orig": "5. Может ли на какой-либо гипотетической планете быть так, чтобы сезоны года сменялись на всей планете синхронно, а не как на Земле или Марсе, где в северном и южном полушариях они сменяются в противофазе?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "6. The Institute of Solid State Physics of the Russian Academy of Sciences (Chernogolovka) carried out experiments on crystal growth in weightlessness on the orbital station \"Mir\". However, the \"weightlessness\" on the station \"Mir\" is very conditional: absolute weightlessness is prevented by the movements of the cosmonauts, the operation of the instruments on the station and other factors. Later the research came to be called experiments on crystal growth under microgravity conditions. Estimate the level of this microgravity, that is, the characteristic magnitudes of the accelerations experienced by the hull of the station in the course of operation. (Note that the cosmonauts even cancelled their exercises on the days when crystal growth was in progress!) The mass of the \"Mir\" complex in the last year of operation was about 140 tonnes (in the last days, 137 tonnes).\n\nNote: a non-SI unit of microgravity is $\\mu g$ (\"micro-g\"), $1\\,\\mu g = 10^{-6}\\,g = 9.81\\ \\mu\\mathrm{m/s^2}$.",
+     "paper_label": "Final – theoretical round (grade 10)",
+     "problem_orig": "6. Институт физики твёрдого тела РАН (Черноголовка) проводил на орбитальной станции \"Мир\" эксперименты по росту кристаллов в условиях невесомости. Однако, \"невесомость\" на станции \"Мир\" весьма условная: достичь абсолютной невесомости мешают движения космонавтов, работа приборов на станции и другие факторы. Впоследствии исследования стали называться экспериментами по росту кристаллов в условиях микрогравитации. Оцените уровень этой микрогравитации, то есть характерные величины ускорений, которые испытывает корпус станции в процессе эксплуатации. (Заметим, что космонавты даже отменяли зарядку в те дни, когда проходил рост кристаллов!) Масса комплекса \"Мир\" в последний год эксплуатации составляла около 140 тонн (в последние дни – 137 тонн).\n\nПримечание: внесистемной единицей микрогравитации считается $\\mu g$ (\"микро-же\"), $1\\,\\mu g = 10^{-6}\\,g = 9{,}81$ мкм/с$^2$.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 2,
+     "number": 1,
+     "problem": "8. Practical problem. Ejection from the quasar 3C273.\n\n8.1. Measure the apparent displacement of the jet from the nucleus of the quasar 3C273 (the radio map in the figure) over several years and estimate the velocity of its motion. Take the distance to the quasar to be 600 Mpc.\n\n8.2. Comment on the value of the velocity of the jet that you obtained.\n\n8.3. The apparent brightness of the quasar 3C273 is $12.8^\\mathrm{m}$. Estimate the absolute magnitude and the luminosity of this quasar (in solar luminosities). Compare with the luminosity of our Galaxy (approximately).\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/ru910-2001-d2-q1-1.png",
+     "paper_label": "Final – second round (practical problem, grade 10)",
+     "problem_orig": "8. Практическая задача. Выброс квазара 3С273.\n\n8.1. Измерьте видимое смещение выброса из ядра квазара 3С273 (радиокарта на рисунке) за несколько лет и оцените скорость его движения. Расстояние до квазара принять равным 600 Мпк.\n\n8.2. Прокомментируйте полученное вами значение скорости движения выброса.\n\n8.3. Видимый блеск квазара 3С273 равен $12{,}8^\\mathrm{m}$. Оцените абсолютную величину и светимость этого квазара (в светимостях Солнца). Сравните со светимостью нашей Галактики (приблизительно).\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/ru910-2001-d2-q1-1.png",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 1,
+     "problem": "1. Last year Jupiter was brightest in the sky in mid-November. When will it be brightest during the current year? Explain why.",
+     "paper_label": "Final – theoretical round (grade 9)",
+     "problem_orig": "1. В прошлом году Юпитер ярче всего был виден в середине ноября. Когда он будет наиболее ярок в течение текущего года? Объясните, почему.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 2,
+     "problem": "2. At what geographical latitude is the altitude of the Sun above the horizon greatest on the day of the summer solstice?",
+     "paper_label": "Final – theoretical round (grade 9)",
+     "problem_orig": "2. На какой географической широте в день летнего солнцестояния высота Солнца над горизонтом наибольшая?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 3,
+     "problem": "3. With what accuracy must the clock drive of a telescope run (that is, by how many seconds per day may it lag or run fast) so that the image of a star equal to $3''$ is not smeared, during an hour-long exposure, by more than a third of its size (that is, remains almost round)?",
+     "paper_label": "Final – theoretical round (grade 9)",
+     "problem_orig": "3. С какой точностью должен идти часовой механизм телескопа (т.е. на сколько секунд в сутки допустимо его отставание или опережение), чтобы изображение звезды, равное $3''$, за часовую экспозицию не размазалось бы больше чем на треть своего размера (то есть, оставалось почти круглым)?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 4,
+     "problem": "4. An artist painted a picture \"Landing of cosmonauts on a satellite of Saturn\", depicting against the background of the starry sky the disc of the Sun and the planet Saturn of approximately the same size. Which of the satellites of Saturn did the artist have in mind?",
+     "paper_label": "Final – theoretical round (grade 9)",
+     "problem_orig": "4. Художник нарисовал картину \"Высадка космонавтов на спутнике Сатурна\", изобразив на фоне звёздного неба диск Солнца и планету Сатурн примерно одного размера. Какой из спутников Сатурна имел в виду художник?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 4,
+     "number": 1,
+     "problem": "8. Practical problem. Satellites of Jupiter.\n\nThe figure shows the positions of the four Galilean satellites of Jupiter on their circular orbits at 12 hours 00 minutes 00 seconds on 1 April of the year 20 . .\n\nDetermine the nearest date (for each satellite) when it will be possible to observe the entry of the satellite into the shadow of the planet.\n\nAssume that the orbits of the satellites lie in the plane of the orbit of the planet.\n\nOrbital (sidereal) periods of the satellites of Jupiter: Io – $0.77^\\mathrm{d}$; Europa – $3.55^\\mathrm{d}$; Ganymede – $7.15^\\mathrm{d}$; Callisto – $16.69^\\mathrm{d}$ (\"d\" – Earth days).\n\nPositions of the Galilean satellites on 1 April of the year 20 . .\n\nThe diameters of the orbits of the satellites and the diameter of the planet Jupiter are drawn to scale; the diameters of the satellites are shown conventionally (not to scale).\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/ru910-2001-d4-q1-1.png",
+     "paper_label": "Final – second round (practical problem, grades 8–9)",
+     "problem_orig": "8. Практическая задача. Спутники Юпитера.\n\nНа рисунке изображено положение четырёх Галилеевых спутников Юпитера на их круговых орбитах на 12 часов 00 минут 00 секунд 01 апреля 20 . . года.\n\nОпределите ближайшую дату (для каждого спутника), когда можно будет наблюдать вхождение спутника в тень планеты.\n\nСчитать, что орбиты спутников лежат в плоскости орбиты планеты.\n\nПериоды обращения (сидерические периоды) спутников Юпитера: Ио – $0{,}77^\\mathrm{д}$; Европы – $3{,}55^\\mathrm{д}$; Ганимеда – $7{,}15^\\mathrm{д}$; Каллисто – $16{,}69^\\mathrm{д}$ (“д” – земные сутки).\n\nПоложение Галилеевых спутников на 01 апреля 20 . . года\n\nВ масштабе сохранены диаметры орбит спутников и диаметр планеты Юпитер, диаметры спутников показаны условно (не в масштабе).\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/ru910-2001-d4-q1-1.png",
+     "orig_lang": "ru"
+    }
+   ]
+  },
+  {
+   "year": 2002,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "4. Speleologist-gravimetrists. Keen speleologists, who by their main job are gravimetrists, decided to apply their professional knowledge to the search for new caves. To measure the acceleration of gravity a pendulum gravimeter is usually used – an instrument whose working element is a \"mathematical\" pendulum. Having obtained a comparatively simple such gravimeter, whose pendulum period is measured with an accuracy of $2\\cdot10^{-5}\\,\\%$, the speleologists set off on their search. Estimate the smallest characteristic size of a cavity that can be detected with such a gravimeter from the surface of the ground. Take the density of the underground rocks in the region of research equal to the density of granite: $\\rho_0 = 2.8$ g/cm$^3$.",
+     "paper_label": "Final – theoretical round (grade 10)",
+     "problem_orig": "4. Спелеологи-гравиметристы. Заядлые спелеологи, которые по основной своей работе являются гравиметристами, решили применить профессиональные знания для поисков новых пещер. Для измерения ускорения силы тяжести обычно используют маятниковый гравиметр – прибор, рабочим элементом которого является «математический» маятник. Раздобыв сравнительно простой такой гравиметр, период колебаний маятника которого измеряется с точностью до $2\\cdot10^{-5}\\,\\%$, спелеологи отправились на поиски. Оцените, полость какого наименьшего характерного размера можно обнаружить с помощью такого гравиметра с поверхности земли? Плотность подземных пород в районе исследований принять равной плотности гранита: $\\rho_0 = 2{,}8$ г/см$^3$.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "5. Sunsets on the Moon. Do the following take place on the equator of the Moon:\n\n(a) sunset;\n\n(b) setting of the Earth?\n\nIf not, why not?\n\nIf yes, is it possible, proceeding from generally known data (known to most participants of the Olympiad), to estimate how long these phenomena last? Estimate what is possible.",
+     "paper_label": "Final – theoretical round (grade 10)",
+     "problem_orig": "5. Заходы на Луне. Происходят ли на экваторе Луны:\n\nа) заход Солнца.\n\nб) заход Земли.\n\nЕсли нет, то почему?\n\nЕсли да, то можно ли исходя из общеизвестных (известных большинству участников Олимпиады) данных оценить, сколько длятся эти явления? Оцените то, что возможно.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "6. Thickness of the solar sail. A solar sail can be used for a flight to Mars. Imagine that a spacecraft complex of mass $m = 10$ tonnes has unfolded a solar sail (previously stored in the folded state as part of the complex). Estimate the thickness of this sail. Take the area of the sail equal to $7\\,654\\,321$ m$^2$.",
+     "paper_label": "Final – theoretical round (grade 10)",
+     "problem_orig": "6. Толщина солнечного паруса. Для полёта на Марс можно использовать солнечный парус. Представим себе, что космический корабль-комплекс массы $m = 10$ тонн раскрыл солнечный парус (находившийся ранее в свёрнутом состоянии в составе комплекса). Оцените толщину этого паруса. Площадь паруса примите равной $7\\,654\\,321$ м$^2$.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 2,
+     "number": 1,
+     "problem": "8. Visibility of planets. Using the ephemerides of the five planets visible to the naked eye from mid-March to mid-May, and also a map of the starry sky:\n\n8.1. Determine the time intervals of visibility (or invisibility) of each of the planets at 10-day steps.\n\n8.2. Determine the date and time of the best simultaneous visibility of all five planets.\n\n8.3. Single out the time interval of simultaneous visibility of four planets in one constellation.\n\n8.4. Make a schematic drawing of the order of arrangement of the planets near the ecliptic (for the dates that you consider the most interesting).\n\nFor simplicity, do the work for Moscow ($\\varphi_M = 56^\\circ$ and $\\lambda_M = 2^\\mathrm{h}30^\\mathrm{m}$).\n\nIt is desirable to accompany each item with the conditions of visibility of the planets.",
+     "paper_label": "Final – creative-practical round (grade 10)",
+     "problem_orig": "8. Видимость планет. Используя эфемериды пяти планет, видимых невооружённым глазом, с середины марта до середины мая, а также карту звёздного неба:\n\n8.1. Определите интервалы времени видимости (или невидимости) каждой из планет через 10 суток.\n\n8.2. Определите дату и время наилучшей одновременной видимости всех пяти планет.\n\n8.3. Выделите промежуток времени одновременной видимости четырёх планет в одном созвездии.\n\n8.4. Сделайте схематический рисунок порядкового расположения планет вблизи эклиптики (для тех дат, которые Вы считаете наиболее интересными).\n\nДля простоты выполните работу для Москвы ($\\varphi_M = 56^\\circ$ и $\\lambda_M = 2^\\mathrm{ч}30^\\mathrm{м}$).\n\nКаждый пункт желательно сопроводить условиями видимости планет.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 1,
+     "problem": "1. Syktyvkar and Krasnoyarsk. Calculate as accurately as possible by how much the altitudes of the culmination of the Sun in the centres of these cities will differ on the day of the round (8 April). The geographical coordinates of the centres of Syktyvkar and Krasnoyarsk are $61^\\circ40'$ N, $50^\\circ49'$ E and $56^\\circ03'$ N, $92^\\circ48'$ E respectively. The ephemeris of the Sun for April is also given.",
+     "paper_label": "Final – theoretical round (grade 9)",
+     "problem_orig": "1. Сыктывкар и Красноярск. Наиболее точно вычислите, насколько будут отличаться высоты кульминаций Солнца в центрах этих городов в день проведения тура (8 апреля). Географические координаты центров Сыктывкара и Красноярска равны $61^\\circ40'$ с.ш., $50^\\circ49'$ в.д. и $56^\\circ03'$ с.ш., $92^\\circ48'$ в.д. соответственно. Даны также эфемериды Солнца на апрель.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 2,
+     "problem": "2. Observations of Polaris. To observe Polaris a telescope is pointed in such a way that the North Celestial Pole is exactly at the edge of the field of view, and Polaris in its diurnal motion passes exactly through the centre of the field of view. The clock drive is stopped. Estimate the length of time during which Polaris will pass through the field of view from one edge to the other.",
+     "paper_label": "Final – theoretical round (grade 9)",
+     "problem_orig": "2. Наблюдения Полярной звезды. Для наблюдения Полярной звезды телескоп направлен таким образом, что Северный полюс мира находится точно на краю поля зрения, а Полярная звезда в своём суточном движении проходит точно через центр поля зрения. Часовой механизм остановлен. Оцените продолжительность времени, в течение которого Полярная звезда будет проходить через поле зрения от одного его края до другого.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 3,
+     "problem": "3. Bright Sirius. It is known that Sirius is the brightest star in our Moscow-region sky. In what other places on the Earth will Sirius also be the brightest star in the real sky of that place? Determine the boundaries of these places. Note: consider stars in their historical-classical sense – the Sun, planets, etc. are not to be taken into account.",
+     "paper_label": "Final – theoretical round (grade 9)",
+     "problem_orig": "3. Яркий Сириус. Известно, что Сириус является самой яркой звездой на нашем подмосковном небе. А в каких ещё местностях на Земле Сириус также будет являться самой яркой звездой на реальном небе этой местности? Определить границы этих местностей. Примечание: рассматривать звёзды в их историко-классическом понимании – Солнце, планеты и т.д. – не учитывать.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 4,
+     "problem": "4. 22750 stars. Rounding the apparent brightness of stars to one stellar magnitude, one can obtain that in the sky about 250 stars have the 4th magnitude (in the photographic region of the spectrum), 700 stars the fifth, 1900 the sixth, 5300 the seventh and 14600 the eighth. Stars of which magnitude (of those listed) make the greatest contribution to the total light flux?",
+     "paper_label": "Final – theoretical round (grade 9)",
+     "problem_orig": "4. 22750 звёзд. Округляя видимую яркость звёзд до одной звёздной величины, можно получить, что на небе примерно 250 звёзд имеет 4-ю звёздную величину (в фотографической области спектра), 700 звёзд – пятую, 1900 – шестую, 5300 – седьмую и 14600 – восьмую. Звёзды какой звёздной величины (из перечисленных) вносят наибольший вклад в суммарный световой поток?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 4,
+     "number": 1,
+     "problem": "7. Phases of a geostationary asteroid. Do you know that if a spherical asteroid (or the Moon) is \"hung\" above some point of the equator, that is, made a geostationary satellite, then it will be possible to determine the time from its phases!\n\n7.1. How can this be done?\n\n7.2. What must the diameter of a geostationary asteroid be so that an inhabitant of Russia could observe its phases with the naked eye?\n\n7.3. Approximately how many times more light will a geostationary Moon give compared with the ordinary one?\n\n7.4. What other consequences would placing the Moon in a geostationary orbit entail?\n\nAt present the mean distance from the Earth to the Moon is $L = 384\\,000$ km, the radius of the Earth is $R_E = 6400$ km.",
+     "paper_label": "Final – creative-practical round (grade 9)",
+     "problem_orig": "7. Фазы геостационарного астероида. Знаете ли вы, что если сферический астероид (или Луну) \"повесить\" над какой-то точкой экватора, то есть, сделать его геостационарным спутником, то по его фазам можно будет определять время!\n\n7.1. Как это можно будет сделать?\n\n7.2. Каков должен быть диаметр геостационарного астероида, чтобы житель России мог наблюдать его фазы невооружённым глазом?\n\n7.3. Примерно во сколько раз больше света будет давать геостационарная Луна по сравнению с обычной?\n\n7.4. Какие ещё последствия повлечёт за собой помещение Луны на геостационарную орбиту?\n\nСейчас среднее расстояние от Земли до Луны составляет $L = 384\\,000$ км, радиус Земли – $R_З = 6400$ км.",
+     "orig_lang": "ru"
+    }
+   ]
+  },
+  {
+   "year": 2003,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "4. The great opposition. On 28 August 2003 the great opposition of Mars will take place, during which Mars will approach the Earth to the minimum distance over a period of several centuries (0.373 a.u.), practically coinciding with the minimum possible distance between the Earth and Mars. When do you think Mars will pass the perihelion point of its orbit: before, during or after the opposition? The answer must be justified and explained with a drawing.",
+     "paper_label": "Final – theoretical round (grade 10)",
+     "problem_orig": "4. Великое противостояние. 28 августа 2003 года произойдёт великое противостояние Марса, во время которого Марс подойдёт к Земле на минимальное расстояние за период в несколько веков ($0{,}373$ а.е.), практически совпадающее с минимально возможным расстоянием между Землёй и Марсом. Как вы думаете, когда Марс пройдёт точку перигелия – до, во время или после противостояния? Ответ нужно обосновать и пояснить рисунком.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "5. Brightness of the Moon. The absolute stellar magnitude of a planet is the name given to its brightness when it is illuminated by the Sun from a distance of 1 a.u. and is observed by an observer also from a distance of 1 a.u. at zero phase angle (the observer is, as it were, at the centre of the Sun). Estimate the absolute stellar magnitude of the Moon.",
+     "paper_label": "Final – theoretical round (grade 10)",
+     "problem_orig": "5. Блеск Луны. Абсолютной звёздной величиной планеты называют её блеск для случая, когда она освещается Солнцем с расстояния 1 а.е. и наблюдается наблюдателем также с расстояния 1 а.е. при нулевом фазовом угле (наблюдатель как бы находится в центре Солнца). Оцените абсолютную звёздную величину Луны.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "6. Theft of the Moon. In the past people believed that a lunar eclipse happens because a huge celestial serpent (dragon) swallows the Moon. Incidentally, this is why the period between two passages of the Moon through the node of its orbit is called the \"draconic month\". In Bulgaria, during a lunar eclipse, men went out into the forest and shot at the Moon to frighten the serpent and make it return the Moon. What will happen if the serpent gets tired of all this and next time, when a lunar eclipse is due according to its plan, it swallows the Moon and instantly flies away with it for ever? Determine qualitatively whether the mean distance from the Earth to the Sun, and also the period of its orbital motion, will decrease or increase. Describe in detail why you have drawn this conclusion. The original orbits may be considered circular.",
+     "paper_label": "Final – theoretical round (grade 10)",
+     "problem_orig": "6. Похищение Луны. В прошлом люди верили, что лунное затмение происходит потому, что огромный небесный змей (дракон) проглатывает Луну. Кстати, поэтому и период между двумя прохождениями Луны через узел своей орбиты называется \"драконическим месяцем\". В Болгарии во время лунного затмения мужчины выходили в лес и стреляли в Луну, чтобы испугать змея и заставить его вернуть Луну обратно. Что будет, если змею всё это уже надоело и в следующий раз, когда у него по плану лунное затмение, он проглотит Луну и мгновенно улетит вместе с ней навсегда? Качественно определите, уменьшится или увеличится среднее расстояние от Земли до Солнца, а также период её орбитального движения? Подробно опишите, почему Вы сделали такой вывод. Первоначальные орбиты можно считать круговыми.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 2,
+     "number": 1,
+     "problem": "7. A globular cluster in a dwarf galaxy. The dwarf galaxy K61 (discovered in 1968 by V. Karachentseva) is one of the satellites of the giant spiral galaxy M81 in Ursa Major. How it looks is shown by an image in red light taken with the 6-m telescope of the SAO (Fig. 1); the scale of the original image is 1'' per 1 mm. K61 differs favourably from other dwarf galaxies by the presence in it of a large gas nebula (on the north-eastern edge of the bright central region of the galaxy) and of a globular cluster (in the centre). A more detailed image of the region of the globular cluster was obtained with the Hubble Space Telescope (Fig. 2). On it, besides the globular cluster (the large black spot in the centre), individual brightest stars of the galaxy are seen – red giants (small black squares). Their apparent magnitudes are $v \\sim 25$. The distance to K61 is about 3.6 Mpc.\n\nTask.\n\n- Estimate the linear size of the globular cluster and its absolute stellar magnitude. For a rough estimate of its brightness it may be considered proportional to the area lit by the source. For this not very accurate method it is possible (and reasonable) to make the estimate in whole numbers of stellar magnitudes.\n- From your estimates compare the globular cluster in K61 with the globular clusters of our Galaxy (their sizes are from a few pc to hundreds of pc, absolute stellar magnitudes $M$ from $-5$ to $-9$).\n- What, in your opinion, makes the presence in a dwarf galaxy of a globular cluster and of a gas nebula convenient for its study?\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/ru910-2003-d2-q1-1.png\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/ru910-2003-d2-q1-2.png",
+     "paper_label": "Final – creative-practical round (grade 10)",
+     "problem_orig": "7. Шаровое скопление в карликовой галактике. Карликовая галактика К61 (открыта в 1968 г В. Караченцевой) - один из спутников гигантской спиральной галактики М81 в Большой Медведице Как она выглядит, показывает снимок в красных лучах, сделанный с помощью 6-м телескопа С АО (Рис.1), масштаб исходного снимка $1''$ в 1 мм. К61 выгодно отличается от других карликовых галактик наличием в ней большой газовой туманности (на северо-восточном краю яркой центральной области галактики) и шарового скопления (в центре). Более детальный снимок района шарового скопления получен с помощью космического телескопа им Хаббла (Рис 2). На нем, кроме шарового скопления (большое черное пятно в центре), видны отдельные ярчайшие звезды галактики - красные гиганты (маленькие черные квадратики). Их видимые величины $v \\sim 25$ Расстояние до К61 составляет около 3,6 Мпк.\n\nЗадание.\n\n- Оцените линейный размер шарового скопления и его абсолютную звездную величину. Для приблизительной оценки яркости ее можно считать пропорциональной площади, засвеченной источником. Для этого не очень точного метода оценку можно (и разумно) производить в целых числах звездных величин.\n- По полученным Вами оценкам сравните шаровое скопление в К61 с шаровыми скоплениями нашей Галактики (их размеры от нескольких пс до сотен пс, абсолютные звездные величины $M$ - от $-5$ до $-9$)\n- Чем, по-вашему, для исследования карликовой галактики удобно присутствие в ней шарового скопления и газовой туманности?\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/ru910-2003-d2-q1-1.png\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/ru910-2003-d2-q1-2.png",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 1,
+     "problem": "1. Martian astronomers. At a certain level of development of the Martian civilization the scientists of that planet began to measure distances. Will their measurements:\n\na) to the planets of the Solar System,\n\nb) to the nearest stars,\n\nbe more or less accurate in comparison with the measurements of the Earthlings (at the same level of development of the civilizations, assuming only the beginning of the corresponding measurements)? Assume that the development of the sciences of the Earth and Martian civilizations followed approximately the same path.",
+     "paper_label": "Final – theoretical round (grade 9)",
+     "problem_orig": "1. Марсианские звездочёты. На определённом уровне развития марсианской цивилизации учёные этой планеты стали измерять расстояния. Более или менее точными будут их измерения:\n\nа) до планет Солнечной системы.\n\nб) до ближайших звёзд.\n\nпо сравнению с измерениями землян (на одинаковом уровне развития цивилизаций, предполагающем только начало соответствующих измерений)? Считайте, что развитие наук земной и марсианской цивилизаций шло по примерно одинаковому пути.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 2,
+     "problem": "2. Astronomical twilight. At what latitude does the southern boundary pass of the territory within which, at least one night a year, astronomical twilight does not end (the centre of the Sun does not go below the horizon by more than $18^\\circ$)? The plane of the celestial equator is inclined to the ecliptic by the angle $\\varepsilon = 23^\\circ 26'$. What cities are located approximately at this latitude?",
+     "paper_label": "Final – theoretical round (grade 9)",
+     "problem_orig": "2. Астрономические сумерки. На какой широте проходит южная граница территории, в пределах которой хотя бы одну ночь в году не прекращаются астрономические сумерки (центр Солнца не опускается под горизонт ниже, чем на $18^\\circ$)? Плоскость небесного экватора наклонена к эклиптике на угол $\\varepsilon = 23^\\circ 26'$. Какие города находятся примерно на этой широте?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 3,
+     "problem": "3. The 20th century. The beginning. A popular-science booklet published at the very beginning of the last century says that \"according to the latest measurements of Russian scientists the speed of light is 420 million arshins per second, the mean density of the Earth is 1.2 pounds per cubic vershok, and the mean distance from the Earth to the most distant known planet of the Solar System is about 4 billion versts\". How accurate a result did these \"latest measurements\" give, that is, by what factor or by how many percent did the Russian scientists err in each case?",
+     "paper_label": "Final – theoretical round (grade 9)",
+     "problem_orig": "3. XX век. Начало. В научно-популярной брошюре, изданной в самом начале прошлого века, сказано, что \"по последним измерениям русских учёных скорость света равна 420 миллионам аршинов в секунду, средняя плотность Земли составляет $1{,}2$ фунта на кубический вершок, а среднее расстояние от Земли до самой далёкой известной планеты Солнечной системы – около 4 миллиардов вёрст\". Насколько точный результат дали эти \"последние измерения\", то есть, во сколько раз или на сколько процентов ошиблись русские учёные в каждом случае?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 4,
+     "problem": "6. Visibility of planets. During the greatest eastern elongation of Mercury, with an interval of one day, three events occur in succession: the conjunction of Mercury and Jupiter, the conjunction of Mercury and Venus, the conjunction of Venus and Jupiter. Which of these three planets (Mercury, Venus, Jupiter) will it be possible to see in the evening sky a month later?",
+     "paper_label": "Final – theoretical round (grade 9)",
+     "problem_orig": "6. Видимость планет. Во время наибольшей восточной элонгации Меркурия с интервалом в один день происходят последовательно три явления: соединение Меркурия и Юпитера, соединение Меркурия и Венеры, соединение Венеры и Юпитера. Какие из этих трёх планет (Меркурий, Венера, Юпитер) удастся увидеть на вечернем небе через месяц?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 4,
+     "number": 1,
+     "problem": "7. Orbits. You are given a sheet of paper on which a circle and a table of the maximum elongations of Venus and Mercury are drawn.\n\n7.1. Considering the drawn circle to be the orbit of the Earth and using the attached table of maximum elongations, construct the orbits of Venus and Mercury.\n\n7.2. Estimate the radii of the obtained orbits in astronomical units.\n\nTable: Greatest elongations of Mercury and Venus.\n\n$$\\begin{array}{|c|c|c|}\\hline \\multicolumn{3}{|c|}{\\text{Mercury: 1989–1990}} \\\\ \\hline \\text{Date} & \\text{East} & \\text{West} \\\\ \\hline 8\\ \\text{Jan } 89 & 19^\\circ & \\\\ 18\\ \\text{Feb } 89 & & 26^\\circ \\\\ 30\\ \\text{Apr } 89 & 21^\\circ & \\\\ 18\\ \\text{Jun } 89 & & 23^\\circ \\\\ 28\\ \\text{Aug } 89 & 27^\\circ & \\\\ 10\\ \\text{Oct } 89 & & 18^\\circ \\\\ 22\\ \\text{Dec } 89 & 20^\\circ & \\\\ 1\\ \\text{Feb } 90 & & 25^\\circ \\\\ 13\\ \\text{Apr } 90 & 20^\\circ & \\\\ 31\\ \\text{May } 90 & & 25^\\circ \\\\ 11\\ \\text{Aug } 90 & 27^\\circ & \\\\ 24\\ \\text{Sep } 90 & & 18^\\circ \\\\ 5\\ \\text{Dec } 90 & 21^\\circ & \\\\ \\hline \\end{array}$$\n\n$$\\begin{array}{|c|c|c|}\\hline \\multicolumn{3}{|c|}{\\text{Venus: 1983–1990}} \\\\ \\hline \\text{Date} & \\text{East} & \\text{West} \\\\ \\hline 15\\ \\text{Jun } 83 & 45^\\circ & \\\\ 4\\ \\text{Nov } 83 & & 47^\\circ \\\\ 21\\ \\text{Jan } 85 & 47^\\circ & \\\\ 12\\ \\text{Jun } 85 & & 46^\\circ \\\\ 26\\ \\text{Aug } 86 & 46^\\circ & \\\\ 15\\ \\text{Jan } 87 & & 47^\\circ \\\\ 2\\ \\text{Apr } 88 & 46^\\circ & \\\\ 22\\ \\text{Aug } 88 & & 46^\\circ \\\\ 8\\ \\text{Nov } 89 & 47^\\circ & \\\\ 30\\ \\text{Mar } 90 & & 46^\\circ \\\\ \\hline \\end{array}$$",
+     "paper_label": "Final – creative-practical round (grades 8–9)",
+     "problem_orig": "7. Орбиты. Вам дан лист бумаги, на котором изображена окружность и таблица максимальных элонгации Венеры и Меркурия.\n\n7.1. Считая нарисованную окружность орбитой Земли и пользуясь прилагаемой таблицей максимальных элонгации, построить орбиты Венеры и Меркурия.\n\n7.2. Оценить радиусы полученных орбит в астрономических единицах.\n\nТаблица: Наибольшие элонгации Меркурия и Венеры.\n\n$$\\begin{array}{|c|c|c|}\\hline \\multicolumn{3}{|c|}{\\text{Меркурий: 1989–1990}} \\\\ \\hline \\text{Дата} & \\text{Вост.} & \\text{Зап.} \\\\ \\hline 8\\ \\text{янв. } 89 & 19^\\circ & \\\\ 18\\ \\text{фев. } 89 & & 26^\\circ \\\\ 30\\ \\text{апр. } 89 & 21^\\circ & \\\\ 18\\ \\text{июн. } 89 & & 23^\\circ \\\\ 28\\ \\text{авг. } 89 & 27^\\circ & \\\\ 10\\ \\text{окт. } 89 & & 18^\\circ \\\\ 22\\ \\text{дек. } 89 & 20^\\circ & \\\\ 1\\ \\text{фев. } 90 & & 25^\\circ \\\\ 13\\ \\text{апр. } 90 & 20^\\circ & \\\\ 31\\ \\text{май } 90 & & 25^\\circ \\\\ 11\\ \\text{авг. } 90 & 27^\\circ & \\\\ 24\\ \\text{сен. } 90 & & 18^\\circ \\\\ 5\\ \\text{дек. } 90 & 21^\\circ & \\\\ \\hline \\end{array}$$\n\n$$\\begin{array}{|c|c|c|}\\hline \\multicolumn{3}{|c|}{\\text{Венера: 1983–1990}} \\\\ \\hline \\text{Дата} & \\text{Вост.} & \\text{Зап.} \\\\ \\hline 15\\ \\text{июн. } 83 & 45^\\circ & \\\\ 4\\ \\text{ноя. } 83 & & 47^\\circ \\\\ 21\\ \\text{янв. } 85 & 47^\\circ & \\\\ 12\\ \\text{июн. } 85 & & 46^\\circ \\\\ 26\\ \\text{авг. } 86 & 46^\\circ & \\\\ 15\\ \\text{янв. } 87 & & 47^\\circ \\\\ 2\\ \\text{апр. } 88 & 46^\\circ & \\\\ 22\\ \\text{авг. } 88 & & 46^\\circ \\\\ 8\\ \\text{ноя. } 89 & 47^\\circ & \\\\ 30\\ \\text{мар. } 90 & & 46^\\circ \\\\ \\hline \\end{array}$$",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 4,
+     "number": 2,
+     "problem": "8. Cloudy sky. Suppose that a civilization developed on the Earth under a cloudy sky, that is, people never saw even a patch of clear sky. For example, the cloudiness is always the same as it was on 6 April 2003 in Kursk (on the day of the theoretical round). What basic astronomical knowledge would become available to scientists, and what observational means would be created (or used) in these conditions:\n\n8.1. In ancient times?\n\n8.2. In the late Middle Ages and modern times (that is, up to and including the 19th century)?\n\n8.3. At the present time?\n\nAssume that this has not affected all the other branches of knowledge. The answers, naturally, must be justified.",
+     "paper_label": "Final – creative-practical round (grades 8–9)",
+     "problem_orig": "8. Облачное небо. Предположим, что цивилизация развивалась на Земле под облачным небом, то есть даже кусочка чистого неба люди никогда не видели. Например, облачность всё время такая, как была 6 апреля 2003 года в Курске (в день теоретического тура). Какие основные астрономические знания стали бы доступны учёным и какие наблюдательные средства были бы созданы (или использованы) в этих условиях:\n\n8.1. В античное время?\n\n8.2. В позднее средневековье и Новое время (т.е. по XIX век включительно)?\n\n8.3. В настоящее время?\n\nСчитайте, что на все остальные разделы знаний это не повлияло. Ответы, естественно, надо обосновать.",
+     "orig_lang": "ru"
+    }
+   ]
+  },
+  {
+   "year": 2004,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "1. A globular cluster. A globular star cluster has an age of about 10 billion years, a radius of 30 pc and consists of a million stars. Estimate the characteristic relative velocities of the stars of the cluster.",
+     "paper_label": "Final – theoretical round (grade 10)",
+     "problem_orig": "1. Шаровое скопление. Шаровое звездное скопление имеет возраст около 10 миллиардов лет, радиус 30 пк и состоит из миллиона звёзд. Оцените характерные относительные скорости звёзд скопления.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "2. New Moons. An inhabitant of a planetary system that is observed from the Earth near the plane of the ecliptic continuously follows our Moon through a powerful telescope for one Earth year and tracks the change of its phases. How many new Moons will the observer count over this period?",
+     "paper_label": "Final – theoretical round (grade 10)",
+     "problem_orig": "2. Новолуния. Житель одной планетной системы, которая наблюдается с Земли вблизи плоскости эклиптики, непрерывно в течение земного года следит в мощный телескоп за нашей Луной и отслеживает смену её фаз. Сколько новолуний насчитает наблюдатель за этот период?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "3. Kinetic energy. The Sun is about 1050 thousand times more massive than Jupiter. Under their mutual attraction both bodies revolve about their common centre of mass. Which body has the greater kinetic energy of orbital motion, and by what factor? Justify your answer. Neglect the influence of the other planets on the motion of the Sun and Jupiter.",
+     "paper_label": "Final – theoretical round (grade 10)",
+     "problem_orig": "3. Кинетическая энергия. Солнце примерно в 1050 тысяч раз массивнее Юпитера. Оба тела под действием взаимного притяжения обращаются вокруг общего центра масс. Какое тело обладает большей кинетической энергией орбитального движения и во сколько раз? Ответ обоснуйте. Влиянием других планет на движение Солнца и Юпитера не учитывать.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "4. Orbital period of a planet. The central star of a planetary system is a red giant with temperature $T_1 = 4500$ K, radius $R_1 = 15R_q$, where $R_q$ is the radius of the Sun, and mass $M = 1.4\\,M_q$, where $M_q$ is the mass of the Sun. Determine the orbital period of a planet whose climate is the same as on the Earth.",
+     "paper_label": "Final – theoretical round (grade 10)",
+     "problem_orig": "4. Период обращения планеты. Центральная звезда планетной системы – красный гигант с температурой $T_1 = 4500$ К, радиусом $R_1 = 15R_q$, где $R_q$ − радиус Солнца и массой $M = 1{,}4\\,M_q$, где $M_q$ − масса Солнца. Определите, период обращения планеты, климат которой такой же, как на Земле.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "5. Magnitude of the Moon. By how much can the stellar magnitude of the full Moon differ?",
+     "paper_label": "Final – theoretical round (grade 10)",
+     "problem_orig": "5. Звездная величина Луны. Насколько может различаться звездная величина Луны в полнолуние?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 2,
+     "number": 1,
+     "problem": "7. Landscape. The presented landscape with many suns is the result of multiple exposure. The shutter of the camera was opened for a short time every hour, namely at every NN\"00\" Moscow time. A wide-angle lens was used.\n\nDetermine the approximate date of the photographing, if the picture was taken in this (2004) year.\n\nDetermine the latitude of the place where the photographing was done.\n\nWhat can you say about the longitude of the place?\n\nIs it necessary to take refraction into account when solving the problem?\n\nIs it necessary to take aberration (nonlinearity of the optics) into account when solving the problem?\n\n[The photograph is not reproduced here (its author is not credited in the paper). It is on page 1 of the official paper: http://www.astroolymp.ru/2004/files/prob2004prac.pdf]",
+     "paper_label": "Final – practical round (grades 9–10)",
+     "problem_orig": "7. Пейзаж. Представленный пейзаж с множеством солнц – результат многократного экспонирования. Объектив фотоаппарата открывался на короткое время через каждый час, а именно, в каждые NN\"00\" Московского времени Использован широкоугольный объектив.\n\nОпределить примерную дату фотографирований, если снимок был сделан в этом (2004) году.\n\nОпределить широту местности, где произведено фотографирование.\n\nЧто Вы можете сказать о долготе местности?\n\nНужно ли учитывать рефракцию при выполнении задачи?\n\nНужно ли учитывать аберрацию (нелинейность оптики) при выполнении задачи?\n\n[Фотография здесь не воспроизводится (её автор не указан в задании). Она на странице 1 официального задания: http://www.astroolymp.ru/2004/files/prob2004prac.pdf]",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 2,
+     "number": 2,
+     "problem": "8. Radio sources. You are given a graphical presentation of the results of observations of a region of the sky in the interval of right ascensions $1^\\mathrm{h} < \\alpha_{1950} < 2^\\mathrm{h}$, made with the multi-beam antenna BSA FIAN (Pushchino Radio Astronomy Observatory). The observations were made at a wavelength of 3 m. Each of the given curves is a cut of the indicated region of the sky by one of the \"beams\" of the antenna, whose centre corresponds to a constant declination. The values of these declinations are given in the figure on the right. Because the characteristic sizes of all the \"beams\" are rather large, about 20 arcminutes in declination and more than 1 degree (or $5^\\mathrm{m}$ at the given declination) in right ascension, all radio sources on the obtained records look like bell-shaped functions of right ascension, which are noticeable, as a rule, on two or three neighbouring curves. The position of the maximum of this function corresponds to the coordinates of the radio source, and the value of the maximum to its flux.\n\nAll radio sources visible on this record \"with the naked eye\" (more precisely, without careful processing) can be identified with radio sources from the 4th Cambridge (4C) catalogue, obtained from observations at a wavelength of 1.7 m. Try to make as many such identifications as possible, using for this the sample of radio sources from the 4C catalogue given below. Number the radio sources you have found in the figure and in the table of identifications compiled by you (the form of such a table is attached) indicate, besides the serial number of the radio source, its \"name\" in the 4C catalogue, the approximate coordinates and the flux (more precisely, the amplitude of the record in Jy - the scale in the figure is attached) obtained by you from the figure.\n\nNote: the fluxes of the radio sources at wavelengths of 1.7 m and 3 m differ, therefore the amplitudes on the record should not be proportional to the flux values given in the 4C catalogue. The coordinates measured by you may also differ somewhat from the tabular values, since some comparatively small systematic errors are not taken into account here. We warn you: in the attached list of radio sources of the 4C catalogue there are false sources, for the identification with which penalty points may be awarded.",
+     "paper_label": "Final – practical round (grades 9–10)",
+     "problem_orig": "8. Радиоисточники. Перед Вами графическое изображение результатов наблюдений участка неба в интервале прямых восхождений $1^\\mathrm{h} < \\alpha_{1950} < 2^\\mathrm{h}$, выполненных на многолучевой антенне БСА ФИАН (Пущинская радиоастрономическая обсерватория). Наблюдения проводились на волне 3 м. Каждая из приведенных кривых представляет собой разрез указанного участка неба одним из «лучей» антенны, центр которого соответствует постоянному склонению. Значения этих склонений приведены на рисунке справа. Ввиду того, что характерные размеры всех «лучей» довольно велики и составляют около 20 угловых минут по склонению и более 1 градуса (или $5^\\mathrm{m}$ на данном склонении) по прямому восхождению, все радиоисточники на полученных записях выглядят в виде колоколообразнык функций прямого восхождения, которые заметны, как правило, на двух или трёх соседних кривых. Положение максимума этой функции соответствует координатам радиоисточника, а величина максимума – потоку его излучения.\n\nВсе видимые на этой записи «невооруженным глазом» (точнее, без тщательной обработки) радиоисточники можно отождествить с радиоисточниками из 4-го кембриджского (4С) каталога, полученного по наблюдениям на волне 1,7 м. Попробуйте сделать как можно больше таких отождествлений, используя для этого приведённую ниже выборку радиоисточников из 4С-каталога. Пронумеруйте на рисунке найденные Вами радиоисточники и в составленной Вами таблице отождествлений (форма такой таблицы прилагается) укажите, помимо порядкового номера радиоисточника, его «имя» по каталогу 4С, примерные координаты и поток (точнее, амплитуду записи в Ян - шкала на рисунке прилагается), полученные Вами из рисунка.\n\nПримечание; потоки излучения радиоисточников на волнах 1,7 м и З м различаются, поэтому и амплитуды на записи не должны быть пропорциональны приведенным в 4С-каталоге значениям потоков. Измеренные Вами координаты тоже могут несколько отличаться от табличных значений, поскольку здесь не учтены некоторые, сравнительно небольшие, систематические ошибки Предупреждаем: в прилагаемом списке радиоисточников 4С-каталога есть ложные источники, за отождествление с которыми могут быть начислены штрафные баллы.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 1,
+     "problem": "1. Constellations near Moscow.\n\n\"You glance at the sky in the night hours –\nIn the sky are the Bear and the Hunting Dogs,\nThe Crow and the Fishes, the Crab and the Dragon.\nSo many constellations, so many names.\"\n\nPerhaps you have met this poem before. Think whether all these constellations can be observed in Pushchino (that is, in the southern Moscow region, at latitude $+55^\\circ$) simultaneously. If not, what is the maximum number of these constellations that can be seen in our sky at one moment?",
+     "paper_label": "Final – theoretical round (grade 9)",
+     "problem_orig": "1. Созвездия в Подмосковье.\n\n«Глянешь на небо в ночные часы –\nВ небе Медведица и Гончие Псы,\nВорон и Рыбы, Рак и Дракон.\nСколько созвездий, сколько имен».\n\nВозможно, это стихотворение встречалось вам и раньше. Подумайте, можно ли наблюдать все эти созвездия в Пущино (то есть, в Южном Подмосковье, на широте $+55^\\circ$), одновременно? Если нет, то какое максимальное число из этих созвездий можно увидеть на нашем небе в один момент?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 2,
+     "problem": "2. Full Moons. An inhabitant of a planetary system that is observed from the Earth near the plane of the ecliptic continuously follows our Moon through a powerful telescope for one Earth year and tracks the change of its phases. How many full Moons will he count over this period?",
+     "paper_label": "Final – theoretical round (grade 9)",
+     "problem_orig": "2. Полнолуния. Житель одной планетной системы, которая наблюдается с Земли вблизи плоскости эклиптики, непрерывно в течение земного года следит в мощный телескоп за нашей Луной и отслеживает смену её фаз. Сколько полнолуний он насчитает за этот период?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 3,
+     "problem": "4. The New Julian calendar. At the beginning of the 20th century a number of countries in which the Julian calendar was then used (Russia, Greece, Serbia, Bulgaria) considered a project of introducing in their countries a more accurate calendar, the so-called \"New Julian calendar\". Compared with the Gregorian calendar, in the New Julian one the alternation of leap and non-leap years is simpler: 31 years out of 128 are leap years, that is, every fourth (4th, 8th, 12th, 16th, ...) except every 128th (128th, 256th, 384th, 512th, ...).\n\nCalculate by how much (that is, by what factor) the New Julian calendar is more or less accurate than the Gregorian calendar used at present. The length of the tropical year is 365.242190 days.\n\nNote. By the inaccuracy of a calendar is meant the gradual \"drift\" of the dates of the beginning of the seasons (for example, the date of the vernal equinox) with time. The calendar is the more accurate, the longer the period of time after which an additional correction (an additional leap year or, on the contrary, a non-leap year) has to be introduced so that the days of the beginning of the seasons do not \"slip\".",
+     "paper_label": "Final – theoretical round (grade 9)",
+     "problem_orig": "4. Новоюлианский календарь. В начале XX века ряд стран, в которых в то время использовался Юлианский календарь (Россия, Греция, Сербия, Болгария), рассматривали проект введения в своих странах более точного календаря, так называемого \"Новоюлианского календаря\". По сравнению с Григорианским календарём, в Новоюлианском чередование високосных и невисокосных годов проще: вискосными являются 31 из 128 лет, то есть каждый четвёртый (4-й, 8-й, 12-й, 16-й…) за исключением каждого 128-го (128-й, 256-й, 384-й, 512-й…).\n\nВычислите, насколько (то есть, во сколько раз) более или менее точным является Новоюлианский календарь по сравнению с используемым ныне Григорианским. Длина тропического года составляет $365{,}242190$ суток.\n\nПримечание. Под понятием неточности календаря подразумевается постепенное «сползание» дат начала сезонов (например, даты весеннего равноденствия) со временем. Календарь тем точнее, чем дольше период времени, после которого нужно вводить дополнительную коррекцию (дополнительный високосный, или, наоборот, невисокосный год), дабы дни начала сезонов «не съезжали».",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 4,
+     "problem": "5. Pioneer 10. The first interplanetary probe launched into the outer region of the Solar System was Pioneer 10 (NASA, USA), which left the Earth on 3 March 1972. On 3 December 1973 this probe passed Jupiter and, having increased its speed through the attraction of the giant planet, set off towards the boundaries of the Solar System. In the early 1980s one of the newspapers reported that:\n\n\"Pioneer 10, having covered about 5.6 billion km, crossed the orbit of Pluto on 25 April 1983, and the orbit of Neptune on 13 June 1983.\"\n\nWhat errors or inaccuracies did this newspaper make, and what may correspond to reality? Give a detailed answer.",
+     "paper_label": "Final – theoretical round (grade 9)",
+     "problem_orig": "5. Пионер-10. Первым межпланетным аппаратом, запущенным во внешнюю область Солнечной системы, был «Пионер-10» (НАСА США), стартовавший с Земли 3 марта 1972 года. Этот зонд 3 декабря 1973 года прошел мимо Юпитера и, увеличив за счет притяжения гигантской планеты свою скорость, отправился к границам Солнечной системы. В начале 1980-х годов одна из газет сообщила, что:\n\n“Пионер-10”, пройдя около 5,6 млрд. км, 25 апреля 1983г. пересек орбиту Плутона, а 13 июня 1983 г. – орбиту Нептуна.\n\nКакие ошибки или неточности допустила эта газета, и что, может быть, соответствует реальности? Дайте развернутый ответ.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 5,
+     "problem": "6. Sporadic meteors. Being in the middle belt of Russia, an observer measures at every clear midnight the mean speed of sporadic meteors. Will this speed change during the year, and if so, in which season will it reach its maximum?\n\nNote. Sporadic meteors are random meteors, that is, those that do not belong to any meteor shower.",
+     "paper_label": "Final – theoretical round (grade 9)",
+     "problem_orig": "6. Спорадические метеоры. Находясь в средней полосе России, наблюдатель в каждую ясную полночь измеряет среднюю скорость спорадических метеоров. Будет ли эта скорость меняться в течение года, и если да, то в какой сезон она достигнет максимума?\n\nПримечание. Спорадическими называются случайные метеоры, то есть не принадлежащие ни одному метеорному потоку.",
+     "orig_lang": "ru"
+    }
+   ]
+  },
+  {
    "year": 2005,
    "problems": [
     {
