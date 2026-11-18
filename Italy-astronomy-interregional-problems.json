@@ -1,0 +1,855 @@
+{
+ "competition": "Italy — Campionati Italiani di Astronomia (formerly Olimpiadi Italiane di Astronomia), interregional round (Gara Interregionale), Senior and Master categories",
+ "years": [
+  {
+   "year": 2007,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "One night, an astronomer patiently observes the apparent course of the stars. He notes that all the stars with the same right ascension rise at the same time. Where is the astronomer?",
+     "paper_label": "Interregional round (Senior)",
+     "problem_orig": "Una notte, un astronomo osserva pazientemente il corso apparente delle stelle. Nota che tutte le stelle con la stessa ascensione retta sorgono contemporaneamente. Dove si trova l'astronomo?",
+     "orig_lang": "it"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "We have a telescope with diameter $D = 150$ mm and focal length $F = 1200$ mm. To observe visually with this instrument, we have three eyepieces with focal lengths $F_1 = 5$ mm, $F_2 = 15$ mm and $F_3 = 30$ mm. What magnifications do we obtain with these eyepieces?",
+     "paper_label": "Interregional round (Senior)",
+     "problem_orig": "Abbiamo un telescopio che ha diametro $D = 150$ mm e lunghezza focale $F = 1200$ mm. Per osservare visualmente con questo strumento, disponiamo di tre oculari che hanno lunghezza focale $F_1 = 5$ mm, $F_2 = 15$ mm ed $F_3 = 30$ mm. Quanti ingrandimenti otteniamo con questi oculari?",
+     "orig_lang": "it"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "In the Virgo cluster of galaxies, the mean density of galaxies is 30 galaxies per cubic megaparsec (30 gal $\\cdot$ Mpc$^{-3}$). Estimate the mean distance $D_M$ in megaparsecs between the galaxies of this cluster.",
+     "paper_label": "Interregional round (Senior)",
+     "problem_orig": "Nell'ammasso di galassie della Vergine, la densità media di galassie è di 30 galassie per megaparsec cubico (30 gal$\\cdot$Mpc$^{-3}$). Stimate la distanza media $D_M$ in megaparsec fra le galassie di quest'ammasso.",
+     "orig_lang": "it"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "According to current models, the Sun will have a \"life\" (here meant as the time spent in the main-sequence phase) of about 10 billion years. How long would its life last instead if it had a mass 10% greater than its real value? And if it had a mass 10% smaller?\n\nThe candidate should rely on the mass-luminosity relation, according to which the luminosity is approximately proportional to the fourth power of the mass, and on the fact that the energy produced in nuclear reactions is directly proportional to the amount of matter present.",
+     "paper_label": "Interregional round (Senior)",
+     "problem_orig": "Secondo gli attuali modelli, il Sole avrà una \"vita\" (qui intesa come il periodo di permanenza nella fase di sequenza principale) di circa 10 miliardi di anni. Quanto durerebbe invece la sua vita se avesse una massa del 10 % superiore al suo reale valore? E se avesse una massa del 10 % inferiore?\n\nIl candidato si basi sulla relazione massa-luminosità, secondo la quale la luminosità è approssimativamente proporzionale alla quarta potenza della massa, e sul fatto che l'energia prodotta nelle reazioni nucleari è direttamente proporzionale alla quantità di materia presente.",
+     "orig_lang": "it"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "Consider two stars, of magnitude 3 and 10 respectively. With a certain telescope a photograph of the first star is taken, with an exposure time of 10 seconds. If one wants to take a photograph of the second star, how long must the exposure time be if one wants this second star to appear, in the photograph, as bright as the first?\n\nConsider Pogson's law in the simplified form $m = -2.5 \\log_{10} (F/F_0)$, in which $F$ is the amount of light measured in 1 second of exposure and $F_0$ is the amount of light corresponding to a star of magnitude 0. Clearly one can write $F = F_0 \\cdot 10^{-0.4\\,m}$. Consider also that the amount of light recorded is proportional to the exposure time.",
+     "paper_label": "Interregional round (Senior)",
+     "problem_orig": "Si considerino due stelle, di magnitudine 3 e 10 rispettivamente. Con un certo telescopio viene scattata una foto della prima stella, con un tempo di esposizione di 10 secondi. Volendo scattare una foto alla seconda stella, quanto dovrà essere il tempo di esposizione, se si vuole che questa seconda stella appaia, sulla foto, brillante come la prima?\n\nSi consideri la legge di Pogson nella forma semplificata in cui $m = -2.5 \\log_{10} (F/F_0)$, in cui $F$ è la quantità di luce misurata in 1 secondo di posa ed $F_0$ è la quantità di luce corrispondente ad una stella di magnitudine 0. Evidentemente si può scrivere $F = F_0 \\cdot 10^{-0.4\\,m}$. Si consideri inoltre che la quantità di luce registrata è proporzionale al tempo di posa.",
+     "orig_lang": "it"
+    }
+   ]
+  },
+  {
+   "year": 2008,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "Calculate the orbital speed of the Moon around the Earth in km/s, knowing that the mean distance between the two bodies is $R = 384000$ km and that the time taken by the Moon to make a complete turn of $360^\\circ$ around the Earth is $P = 27.32$ days. In the calculations assume that the lunar orbit is perfectly circular.",
+     "paper_label": "Interregional round (Senior)",
+     "problem_orig": "Calcolate la velocità orbitale della Luna intorno alla Terra in km/s sapendo che la distanza media tra i due astri è di $R = 384.000$ km e che il tempo impiegato dalla Luna per fare un giro completo di $360^\\circ$ intorno alla Terra è $P = 27{,}32$ giorni. Nei calcoli si supponga che l'orbita lunare sia perfettamente circolare.",
+     "orig_lang": "it"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "Is it possible to observe that, during the same night, a certain star transits twice across the meridian? If so, under what circumstances?",
+     "paper_label": "Interregional round (Senior)",
+     "problem_orig": "E' possibile osservare che nel corso della medesima notte una certa stella transiti due volte al meridiano? Se sì, in quali circostanze?",
+     "orig_lang": "it"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "The planet Jupiter is at opposition when the Sun, the Earth and Jupiter are aligned in this order. Knowing that the revolution period of the Earth around the Sun is $T_\\mathrm{Earth} = 1$ year and that of Jupiter around the Sun is $T_\\mathrm{Jupiter} = 11.9$ years, calculate the time interval between two consecutive oppositions of Jupiter.",
+     "paper_label": "Interregional round (Senior)",
+     "problem_orig": "Il pianeta Giove si trova in opposizione quando il Sole, la Terra e Giove si trovano allineati in quest'ordine. Sapendo che il periodo di rivoluzione della Terra attorno al Sole è $T_\\mathrm{TERRA} = 1$ anno e che quello di Giove attorno al Sole è $T_\\mathrm{GIOVE} = 11{,}9$ anni, calcolate l'intervallo di tempo tra due opposizioni consecutive di Giove.",
+     "orig_lang": "it"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "What is the total apparent magnitude of a double star whose individual components have magnitudes $m_1 = +1.0$ and $m_2 = +2.0$?",
+     "paper_label": "Interregional round (Senior)",
+     "problem_orig": "Qual'è la magnitudine apparente complessiva di una stella doppia le cui singole componenti hanno magnitudini $m_1 = +1.0$ ed $m_2 = +2.0$ ?",
+     "orig_lang": "it"
+    }
+   ]
+  },
+  {
+   "year": 2009,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "An unresolved binary system consists of a star of constant luminosity and a variable star. If they were observed individually, the apparent magnitude of the constant-luminosity star would be $m_c = 4.00$, while the magnitude of the variable star would oscillate between $m_1 = 5.00$ and $m_2 = 4.00$. Calculate the apparent magnitudes of the binary system when the variable star is at maximum and when it is at minimum brightness.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/itir-2009-d1-q1-1.png",
+     "paper_label": "Interregional round (Senior)",
+     "problem_orig": "Un sistema binario non risolto è costituito da una stella di luminosità costante e da una stella variabile. Se venissero osservate singolarmente, la magnitudine apparente della stella di luminosità costante sarebbe pari a $m_c = 4.00$ mentre la magnitudine della stella variabile oscillerebbe tra $m_1 = 5.00$ e $m_2 = 4.00$. Si calcolino le magnitudini apparenti del sistema binario quando la stella variabile è al massimo e quando è al minimo di luminosità.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/itir-2009-d1-q1-1.png",
+     "orig_lang": "it"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "The apparent magnitude of Sirius is $m = -1.46$. If its distance were 1000 times greater, would Sirius still be visible to the naked eye?\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/itir-2009-d1-q2-1.png",
+     "paper_label": "Interregional round (Senior)",
+     "problem_orig": "La magnitudine apparente di Sirio è $m = -1{,}46$. Se la sua distanza fosse 1000 volte più grande, Sirio sarebbe ancora visibile ad occhio nudo?\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/itir-2009-d1-q2-1.png",
+     "orig_lang": "it"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "You are on the surface of an unknown planet that has the same radius as the Earth. You observe that a body dropped downwards falls 18.34 metres in 0.5 seconds. Determine the mass of the unknown planet in kg, knowing that the mass of the Earth is $M_T = 5.97 \\cdot 10^{24}$ kg. Knowing also that on Earth the density of uranium is about 19 g/cm$^3$ and that of osmium (the densest element found in nature) is about 22.6 g/cm$^3$, what do you think the unknown planet might be made of?\n\n[The illustration is not reproduced here (its author is not credited in the paper). It is on page 3 of the official paper: https://www.campionatiastronomia.it/wp-content/uploads/2009-regionale-senior.pdf]",
+     "paper_label": "Interregional round (Senior)",
+     "problem_orig": "Vi trovate sulla superficie di un pianeta sconosciuto che ha lo stesso raggio della Terra. Osservate che lasciando cadere un corpo verso il basso questo percorre 18.34 metri in 0.5 secondi. Determinate la massa del pianeta sconosciuto in kg sapendo che la massa della Terra vale $M_T = 5.97 \\cdot 10^{24}$ kg. Sapendo inoltre che sulla Terra la densità dell'Uranio è di circa 19 g/cm$^3$ e quella dell'Osmio (l'elemento più denso presente in natura) è di circa 22.6 g/cm$^3$, da cosa pensate possa essere costituito il pianeta sconosciuto ?\n\n[L'illustrazione non è riprodotta qui (autore non indicato nel testo). Si trova a pagina 3 del testo ufficiale: https://www.campionatiastronomia.it/wp-content/uploads/2009-regionale-senior.pdf]",
+     "orig_lang": "it"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "The Sun illuminates the Earth and the other planets with its light, whether visible or not. Would a planet at twice the distance from the Sun of the Earth receive more or less light energy from the Sun? Explain why. In giving your answer, take into account that the Sun emits its light in all directions and not only on the plane of the Solar System.\n\n[The illustration is not reproduced here (its author is not credited in the paper). It is on page 4 of the official paper: https://www.campionatiastronomia.it/wp-content/uploads/2009-regionale-senior.pdf]",
+     "paper_label": "Interregional round (Senior)",
+     "problem_orig": "Il Sole illumina la Terra e gli altri pianeti con la sua luce, sia essa visibile o non visibile. Un pianeta che si trovasse a distanza dal Sole doppia di quella della Terra, riceverebbe più o meno energia luminosa dal Sole? Spiegate perché. Nel precisare la risposta, si tenga conto che il Sole emette la sua luce in tutte le direzioni e non solo sul piano del Sistema Solare.\n\n[L'illustrazione non è riprodotta qui (autore non indicato nel testo). Si trova a pagina 4 del testo ufficiale: https://www.campionatiastronomia.it/wp-content/uploads/2009-regionale-senior.pdf]",
+     "orig_lang": "it"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "Calculate the mean distance between two stars of a galaxy and show that it is much larger than the diameter of a star. Assume that:\n\n(a) the galaxy has spherical symmetry;\n(b) the number of stars of the galaxy is $N = 10^{11}$;\n(c) the diameter of the galaxy is $D_\\mathrm{gal} = 30$ kpc;\n(d) the typical diameter of a star inside the galaxy is $D_\\mathrm{star} = 1.4 \\cdot 10^{11}$ cm.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/itir-2009-d1-q5-1.png",
+     "paper_label": "Interregional round (Senior)",
+     "problem_orig": "Calcolare la distanza media tra due stelle di una galassia e mostrare che essa è molto più grande del diametro di una stella. Si assuma che:\n\na) la galassia abbia una simmetria sferica;\nb) il numero di stelle della galassia sia $N = 10^{11}$;\nc) il diametro della galassia sia: $D_\\mathrm{gal} = 30$ Kpc;\nd) il diametro tipico di una stella all'interno della galassia sia $D_\\mathrm{Star} = 1.4 \\cdot 10^{11}$ cm.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/itir-2009-d1-q5-1.png",
+     "orig_lang": "it"
+    }
+   ]
+  },
+  {
+   "year": 2011,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "Marco and Gianna are two young amateur astronomers from Rome. Gianna, travelling in an important foreign capital, phones Marco to greet him. At a certain point Gianna exclaims: \"It's a lovely evening here, the Moon is rising right at this moment!\". Marco then replies: \"Fantastic! Here the Moon is passing exactly through the meridian, so I know precisely at what longitude you are!\". If the longitude of Marco, in Italy, is $12^\\circ 30'$ E, at what longitude is Gianna? Can you say in which city she is? Neglect the effect due to the distance of the Moon from the Earth (lunar parallax).",
+     "paper_label": "Interregional round (Senior)",
+     "problem_orig": "Marco e Gianna sono due giovani appassionati di astronomia romani. Gianna, in viaggio in un'importante capitale estera, telefona a Marco per salutarlo. Ad un certo punto Gianna esclama: \"Qui è una bellissima serata, la Luna sta sorgendo proprio in questo istante!\". Marco allora risponde: \"Fantastico! Qui la Luna sta passando esattamente al meridiano, quindi so con precisione a che longitudine ti trovi!\". Se la longitudine di Marco, in Italia, è $12^\\circ 30'$ E, a quale longitudine si trova Gianna ? Sapreste dire in che città si trova ? Si trascuri l'effetto dovuto alla distanza della Luna dalla Terra (parallasse lunare).",
+     "orig_lang": "it"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "Look at the lunar craters (area of the crater Clavius) in the two figures. On the left the craters are shown, on the right three of them are highlighted with different colours and numbered. Reorder, roughly, the sequence 1, 2, 3 in chronological order, from the oldest to the youngest. Justify your answer.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/itir-2011-d1-q2-1.png",
+     "paper_label": "Interregional round (Senior)",
+     "problem_orig": "Si osservino i crateri lunari (zona del Cratere Clavius) nelle due figure a lato. A sinistra sono mostrati i crateri, a destra tre di essi sono evidenziati con colori diversi e numerati. Riordinare in linea di massima la sequenza 1,2,3 in ordine cronologico, dal più antico al più giovane. Motivare la risposta.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/itir-2011-d1-q2-1.png",
+     "orig_lang": "it"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "The apparent magnitude of the Sun, seen from the Earth, is $-26.8$. Calculate the apparent magnitude of the Sun as seen from the following planets: Mercury, Venus, Mars, Jupiter and Saturn.",
+     "paper_label": "Interregional round (Senior)",
+     "problem_orig": "La magnitudine apparente del Sole, vista dalla Terra, è $-26{,}8$. Si calcoli la magnitudine apparente del Sole vista dai seguenti pianeti: Mercurio, Venere, Marte, Giove e Saturno.",
+     "orig_lang": "it"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "CoRoT-7b is one of the extrasolar planets closest to its star discovered so far. The semi-major axis of its orbit is a mere 0.0172 AU while its revolution period is only 0.8536 days. Estimate from these data the mass of the star CoRoT-7 (assume that the mass of the planet is negligible with respect to that of the star and the value $G = 6.67 \\cdot 10^{-11}\\ \\mathrm{m^3\\,kg^{-1}\\,s^{-2}}$ for the universal gravitational constant).\n\n[The illustration is not reproduced here (its author is not credited in the paper). It is on page 3 of the official paper: https://www.campionatiastronomia.it/wp-content/uploads/2011-regionale-senior.pdf]",
+     "paper_label": "Interregional round (Senior)",
+     "problem_orig": "CoRoT-7b è uno dei pianeti extrasolari più vicini alla propria stella fin qui scoperti. Il semiasse maggiore della sua orbita vale appena 0,0172 UA mentre il suo periodo di rivoluzione è di soli 0,8536 giorni. Stimate da questi dati la massa della stella CoRoT-7 (assumete che la massa del pianeta sia trascurabile rispetto a quella della stella ed il valore $G = 6{,}67 \\cdot 10^{-11}\\ \\mathrm{m^3\\,kg^{-1}\\,s^{-2}}$ per la costante di gravitazione universale).\n\n[L'illustrazione non è riprodotta qui (autore non indicato nel testo). Si trova a pagina 3 del testo ufficiale: https://www.campionatiastronomia.it/wp-content/uploads/2011-regionale-senior.pdf]",
+     "orig_lang": "it"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "Starting from Kepler's second law, calculate the ratio between the tangential orbital speeds of the Earth at perihelion and at aphelion. Then, assuming that their mean is equal to the mean orbital speed of the Earth for a circular orbit, calculate their values in km/s.",
+     "paper_label": "Interregional round (Senior)",
+     "problem_orig": "Partendo dalla II Legge di Keplero, si calcoli il rapporto tra le velocità orbitali tangenziali della Terra al perielio e all'afelio. Assumendo poi che la loro media sia pari alla velocità orbitale media della Terra in caso di orbita circolare, se ne calcolino i valori in km/s.",
+     "orig_lang": "it"
+    }
+   ]
+  },
+  {
+   "year": 2012,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "A visual binary system is at a distance $D = 42$ light-years from the Earth. The two stars orbit around the common centre of mass at a mutual distance $d = 26$ AU. Calculate the angular separation, in arcseconds, of the two stars as seen from the Earth.",
+     "paper_label": "Interregional round (Senior)",
+     "problem_orig": "Un sistema binario visuale si trova ad una distanza $D = 42$ anni-luce dalla Terra. Le due stelle orbitano intorno al comune centro di massa ad una distanza reciproca $d = 26$ UA. Si calcoli la separazione angolare, in secondi d'arco, delle due stelle viste dalla Terra.",
+     "orig_lang": "it"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "You look out of the window of your house (in Italy) in the morning and see the Moon half illuminated. Is the Moon at first or last (third) quarter? At what time does it set? Justify your answers and draw how the Moon appears to you, indicating the cardinal points.",
+     "paper_label": "Interregional round (Senior)",
+     "problem_orig": "Vi affacciate alla finestra della vostra casa (in Italia) di mattina e vedete la Luna illuminata a metà. La Luna è al primo o ultimo (terzo) quarto? A che ora tramonta? Motivate le risposte e disegnate come vi appare la Luna, indicando i punti cardinali.",
+     "orig_lang": "it"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "A red supergiant is at a distance of 13000 l.y. from the Sun and has an apparent visual magnitude $m = 8$. Calculate: (1) its absolute visual magnitude; (2) at what maximum distance from the Sun it would have to be in order to be the brightest star in the sky; express the result in light-years and in parsecs.",
+     "paper_label": "Interregional round (Senior)",
+     "problem_orig": "Una supergigante rossa si trova alla distanza di 13000 a.l. dal Sole ed ha una magnitudine visuale apparente $m = 8$. Si calcolino: 1) la sua magnitudine visuale assoluta; 2) a quale distanza massima dal Sole dovrebbe trovarsi per essere la stella più luminosa del cielo; esprimete il risultato in anni luce ed in parsec.",
+     "orig_lang": "it"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "The rotation period of Jupiter about its axis is 9.92 hours. An artificial satellite orbits the planet in an equatorial orbit with the same period. At what distance from the surface is it? (Equatorial radius of Jupiter $R = 71492$ km).",
+     "paper_label": "Interregional round (Senior)",
+     "problem_orig": "Il periodo di rotazione di Giove attorno al suo asse è di 9.92 ore. Un satellite artificiale gira attorno al pianeta in orbita equatoriale e con lo stesso periodo. A che distanza si trova dalla superficie? (Raggio equatoriale di Giove $R = 71492$ km).",
+     "orig_lang": "it"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "An artificial satellite has a revolution period around the Earth of 134 minutes. Its orbit is elliptical and the distances of the satellite from the Earth's surface are $d_p = 660$ km at perigee and $d_a = 4023$ km at apogee. Recalling that $G = 6.67 \\cdot 10^{-11}\\ \\mathrm{m^3\\,kg^{-1}\\,s^{-2}}$, determine:\n\n1. the mass of the Earth;\n2. the mass of the Earth relative to that of the Sun.",
+     "paper_label": "Interregional round (Senior)",
+     "problem_orig": "Un satellite artificiale ha un periodo di rivoluzione intorno alla Terra di 134 minuti. La sua orbita è ellittica e le distanze del satellite dalla superficie terrestre sono al perigeo $d_p = 660$ km, ed all'apogeo $d_a = 4023$ km. Ricordando che $G = 6.67 \\cdot 10^{-11}\\ \\mathrm{m^3\\,kg^{-1}\\,s^{-2}}$, si determini:\n\n1. la massa della Terra;\n2. la massa della Terra rispetto a quella del Sole.",
+     "orig_lang": "it"
+    }
+   ]
+  },
+  {
+   "year": 2013,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "**The companion of Sirius**\n\nWith an apparent magnitude $m_v = -1.43$ Sirius is the brightest star in the sky. In reality Sirius has a faint companion, called Sirius B, whose apparent magnitude is $m_v = 8.68$. How many times brighter is Sirius than its companion?\n\n**Some data of interest**\n\n**Table 1 – Sun**\n\n$$\n\\begin{array}{|l|l|l|l|}\n\\hline\n\\text{Mean radius} & 695475\\ \\mathrm{km} & \\text{Estimated age} & 4.57\\cdot10^{9}\\ \\text{years} \\\\ \\hline\n\\text{Mass} & 1.99\\cdot10^{30}\\ \\mathrm{kg} & \\text{Spectral class} & \\text{G2 V} \\\\ \\hline\n\\text{Surface temperature} & 5778\\ \\mathrm{K} & \\text{Position in the HR diagram} & \\text{Main sequence} \\\\ \\hline\n\\text{Apparent magnitude from the Earth} & -26.8 & \\text{Mean distance from the Galactic centre} & 27000\\ \\text{light-years} \\\\ \\hline\n\\text{Absolute magnitude} & +4.83 & \\text{Revolution period around the Galactic centre} & 2.5\\cdot10^{8}\\ \\text{years} \\\\ \\hline\n\\end{array}\n$$\n\n**Table 2 – Solar System**\n\n$$\n\\begin{array}{|l|c|c|c|c|c|c|c|c|c|}\n\\hline\n & \\text{Mercury} & \\text{Venus} & \\text{Earth} & \\text{Moon} & \\text{Mars} & \\text{Jupiter} & \\text{Saturn} & \\text{Uranus} & \\text{Neptune} \\\\ \\hline\n\\text{Mean radius (km)} & 2440 & 6052 & 6378 & 1738 & 3397 & 71492 & 60268 & 25559 & 24766 \\\\ \\hline\n\\text{Mass (kg)} & 3.30\\cdot10^{23} & 4.87\\cdot10^{24} & 5.97\\cdot10^{24} & 7.35\\cdot10^{22} & 6.42\\cdot10^{23} & 1.90\\cdot10^{27} & 5.68\\cdot10^{26} & 8.68\\cdot10^{25} & 1.02\\cdot10^{26} \\\\ \\hline\n\\text{Semi-major axis of the orbit (km)} & 57.9\\cdot10^{6} & 108.2\\cdot10^{6} & 149.6\\cdot10^{6} & 384.4\\cdot10^{3} & 227.9\\cdot10^{6} & 778.3\\cdot10^{6} & 1.43\\cdot10^{9} & 2.87\\cdot10^{9} & 4.50\\cdot10^{9} \\\\ \\hline\n\\text{Orbital period} & 87.97\\ \\text{d} & 224.70\\ \\text{d} & 1\\ \\text{y} & 27.32\\ \\text{d} & 1.88\\ \\text{y} & 11.86\\ \\text{y} & 29.45\\ \\text{y} & 84.07\\ \\text{y} & 164.88\\ \\text{y} \\\\ \\hline\n\\text{Eccentricity of the orbit} & 0.206 & 0.007 & 0.017 & 0.055 & 0.093 & 0.048 & 0.056 & 0.046 & 0.001 \\\\ \\hline\n\\text{Type} & \\text{rocky} & \\text{rocky} & \\text{rocky} & \\text{rocky} & \\text{rocky} & \\text{gaseous} & \\text{gaseous} & \\text{gaseous} & \\text{gaseous} \\\\ \\hline\n\\end{array}\n$$\n\n**Table 3 – Surface area of notable geometric figures**\n\n$$\n\\begin{array}{|l|c|c|c|c|c|c|}\n\\hline\n & \\text{Triangle} & \\text{Rectangle} & \\text{Square} & \\text{Circle} & \\text{Ellipse} & \\text{Sphere} \\\\ \\hline\n\\text{Area} & bh/2 & \\ell_1\\ell_2 & \\ell^2 & \\pi R^2 & \\pi a b & 4\\pi R^2 \\\\ \\hline\n\\end{array}\n$$\n\n**Table 4 – Physical constants**\n\n$$\n\\begin{array}{|l|c|c|c|}\n\\hline\n\\text{Name} & \\text{Symbol} & \\text{Value} & \\text{Unit} \\\\ \\hline\n\\text{Stefan–Boltzmann constant} & \\sigma & 5.67\\cdot10^{-8} & \\mathrm{W\\,m^{-2}\\,K^{-4}} \\\\ \\hline\n\\text{Speed of light in vacuum} & c & 299792 & \\mathrm{km\\,s^{-1}} \\\\ \\hline\n\\text{Universal gravitational constant} & G & 6.67\\cdot10^{-11} & \\mathrm{m^{3}\\,kg^{-1}\\,s^{-2}} \\\\ \\hline\n\\text{Acceleration of gravity at sea level} & g & 9.81 & \\mathrm{m\\,s^{-2}} \\\\ \\hline\n\\end{array}\n$$",
+     "paper_label": "Interregional round (Senior)",
+     "problem_orig": "**La compagna di Sirio**\n\nCon una magnitudine apparente $m_v = -1.43$ Sirio è la stella più luminosa del cielo. In realtà Sirio ha una debole compagna, detta Sirio B, la cui magnitudine apparente è $m_v = 8.68$. Quante volte Sirio è più luminosa della sua compagna?\n\n**Alcuni dati di interesse**\n\n**Tabella 1 – Sole**\n\n$$\n\\begin{array}{|l|l|l|l|}\n\\hline\n\\text{Raggio medio} & 695475\\ \\mathrm{km} & \\text{Età stimata} & 4.57\\cdot10^{9}\\ \\text{anni} \\\\ \\hline\n\\text{Massa} & 1.99\\cdot10^{30}\\ \\mathrm{kg} & \\text{Classe spettrale} & \\text{G2 V} \\\\ \\hline\n\\text{Temperatura superficiale} & 5778\\ \\mathrm{K} & \\text{Posizione nel diagramma HR} & \\text{Sequenza principale} \\\\ \\hline\n\\text{Magnitudine apparente dalla Terra} & -26.8 & \\text{Distanza media dal centro galattico} & 27000\\ \\text{anni-luce} \\\\ \\hline\n\\text{Magnitudine assoluta} & +4.83 & \\text{Periodo di rivoluzione intorno al centro galattico} & 2.5\\cdot10^{8}\\ \\text{anni} \\\\ \\hline\n\\end{array}\n$$\n\n**Tabella 2 – Sistema Solare**\n\n$$\n\\begin{array}{|l|c|c|c|c|c|c|c|c|c|}\n\\hline\n & \\text{Mercurio} & \\text{Venere} & \\text{Terra} & \\text{Luna} & \\text{Marte} & \\text{Giove} & \\text{Saturno} & \\text{Urano} & \\text{Nettuno} \\\\ \\hline\n\\text{Raggio medio (km)} & 2440 & 6052 & 6378 & 1738 & 3397 & 71492 & 60268 & 25559 & 24766 \\\\ \\hline\n\\text{Massa (kg)} & 3.30\\cdot10^{23} & 4.87\\cdot10^{24} & 5.97\\cdot10^{24} & 7.35\\cdot10^{22} & 6.42\\cdot10^{23} & 1.90\\cdot10^{27} & 5.68\\cdot10^{26} & 8.68\\cdot10^{25} & 1.02\\cdot10^{26} \\\\ \\hline\n\\text{Semiasse maggiore dell’orbita (km)} & 57.9\\cdot10^{6} & 108.2\\cdot10^{6} & 149.6\\cdot10^{6} & 384.4\\cdot10^{3} & 227.9\\cdot10^{6} & 778.3\\cdot10^{6} & 1.43\\cdot10^{9} & 2.87\\cdot10^{9} & 4.50\\cdot10^{9} \\\\ \\hline\n\\text{Periodo orbitale} & 87.97\\ \\text{g} & 224.70\\ \\text{g} & 1\\ \\text{a} & 27.32\\ \\text{g} & 1.88\\ \\text{a} & 11.86\\ \\text{a} & 29.45\\ \\text{a} & 84.07\\ \\text{a} & 164.88\\ \\text{a} \\\\ \\hline\n\\text{Eccentricità dell’orbita} & 0.206 & 0.007 & 0.017 & 0.055 & 0.093 & 0.048 & 0.056 & 0.046 & 0.001 \\\\ \\hline\n\\text{Tipo} & \\text{roccioso} & \\text{roccioso} & \\text{roccioso} & \\text{roccioso} & \\text{roccioso} & \\text{gassoso} & \\text{gassoso} & \\text{gassoso} & \\text{gassoso} \\\\ \\hline\n\\end{array}\n$$\n\n**Tabella 3 – Area della superficie per figure geometriche notevoli**\n\n$$\n\\begin{array}{|l|c|c|c|c|c|c|}\n\\hline\n & \\text{Triangolo} & \\text{Rettangolo} & \\text{Quadrato} & \\text{Cerchio} & \\text{Ellisse} & \\text{Sfera} \\\\ \\hline\n\\text{Area} & bh/2 & \\ell_1\\ell_2 & \\ell^2 & \\pi R^2 & \\pi a b & 4\\pi R^2 \\\\ \\hline\n\\end{array}\n$$\n\n**Tabella 4 – Costanti fisiche**\n\n$$\n\\begin{array}{|l|c|c|c|}\n\\hline\n\\text{Nome} & \\text{Simbolo} & \\text{Valore} & \\text{Unità di misura} \\\\ \\hline\n\\text{Costante di Stefan-Boltzmann} & \\sigma & 5.67\\cdot10^{-8} & \\mathrm{W\\,m^{-2}\\,K^{-4}} \\\\ \\hline\n\\text{Velocità della luce nel vuoto} & c & 299792 & \\mathrm{km\\,s^{-1}} \\\\ \\hline\n\\text{Costante di Gravitazione Universale} & G & 6.67\\cdot10^{-11} & \\mathrm{m^{3}\\,kg^{-1}\\,s^{-2}} \\\\ \\hline\n\\text{Accelerazione di gravità al livello del mare} & g & 9.81 & \\mathrm{m\\,s^{-2}} \\\\ \\hline\n\\end{array}\n$$",
+     "orig_lang": "it"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "**The shadow and the latitude**\n\nAt a certain place on 21 March it is observed that a pole of height $l = 1$ m casts a shadow whose minimum length is $l_\\mathrm{min} = 1.732$ m. Determine the latitude of the place ($\\varphi$).",
+     "paper_label": "Interregional round (Senior)",
+     "problem_orig": "**L'ombra e la latitudine**\n\nIl un certo luogo il 21 Marzo si osserva che un palo alto $l = 1$ m proietta un'ombra la cui minima lunghezza è $l_\\mathrm{min} = 1.732$ m. Determinare la latitudine del luogo ($\\varphi$).",
+     "orig_lang": "it"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "**Alignment of space stations**\n\nTwo space stations are in circular polar orbit around the Earth. Station A is at a height $h = 200$ km, while station B is at a height $H = 400$ km. Determine the time interval between two consecutive passages of station A under station B, that is, the time interval between two consecutive alignments \"Centre of the Earth - Station A - Station B\" (see Figure).\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/itir-2013-d1-q3-1.png",
+     "paper_label": "Interregional round (Senior)",
+     "problem_orig": "**Allineamento di Stazioni Spaziali**\n\nDue stazioni spaziali sono in orbita circolare polare attorno alla Terra. La stazione A si trova a un'altezza $h = 200$ km, mentre la stazione B si trova a un'altezza $H = 400$ km. Determinare l'intervallo di tempo tra due passaggi consecutivi della stazione A sotto la stazione B, ovvero l'intervallo di tempo tra due allineamenti consecutivi \"Centro della Terra - Stazione A - Stazione B\" (vedi Figura).\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/itir-2013-d1-q3-1.png",
+     "orig_lang": "it"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "**The periods of the Moon**\n\nThe time taken by the Moon to complete one full revolution around the Earth is called the Sidereal Period (or Month) and is $P_\\mathrm{sidereal} = 27^\\mathrm{d}\\,7^\\mathrm{h}\\,43^\\mathrm{m}$. The time that elapses between two successive full Moons is called the Synodic Period (or Month) and is $P_\\mathrm{synodic} = 29^\\mathrm{d}\\,12^\\mathrm{h}\\,44^\\mathrm{m}$. Explain, with the aid of a drawing, why the Synodic Period is almost two days longer than the Sidereal Period. In the various considerations assume the lunar orbit to be perfectly circular.",
+     "paper_label": "Interregional round (Senior)",
+     "problem_orig": "**I periodi della Luna**\n\nIl tempo impiegato dalla Luna per compiere un giro completo intorno alla Terra è detto Periodo (o Mese) Siderale e vale $P_\\mathrm{siderale} = 27^\\mathrm{g}\\,7^\\mathrm{h}\\,43^\\mathrm{m}$. Il tempo che intercorre tra due Lune piene successive è detto Periodo (o Mese) Sinodico e vale $P_\\mathrm{sinodico} = 29^\\mathrm{g}\\,12^\\mathrm{h}\\,44^\\mathrm{m}$. Spiegare, avvalendosi di un disegno, perché il Periodo Sinodico è più lungo di quasi due giorni rispetto al Periodo Siderale. Nelle varie considerazioni si supponga l'orbita lunare perfettamente circolare.",
+     "orig_lang": "it"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "**Watching the sky from Mars**\n\nCalculate the maximum and minimum apparent sizes of the Sun as seen from Mars. Suppose that Mars has a satellite with the same orbital characteristics as the Moon. What should the minimum diameter of this satellite be so that total solar eclipses can be observed on Mars?",
+     "paper_label": "Interregional round (Senior)",
+     "problem_orig": "**Osservando il cielo da Marte**\n\nCalcolate le dimensioni apparenti massima e minima del Sole visto da Marte. Supponete che Marte abbia un satellite con le medesime caratteristiche orbitali della Luna. Quanto dovrebbe valere il diametro minimo di questo satellite affinché si possano osservare eclissi totali di Sole su Marte?",
+     "orig_lang": "it"
+    }
+   ]
+  },
+  {
+   "year": 2014,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "**A planet to identify**\n\nTwo consecutive oppositions of an outer planet have been observed. The time interval between the two events is 398.85 days. Which planet is it?\n\n**Some data of interest**\n\n**Table 1 – Sun**\n\n$$\n\\begin{array}{|l|l|l|l|}\n\\hline\n\\text{Mean radius} & 695475\\ \\mathrm{km} & \\text{Estimated age} & 4.57\\cdot10^{9}\\ \\text{years} \\\\ \\hline\n\\text{Mass} & 1.99\\cdot10^{30}\\ \\mathrm{kg} & \\text{Spectral class} & \\text{G2 V} \\\\ \\hline\n\\text{Surface temperature} & 5778\\ \\mathrm{K} & \\text{Position in the HR diagram} & \\text{Main sequence} \\\\ \\hline\n\\text{Apparent magnitude from the Earth} & -26.8 & \\text{Mean distance from the Galactic centre} & 27000\\ \\text{light-years} \\\\ \\hline\n\\text{Absolute magnitude} & +4.83 & \\text{Revolution period around the Galactic centre} & 2.5\\cdot10^{8}\\ \\text{years} \\\\ \\hline\n\\end{array}\n$$\n\n**Table 2 – Solar System**\n\n$$\n\\begin{array}{|l|c|c|c|c|c|c|c|c|c|}\n\\hline\n & \\text{Mercury} & \\text{Venus} & \\text{Earth} & \\text{Moon} & \\text{Mars} & \\text{Jupiter} & \\text{Saturn} & \\text{Uranus} & \\text{Neptune} \\\\ \\hline\n\\text{Mean radius (km)} & 2440 & 6052 & 6378 & 1738 & 3397 & 71492 & 60268 & 25559 & 24766 \\\\ \\hline\n\\text{Mass (kg)} & 3.30\\cdot10^{23} & 4.87\\cdot10^{24} & 5.97\\cdot10^{24} & 7.35\\cdot10^{22} & 6.42\\cdot10^{23} & 1.90\\cdot10^{27} & 5.68\\cdot10^{26} & 8.68\\cdot10^{25} & 1.02\\cdot10^{26} \\\\ \\hline\n\\text{Semi-major axis of the orbit (km)} & 57.9\\cdot10^{6} & 108.2\\cdot10^{6} & 149.6\\cdot10^{6} & 384.4\\cdot10^{3} & 227.9\\cdot10^{6} & 778.3\\cdot10^{6} & 1.43\\cdot10^{9} & 2.87\\cdot10^{9} & 4.50\\cdot10^{9} \\\\ \\hline\n\\text{Orbital period} & 87.97\\ \\text{d} & 224.70\\ \\text{d} & 1\\ \\text{y} & 27.32\\ \\text{d} & 1.88\\ \\text{y} & 11.86\\ \\text{y} & 29.45\\ \\text{y} & 84.07\\ \\text{y} & 164.88\\ \\text{y} \\\\ \\hline\n\\text{Eccentricity of the orbit} & 0.206 & 0.007 & 0.017 & 0.055 & 0.093 & 0.048 & 0.056 & 0.046 & 0.001 \\\\ \\hline\n\\text{Type} & \\text{rocky} & \\text{rocky} & \\text{rocky} & \\text{rocky} & \\text{rocky} & \\text{gaseous} & \\text{gaseous} & \\text{gaseous} & \\text{gaseous} \\\\ \\hline\n\\end{array}\n$$\n\n**Table 3 – Surface area of notable geometric figures**\n\n$$\n\\begin{array}{|l|c|c|c|c|c|c|}\n\\hline\n & \\text{Triangle} & \\text{Rectangle} & \\text{Square} & \\text{Circle} & \\text{Ellipse} & \\text{Sphere} \\\\ \\hline\n\\text{Area} & bh/2 & \\ell_1\\ell_2 & \\ell^2 & \\pi R^2 & \\pi a b & 4\\pi R^2 \\\\ \\hline\n\\end{array}\n$$\n\n**Table 4 – Physical constants**\n\n$$\n\\begin{array}{|l|c|c|c|}\n\\hline\n\\text{Name} & \\text{Symbol} & \\text{Value} & \\text{Unit} \\\\ \\hline\n\\text{Stefan–Boltzmann constant} & \\sigma & 5.67\\cdot10^{-8} & \\mathrm{W\\,m^{-2}\\,K^{-4}} \\\\ \\hline\n\\text{Speed of light in vacuum} & c & 299792 & \\mathrm{km\\,s^{-1}} \\\\ \\hline\n\\text{Universal gravitational constant} & G & 6.67\\cdot10^{-11} & \\mathrm{m^{3}\\,kg^{-1}\\,s^{-2}} \\\\ \\hline\n\\text{Acceleration of gravity at sea level} & g & 9.81 & \\mathrm{m\\,s^{-2}} \\\\ \\hline\n\\end{array}\n$$\n\n**Table 5 – Formulae for right triangles**\n\n$$\n\\begin{array}{|l|l|}\n\\hline\n\\text{Pythagorean theorem} & c^2 = a^2 + b^2 \\\\ \\hline\n\\text{Trigonometric functions} & a = c\\sin\\beta \\qquad a = c\\cos\\alpha \\qquad a = b\\tan\\beta \\\\ \\hline\n\\end{array}\n$$\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/itir-2014-d1-q1-1.png",
+     "paper_label": "Interregional round (Senior)",
+     "problem_orig": "**Un pianeta da identificare**\n\nSono state osservate due opposizioni consecutive di un pianeta esterno. L'intervallo di tempo tra i due eventi è di 398.85 giorni. Di che pianeta si tratta ?\n\n**Alcuni dati di interesse**\n\n**Tabella 1 – Sole**\n\n$$\n\\begin{array}{|l|l|l|l|}\n\\hline\n\\text{Raggio medio} & 695475\\ \\mathrm{km} & \\text{Età stimata} & 4.57\\cdot10^{9}\\ \\text{anni} \\\\ \\hline\n\\text{Massa} & 1.99\\cdot10^{30}\\ \\mathrm{kg} & \\text{Classe spettrale} & \\text{G2 V} \\\\ \\hline\n\\text{Temperatura superficiale} & 5778\\ \\mathrm{K} & \\text{Posizione nel diagramma HR} & \\text{Sequenza principale} \\\\ \\hline\n\\text{Magnitudine apparente dalla Terra} & -26.8 & \\text{Distanza media dal centro galattico} & 27000\\ \\text{anni-luce} \\\\ \\hline\n\\text{Magnitudine assoluta} & +4.83 & \\text{Periodo di rivoluzione intorno al centro galattico} & 2.5\\cdot10^{8}\\ \\text{anni} \\\\ \\hline\n\\end{array}\n$$\n\n**Tabella 2 – Sistema Solare**\n\n$$\n\\begin{array}{|l|c|c|c|c|c|c|c|c|c|}\n\\hline\n & \\text{Mercurio} & \\text{Venere} & \\text{Terra} & \\text{Luna} & \\text{Marte} & \\text{Giove} & \\text{Saturno} & \\text{Urano} & \\text{Nettuno} \\\\ \\hline\n\\text{Raggio medio (km)} & 2440 & 6052 & 6378 & 1738 & 3397 & 71492 & 60268 & 25559 & 24766 \\\\ \\hline\n\\text{Massa (kg)} & 3.30\\cdot10^{23} & 4.87\\cdot10^{24} & 5.97\\cdot10^{24} & 7.35\\cdot10^{22} & 6.42\\cdot10^{23} & 1.90\\cdot10^{27} & 5.68\\cdot10^{26} & 8.68\\cdot10^{25} & 1.02\\cdot10^{26} \\\\ \\hline\n\\text{Semiasse maggiore dell’orbita (km)} & 57.9\\cdot10^{6} & 108.2\\cdot10^{6} & 149.6\\cdot10^{6} & 384.4\\cdot10^{3} & 227.9\\cdot10^{6} & 778.3\\cdot10^{6} & 1.43\\cdot10^{9} & 2.87\\cdot10^{9} & 4.50\\cdot10^{9} \\\\ \\hline\n\\text{Periodo orbitale} & 87.97\\ \\text{g} & 224.70\\ \\text{g} & 1\\ \\text{a} & 27.32\\ \\text{g} & 1.88\\ \\text{a} & 11.86\\ \\text{a} & 29.45\\ \\text{a} & 84.07\\ \\text{a} & 164.88\\ \\text{a} \\\\ \\hline\n\\text{Eccentricità dell’orbita} & 0.206 & 0.007 & 0.017 & 0.055 & 0.093 & 0.048 & 0.056 & 0.046 & 0.001 \\\\ \\hline\n\\text{Tipo} & \\text{roccioso} & \\text{roccioso} & \\text{roccioso} & \\text{roccioso} & \\text{roccioso} & \\text{gassoso} & \\text{gassoso} & \\text{gassoso} & \\text{gassoso} \\\\ \\hline\n\\end{array}\n$$\n\n**Tabella 3 – Area della superficie per figure geometriche notevoli**\n\n$$\n\\begin{array}{|l|c|c|c|c|c|c|}\n\\hline\n & \\text{Triangolo} & \\text{Rettangolo} & \\text{Quadrato} & \\text{Cerchio} & \\text{Ellisse} & \\text{Sfera} \\\\ \\hline\n\\text{Area} & bh/2 & \\ell_1\\ell_2 & \\ell^2 & \\pi R^2 & \\pi a b & 4\\pi R^2 \\\\ \\hline\n\\end{array}\n$$\n\n**Tabella 4 – Costanti fisiche**\n\n$$\n\\begin{array}{|l|c|c|c|}\n\\hline\n\\text{Nome} & \\text{Simbolo} & \\text{Valore} & \\text{Unità di misura} \\\\ \\hline\n\\text{Costante di Stefan-Boltzmann} & \\sigma & 5.67\\cdot10^{-8} & \\mathrm{W\\,m^{-2}\\,K^{-4}} \\\\ \\hline\n\\text{Velocità della luce nel vuoto} & c & 299792 & \\mathrm{km\\,s^{-1}} \\\\ \\hline\n\\text{Costante di Gravitazione Universale} & G & 6.67\\cdot10^{-11} & \\mathrm{m^{3}\\,kg^{-1}\\,s^{-2}} \\\\ \\hline\n\\text{Accelerazione di gravità al livello del mare} & g & 9.81 & \\mathrm{m\\,s^{-2}} \\\\ \\hline\n\\end{array}\n$$\n\n**Tabella 5 – Formule per i triangoli rettangoli**\n\n$$\n\\begin{array}{|l|l|}\n\\hline\n\\text{Teorema di Pitagora} & c^2 = a^2 + b^2 \\\\ \\hline\n\\text{Funzioni trigonometriche} & a = c\\sin\\beta \\qquad a = c\\cos\\alpha \\qquad a = b\\tan\\beta \\\\ \\hline\n\\end{array}\n$$\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/itir-2014-d1-q1-1.png",
+     "orig_lang": "it"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "**The photo of a galaxy**\n\nA spiral galaxy at a distance $D = 55 \\cdot 10^{6}$ light-years is observed in a direction perpendicular to its galactic plane and has an angular diameter $\\alpha = 400$ arcseconds. What is the diameter of the galaxy in light-years? How large will its image be on the focal plane of a telescope with focal length $F = 1$ m?",
+     "paper_label": "Interregional round (Senior)",
+     "problem_orig": "**La foto di una galassia**\n\nUna galassia a spirale la cui distanza è $D = 55 \\cdot 10^{6}$ anni luce, risulta osservata in direzione perpendicolare al suo piano galattico ed ha un diametro angolare $\\alpha = 400$ secondi d'arco. Quanto vale il diametro della galassia in anni luce? Quanto risulterà grande la sua immagine sul piano focale di un telescopio con lunghezza focale $F = 1$ m?",
+     "orig_lang": "it"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "**At Greenwich**\n\nThe sidereal time at Greenwich on 18 February 2003 at $0^\\mathrm{h}$ UT was $9^\\mathrm{h}\\,50^\\mathrm{m}\\,12^\\mathrm{s}$. At what time UT did a star with right ascension $18^\\mathrm{h}$ pass the meridian on that day?",
+     "paper_label": "Interregional round (Senior)",
+     "problem_orig": "**A Greenwich**\n\nIl tempo siderale a Greenwich il 18 febbraio 2003 alle $0^\\mathrm{h}$ di UT era di $9^\\mathrm{h}\\,50^\\mathrm{m}\\,12^\\mathrm{s}$. A che ora di UT è passata al meridiano quel giorno una stella avente ascensione retta di 18 ore?",
+     "orig_lang": "it"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "**The meridian arc**\n\nThe first accurate measurement of the dimensions of the Earth is due to Eratosthenes of Cyrene (275 BC – 195 BC) and was obtained by measuring the difference in the altitude of the Sun at the summer equinox in two places at a known distance. Supposing the Earth to be spherical, what is the length of the arc of meridian between two places with the same longitude located at latitudes $+35^\\circ$ and $+45^\\circ$? Also represent the solution graphically.",
+     "paper_label": "Interregional round (Senior)",
+     "problem_orig": "**L'arco di Meridiano**\n\nLa prima misura accurata delle dimensioni della Terra si deve a Eratostene di Cirene (275 a.C. – 195 a.C.) e fu ricavata misurando la differenza dell'altezza del Sole all'equinozio d'estate in due località a distanza nota. Supponendo la Terra sferica, quanto vale la lunghezza dell'arco di meridiano tra due località con uguale longitudine poste a latitudine $+35^\\circ$ e $+45^\\circ$? Rappresentate la soluzione anche graficamente.",
+     "orig_lang": "it"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "**The transit of Venus**\n\nOn 8 June 2004 and 6 June 2012 a phenomenon that is rarely observed from the Earth took place: the transit of Venus in front of the Sun. Calculate the maximum relative decrease in the brightness of the Sun, as seen from the Earth, during the phenomenon and compare it with the decrease in brightness typical of the transit of a Jupiter-like extrasolar planet. Assume the orbits of Venus and of the Earth to be circular.",
+     "paper_label": "Interregional round (Senior)",
+     "problem_orig": "**Il Transito di Venere**\n\nL'8 giugno 2004 e il 6 Giugno 2012 si è verificato un fenomeno che si osserva raramente dalla Terra: il transito di Venere davanti al Sole. Si calcoli la diminuzione relativa massima della luminosità del Sole, visto dalla Terra, durante il fenomeno e la si confronti con la diminuzione di luminosità tipica del transito di un pianeta extrasolare di tipo gioviano. Si assumano orbite di Venere e della Terra circolari.",
+     "orig_lang": "it"
+    }
+   ]
+  },
+  {
+   "year": 2015,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "**Occultations**\n\nWhich planets cannot be occulted by the full Moon? Explain the reason and complete the solution with a drawing.\n\n**Some data of interest**\n\n**Table 1 – Sun**\n\n$$\n\\begin{array}{|l|l|l|l|}\n\\hline\n\\text{Mean radius} & 695475\\ \\mathrm{km} & \\text{Estimated age} & 4.57\\cdot10^{9}\\ \\text{years} \\\\ \\hline\n\\text{Mass} & 1.99\\cdot10^{30}\\ \\mathrm{kg} & \\text{Spectral class} & \\text{G2 V} \\\\ \\hline\n\\text{Surface temperature} & 5778\\ \\mathrm{K} & \\text{Position in the HR diagram} & \\text{Main sequence} \\\\ \\hline\n\\text{Apparent magnitude from the Earth} & -26.8 & \\text{Mean distance from the Galactic centre} & 27000\\ \\text{light-years} \\\\ \\hline\n\\text{Absolute magnitude} & +4.83 & \\text{Revolution period around the Galactic centre} & 2.5\\cdot10^{8}\\ \\text{years} \\\\ \\hline\n\\end{array}\n$$\n\n**Table 2 – Solar System**\n\n$$\n\\begin{array}{|l|c|c|c|c|c|c|c|c|c|}\n\\hline\n & \\text{Mercury} & \\text{Venus} & \\text{Earth} & \\text{Moon} & \\text{Mars} & \\text{Jupiter} & \\text{Saturn} & \\text{Uranus} & \\text{Neptune} \\\\ \\hline\n\\text{Mean radius (km)} & 2440 & 6052 & 6378 & 1738 & 3397 & 71492 & 60268 & 25559 & 24766 \\\\ \\hline\n\\text{Mass (kg)} & 3.30\\cdot10^{23} & 4.87\\cdot10^{24} & 5.97\\cdot10^{24} & 7.35\\cdot10^{22} & 6.42\\cdot10^{23} & 1.90\\cdot10^{27} & 5.68\\cdot10^{26} & 8.68\\cdot10^{25} & 1.02\\cdot10^{26} \\\\ \\hline\n\\text{Semi-major axis of the orbit (km)} & 57.9\\cdot10^{6} & 108.2\\cdot10^{6} & 149.6\\cdot10^{6} & 384.4\\cdot10^{3} & 227.9\\cdot10^{6} & 778.3\\cdot10^{6} & 1.43\\cdot10^{9} & 2.87\\cdot10^{9} & 4.50\\cdot10^{9} \\\\ \\hline\n\\text{Orbital period} & 87.97\\ \\text{d} & 224.70\\ \\text{d} & 1\\ \\text{y} & 27.32\\ \\text{d} & 1.88\\ \\text{y} & 11.86\\ \\text{y} & 29.45\\ \\text{y} & 84.07\\ \\text{y} & 164.88\\ \\text{y} \\\\ \\hline\n\\text{Eccentricity of the orbit} & 0.206 & 0.007 & 0.017 & 0.055 & 0.093 & 0.048 & 0.056 & 0.046 & 0.001 \\\\ \\hline\n\\text{Type} & \\text{rocky} & \\text{rocky} & \\text{rocky} & \\text{rocky} & \\text{rocky} & \\text{gaseous} & \\text{gaseous} & \\text{gaseous} & \\text{gaseous} \\\\ \\hline\n\\end{array}\n$$\n\n**Table 3 – Surface area of notable geometric figures**\n\n$$\n\\begin{array}{|l|c|c|c|c|c|c|}\n\\hline\n & \\text{Triangle} & \\text{Rectangle} & \\text{Square} & \\text{Circle} & \\text{Ellipse} & \\text{Sphere} \\\\ \\hline\n\\text{Area} & bh/2 & \\ell_1\\ell_2 & \\ell^2 & \\pi R^2 & \\pi a b & 4\\pi R^2 \\\\ \\hline\n\\end{array}\n$$\n\n**Table 4 – Physical constants**\n\n$$\n\\begin{array}{|l|c|c|c|}\n\\hline\n\\text{Name} & \\text{Symbol} & \\text{Value} & \\text{Unit} \\\\ \\hline\n\\text{Stefan–Boltzmann constant} & \\sigma & 5.67\\cdot10^{-8} & \\mathrm{W\\,m^{-2}\\,K^{-4}} \\\\ \\hline\n\\text{Speed of light in vacuum} & c & 299792 & \\mathrm{km\\,s^{-1}} \\\\ \\hline\n\\text{Universal gravitational constant} & G & 6.67\\cdot10^{-11} & \\mathrm{m^{3}\\,kg^{-1}\\,s^{-2}} \\\\ \\hline\n\\text{Acceleration of gravity at sea level} & g & 9.81 & \\mathrm{m\\,s^{-2}} \\\\ \\hline\n\\end{array}\n$$\n\n**Table 5 – Formulae for right triangles**\n\n$$\n\\begin{array}{|l|l|}\n\\hline\n\\text{Pythagorean theorem} & c^2 = a^2 + b^2 \\\\ \\hline\n\\text{Trigonometric functions} & a = c\\sin\\beta \\qquad a = c\\cos\\alpha \\qquad a = b\\tan\\beta \\\\ \\hline\n\\end{array}\n$$\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/itir-2015-d1-q1-1.png\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/itir-2015-d1-q1-2.png",
+     "paper_label": "Interregional round (Senior)",
+     "problem_orig": "**Occultazioni**\n\nQuali pianeti non possono essere occultati dalla Luna piena? Spiegare il motivo e completare la soluzione con un disegno.\n\n**Alcuni dati di interesse**\n\n**Tabella 1 – Sole**\n\n$$\n\\begin{array}{|l|l|l|l|}\n\\hline\n\\text{Raggio medio} & 695475\\ \\mathrm{km} & \\text{Età stimata} & 4.57\\cdot10^{9}\\ \\text{anni} \\\\ \\hline\n\\text{Massa} & 1.99\\cdot10^{30}\\ \\mathrm{kg} & \\text{Classe spettrale} & \\text{G2 V} \\\\ \\hline\n\\text{Temperatura superficiale} & 5778\\ \\mathrm{K} & \\text{Posizione nel diagramma HR} & \\text{Sequenza principale} \\\\ \\hline\n\\text{Magnitudine apparente dalla Terra} & -26.8 & \\text{Distanza media dal centro galattico} & 27000\\ \\text{anni-luce} \\\\ \\hline\n\\text{Magnitudine assoluta} & +4.83 & \\text{Periodo di rivoluzione intorno al centro galattico} & 2.5\\cdot10^{8}\\ \\text{anni} \\\\ \\hline\n\\end{array}\n$$\n\n**Tabella 2 – Sistema Solare**\n\n$$\n\\begin{array}{|l|c|c|c|c|c|c|c|c|c|}\n\\hline\n & \\text{Mercurio} & \\text{Venere} & \\text{Terra} & \\text{Luna} & \\text{Marte} & \\text{Giove} & \\text{Saturno} & \\text{Urano} & \\text{Nettuno} \\\\ \\hline\n\\text{Raggio medio (km)} & 2440 & 6052 & 6378 & 1738 & 3397 & 71492 & 60268 & 25559 & 24766 \\\\ \\hline\n\\text{Massa (kg)} & 3.30\\cdot10^{23} & 4.87\\cdot10^{24} & 5.97\\cdot10^{24} & 7.35\\cdot10^{22} & 6.42\\cdot10^{23} & 1.90\\cdot10^{27} & 5.68\\cdot10^{26} & 8.68\\cdot10^{25} & 1.02\\cdot10^{26} \\\\ \\hline\n\\text{Semiasse maggiore dell’orbita (km)} & 57.9\\cdot10^{6} & 108.2\\cdot10^{6} & 149.6\\cdot10^{6} & 384.4\\cdot10^{3} & 227.9\\cdot10^{6} & 778.3\\cdot10^{6} & 1.43\\cdot10^{9} & 2.87\\cdot10^{9} & 4.50\\cdot10^{9} \\\\ \\hline\n\\text{Periodo orbitale} & 87.97\\ \\text{g} & 224.70\\ \\text{g} & 1\\ \\text{a} & 27.32\\ \\text{g} & 1.88\\ \\text{a} & 11.86\\ \\text{a} & 29.45\\ \\text{a} & 84.07\\ \\text{a} & 164.88\\ \\text{a} \\\\ \\hline\n\\text{Eccentricità dell’orbita} & 0.206 & 0.007 & 0.017 & 0.055 & 0.093 & 0.048 & 0.056 & 0.046 & 0.001 \\\\ \\hline\n\\text{Tipo} & \\text{roccioso} & \\text{roccioso} & \\text{roccioso} & \\text{roccioso} & \\text{roccioso} & \\text{gassoso} & \\text{gassoso} & \\text{gassoso} & \\text{gassoso} \\\\ \\hline\n\\end{array}\n$$\n\n**Tabella 3 – Area della superficie per figure geometriche notevoli**\n\n$$\n\\begin{array}{|l|c|c|c|c|c|c|}\n\\hline\n & \\text{Triangolo} & \\text{Rettangolo} & \\text{Quadrato} & \\text{Cerchio} & \\text{Ellisse} & \\text{Sfera} \\\\ \\hline\n\\text{Area} & bh/2 & \\ell_1\\ell_2 & \\ell^2 & \\pi R^2 & \\pi a b & 4\\pi R^2 \\\\ \\hline\n\\end{array}\n$$\n\n**Tabella 4 – Costanti fisiche**\n\n$$\n\\begin{array}{|l|c|c|c|}\n\\hline\n\\text{Nome} & \\text{Simbolo} & \\text{Valore} & \\text{Unità di misura} \\\\ \\hline\n\\text{Costante di Stefan-Boltzmann} & \\sigma & 5.67\\cdot10^{-8} & \\mathrm{W\\,m^{-2}\\,K^{-4}} \\\\ \\hline\n\\text{Velocità della luce nel vuoto} & c & 299792 & \\mathrm{km\\,s^{-1}} \\\\ \\hline\n\\text{Costante di Gravitazione Universale} & G & 6.67\\cdot10^{-11} & \\mathrm{m^{3}\\,kg^{-1}\\,s^{-2}} \\\\ \\hline\n\\text{Accelerazione di gravità al livello del mare} & g & 9.81 & \\mathrm{m\\,s^{-2}} \\\\ \\hline\n\\end{array}\n$$\n\n**Tabella 5 – Formule per i triangoli rettangoli**\n\n$$\n\\begin{array}{|l|l|}\n\\hline\n\\text{Teorema di Pitagora} & c^2 = a^2 + b^2 \\\\ \\hline\n\\text{Funzioni trigonometriche} & a = c\\sin\\beta \\qquad a = c\\cos\\alpha \\qquad a = b\\tan\\beta \\\\ \\hline\n\\end{array}\n$$\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/itir-2015-d1-q1-1.png\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/itir-2015-d1-q1-2.png",
+     "orig_lang": "it"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "**The brightest of the realm**\n\nThe red supergiant Betelgeuse ($\\alpha$ Ori) has an apparent magnitude $m_1 = +0.42$ and a parallax $\\pi_1 = 0''.005$, while the blue supergiant Rigel ($\\beta$ Ori) has an apparent magnitude $m_2 = +0.13$ and a parallax $\\pi_2 = 0''.004$.\n\nWhich of the two stars is intrinsically brighter? Which is the more distant?\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/itir-2015-d1-q2-1.png",
+     "paper_label": "Interregional round (Senior)",
+     "problem_orig": "**La più luminosa del Reame**\n\nLa supergigante rossa Betelgeuse ($\\alpha$ Ori) ha una magnitudine apparente $m_1 = +0.42$ e una parallasse $\\pi_1 = 0''.005$, mentre la supergigante blu Rigel ($\\beta$ Ori) ha una magnitudine apparente $m_2 = +0.13$ e una parallasse $\\pi_2 = 0''.004$.\n\nQuale delle due stelle è, intrinsecamente, più luminosa? Qual è la più lontana?\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/itir-2015-d1-q2-1.png",
+     "orig_lang": "it"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "**Landing attempt**\n\nThe commander of the interstellar mission Kout-Iz-Paut wants to attempt a descent onto the planet Sweets-3 and it is essential for him to know the value of the gravitational acceleration $g_{SW3}$ at the surface of the planet.\n\nThe only data he has are the volume density $\\rho_{SW3}$ of the planet Sweets-3, which is $\\rho_{SW3} = 4\\,\\rho_\\mathrm{Jupiter}$ (that is, 4 times that of the planet Jupiter), and its radius $R_{SW3} = \\frac{1}{4} R_\\mathrm{Jupiter}$ (that is, one quarter of the radius of Jupiter).\n\nCompare the value of $g_{SW3}$ with the gravitational acceleration of Jupiter ($g_\\mathrm{Jupiter}$).\n\n[The illustration is not reproduced here (its author is not credited in the paper). It is on page 2 of the official paper: https://www.campionatiastronomia.it/wp-content/uploads/2015_Gara_IR_Senior_WEB.pdf]",
+     "paper_label": "Interregional round (Senior)",
+     "problem_orig": "**Tentativo di atterraggio**\n\nIl comandante della missione interstellare Kout-Iz-Paut vuole tentare una discesa sul pianeta Sweets-3 ed è per lui indispensabile conoscere il valore dell'accelerazione di gravità $g_{SW3}$ alla superficie del pianeta.\n\nGli unici dati che ha in suo possesso sono la densità di volume $\\rho_{SW3}$ del pianeta Sweets-3, che è $\\rho_{SW3} = 4\\,\\rho_\\mathrm{Giove}$ (pari cioè a 4 volte quella del pianeta Giove), e il suo raggio $R_{SW3} = \\frac{1}{4} R_\\mathrm{Giove}$ (pari cioè a un quarto del raggio di Giove).\n\nConfrontare il valore di $g_{SW3}$ con l'accelerazione di gravità di Giove ($g_\\mathrm{Giove}$).\n\n[L'illustrazione non è riprodotta qui (autore non indicato nel testo). Si trova a pagina 2 del testo ufficiale: https://www.campionatiastronomia.it/wp-content/uploads/2015_Gara_IR_Senior_WEB.pdf]",
+     "orig_lang": "it"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "**The orbit of Hubble**\n\nThe Hubble Space Telescope (HST) revolves around the Earth, in a circular orbit at a mean distance $d = 560$ km from the Earth's surface.\n\nCalculate the mean speed $v_c$ and the period $P$ of revolution of HST around the Earth.\n\n[The photograph is not reproduced here (its author is not credited in the paper). It is on page 3 of the official paper: https://www.campionatiastronomia.it/wp-content/uploads/2015_Gara_IR_Senior_WEB.pdf]",
+     "paper_label": "Interregional round (Senior)",
+     "problem_orig": "**L'orbita di Hubble**\n\nIl Telescopio Spaziale Hubble (HST – Hubble Space Telescope) ruota intorno alla Terra, in un'orbita circolare ad una distanza media $d = 560$ km dalla superficie terrestre.\n\nCalcolare la velocità media $v_c$ ed il periodo $P$ di rotazione di HST intorno alla Terra.\n\n[La fotografia non è riprodotta qui (autore non indicato nel testo). Si trova a pagina 3 del testo ufficiale: https://www.campionatiastronomia.it/wp-content/uploads/2015_Gara_IR_Senior_WEB.pdf]",
+     "orig_lang": "it"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "**The remnant of an ancient explosion**\n\nThe Crab Nebula (also known by the catalogue designations M 1 and NGC 1952) is a supernova remnant visible in the constellation of Taurus. The supernova that produced it was first observed on 4 July 1054 and was recorded by the Chinese and Arab astronomers of the time.\n\nThe angular size of the radius of the nebula is $R' = 5$ arcmin, its distance from the Earth is $d = 1200$ pc; the nebula is expanding with a speed $v = 1775$ km/s.\n\n1. Calculate the linear dimensions of the nebula.\n2. Calculate the age of the nebula.\n3. Check that the age obtained is compatible with the explosion of the supernova observed in 1054.\n\nNeglect any accelerations undergone by the gas.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/itir-2015-d1-q5-1.png",
+     "paper_label": "Interregional round (Senior)",
+     "problem_orig": "**Il resto di un'antica esplosione**\n\nLa Nebulosa del Granchio (nota anche come con le sigle di catalogo M 1 e NGC 1952) è un resto di supernova visibile nella costellazione del Toro. La supernova che la produsse fu osservata per la prima volta il 4 luglio 1054 e venne registrata dagli astronomi cinesi e arabi dell'epoca.\n\nLe dimensioni angolari del raggio della nebulosa sono $R' = 5$ arcmin, la sua distanza dalla Terra è $d = 1200$ pc; la nebulosa si sta espandendo con una velocità $v = 1775$ km/s.\n\n1. Calcolare le dimensioni lineari della nebulosa.\n2. Calcolare l'età della nebulosa.\n3. Verificare che l'età ottenuta sia compatibile con l'esplosione della supernova osservata nel 1054.\n\nSi trascurino eventuali accelerazioni subite dal gas.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/itir-2015-d1-q5-1.png",
+     "orig_lang": "it"
+    }
+   ]
+  },
+  {
+   "year": 2016,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "**The most \"different\" planet**\n\nWhich of the eight planets of the Solar System has the greatest difference between its perihelion and aphelion distances?\n\n**Some data of interest**\n\n**Table 1 – Sun**\n\n$$\n\\begin{array}{|l|l|l|l|}\n\\hline\n\\text{Mean radius} & 695475\\ \\mathrm{km} & \\text{Estimated age} & 4.57\\cdot10^{9}\\ \\text{years} \\\\ \\hline\n\\text{Mass} & 1.99\\cdot10^{30}\\ \\mathrm{kg} & \\text{Spectral class} & \\text{G2 V} \\\\ \\hline\n\\text{Surface temperature} & 5778\\ \\mathrm{K} & \\text{Position in the HR diagram} & \\text{Main Sequence} \\\\ \\hline\n\\text{Apparent magnitude from the Earth} & -26.74 & \\text{Mean distance from the Galactic centre} & 27\\cdot10^{3}\\ \\text{light-years} \\\\ \\hline\n\\text{Absolute magnitude} & +4.83 & \\text{Revolution period around the Galactic centre} & 2.5\\cdot10^{8}\\ \\text{years} \\\\ \\hline\n\\end{array}\n$$\n\n**Table 2 – Solar System**\n\n$$\n\\begin{array}{|l|c|c|c|c|c|c|c|c|c|}\n\\hline\n & \\text{Mercury} & \\text{Venus} & \\text{Earth} & \\text{Moon} & \\text{Mars} & \\text{Jupiter} & \\text{Saturn} & \\text{Uranus} & \\text{Neptune} \\\\ \\hline\n\\text{Mean radius (km)} & 2440 & 6052 & 6378 & 1738 & 3397 & 71493 & 60267 & 25557 & 24766 \\\\ \\hline\n\\text{Mass (kg)} & 3.30\\cdot10^{23} & 4.87\\cdot10^{24} & 5.97\\cdot10^{24} & 7.35\\cdot10^{22} & 6.42\\cdot10^{23} & 1.90\\cdot10^{27} & 5.69\\cdot10^{26} & 8.68\\cdot10^{25} & 1.02\\cdot10^{26} \\\\ \\hline\n\\text{Semi-major axis of the orbit (km)} & 57.91\\cdot10^{6} & 108.2\\cdot10^{6} & 149.6\\cdot10^{6} & 384.4\\cdot10^{3} & 227.9\\cdot10^{6} & 778.4\\cdot10^{6} & 1.427\\cdot10^{9} & 2.871\\cdot10^{9} & 4.498\\cdot10^{9} \\\\ \\hline\n\\text{Orbital period} & 87.969\\ \\text{d} & 224.70\\ \\text{d} & 365.26\\ \\text{d} & 27.322\\ \\text{d} & 686.97\\ \\text{d} & 11.863\\ \\text{y} & 29.447\\ \\text{y} & 84.017\\ \\text{y} & 164.79\\ \\text{y} \\\\ \\hline\n\\text{Eccentricity of the orbit} & 0.2056 & 0.0068 & 0.0167 & 0.0549 & 0.0934 & 0.0484 & 0.0542 & 0.0472 & 0.0086 \\\\ \\hline\n\\text{Type} & \\text{rocky} & \\text{rocky} & \\text{rocky} & \\text{rocky} & \\text{rocky} & \\text{gaseous} & \\text{gaseous} & \\text{gaseous} & \\text{gaseous} \\\\ \\hline\n\\end{array}\n$$\n\n**Table 3 – Surface area of notable geometric figures**\n\n$$\n\\begin{array}{|l|c|c|c|c|c|c|}\n\\hline\n & \\text{Triangle} & \\text{Rectangle} & \\text{Square} & \\text{Circle} & \\text{Ellipse} & \\text{Sphere} \\\\ \\hline\n\\text{Area} & bh/2 & \\ell_1\\ell_2 & \\ell^2 & \\pi R^2 & \\pi a b & 4\\pi R^2 \\\\ \\hline\n\\end{array}\n$$\n\n**Table 4 – Physical constants**\n\n$$\n\\begin{array}{|l|c|c|c|}\n\\hline\n\\text{Name} & \\text{Symbol} & \\text{Value} & \\text{Unit} \\\\ \\hline\n\\text{Stefan–Boltzmann constant} & \\sigma & 5.67\\cdot10^{-8} & \\mathrm{W\\,m^{-2}\\,K^{-4}} \\\\ \\hline\n\\text{Speed of light in vacuum} & c & 299792 & \\mathrm{km\\,s^{-1}} \\\\ \\hline\n\\text{Universal gravitational constant} & G & 6.67\\cdot10^{-11} & \\mathrm{m^{3}\\,kg^{-1}\\,s^{-2}} \\\\ \\hline\n\\text{Acceleration of gravity at sea level} & g & 9.81 & \\mathrm{m\\,s^{-2}} \\\\ \\hline\n\\end{array}\n$$\n\n**Table 5 – Formulae for right triangles**\n\n$$\n\\begin{array}{|l|l|}\n\\hline\n\\text{Pythagorean theorem} & c^2 = a^2 + b^2 \\\\ \\hline\n\\text{Trigonometric functions} & a = c\\sin\\beta \\qquad a = c\\cos\\alpha \\qquad a = b\\tan\\beta \\\\ \\hline\n\\end{array}\n$$\n\n[The illustration is not reproduced here (its author is not credited in the paper). It is on page 1 of the official paper: https://www.campionatiastronomia.it/wp-content/uploads/2010/01/Gara_IR_2016_Senior_WEB.pdf]\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/itir-2016-d1-q1-1.png",
+     "paper_label": "Interregional round (Senior)",
+     "problem_orig": "**Il pianeta più \"differente\"**\n\nQuale degli otto pianeti del Sistema Solare ha la massima differenza tra la distanza al perielio e all'afelio ?\n\n**Alcuni dati di interesse**\n\n**Tabella 1 – Sole**\n\n$$\n\\begin{array}{|l|l|l|l|}\n\\hline\n\\text{Raggio medio} & 695475\\ \\mathrm{km} & \\text{Età stimata} & 4.57\\cdot10^{9}\\ \\text{anni} \\\\ \\hline\n\\text{Massa} & 1.99\\cdot10^{30}\\ \\mathrm{kg} & \\text{Classe spettrale} & \\text{G2 V} \\\\ \\hline\n\\text{Temperatura superficiale} & 5778\\ \\mathrm{K} & \\text{Posizione nel diagramma HR} & \\text{Sequenza Principale} \\\\ \\hline\n\\text{Magnitudine apparente dalla Terra} & -26.74 & \\text{Distanza media dal centro galattico} & 27\\cdot10^{3}\\ \\text{anni luce} \\\\ \\hline\n\\text{Magnitudine assoluta} & +4.83 & \\text{Periodo di rivoluzione intorno al centro galattico} & 2.5\\cdot10^{8}\\ \\text{anni} \\\\ \\hline\n\\end{array}\n$$\n\n**Tabella 2 – Sistema Solare**\n\n$$\n\\begin{array}{|l|c|c|c|c|c|c|c|c|c|}\n\\hline\n & \\text{Mercurio} & \\text{Venere} & \\text{Terra} & \\text{Luna} & \\text{Marte} & \\text{Giove} & \\text{Saturno} & \\text{Urano} & \\text{Nettuno} \\\\ \\hline\n\\text{Raggio medio (km)} & 2440 & 6052 & 6378 & 1738 & 3397 & 71493 & 60267 & 25557 & 24766 \\\\ \\hline\n\\text{Massa (kg)} & 3.30\\cdot10^{23} & 4.87\\cdot10^{24} & 5.97\\cdot10^{24} & 7.35\\cdot10^{22} & 6.42\\cdot10^{23} & 1.90\\cdot10^{27} & 5.69\\cdot10^{26} & 8.68\\cdot10^{25} & 1.02\\cdot10^{26} \\\\ \\hline\n\\text{Semiasse maggiore dell’orbita (km)} & 57.91\\cdot10^{6} & 108.2\\cdot10^{6} & 149.6\\cdot10^{6} & 384.4\\cdot10^{3} & 227.9\\cdot10^{6} & 778.4\\cdot10^{6} & 1.427\\cdot10^{9} & 2.871\\cdot10^{9} & 4.498\\cdot10^{9} \\\\ \\hline\n\\text{Periodo orbitale} & 87.969\\ \\text{g} & 224.70\\ \\text{g} & 365.26\\ \\text{g} & 27.322\\ \\text{g} & 686.97\\ \\text{g} & 11.863\\ \\text{a} & 29.447\\ \\text{a} & 84.017\\ \\text{a} & 164.79\\ \\text{a} \\\\ \\hline\n\\text{Eccentricità dell’orbita} & 0.2056 & 0.0068 & 0.0167 & 0.0549 & 0.0934 & 0.0484 & 0.0542 & 0.0472 & 0.0086 \\\\ \\hline\n\\text{Tipo} & \\text{roccioso} & \\text{roccioso} & \\text{roccioso} & \\text{roccioso} & \\text{roccioso} & \\text{gassoso} & \\text{gassoso} & \\text{gassoso} & \\text{gassoso} \\\\ \\hline\n\\end{array}\n$$\n\n**Tabella 3 – Area della superficie per figure geometriche notevoli**\n\n$$\n\\begin{array}{|l|c|c|c|c|c|c|}\n\\hline\n & \\text{Triangolo} & \\text{Rettangolo} & \\text{Quadrato} & \\text{Cerchio} & \\text{Ellisse} & \\text{Sfera} \\\\ \\hline\n\\text{Area} & bh/2 & \\ell_1\\ell_2 & \\ell^2 & \\pi R^2 & \\pi a b & 4\\pi R^2 \\\\ \\hline\n\\end{array}\n$$\n\n**Tabella 4 – Costanti fisiche**\n\n$$\n\\begin{array}{|l|c|c|c|}\n\\hline\n\\text{Nome} & \\text{Simbolo} & \\text{Valore} & \\text{Unità di misura} \\\\ \\hline\n\\text{Costante di Stefan-Boltzmann} & \\sigma & 5.67\\cdot10^{-8} & \\mathrm{W\\,m^{-2}\\,K^{-4}} \\\\ \\hline\n\\text{Velocità della luce nel vuoto} & c & 299792 & \\mathrm{km\\,s^{-1}} \\\\ \\hline\n\\text{Costante di Gravitazione Universale} & G & 6.67\\cdot10^{-11} & \\mathrm{m^{3}\\,kg^{-1}\\,s^{-2}} \\\\ \\hline\n\\text{Accelerazione di gravità al livello del mare} & g & 9.81 & \\mathrm{m\\,s^{-2}} \\\\ \\hline\n\\end{array}\n$$\n\n**Tabella 5 – Formule per i triangoli rettangoli**\n\n$$\n\\begin{array}{|l|l|}\n\\hline\n\\text{Teorema di Pitagora} & c^2 = a^2 + b^2 \\\\ \\hline\n\\text{Funzioni trigonometriche} & a = c\\sin\\beta \\qquad a = c\\cos\\alpha \\qquad a = b\\tan\\beta \\\\ \\hline\n\\end{array}\n$$\n\n[L'illustrazione non è riprodotta qui (autore non indicato nel testo). Si trova a pagina 1 del testo ufficiale: https://www.campionatiastronomia.it/wp-content/uploads/2010/01/Gara_IR_2016_Senior_WEB.pdf]\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/itir-2016-d1-q1-1.png",
+     "orig_lang": "it"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "**Watching Elliot and E.T.**\n\nIn a famous scene of the film \"E.T. the Extra-Terrestrial\" we see Elliot (the protagonist) cycling across the Moon, with E.T. in the basket of the bicycle. Imagine looking south tonight and seeing, as in the image on the left, Elliot crossing in front of the Moon, with the Moon on the meridian.\n\n(a) What time is it?\n(b) In summer, should Elliot take off higher or lower than today in order for you to see the same scene?\n(c) Would it be possible to film the scene at the winter solstice at the South Pole? Why?\n\n[The illustration is not reproduced here (its author is not credited in the paper). It is on page 1 of the official paper: https://www.campionatiastronomia.it/wp-content/uploads/2010/01/Gara_IR_2016_Senior_WEB.pdf]",
+     "paper_label": "Interregional round (Senior)",
+     "problem_orig": "**Osservando Elliot ed E.T.**\n\nIn una famosa scena del film \"E.T. l'extraterrestre\" si vede Elliot (il protagonista) transitare in bicicletta davanti alla Luna, con E.T. nel cestino della bicicletta. Immaginate di guardare verso sud stanotte e vedere, come nell'immagine a sinistra, Elliot che transita davanti alla Luna, con la Luna al meridiano.\n\na) Che ore sono ?\nb) In estate Elliot dovrebbe spiccare un volo più in alto o più in basso rispetto a oggi, per farvi vedere la stessa scena ?\nc) Sarebbe possibile riprendere la scena al solstizio d'inverno al Polo Sud? Perché?\n\n[L'illustrazione non è riprodotta qui (autore non indicato nel testo). Si trova a pagina 1 del testo ufficiale: https://www.campionatiastronomia.it/wp-content/uploads/2010/01/Gara_IR_2016_Senior_WEB.pdf]",
+     "orig_lang": "it"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "**A distant star**\n\nThe apparent luminosity of a star turns out to be $5.20 \\cdot 10^{11}$ times lower than that of the Sun, while its absolute magnitude is the same. Calculate the apparent magnitude of the star and its distance from the Sun in m, pc and light-years.\n\n[The illustration is not reproduced here (its author is not credited in the paper). It is on page 1 of the official paper: https://www.campionatiastronomia.it/wp-content/uploads/2010/01/Gara_IR_2016_Senior_WEB.pdf]",
+     "paper_label": "Interregional round (Senior)",
+     "problem_orig": "**Una stella lontana**\n\nLa luminosità apparente di una stella risulta $5.20 \\cdot 10^{11}$ volte minore di quella del Sole, mentre la sua magnitudine assoluta è la stessa. Calcolare la magnitudine apparente della stella e la sua distanza dal Sole in m, pc e anni luce.\n\n[L'illustrazione non è riprodotta qui (autore non indicato nel testo). Si trova a pagina 1 del testo ufficiale: https://www.campionatiastronomia.it/wp-content/uploads/2010/01/Gara_IR_2016_Senior_WEB.pdf]",
+     "orig_lang": "it"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "**Around a small Sun**\n\nSuppose that the mass of the Sun is $M = 1.00 \\cdot 10^{30}$ kg. Keeping unchanged the rotation period of the Earth and the semi-major axis of its orbit, how many days would a year consist of? What would a parsec and a light-year be worth, in km?\n\n[The illustration is not reproduced here (its author is not credited in the paper). It is on page 2 of the official paper: https://www.campionatiastronomia.it/wp-content/uploads/2010/01/Gara_IR_2016_Senior_WEB.pdf]",
+     "paper_label": "Interregional round (Senior)",
+     "problem_orig": "**Intorno a un piccolo Sole**\n\nSupponete che la massa del Sole sia $M = 1.00 \\cdot 10^{30}$ kg. Mantenendo inalterati il periodo di rotazione della Terra e il semiasse maggiore dell'orbita, da quanti giorni sarebbe formato un anno ? Quanto varrebbero, in km, un parsec e un anno luce ?\n\n[L'illustrazione non è riprodotta qui (autore non indicato nel testo). Si trova a pagina 2 del testo ufficiale: https://www.campionatiastronomia.it/wp-content/uploads/2010/01/Gara_IR_2016_Senior_WEB.pdf]",
+     "orig_lang": "it"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "**The speeds at perihelion and aphelion**\n\nDerive, from the law of conservation of mechanical energy and from Kepler's second law, the relations that give the speeds of a planet at perihelion and at aphelion, and calculate the orbital speeds of the Earth when it is at perihelion and at aphelion.\n\n[The illustration is not reproduced here (its author is not credited in the paper). It is on page 2 of the official paper: https://www.campionatiastronomia.it/wp-content/uploads/2010/01/Gara_IR_2016_Senior_WEB.pdf]",
+     "paper_label": "Interregional round (Senior)",
+     "problem_orig": "**Le velocità al perielio e all'afelio**\n\nRicavate dalla legge di conservazione dell'energia meccanica e dalla seconda legge di Keplero le relazioni che forniscono le velocità di un pianeta al perielio e all'afelio e calcolate le velocità orbitali della Terra quando si trova al perielio e all'afelio.\n\n[L'illustrazione non è riprodotta qui (autore non indicato nel testo). Si trova a pagina 2 del testo ufficiale: https://www.campionatiastronomia.it/wp-content/uploads/2010/01/Gara_IR_2016_Senior_WEB.pdf]",
+     "orig_lang": "it"
+    }
+   ]
+  },
+  {
+   "year": 2017,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "**The \"Kessel Run\"**\n\nIn the film \"Star Wars IV\", Han Solo boasts of having made the \"Kessel Run in less than 12 parsecs\". Since the parsec is a measure of length, the statement makes no sense, unless Han means a hypothetical measure of time in parsec/velocity, defined as the time needed to travel one parsec at the speed of his spaceship in hyperspace. According to this definition, assuming a speed $v = c \\cdot 10^{5}$, what would the time stated by Han Solo be equivalent to?\n\n[The illustration is not reproduced here (its author is not credited in the paper). It is on page 1 of the official paper: https://www.campionatiastronomia.it/wp-content/uploads/2010/01/Gara_IR_2017_Senior_Soluzioni.pdf]",
+     "paper_label": "Interregional round (Senior)",
+     "problem_orig": "**La \"Rotta di Kessel\"**\n\nNel film \"Star Wars IV\", Han Solo si vanta di aver percorso la \"rotta di Kessel in meno di 12 parsec\". Essendo il parsec una misura di lunghezza, l'affermazione non ha senso, a meno che Han non intenda un'ipotetica misura di tempo in parsec/velocità, definita come il tempo necessario a percorrere un parsec alla velocità della sua nave spaziale nell'iperspazio. Secondo questa definizione, assumendo una velocità $v = c \\cdot 10^{5}$, a quanto equivarrebbe il tempo riferito da Han Solo?\n\n[L'illustrazione non è riprodotta qui (autore non indicato nel testo). Si trova a pagina 1 del testo ufficiale: https://www.campionatiastronomia.it/wp-content/uploads/2010/01/Gara_IR_2017_Senior_Soluzioni.pdf]",
+     "orig_lang": "it"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "**The interior of the Earth**\n\nDerive the mean density of the Earth, knowing that the mean gravitational acceleration at its surface is $g = 9.81$ m/s$^2$. Since the density of the rocks of the Earth's crust is 3.0 g/cm$^3$, what can be deduced about the composition of the Earth's interior?\n\n[The illustration is not reproduced here (its author is not credited in the paper). It is on page 1 of the official paper: https://www.campionatiastronomia.it/wp-content/uploads/2010/01/Gara_IR_2017_Senior_Soluzioni.pdf]",
+     "paper_label": "Interregional round (Senior)",
+     "problem_orig": "**L'interno della Terra**\n\nRicavare la densità media della Terra sapendo che l'accelerazione di gravità media alla sua superficie vale $g = 9.81$ m/s$^2$. Poiché la densità delle rocce della crosta terrestre è di 3.0 g/cm$^3$, cosa si può dedurre sulla composizione dell'interno terrestre?\n\n[L'illustrazione non è riprodotta qui (autore non indicato nel testo). Si trova a pagina 1 del testo ufficiale: https://www.campionatiastronomia.it/wp-content/uploads/2010/01/Gara_IR_2017_Senior_Soluzioni.pdf]",
+     "orig_lang": "it"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "**A star and its planet**\n\nAround a star 10 light-years from the Sun a planet of mass $M_A = 6.5 \\cdot 10^{24}$ kg has been discovered, which travels around it in 20 years on a circular orbit, perpendicular to the direction of observation, whose semi-major axis subtends an angle $\\alpha = 4''.890$. Calculate the mass of the star in units of solar masses. What would the revolution period of the planet be if it orbited the Sun?\n\n[The illustration is not reproduced here (its author is not credited in the paper). It is on page 1 of the official paper: https://www.campionatiastronomia.it/wp-content/uploads/2010/01/Gara_IR_2017_Senior_Soluzioni.pdf]",
+     "paper_label": "Interregional round (Senior)",
+     "problem_orig": "**Una stella e il suo pianeta**\n\nIntorno a una stella a 10 anni luce dal Sole è stato scoperto un pianeta di massa $M_A = 6.5 \\cdot 10^{24}$ kg, che percorre intorno ad essa in 20 anni un'orbita circolare, perpendicolare alla direzione di osservazione, il cui semiasse maggiore sottende un angolo $\\alpha = 4''.890$. Si calcoli la massa della stella in unità di masse solari. Quanto varrebbe il periodo di rivoluzione del pianeta se orbitasse intorno al Sole?\n\n[L'illustrazione non è riprodotta qui (autore non indicato nel testo). Si trova a pagina 1 del testo ufficiale: https://www.campionatiastronomia.it/wp-content/uploads/2010/01/Gara_IR_2017_Senior_Soluzioni.pdf]",
+     "orig_lang": "it"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "**The variable star**\n\nConsider a \"pulsating\" variable star whose absolute magnitude varies in the range $M_1 = 3.25$ and $M_2 = 2.26$, with an effective temperature that is $T_2 = 5500$ K at maximum luminosity and $T_1 = 5000$ K at minimum luminosity. Calculate by how much the radius of the star varies between minimum and maximum luminosity. Express the result as the ratio between the maximum radius and the minimum radius and as the difference between the two radii in km.\n\n[The illustration is not reproduced here (its author is not credited in the paper). It is on page 2 of the official paper: https://www.campionatiastronomia.it/wp-content/uploads/2010/01/Gara_IR_2017_Senior_Soluzioni.pdf]",
+     "paper_label": "Interregional round (Senior)",
+     "problem_orig": "**La stella variabile**\n\nSi consideri una stella variabile \"pulsante\" la cui magnitudine assoluta varia nell'intervallo: $M_1 = 3.25$ e $M_2 = 2.26$, con una temperatura effettiva che al massimo di luminosità è $T_2 = 5500$ K e al minimo di luminosità è $T_1 = 5000$ K. Calcolare quanto varia il raggio della stella tra il minimo e il massimo di luminosità. Esprimere il risultato come rapporto tra raggio massimo e raggio minimo e come differenza tra i due raggi in km.\n\n[L'illustrazione non è riprodotta qui (autore non indicato nel testo). Si trova a pagina 2 del testo ufficiale: https://www.campionatiastronomia.it/wp-content/uploads/2010/01/Gara_IR_2017_Senior_Soluzioni.pdf]",
+     "orig_lang": "it"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "**Jupiter and the Medicean satellites**\n\nThe image on the left shows Jupiter and the Medicean satellites. From East (E) to West (W), that is from left to right, the following are visible, in order: Ganymede, Io, Jupiter, Europa and Callisto. The angular distances of the satellites from the centre of the planet are:\n\n1. Ganymede – Jupiter = $2' 56''$\n2. Io – Jupiter = $2'$\n3. Europa – Jupiter = $2' 25''$\n4. Callisto – Jupiter = $2' 47''$\n\nSuppose we observe Jupiter and its four satellites with a telescope of aperture $D = 200$ mm and focal ratio $f/10$, on whose focal plane a camera is placed whose CCD measures $2048 \\times 2048$ pixels, each pixel being square with side $l_\\mathrm{pix} = 6.4$ micron ($\\mu$m). Check whether with this equipment it is possible to fit into the field of the CCD the complete image of Jupiter with its four Medicean satellites.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/itir-2017-d1-q5-1.png",
+     "paper_label": "Interregional round (Senior)",
+     "problem_orig": "**Giove e i satelliti Medicei**\n\nL'immagine a sinistra mostra Giove e i satelliti Medicei. Da Est (E) verso Ovest (W) – da sinistra verso destra – sono visibili, nell'ordine: Ganimede, Io, Giove, Europa e Callisto. Le distanze angolari dei satelliti dal centro del pianeta sono:\n\n1. Ganimede – Giove = $2' 56''$\n2. Io – Giove = $2'$\n3. Europa – Giove = $2' 25''$\n4. Callisto – Giove = $2' 47''$\n\nSupponiamo di osservare Giove e i suoi quattro satelliti con un telescopio di apertura $D = 200$ mm e rapporto focale $f/10$, sul cui piano focale è posta una camera fotografica il cui CCD ha dimensioni $2048 \\times 2048$ pixels con ciascun pixel di forma quadrata e lato $l_\\mathrm{pix} = 6.4$ micron ($\\mu$m). Verificare se con questa strumentazione è possibile far rientrare nel campo del CCD l'immagine completa di Giove con i suoi quattro satelliti medicei.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/itir-2017-d1-q5-1.png",
+     "orig_lang": "it"
+    }
+   ]
+  },
+  {
+   "year": 2018,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "**Pippo goes to Mars**\n\nPippo has been selected for the space programme \"Let's Send Them to Mars\" of TASA (TopoliniA Space Agency) and is packing his bags. He has been told that on Mars he will have, in the base under construction, a small cabinet in which to stow his things, which can bear a weight of at most 30 N. Pippo puts 90 N of luggage into his suitcases. Topolino, who came to say goodbye before departure, points out to him that he made a mistake in his calculations. Is he right? Why?",
+     "paper_label": "Interregional round (Senior)",
+     "problem_orig": "**Pippo va su Marte**\n\nPippo è stato selezionato per il programma spaziale \"Mandiamoli su Marte\" della TASA (TopoliniA Space Agency) e sta facendo i bagagli. Gli è stato detto che su Marte avrà a disposizione, nella base in costruzione, un mobiletto dove stipare la sua roba, che potrà reggere al massimo un peso di 30 N. Pippo mette nelle valigie 90 N di bagagli. Topolino, venuto a salutarlo prima della partenza, gli fa notare che ha sbagliato a fare i calcoli. Ha ragione? Perché?",
+     "orig_lang": "it"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "**Terrestrial kinematics**\n\nThe Earth takes about 23 hours and 56 minutes to complete one full rotation about its axis (sidereal day).\n\n(a) With what tangential speed does a point on the equator move because of the rotation of the Earth?\n(b) What is the centripetal acceleration acting on this point?\n(c) What centripetal force acts on a body of mass 1.3 kg at the equator?\n(d) What rotation speed should the Earth have so that a body at the equator weighs half as much? And how long would a sidereal day last if the Earth rotated at that speed?",
+     "paper_label": "Interregional round (Senior)",
+     "problem_orig": "**Cinematica terrestre**\n\nLa Terra impiega circa 23 ore e 56 minuti per compiere una rotazione completa attorno al proprio asse (giorno siderale).\n\na) Con quale velocità tangenziale si muove un punto all'equatore per effetto della rotazione della Terra?\nb) Quanto vale l'accelerazione centripeta che agisce su questo punto?\nc) Quale forza centripeta agisce su un corpo di massa 1.3 kg all'equatore?\nd) Che velocità di rotazione dovrebbe avere la Terra affinché un corpo all'equatore pesi la metà? E quanto durerebbe un giorno siderale se la Terra ruotasse a tale velocità?",
+     "orig_lang": "it"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "**The brightest stars of Orion**\n\nThe two brightest stars of the constellation of Orion, Rigel and Betelgeuse, have apparent magnitudes $m(\\mathrm{Rigel}) = 0.18$ and $m(\\mathrm{Betelgeuse}) = 0.45$. Which of the two stars appears brighter to us? What is the ratio of the fluxes that we receive on the Earth? What further information do we need in order to establish which of the two stars is intrinsically brighter?",
+     "paper_label": "Interregional round (Senior)",
+     "problem_orig": "**Le più luminose di Orione**\n\nLe due stelle più luminose della costellazione di Orione, Rigel e Betelgeuse, hanno una magnitudine apparente di $m(\\mathrm{Rigel}) = 0.18$ e $m(\\mathrm{Betelgeuse}) = 0.45$. Quale delle due stelle ci appare più luminosa? Quale è il rapporto dei flussi che riceviamo sulla Terra? Di quale ulteriore informazione abbiamo bisogno per stabilire quale delle due stelle è intrinsecamente più luminosa?",
+     "orig_lang": "it"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "**The surface magnitude of the Andromeda galaxy**\n\nThe Andromeda galaxy has an integrated apparent magnitude $m_V = 4.40$ and appears in the sky as an ellipse whose semi-axes have angular sizes of about 190 arcmin and 60 arcmin. Knowing that its distance is about 2.54 million light-years, calculate the absolute magnitude and the mean apparent surface magnitude of the galaxy.",
+     "paper_label": "Interregional round (Senior)",
+     "problem_orig": "**La magnitudine superficiale della galassia di Andromeda**\n\nLa galassia di Andromeda ha una magnitudine apparente integrata $m_V = 4.40$ e appare in cielo come un'ellisse i cui semiassi hanno dimensioni angolari di circa 190 arcmin e 60 arcmin. Sapendo che la sua distanza è di circa 2.54 milioni di anni luce, calcolare la magnitudine assoluta e la magnitudine apparente superficiale media della galassia.",
+     "orig_lang": "it"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "**The planet of the Little Prince**\n\nIn the novel \"The Little Prince\" by Antoine de Saint-Exupéry, the protagonist lives on a small planet. Considering that \"he only had to move his chair a few steps to see the sunset again\" (in the Italian text: \"two steps were enough for him to see the sunset again\"), and taking the length of a child's step to be 60 cm, calculate the radius of the planet, assuming that its distance from the Sun is 1 AU and that its orbit is circular. After having found the radius of the planet, answer the following questions:\n\n(a) if the mean density of the planet equals the mean density of the Earth, what are its surface gravitational acceleration and its escape velocity?\n(b) what should the mean density of the planet be so that the gravitational acceleration at its surface equals that of the Earth? And what should its density be so that the escape velocity equals that of the Earth?\n(c) in each of the two cases mentioned in point (b), calculate the minimum speed at the ground that an aeroplane of mass 980 kg must have in order to take off from the surface. Consider the planet to have no atmosphere.",
+     "paper_label": "Interregional round (Senior)",
+     "problem_orig": "**Il pianeta del Piccolo principe**\n\nNel romanzo \"Il Piccolo Principe\" di Antoine de Saint-Exupery, il protagonista vive su un piccolo pianeta. Considerando che \"gli bastava fare due passi per vedere di nuovo il tramonto\" e considerando la lunghezza del passo di un bambino pari a 60 cm, calcolare il raggio del pianeta assumendo che la sua distanza dal Sole sia di 1 UA e che l'orbita sia circolare. Dopo aver ricavato il raggio del pianeta rispondere alle seguenti domande:\n\na) se la densità media del pianeta è pari a quella media della Terra, quanto valgono la sua accelerazione di gravità alla superficie e la sua velocità di fuga?\nb) quale dovrebbe essere la densità media del pianeta affinché l'accelerazione di gravità alla sua superficie sia pari a quella terrestre? E quale dovrebbe essere invece la sua densità affinché la velocità di fuga sia pari a quella terrestre?\nc) in ciascuno dei due casi citati nel punto b, si calcoli la velocità minima al suolo che deve avere un aereo, della massa di 980 kg, per staccarsi dalla superfice. Si consideri il pianeta privo di atmosfera.",
+     "orig_lang": "it"
+    }
+   ]
+  },
+  {
+   "year": 2019,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "**A helio-stationary satellite**\n\nThe equatorial sidereal rotation period of the Sun is $T = 25.38$ days. You want to put a satellite into orbit around the Sun so that it is \"helio-stationary\" (that is, motionless in the sky) when observed from the equator of the Sun.\n\n(a) At what distance from the centre of the Sun must you place the satellite?\n(b) Why will this satellite not be helio-stationary when observed from points that are not on the equator of the Sun?\n\n**Some data of interest**\n\n**Table 1 – Sun**\n\n$$\n\\begin{array}{|l|l|l|l|}\n\\hline\n\\text{Mean radius} & 695475\\ \\mathrm{km} & \\text{Estimated age} & 4.57\\cdot10^{9}\\ \\text{years} \\\\ \\hline\n\\text{Mass} & 1.99\\cdot10^{30}\\ \\mathrm{kg} & \\text{Spectral class} & \\text{G2 V} \\\\ \\hline\n\\text{Photosphere temperature} & 5778\\ \\mathrm{K} & \\text{Position in the HR diagram} & \\text{Main Sequence} \\\\ \\hline\n\\text{Apparent magnitude from the Earth} & -26.74 & \\text{Mean distance from the Galactic centre} & 27000\\ \\text{light-years} \\\\ \\hline\n\\text{Absolute magnitude} & +4.83 & \\text{Revolution period around the Galactic centre} & 2.5\\cdot10^{8}\\ \\text{years} \\\\ \\hline\n\\end{array}\n$$\n\n**Table 2 – Solar System**\n\n$$\n\\begin{array}{|l|c|c|c|c|c|c|c|c|c|}\n\\hline\n & \\text{Mercury} & \\text{Venus} & \\text{Earth} & \\text{Moon} & \\text{Mars} & \\text{Jupiter} & \\text{Saturn} & \\text{Uranus} & \\text{Neptune} \\\\ \\hline\n\\text{Mean radius (km)} & 2440 & 6052 & 6378 & 1738 & 3397 & 71493 & 60267 & 25557 & 24766 \\\\ \\hline\n\\text{Mass (kg)} & 3.30\\cdot10^{23} & 4.87\\cdot10^{24} & 5.97\\cdot10^{24} & 7.35\\cdot10^{22} & 6.42\\cdot10^{23} & 1.90\\cdot10^{27} & 5.69\\cdot10^{26} & 8.68\\cdot10^{25} & 1.02\\cdot10^{26} \\\\ \\hline\n\\text{Semi-major axis of the orbit (km)} & 57.91\\cdot10^{6} & 108.2\\cdot10^{6} & 149.6\\cdot10^{6} & 384.4\\cdot10^{3} & 227.9\\cdot10^{6} & 778.4\\cdot10^{6} & 1.427\\cdot10^{9} & 2.871\\cdot10^{9} & 4.498\\cdot10^{9} \\\\ \\hline\n\\text{Orbital period} & 87.969\\ \\text{d} & 224.70\\ \\text{d} & 365.26\\ \\text{d} & 27.322\\ \\text{d} & 686.97\\ \\text{d} & 11.863\\ \\text{y} & 29.447\\ \\text{y} & 84.017\\ \\text{y} & 164.79\\ \\text{y} \\\\ \\hline\n\\text{Eccentricity of the orbit} & 0.2056 & 0.0068 & 0.0167 & 0.0549 & 0.0934 & 0.0484 & 0.0542 & 0.0472 & 0.0086 \\\\ \\hline\n\\text{Type} & \\text{rocky} & \\text{rocky} & \\text{rocky} & \\text{rocky} & \\text{rocky} & \\text{gaseous} & \\text{gaseous} & \\text{gaseous} & \\text{gaseous} \\\\ \\hline\n\\end{array}\n$$\n\n**Table 3 – Surface area and volume of notable geometric figures**\n\n$$\n\\begin{array}{|c|c|c|c|c|}\n\\hline\n\\text{area of ellipse} & \\text{surface area of sphere} & \\text{surface area of cylinder} & \\text{volume of sphere} & \\text{volume of cylinder} \\\\ \\hline\n\\pi\\, a\\, b & 4\\pi R^2 & 2\\pi R (h+R) & \\frac{4}{3}\\pi R^3 & \\pi R^2 h \\\\ \\hline\n\\end{array}\n$$\n\n**Table 4 – Physical constants**\n\n$$\n\\begin{array}{|l|c|c|c|}\n\\hline\n\\text{Name} & \\text{Symbol} & \\text{Value} & \\text{Unit} \\\\ \\hline\n\\text{Stefan–Boltzmann constant} & \\sigma & 5.670\\cdot10^{-8} & \\mathrm{W\\,m^{-2}\\,K^{-4}} \\\\ \\hline\n\\text{Speed of light in vacuum} & c & 299792 & \\mathrm{km\\,s^{-1}} \\\\ \\hline\n\\text{Universal gravitational constant} & G & 6.674\\cdot10^{-11} & \\mathrm{m^{3}\\,kg^{-1}\\,s^{-2}} \\\\ \\hline\n\\text{Acceleration of gravity on Earth at sea level} & g & 9.807 & \\mathrm{m\\,s^{-2}} \\\\ \\hline\n\\end{array}\n$$\n\n**Table 5 – Formulae for right triangles**\n\n$$\n\\begin{array}{|l|l|}\n\\hline\n\\text{Pythagorean theorem} & c^2 = a^2 + b^2 \\\\ \\hline\n\\text{Trigonometric functions} & a = c\\sin\\beta \\qquad a = c\\cos\\alpha \\qquad a = b\\tan\\beta \\\\ \\hline\n\\end{array}\n$$\n\n**Table 6 – Conversion factors**\n\n$$\n\\begin{array}{|l|}\n\\hline\n1\\ \\text{light-year} = 9461\\cdot10^{9}\\ \\mathrm{km} = 0.3066\\ \\mathrm{pc} = 63242\\ \\text{AU} \\\\ \\hline\n1\\ \\mathrm{pc} = 30857\\cdot10^{9}\\ \\mathrm{km} = 3.262\\ \\text{light-years} = 206265\\ \\text{AU} \\\\ \\hline\n1\\ \\mathrm{rad} \\cong 57^\\circ 17' 45'' \\cong 206265'' \\\\ \\hline\n\\mathrm{M\\ (Mega)} = 10^{6} \\\\ \\hline\n\\mathrm{G\\ (Giga)} = 10^{9} \\\\ \\hline\n\\mu\\ \\text{(micro)} = 10^{-6} \\\\ \\hline\n\\mathrm{n\\ (nano)} = 10^{-9} \\\\ \\hline\n\\text{Å}\\ \\text{(angstrom)} = 10^{-10}\\ \\mathrm{m} \\\\ \\hline\n\\end{array}\n$$\n\n**Note:** The numerical values in the tables are in scientific notation.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/itir-2019-d1-q1-1.png",
+     "paper_label": "Interregional round (Senior)",
+     "problem_orig": "**Un satellite elio-stazionario**\n\nIl periodo di rotazione siderale equatoriale del Sole è $T = 25.38$ giorni. Volete mettere in orbita un satellite intorno al Sole, in modo che risulti \"elio-stazionario\" (ovvero immobile nel cielo) se osservato dall'equatore del Sole.\n\n1. A che distanza dal centro del Sole dovrete collocare il satellite?\n2. Perché questo satellite non sarà elio-stazionario se osservato da punti che non si trovano sull'equatore del Sole?\n\n**Alcuni dati di interesse**\n\n**Tabella 1 – Sole**\n\n$$\n\\begin{array}{|l|l|l|l|}\n\\hline\n\\text{Raggio medio} & 695475\\ \\mathrm{km} & \\text{Età stimata} & 4.57\\cdot10^{9}\\ \\text{anni} \\\\ \\hline\n\\text{Massa} & 1.99\\cdot10^{30}\\ \\mathrm{kg} & \\text{Classe spettrale} & \\text{G2 V} \\\\ \\hline\n\\text{Temperatura della fotosfera} & 5778\\ \\mathrm{K} & \\text{Posizione nel diagramma HR} & \\text{Sequenza Principale} \\\\ \\hline\n\\text{Magnitudine apparente dalla Terra} & -26.74 & \\text{Distanza media dal centro galattico} & 27000\\ \\text{anni luce} \\\\ \\hline\n\\text{Magnitudine assoluta} & +4.83 & \\text{Periodo di rivoluzione intorno al centro galattico} & 2.5\\cdot10^{8}\\ \\text{anni} \\\\ \\hline\n\\end{array}\n$$\n\n**Tabella 2 – Sistema Solare**\n\n$$\n\\begin{array}{|l|c|c|c|c|c|c|c|c|c|}\n\\hline\n & \\text{Mercurio} & \\text{Venere} & \\text{Terra} & \\text{Luna} & \\text{Marte} & \\text{Giove} & \\text{Saturno} & \\text{Urano} & \\text{Nettuno} \\\\ \\hline\n\\text{Raggio medio (km)} & 2440 & 6052 & 6378 & 1738 & 3397 & 71493 & 60267 & 25557 & 24766 \\\\ \\hline\n\\text{Massa (kg)} & 3.30\\cdot10^{23} & 4.87\\cdot10^{24} & 5.97\\cdot10^{24} & 7.35\\cdot10^{22} & 6.42\\cdot10^{23} & 1.90\\cdot10^{27} & 5.69\\cdot10^{26} & 8.68\\cdot10^{25} & 1.02\\cdot10^{26} \\\\ \\hline\n\\text{Semiasse maggiore dell’orbita (km)} & 57.91\\cdot10^{6} & 108.2\\cdot10^{6} & 149.6\\cdot10^{6} & 384.4\\cdot10^{3} & 227.9\\cdot10^{6} & 778.4\\cdot10^{6} & 1.427\\cdot10^{9} & 2.871\\cdot10^{9} & 4.498\\cdot10^{9} \\\\ \\hline\n\\text{Periodo orbitale} & 87.969\\ \\text{g} & 224.70\\ \\text{g} & 365.26\\ \\text{g} & 27.322\\ \\text{g} & 686.97\\ \\text{g} & 11.863\\ \\text{a} & 29.447\\ \\text{a} & 84.017\\ \\text{a} & 164.79\\ \\text{a} \\\\ \\hline\n\\text{Eccentricità dell’orbita} & 0.2056 & 0.0068 & 0.0167 & 0.0549 & 0.0934 & 0.0484 & 0.0542 & 0.0472 & 0.0086 \\\\ \\hline\n\\text{Tipo} & \\text{roccioso} & \\text{roccioso} & \\text{roccioso} & \\text{roccioso} & \\text{roccioso} & \\text{gassoso} & \\text{gassoso} & \\text{gassoso} & \\text{gassoso} \\\\ \\hline\n\\end{array}\n$$\n\n**Tabella 3 – Area della superficie e volume per figure geometriche notevoli**\n\n$$\n\\begin{array}{|c|c|c|c|c|}\n\\hline\n\\text{area ellisse} & \\text{area superficie sfera} & \\text{area superficie cilindro} & \\text{volume sfera} & \\text{volume cilindro} \\\\ \\hline\n\\pi\\, a\\, b & 4\\pi R^2 & 2\\pi R (h+R) & \\frac{4}{3}\\pi R^3 & \\pi R^2 h \\\\ \\hline\n\\end{array}\n$$\n\n**Tabella 4 – Costanti fisiche**\n\n$$\n\\begin{array}{|l|c|c|c|}\n\\hline\n\\text{Nome} & \\text{Simbolo} & \\text{Valore} & \\text{Unità di misura} \\\\ \\hline\n\\text{Costante di Stefan-Boltzmann} & \\sigma & 5.670\\cdot10^{-8} & \\mathrm{W\\,m^{-2}\\,K^{-4}} \\\\ \\hline\n\\text{Velocità della luce nel vuoto} & c & 299792 & \\mathrm{km\\,s^{-1}} \\\\ \\hline\n\\text{Costante di Gravitazione Universale} & G & 6.674\\cdot10^{-11} & \\mathrm{m^{3}\\,kg^{-1}\\,s^{-2}} \\\\ \\hline\n\\text{Accelerazione di gravità sulla Terra al livello del mare} & g & 9.807 & \\mathrm{m\\,s^{-2}} \\\\ \\hline\n\\end{array}\n$$\n\n**Tabella 5 – Formule per i triangoli rettangoli**\n\n$$\n\\begin{array}{|l|l|}\n\\hline\n\\text{Teorema di Pitagora} & c^2 = a^2 + b^2 \\\\ \\hline\n\\text{Funzioni trigonometriche} & a = c\\sin\\beta \\qquad a = c\\cos\\alpha \\qquad a = b\\tan\\beta \\\\ \\hline\n\\end{array}\n$$\n\n**Tabella 6 – Fattori di conversione**\n\n$$\n\\begin{array}{|l|}\n\\hline\n1\\ \\text{anno luce} = 9461\\cdot10^{9}\\ \\mathrm{km} = 0.3066\\ \\mathrm{pc} = 63242\\ \\text{UA} \\\\ \\hline\n1\\ \\mathrm{pc} = 30857\\cdot10^{9}\\ \\mathrm{km} = 3.262\\ \\text{anni luce} = 206265\\ \\text{UA} \\\\ \\hline\n1\\ \\mathrm{rad} \\cong 57^\\circ 17' 45'' \\cong 206265'' \\\\ \\hline\n\\mathrm{M\\ (Mega)} = 10^{6} \\\\ \\hline\n\\mathrm{G\\ (Giga)} = 10^{9} \\\\ \\hline\n\\mu\\ \\text{(micro)} = 10^{-6} \\\\ \\hline\n\\mathrm{n\\ (nano)} = 10^{-9} \\\\ \\hline\n\\text{Å}\\ \\text{(angstrom)} = 10^{-10}\\ \\mathrm{m} \\\\ \\hline\n\\end{array}\n$$\n\n**Nota:** I valori numerici presenti nelle tabelle sono in notazione scientifica.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/itir-2019-d1-q1-1.png",
+     "orig_lang": "it"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "**A system of neutron stars**\n\nPSR B1913+16 is a binary system composed of two identical, perfectly spherical neutron stars, each with mean density $\\rho = 1.965 \\cdot 10^{11}\\ \\mathrm{kg/cm^3}$ and mass $M = 2.831 \\cdot 10^{30}$ kg. The two stars move on a circular orbit with a period $P = 7.7542$ hours, which is currently decreasing by 55 seconds each year. Calculate:\n\n(a) the radius, in km, of the two neutron stars;\n(b) the present value of the semi-major axis of the orbit;\n(c) the speed at which the two stars are currently moving on the orbit;\n(d) by how much the semi-major axis of the orbit decreases after one year.",
+     "paper_label": "Interregional round (Senior)",
+     "problem_orig": "**Un sistema di stelle di neutroni**\n\nPSR B1913+16 è un sistema binario composto da due stelle di neutroni identiche perfettamente sferiche ciascuna con densità media $\\rho = 1.965 \\cdot 10^{11}\\ \\mathrm{kg/cm^3}$ e massa $M = 2.831 \\cdot 10^{30}$ kg. Le due stelle ruotano su un'orbita circolare con un periodo $P = 7.7542$ ore, che attualmente diminuisce di 55 secondi ogni anno. Calcolate:\n\n1. il raggio, in km, delle due stelle di neutroni;\n2. il valore attuale del semiasse maggiore dell'orbita;\n3. la velocità con cui attualmente le due stelle si muovono sull'orbita;\n4. di quanto diminuisce dopo un anno il semiasse maggiore dell'orbita.",
+     "orig_lang": "it"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "**Betelgeuse as bright as the full Moon**\n\nThe star Betelgeuse ($\\alpha$ Ori) is at a distance of about 152 parsec from the Sun, has a mean apparent magnitude $m = 0.42$ and a surface temperature of 3500 K. At what distance would Betelgeuse have to be in order to appear as bright as the full Moon ($m = -12.74$), without considering the possible presence of interstellar dust or other absorption? At that distance, what would the apparent diameter of Betelgeuse be? Would it be possible to observe Betelgeuse as an extended object from the Earth, assuming an average seeing of $1''$? If so, what minimum diameter should a telescope have, assuming visual observation, that is at $\\lambda = 5500$ Å, to show Betelgeuse as an extended object?",
+     "paper_label": "Interregional round (Senior)",
+     "problem_orig": "**Betelgeuse luminosa come la Luna piena**\n\nLa stella Betelgeuse ($\\alpha$ Ori) si trova a circa 152 parsec di distanza dal Sole, ha una magnitudine apparente media $m = 0.42$ e temperatura superficiale di 3500 K. A che distanza si dovrebbe trovare Betelgeuse per apparire luminosa come la Luna piena ($m = -12.74$), senza considerare l'eventuale presenza di polveri interstellari o altri assorbimenti? A tale distanza quanto varrebbe il diametro apparente di Betelgeuse? Sarebbe possibile osservare Betelgeuse come un oggetto esteso dalla Terra assumendo un seeing medio di $1''$? Se sì, che diametro minimo dovrebbe avere un telescopio, supponendo di osservare visualmente, ovvero a $\\lambda = 5500$ Å, per mostrare Betelgeuse come un oggetto esteso?",
+     "orig_lang": "it"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "**A planetary nebula**\n\nA planetary nebula appears to us perfectly spherical. Its diameter is 30000 AU, while its distance from the Sun is 1000 light-years. The nebula expands with a constant radial velocity $V_r = 30$ km/s. The mean surface magnitude of the nebula is $m_\\mathrm{sup} = 18.69$ mag/arcsec$^2$. Assuming that the present expansion velocity and surface magnitude remain unchanged in time, calculate:\n\n(a) the integrated apparent magnitude of the planetary nebula;\n(b) its diameter in 100 years;\n(c) its integrated magnitude in 100 years.",
+     "paper_label": "Interregional round (Senior)",
+     "problem_orig": "**Una nebulosa planetaria**\n\nUna nebulosa planetaria ci appare perfettamente sferica. Il suo diametro è di 30000 UA, mentre la sua distanza dal Sole è di 1000 anni luce. La nebulosa si espande con una velocità radiale costante $V_r = 30$ km/s. La magnitudine superficiale media della nebulosa è: $m_\\mathrm{sup} = 18.69$ mag/arcsec$^2$. Nell'ipotesi che la velocità di espansione e la magnitudine superficiale attuali si mantengano invariate nel tempo, calcolate:\n\n1. la magnitudine apparente integrata della nebulosa planetaria;\n2. il suo diametro tra 100 anni;\n3. la sua magnitudine integrata tra 100 anni.",
+     "orig_lang": "it"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "**Major Tom**\n\nIn the lyrics of the song \"Space Oddity\" (David Bowie, 1969), Major Tom, in orbit around the Earth with his spacecraft, says that he is: \"Though I'm past one hundred thousand miles\", that is, 100000 miles from the Earth. Knowing that the nautical mile is defined as the length of the arc of meridian subtended by an angle of one arcminute and assuming the Earth to be spherical, calculate the distance of the spacecraft from the Earth's surface in km and its orbital period. Supposing that from Italy the transit of Major Tom's spacecraft in front of the full Moon is visible on 19 February 2019, with the Moon on the meridian, calculate when the next transit (day and hour) of the spacecraft across the disc of the Moon will occur, state what phase the Moon will have, and say whether this phenomenon will still be observable from Italy. Assume the orbits of the spacecraft and of the Moon around the Earth to be coplanar.",
+     "paper_label": "Interregional round (Senior)",
+     "problem_orig": "**Il Maggiore Tom**\n\nNel testo della canzone \"Space Oddity\" (David Bowie, 1969), il Maggiore Tom, in orbita con la sua navicella attorno alla Terra, afferma di essere: \"Though I'm past one hundred thousand miles\", ovvero a 100000 miglia dalla Terra. Sapendo che il miglio nautico è definito come la lunghezza dell'arco di meridiano sotteso da un angolo di un minuto d'arco e assumendo la Terra sferica, calcolate la distanza della navicella dalla superficie terrestre in km e il suo periodo orbitale. Ipotizzando che dall'Italia sia visibile il transito davanti alla Luna piena della navicella del Maggiore Tom il 19 febbraio 2019, con la Luna al meridiano, calcolate quando si verificherà il transito successivo (giorno e ora) della navicella sul disco della Luna, indicate che fase avrà la Luna e dite se questo fenomeno sarà ancora osservabile dall'Italia. Assumete le orbite di navicella e Luna attorno alla Terra complanari.",
+     "orig_lang": "it"
+    }
+   ]
+  },
+  {
+   "year": 2020,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "**Jupiter and the Great Bear**\n\nHow long does Jupiter take, in its apparent motion among the stars, to cross the constellation of Ursa Major from one side to the other? Neglect the inclination of the planet's orbit to the ecliptic.",
+     "paper_label": "Interregional round (Senior)",
+     "problem_orig": "**Giove e l'Orsa Maggiore**\n\nQuanto tempo impiega Giove, nel suo moto apparente tra le stelle, per attraversare da una parte all'altra la costellazione dell'Orsa Maggiore? Trascurate l'inclinazione dell'orbita del pianeta sull'eclittica.",
+     "orig_lang": "it"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "**Heliocentric radial velocity**\n\nAstrophysicists measure the radial velocities of stars, obtained from the Doppler effect, using the centre of the Sun as reference (heliocentric radial velocities). This is because when a radial velocity is obtained from the shift $\\Delta\\lambda$ of a line in the spectrum of a star ($v_\\mathrm{radial} = c \\cdot \\frac{\\Delta\\lambda}{\\lambda}$), part of this shift is actually due to the motion of the Earth along its orbit around the Sun and must therefore be taken into account.\n\nWhat is the maximum value of the Doppler shift $\\Delta\\lambda$ due to the orbital motion of the Earth for the spectral line H$\\alpha$?",
+     "paper_label": "Interregional round (Senior)",
+     "problem_orig": "**Velocità radiale eliocentrica**\n\nGli astrofisici misurano le velocità radiali delle stelle, ottenute dall'effetto Doppler, utilizzando come riferimento il centro del Sole (velocità radiali eliocentriche). Ciò perché quando si ottiene una velocità radiale a partire dallo spostamento $\\Delta\\lambda$ di una riga sullo spettro di una stella ($v_\\mathrm{radiale} = c \\cdot \\frac{\\Delta\\lambda}{\\lambda}$), parte di questo spostamento è in realtà dovuto al moto della Terra lungo la sua orbita attorno al Sole e va quindi considerato.\n\nQuale è il valore massimo dello spostamento Doppler $\\Delta\\lambda$ dovuto al moto orbitale della Terra per la riga spettrale H$\\alpha$?",
+     "orig_lang": "it"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "**An observation of Mercury**\n\nOn 11 November 2019 it was possible to observe, from a large part of the Earth, the transit of Mercury across the disc of the Sun. On 28 November 2019 the astronomer Giovanni K. claims to have observed Mercury towards the east shortly before sunrise, while the astronomer Niccolò C. claims to have observed it towards the west shortly after sunset. The two observers were at two places very close to each other in the northern hemisphere of the Earth.\n\n(a) Which of the two is right? Justify your answer with a drawing.\n(b) Who would have been right if the two astronomers had been in the southern hemisphere?\n(c) Who would have been right if the observation had been made on 8 January 2020?\n\nAssume the orbit of Mercury to be circular.",
+     "paper_label": "Interregional round (Senior)",
+     "problem_orig": "**Un'osservazione di Mercurio**\n\nL'11 novembre 2019 è stato possibile osservare, da gran parte della Terra, il transito di Mercurio sul disco del Sole. Il 28 novembre 2019 l'astronomo Giovanni K. sostiene di aver osservato Mercurio in direzione est poco prima dell'alba, mentre l'astronomo Niccolò C. sostiene di averlo osservato in direzione ovest poco dopo il tramonto. I due osservatori si trovavano in due località molto vicine nell'emisfero nord della Terra.\n\n1. Chi dei due ha ragione? Giustificate la vostra risposta con un disegno.\n2. Chi avrebbe avuto ragione se i due astronomi si fossero trovati nell'emisfero sud?\n3. Chi avrebbe avuto ragione se l'osservazione fosse stata fatta l'8 gennaio 2020?\n\nAssumete l'orbita di Mercurio circolare.",
+     "orig_lang": "it"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "**The Sun on Banks Island**\n\nThe port of Banks, on the island of the same name, has latitude $\\varphi = 56^\\circ 35'$ N and longitude $\\lambda = 135^\\circ 35'$ W. Calculate the hour angle of the Sun at 09:40 local time (zone time = UT $-$ 9 h) on 15 June (a date on which the equation of time is about zero).",
+     "paper_label": "Interregional round (Senior)",
+     "problem_orig": "**Il Sole sull'isola di Banks**\n\nIl porto di Banks, nell'omonima isola, ha latitudine $\\varphi = 56^\\circ 35'$ N e longitudine $\\lambda = 135^\\circ 35'$ W. Calcolate l'angolo orario del Sole alle 09:40 locali (tempo del fuso = UT $-$ 9 h) il 15 giugno (data in cui l'equazione del tempo è circa zero).",
+     "orig_lang": "it"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "**Which planet?**\n\nBetween a superior conjunction and the following opposition of an outer planet of the Solar System, observed from the Earth, 199.44 days elapse. Neglecting the inclination of the planet's orbit to the ecliptic, determine:\n\n(a) which planet it is (note: in the calculation of the orbital period assume a possible difference of 0.001 years between the calculated value and the one in the data table);\n(b) the angular diameter of the planet at opposition, assuming the Earth at perihelion and the planet at aphelion;\n(c) the angular diameter of the planet at opposition, assuming the Earth at aphelion and the planet at perihelion;\n(d) the angular diameter of the planet as observed from one of its satellites, which has a mass negligible with respect to the planet, an orbital period of 7.155 days and a circular orbit;\n(e) in the cases of points (b) and (c), the linear dimensions of the planet on the focal plane of a telescope on the Earth with aperture $D = 1$ m and aperture ratio (also called focal ratio) equal to $f/10$.",
+     "paper_label": "Interregional round (Senior)",
+     "problem_orig": "**Quale pianeta?**\n\nTra una congiunzione superiore e la successiva opposizione di un pianeta esterno del Sistema Solare, osservato dalla Terra, trascorrono 199.44 giorni. Trascurando l'inclinazione dell'orbita del pianeta sull'eclittica determinate:\n\n1. di quale pianeta si tratta (nota: nel calcolo del periodo orbitale assumete una possibile differenza di 0.001 anni tra il valore calcolato e quello presente nella tabella dei dati);\n2. il diametro angolare del pianeta all'opposizione assumendo la Terra al perielio e il pianeta all'afelio;\n3. il diametro angolare del pianeta all'opposizione assumendo la Terra all'afelio e il pianeta al perielio;\n4. il diametro angolare del pianeta osservato da un suo satellite che ha massa trascurabile rispetto al pianeta, periodo orbitale di 7.155 giorni e orbita circolare;\n5. nei casi dei punti 2 e 3 le dimensioni lineari del pianeta sul piano focale di un telescopio sulla Terra con apertura $D = 1$ m e rapporto di apertura (detto anche rapporto focale) pari a $f/10$.",
+     "orig_lang": "it"
+    }
+   ]
+  },
+  {
+   "year": 2021,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "**Perihelion and aphelion**\n\nCalculate the eccentricity of the orbit of an asteroid whose aphelion distance exceeds its perihelion distance by 20%.",
+     "paper_label": "Interregional round (Senior)",
+     "problem_orig": "**Perielio e afelio**\n\nCalcolate l'eccentricità dell'orbita di un asteroide la cui distanza all'afelio supera del 20 % la sua distanza al perielio.",
+     "orig_lang": "it"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "**The Martian**\n\nMark Watney, \"The Martian\" in Ridley Scott's 2015 film, alone on Mars, is contemplating Phobos, one of the two satellites of the planet, which, unlike all the other celestial bodies, rises in the west and sets in the east, and then rises again in the west 11.1 hours after the previous rising.\n\n(a) Explain this unusual behaviour of Phobos, knowing that the synodic period of Phobos observed from Mars ($S$), the orbital period of Phobos ($P$) and the rotation period of Mars ($M$) are related by:\n$$\\frac{1}{S} = \\frac{1}{P} - \\frac{1}{M}.$$\n(b) Assume the orbit of Phobos to be circular and determine its distance from the surface of Mars.",
+     "paper_label": "Interregional round (Senior)",
+     "problem_orig": "**The Martian**\n\nMark Watney, \"The Martian\" nel film di Ridley Scott del 2015, da solo su Marte, sta contemplando Phobos, uno dei due satelliti del pianeta che, diversamente da tutti gli altri astri, sorge a ovest e tramonta a est per poi sorgere di nuovo a ovest 11.1 ore dopo la precedente levata.\n\n1. Spiegate questo insolito comportamento di Phobos, sapendo che tra periodo sinodico di Phobos osservato da Marte ($S$), periodo orbitale di Phobos ($P$) e periodo di rotazione di Marte ($M$) vale la relazione:\n$$\\frac{1}{S} = \\frac{1}{P} - \\frac{1}{M}.$$\n2. Assumete l'orbita di Phobos circolare e determinate la sua distanza dalla superficie di Marte.",
+     "orig_lang": "it"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "**Could you pass me Hubble, I want to see the LEM?**\n\nThe Hubble Space Telescope (HST) orbits at a height of 540 km above the Earth's surface and has a primary mirror 2.40 m in diameter. Calculate its angular resolution at a wavelength of 550 nm. Could HST manage to distinguish the base of the descent module (LEM) left on the Moon when the Apollo 11 astronauts departed? The base of the LEM has a diameter of 4.27 m.",
+     "paper_label": "Interregional round (Senior)",
+     "problem_orig": "**Mi passi Hubble che voglio vedere il LEM?**\n\nIl telescopio spaziale Hubble (HST) orbita a 540 km di altezza sulla superficie terrestre e ha uno specchio primario di 2.40 m di diametro. Calcolate la sua risoluzione angolare alla lunghezza d'onda di 550 nm. Potrebbe HST riuscire a distinguere la base del modulo di discesa (LEM) abbandonato sulla Luna alla partenza degli astronauti dell'Apollo 11? La base del LEM ha un diametro di 4.27 m.",
+     "orig_lang": "it"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "**A comet on the run?**\n\nA comet, observed at opposition, is on the plane of the ecliptic at a distance from our planet of 2.40 AU. The comet is moving away from the Sun, remaining on the plane of the ecliptic, with a speed of $24.0 \\pm 0.5$ km/s. Determine whether it is a periodic comet, or a comet that will leave the Solar System. Consider only the gravity of the Sun, neglecting possible interactions with the other bodies of the Solar System. Assume the Earth's orbit to be circular.",
+     "paper_label": "Interregional round (Senior)",
+     "problem_orig": "**Una cometa in fuga?**\n\nUna cometa, osservata in opposizione, si trova sul piano dell'eclittica a una distanza dal nostro pianeta pari a 2.40 UA. La cometa si allontana dal Sole, rimanendo sul piano dell'eclittica, con una velocità di $24.0 \\pm 0.5$ km/s. Determinate se si tratta di una cometa periodica, oppure di una cometa che abbandonerà il Sistema Solare. Considerate solo la gravità del Sole, trascurando le possibili interazioni con gli altri corpi del Sistema Solare. Assumete l'orbita della Terra circolare.",
+     "orig_lang": "it"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "**How to read on the Moon**\n\nThe astronauts of the Apollo 35 mission, landed in the Sea of Tranquillity, have to read the instructions for the return to Earth, when suddenly all the lights of the cabin fail and no artificial light sources are available. The Sun will rise in a little more than 7 Earth days, when the oxygen reserve will be exhausted. What natural light source could they use immediately to read? Assume that the apparent magnitude of a source that allows reading must be at least $m = 12$. The Moon is at apogee, its synodic period is about 29.5 days.",
+     "paper_label": "Interregional round (Senior)",
+     "problem_orig": "**Come leggere sulla Luna**\n\nGli astronauti della missione Apollo 35, allunati nel Mare della Tranquillità, devono leggere le istruzioni per il rientro sulla Terra, quando improvvisamente si guastano tutte le luci della cabina e non ci sono sorgenti di luce artificiale disponibili. Il Sole sorgerà tra poco più di 7 giorni terrestri, quando la riserva di ossigeno si sarà esaurita. Quale sorgente di luce naturale potrebbero immediatamente usare per leggere? Assumete che la magnitudine apparente di una sorgente che consente di leggere deve essere almeno $m = 12$. La Luna è in apogeo, il suo periodo sinodico è di circa 29.5 giorni.",
+     "orig_lang": "it"
+    }
+   ]
+  },
+  {
+   "year": 2022,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "**Curiosity \"on a diet\"**\n\nCalculate the percentage change in the weight of the Curiosity rover (mass = 900 kg) if it moved from one of the poles to the equator of Mars. Assume that the planet is spherical and that the mass of the rover does not change during the move.",
+     "paper_label": "Interregional round (Senior)",
+     "problem_orig": "**Curiosity \"a dieta\"**\n\nCalcolate la variazione percentuale del peso del rover Curiosity (massa = 900 kg), se questo si spostasse da uno dei poli all'equatore di Marte. Assumete che il pianeta abbia forma sferica e che la massa del rover non cambi nel corso dello spostamento.",
+     "orig_lang": "it"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "**A pulsating Sun**\n\nCepheid variables are pulsating stars: their radius and their luminosity vary periodically around a mean value. In 1922 the astronomer Henrietta Leavitt discovered that there is a relation between the period $P$ (in days) and the mean absolute magnitude $M$ of these stars. With the values accepted today for the constants, the relation is:\n\n$$M = -2.85 \\log P - 1.37 .$$\n\n(a) Calculate the pulsation period, in minutes, of the Sun if it were a Cepheid star.\n(b) If during the pulsation the temperature of the photosphere of the Sun increased by 1000 K and its radius decreased by 20%, calculate what its absolute magnitude would be at that moment.\n\nConsider the data of the Sun given in the table as mean values.",
+     "paper_label": "Interregional round (Senior)",
+     "problem_orig": "**Un Sole pulsante**\n\nLe variabili cefeidi sono stelle pulsanti: il loro raggio e la loro luminosità variano periodicamente attorno a un valore medio. Nel 1922 l'astronoma Henrietta Leavitt scoprì che esiste una relazione tra il periodo $P$ (in giorni) e la magnitudine assoluta media $M$ di queste stelle. Con i valori oggi accettati per le costanti, la relazione è:\n\n$$M = -2.85 \\log P - 1.37 .$$\n\n1. Calcolate il periodo di pulsazione, in minuti, del Sole se fosse una stella cefeide.\n2. Se durante la pulsazione la temperatura della fotosfera del Sole aumentasse di 1000 K e il suo raggio diminuisse del 20%, calcolate quanto varrebbe in quel momento la sua magnitudine assoluta.\n\nConsiderate i dati del Sole presenti in tabella quali valori medi.",
+     "orig_lang": "it"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "**Resolve a black hole for me**\n\nThe Milky Way hosts at its centre a black hole with a mass of $4.20 \\cdot 10^{6}$ solar masses. Determine the minimum diameter of the mirror of a telescope whose resolving power in the visible band (wavelength 5500 Å) equals the diameter of the event horizon of that black hole. Comment qualitatively on the result obtained.",
+     "paper_label": "Interregional round (Senior)",
+     "problem_orig": "**Risolvimi un buco nero**\n\nLa Via Lattea ospita al suo centro un buco nero con una massa di $4.20 \\cdot 10^{6}$ masse solari. Determinate il diametro minimo dello specchio di un telescopio con potere risolutivo nella banda visibile (lunghezza d'onda 5500 Å) pari al diametro dell'orizzonte degli eventi di detto buco nero. Commentate qualitativamente il risultato ottenuto.",
+     "orig_lang": "it"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "**Identikit of a VIP star**\n\nA well-known star has a luminosity of $1.60 \\cdot 10^{29}$ W and a radius of $30.7 \\cdot 10^{6}$ km. Calculate the temperature of its photosphere and the wavelength of the peak of its light emission. On the basis of these characteristics, determine which of the following stars matches the identikit:\n\n(1) Rigel (spectral class B8);\n(2) Aldebaran (spectral class K5).",
+     "paper_label": "Interregional round (Senior)",
+     "problem_orig": "**Identikit di una stella VIP**\n\nUna nota stella ha una luminosità di $1.60 \\cdot 10^{29}$ W e un raggio di $30.7 \\cdot 10^{6}$ km. Calcolate la temperatura della sua fotosfera e la lunghezza d'onda del picco della sua emissione luminosa. In base a queste caratteristiche, determinate quale tra le seguenti stelle corrisponde all'identikit:\n\n1. Rigel (classe spettrale B8);\n2. Aldebaran (classe spettrale K5).",
+     "orig_lang": "it"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "**The Earth at the zenith**\n\nFrom a point on the surface of the Moon the full Earth is seen at the zenith and has, on average, an integrated apparent magnitude $m_\\mathrm{int} = -16.2$. Neglecting the phenomenon of librations:\n\n(a) calculate the mean surface magnitude of the Earth in magnitudes/arcsec$^2$;\n(b) estimate the mean apparent magnitude of the full Earth from a point on the lunar surface from which the Earth is seen just above the horizon (the lower edge of the Earth touches the lunar horizon);\n(c) assuming a declination of $+5^\\circ$ for the Earth in a lunar equatorial coordinate system, estimate the geographic coordinates of the regions of the Moon from which the Earth can be observed at the zenith.",
+     "paper_label": "Interregional round (Senior)",
+     "problem_orig": "**La Terra allo zenith**\n\nDa un punto sulla superficie della Luna la Terra piena è vista allo zenith e ha, in media, una magnitudine apparente integrata $m_\\mathrm{int} = -16.2$. Trascurando il fenomeno delle librazioni:\n\n1. calcolate la magnitudine superficiale media della Terra in magnitudini/arcsec$^2$;\n2. stimate la magnitudine apparente media della Terra piena da un punto della superficie lunare dal quale la Terra è vista appena sopra l'orizzonte (il bordo inferiore della Terra tocca l'orizzonte lunare);\n3. assumendo per la Terra una declinazione di $+5^\\circ$ in un sistema di coordinate equatoriali lunare, stimate le coordinate geografiche delle regioni della Luna da cui la Terra può essere osservata allo zenith.",
+     "orig_lang": "it"
+    }
+   ]
+  },
+  {
+   "year": 2023,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "**The great Jupiter-Saturn conjunction**\n\nOn 21 December 2020 a spectacular conjunction took place between the planets Jupiter and Saturn. The coordinates of Jupiter at the time of the event were: $\\alpha = 20^\\mathrm{h}\\,11^\\mathrm{m}$; $\\delta = -20^\\circ 31'$. Answer the following questions, justifying your answers:\n\n(a) was the conjunction visible at dawn or at dusk?\n(b) were the two planets in the constellation of Pisces or in that of Capricornus?",
+     "paper_label": "Interregional round (Senior)",
+     "problem_orig": "**La grande congiunzione Giove-Saturno**\n\nIl 21 dicembre 2020 si è verificata una spettacolare congiunzione tra i pianeti Giove e Saturno. Le coordinate di Giove al momento dell'evento erano: $\\alpha = 20^\\mathrm{h}\\,11^\\mathrm{m}$; $\\delta = -20^\\circ 31'$. Rispondete alle seguenti domande, giustificando le risposte:\n\n1. la congiunzione era visibile all'alba o al tramonto?\n2. i due pianeti si trovavano nella costellazione dei Pesci o in quella del Capricorno?",
+     "orig_lang": "it"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "**Cosmic impacts**\n\nWhen a small celestial object enters the atmosphere of a planet, all its kinetic energy is converted into thermomechanical energy, which fragments the body, and into luminous radiation. Calculate the energy, in joules, released in the atmosphere of Jupiter by fragment K of comet Shoemaker-Levy 9, which fell onto Jupiter in July 1994. Fragment K was spherical and had a diameter of $3.2 \\cdot 10^{3}$ m, a speed relative to Jupiter of $6.0 \\cdot 10^{4}$ m/s and a density of $3.00 \\cdot 10^{2}$ kg/m$^3$.",
+     "paper_label": "Interregional round (Senior)",
+     "problem_orig": "**Impatti cosmici**\n\nQuando un piccolo oggetto celeste entra nell'atmosfera di un pianeta, tutta la sua energia cinetica viene convertita in energia termomeccanica, che frammenta il corpo, e in radiazione luminosa. Calcolate l'energia, in joule, rilasciata nell'atmosfera di Giove dal frammento K della cometa Shoemaker-Levy 9, caduta su Giove nel luglio 1994. Il frammento K era sferico e aveva diametro di $3.2 \\cdot 10^{3}$ m, velocità rispetto a Giove di $6.0 \\cdot 10^{4}$ m/s e densità di $3.00 \\cdot 10^{2}$ kg/m$^3$.",
+     "orig_lang": "it"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "**What big eyes you have**\n\nUnlike human beings, whose eyes are sensitive to the so-called \"visible light\", the inhabitants of the planet Titanic have eyes sensitive in the radio band at a frequency of 3.2 GHz. They boast, however, of having the same resolving power as the eye of Earthlings, which is on average $2'$. Knowing that the relation between wavelength and frequency is $\\lambda = c/\\nu$, how large should the pupil of the inhabitants of the planet Titanic be if they were telling the truth?",
+     "paper_label": "Interregional round (Senior)",
+     "problem_orig": "**Ma che occhi grandi che hai**\n\nA differenza degli esseri umani, i cui occhi sono sensibili alla cosiddetta \"luce visibile\", gli abitanti del pianeta Titanic hanno occhi sensibili nella banda radio alla frequenza di 3.2 GHz. Si vantano, tuttavia, di possedere lo stesso potere risolutivo dell'occhio dei terrestri che vale, in media, $2'$. Sapendo che la relazione che lega lunghezza d'onda e frequenza è: $\\lambda = c/\\nu$, quanto dovrebbe essere grande la pupilla degli abitanti del pianeta Titanic se raccontassero la verità?",
+     "orig_lang": "it"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "**Planetary triangulation**\n\nA radio signal must be sent immediately to the Perseverance rover on Mars, which unfortunately is in conjunction with the Sun and cannot be reached directly. It is decided to send the signal towards the VRR (Venus Radio Repeater) repeater placed on the surface of Venus, which is at greatest elongation. The VRR, having received the signal, retransmits it instantly towards Mars. How long does the signal take to be transmitted from the Earth to Mars? Assume all the orbits to be circular and in the same plane and neglect the motion of the planets during the transmission of the signal.",
+     "paper_label": "Interregional round (Senior)",
+     "problem_orig": "**Triangolazione planetaria**\n\nUn segnale radio deve essere immediatamente inviato al rover Perseverance su Marte, che purtroppo è in congiunzione con il Sole e non può essere raggiunto direttamente. Si decide di inviare il segnale verso il ripetitore VRR (Venus Radio Repeater) posto sulla superficie di Venere, che si trova alla massima elongazione. Il VRR, ricevuto il segnale, lo ritrasmette istantaneamente verso Marte. Quanto tempo impiega il segnale per essere trasmesso dalla Terra a Marte? Assumete tutte le orbite circolari e sullo stesso piano e trascurate lo spostamento dei pianeti durante la trasmissione del segnale.",
+     "orig_lang": "it"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "**Double star, double magnitude**\n\nAlpha Centauri ($\\alpha$ Cen) is a binary system composed of two stars with luminosities of 1.5 and 0.5 times that of the Sun respectively. The system is 4.344 light-years from us, while the two stars are 20.0 AU apart. You observe $\\alpha$ Cen with the naked eye and with the Hubble Space Telescope, at a wavelength of 5500 Å. The resolving power of the human eye is on average $2'$, while the mirror of the Hubble Space Telescope has a diameter of 2.4 m. Assume the orbital plane of the components of $\\alpha$ Cen to be perpendicular to the direction of observation.\n\n(a) In both cases, do you distinguish the two components of the binary system?\n(b) Calculate the apparent magnitude of $\\alpha$ Cen observed with the naked eye, neglecting the absorption of the Earth's atmosphere, and with the Hubble Space Telescope.",
+     "paper_label": "Interregional round (Senior)",
+     "problem_orig": "**Stella doppia, doppia magnitudine**\n\nAlpha Centauri ($\\alpha$ Cen) è un sistema binario composto da due stelle di luminosità rispettivamente di 1.5 e 0.5 volte quella del Sole. Il sistema dista da noi 4.344 anni luce, mentre le due stelle distano tra loro 20.0 UA. Osservate $\\alpha$ Cen a occhio nudo e con il telescopio spaziale Hubble, alla lunghezza d'onda di 5500 Å. Il potere risolutivo dell'occhio umano è in media $2'$, mentre lo specchio del telescopio spaziale Hubble ha un diametro di 2.4 m. Assumete il piano orbitale delle componenti di $\\alpha$ Cen perpendicolare alla direzione di osservazione.\n\n1. In entrambi i casi distinguete le due componenti del sistema binario?\n2. Calcolate la magnitudine apparente di $\\alpha$ Cen osservata a occhio nudo, trascurando l'assorbimento dell'atmosfera terrestre, e con il telescopio spaziale Hubble.",
+     "orig_lang": "it"
+    },
+    {
+     "day": 2,
+     "number": 1,
+     "problem": "**The magnitude of Saturn**\n\nLast summer the astronomer D. Stratt tried his hand at calculating the visual magnitude of Saturn at opposition, on the basis of its radius, its distance from the Sun, taken equal to the semi-major axis of its orbit, and its albedo. What value did he obtain? The astronomer then found, however, that the magnitude of Saturn at opposition can reach about $-0.5$, in clear disagreement with his estimate. What mistakes may D. Stratt have made?",
+     "paper_label": "Interregional round (Master)",
+     "problem_orig": "**La magnitudine di Saturno**\n\nL'estate scorsa l'astronomo D. Stratt si è cimentato nel calcolo della magnitudine visuale di Saturno all'opposizione, sulla base del suo raggio, della sua distanza dal Sole, assunta pari al semiasse maggiore dell'orbita, e della sua albedo. Quale valore ha ottenuto? L'astronomo ha scoperto però che la magnitudine di Saturno all'opposizione può arrivare fino a circa $-0.5$, in netto disaccordo con la sua stima. Quali errori può avere commesso D. Stratt?",
+     "orig_lang": "it"
+    }
+   ]
+  },
+  {
+   "year": 2024,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "**The true solar day**\n\nThe duration of the true solar day is not constant over the course of a year. Say in which month of the year its duration is greatest and in which month it is smallest. Justify your answer.",
+     "paper_label": "Interregional round (Senior)",
+     "problem_orig": "**Il giorno solare vero**\n\nLa durata del giorno solare vero non è costante nel corso di un anno. Dite in quale mese dell'anno la sua durata è maggiore e in quale mese è minore. Giustificate la vostra risposta.",
+     "orig_lang": "it"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "**Keeping a safe distance**\n\nThere are currently 560 satellites in geostationary orbit (that is, satellites whose apparent position in the sky remains unchanged in time for any observer on the Earth). Determine the mean distance, measured along the orbit, between any one of them and the one immediately preceding or following it.",
+     "paper_label": "Interregional round (Senior)",
+     "problem_orig": "**Mantenere la distanza di sicurezza**\n\nAttualmente ci sono 560 satelliti in orbita geostazionaria (ovvero satelliti la cui posizione apparente nel cielo resta immutata nel tempo per un qualsiasi osservatore sulla Terra). Determinate la distanza media, misurata lungo l'orbita, tra uno qualsiasi di essi e quello immediatamente precedente o successivo.",
+     "orig_lang": "it"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "**Superga, Monviso and the Moon in one shot**\n\nNASA recently published the photo by Valerio Minato, shown here on the right, as APOD (Astronomy Picture of the Day) on Christmas Day 2023. The photo shows an alignment between the Moon, the summit of Monviso and the Basilica of Superga, near Turin. Calculate:\n\n(a) the distance of the observer from the summit of Monviso, assuming that the latter has a width of $7.50 \\cdot 10^{2}$ m and an angular diameter equal to that of the lunar disc;\n(b) the distance of the observer from the Basilica of Superga, whose width is 80.0 m, assuming that it subtends an angle equal to 70% of the angular diameter of the lunar disc.\n\nIn the calculations neglect the radius of the Earth and assume the orbit of the Moon to be circular.\n\n[The photograph (by Valerio Minato, a private author) is not reproduced here. It is on page 2 of the official paper: https://www.campionatiastronomia.it/wp-content/uploads/2024/05/Gara_IR_2024_Senior_Soluzioni.pdf]",
+     "paper_label": "Interregional round (Senior)",
+     "problem_orig": "**Superga, Monviso e Luna in un sol colpo**\n\nLa NASA ha recentemente pubblicato la foto di Valerio Minato, qui a destra, come APOD (Astronomy Picture of the Day) il giorno di Natale 2023. La foto mostra un allineamento tra la Luna, la sommità del Monviso e la Basilica di Superga, vicino a Torino. Calcolate:\n\na) la distanza dell'osservatore dalla sommità del Monviso, assumendo che quest'ultima abbia una larghezza di $7.50 \\cdot 10^{2}$ m e un diametro angolare pari a quello del disco lunare;\nb) la distanza dell'osservatore dalla Basilica di Superga, la cui larghezza è di 80.0 m, assumendo che questa sottenda un angolo pari al 70% del diametro angolare del disco lunare.\n\nNei calcoli trascurate il raggio della Terra e assumete l'orbita della Luna circolare.\n\n[La fotografia (di Valerio Minato) non è riprodotta qui. Si trova a pagina 2 del testo ufficiale: https://www.campionatiastronomia.it/wp-content/uploads/2024/05/Gara_IR_2024_Senior_Soluzioni.pdf]",
+     "orig_lang": "it"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "**An exceptional witness**\n\nOn 26 September 2022 the Italian satellite LICIACube filmed the impact of the Dart probe on the surface of the asteroid Dimorphos, which was in circular orbit around the asteroid Didymos, of mass $5.27 \\cdot 10^{11}$ kg. Before the impact the period and the semi-major axis of the orbit of Dimorphos were 11 h 55 minutes and 1.19 km. At the moment of impact the Earth and Didymos were separated by an angle of $4^\\circ.02$ with vertex at the Sun, and Didymos was 1.014 AU from the Sun. After the impact the orbital period of Dimorphos decreased by 33 minutes. Calculate:\n\n(a) the orbital speed of Dimorphos before the impact;\n(b) by what percentage the semi-major axis of the orbit of Dimorphos decreased;\n(c) the delay with which the first images of the impact reached the Earth.\n\nNeglect the masses of Dart and Dimorphos and the distances between Didymos, Dimorphos and LICIACube, and assume the Earth's orbit to be circular.",
+     "paper_label": "Interregional round (Senior)",
+     "problem_orig": "**Un testimone d'eccezione**\n\nIl 26 settembre 2022 il satellite italiano LICIACube ha ripreso l'impatto della sonda Dart sulla superficie dell'asteroide Dimorphos, che si trovava in orbita circolare attorno all'asteroide Didymos, di massa $5.27 \\cdot 10^{11}$ kg. Prima dell'impatto il periodo e il semiasse maggiore dell'orbita di Dimorphos erano di 11 h 55 minuti e 1.19 km. Al momento dell'impatto la Terra e Didymos risultavano separati da un angolo di $4^\\circ.02$ con vertice nel Sole e Didymos distava dal Sole 1.014 UA. Dopo l'impatto il periodo orbitale di Dimorphos è diminuito di 33 minuti. Calcolate:\n\na) la velocità orbitale di Dimorphos prima dell'impatto;\nb) di quanto si è ridotto in percentuale il semiasse maggiore dell'orbita di Dimorphos;\nc) il ritardo con cui sono giunte sulla Terra le prime immagini dell'impatto.\n\nTrascurate le masse di Dart e Dimorphos, la distanza tra Didymos, Dimorphos e LICIACube e assumete l'orbita della Terra circolare.",
+     "orig_lang": "it"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "**The astro-octopus**\n\nA huge space octopus, of mass equal to one quarter of that of the Moon and density 0.92 g/cm$^3$, has entered an equatorial elliptical orbit, with a period of 5.23 Earth days and eccentricity 0.30, around a planet. The planet has the same density as the Earth and half the mass of the Earth. What minimum length must the tentacles of the astro-octopus have in order to touch the surface of the planet? Approximate the astro-octopus by a sphere and suppose that its tentacles, whose mass is negligible, start from the point of its body closest to the planet.",
+     "paper_label": "Interregional round (Senior)",
+     "problem_orig": "**L'astropolpo**\n\nUn enorme polpo spaziale, di massa pari a un quarto di quella della Luna e densità pari a 0.92 g/cm$^3$ è entrato in orbita ellittica equatoriale, con un periodo di 5.23 giorni terrestri ed eccentricità 0.30, attorno a un pianeta. Il pianeta ha la stessa densità della Terra e metà della massa terrestre. Quale lunghezza minima devono avere i tentacoli dell'astropolpo per riuscire a toccare il suolo del pianeta? Approssimate l'astropolpo a una sfera e supponete che i suoi tentacoli, la cui massa è trascurabile, partano dal punto del suo corpo più vicino al pianeta.",
+     "orig_lang": "it"
+    },
+    {
+     "day": 2,
+     "number": 1,
+     "problem": "**Debussy at Sun-set**\n\nOn 29 May 2023 Mercury was observed from the Earth at greatest western elongation. With a suitable telescope you could have observed on its surface the crater Debussy, 81 km in diameter, close to the terminator between the illuminated and the shadowed part of the planet. What is the minimum number of complete rotations of Mercury needed to observe the crater Debussy from the Earth under the same illumination conditions? Assume the orbits of Mercury and the Earth to be circular and coplanar, and consider a rounding of the result within 3% to be correct.",
+     "paper_label": "Interregional round (Master)",
+     "problem_orig": "**Debussy al tramonto del Sole**\n\nIl 29 maggio 2023 Mercurio è stato osservato dalla Terra alla massima elongazione occidentale. Con un telescopio adeguato avreste potuto osservare sulla sua superficie il cratere Debussy, di 81 km di diametro, vicino alla linea di demarcazione tra la parte illuminata e quella in ombra del pianeta. Quale è il numero minimo di rotazioni complete di Mercurio necessarie per osservare dalla Terra il cratere Debussy nelle stesse condizioni di illuminazione? Assumete le orbite di Mercurio e Terra circolari e complanari e considerate corretto un arrotondamento del risultato entro il 3%.",
+     "orig_lang": "it"
+    },
+    {
+     "day": 2,
+     "number": 2,
+     "problem": "**Too much sun is harmful**\n\nA comet has a density of 0.313 g/cm$^3$ and, on reaching perihelion at a distance of 0.2301 AU from the centre of the Sun, breaks into two parts. The two fragments A and B acquire speeds $v_A = 210.0$ km/s and $v_B = 35.45$ km/s, with the same direction and sense as the velocity of the comet before the fragmentation, and begin to move on separate orbits. Which of the following situations will occur for each of the two fragments: leave the Solar System, fall onto the Sun, or remain in orbit around the Sun? Justify your answer.",
+     "paper_label": "Interregional round (Master)",
+     "problem_orig": "**Prendere troppo sole fa male**\n\nUna cometa ha una densità di 0.313 g/cm$^3$ e, giunta al perielio a una distanza di 0.2301 UA dal centro del Sole, si spezza in due parti. I due frammenti A e B assumono velocità $v_A = 210.0$ km/s e $v_B = 35.45$ km/s, con la stessa direzione e verso della velocità della cometa prima della frammentazione, e iniziano a muoversi su orbite separate. Quale delle seguenti situazioni si verificherà per ciascuno dei due frammenti? Abbandonare il Sistema Solare, cadere sul Sole o rimanere in orbita intorno al Sole? Giustificate la risposta.",
+     "orig_lang": "it"
+    },
+    {
+     "day": 2,
+     "number": 3,
+     "problem": "**There is mail for M13**\n\nIn 1974 a radio message was sent by the Arecibo radio telescope (Puerto Rico) towards the globular cluster M13, which has an angular diameter of $23'.0$, is at a distance of 7.70 kpc from the Sun, is estimated to contain $6.40 \\cdot 10^{5}$ stars and has a mean surface magnitude of 21.2 mag/arcsec$^2$. The radio telescope had an aperture of $3.05 \\cdot 10^{2}$ m and transmitted at a frequency of $2.38 \\cdot 10^{3}$ MHz. The beam of radio waves had an angular width equal to twice the resolving power of the telescope and was pointed exactly at the centre of M13. Suppose that the stars are uniformly distributed in the volume of M13 and calculate:\n\n(a) the mean density of stars in M13;\n(b) how many stars will actually be reached by the radio message;\n(c) the integrated apparent magnitude of M13.",
+     "paper_label": "Interregional round (Master)",
+     "problem_orig": "**C'è posta per M13**\n\nNel 1974 è stato inviato dal radiotelescopio di Arecibo (Porto Rico) un messaggio radio verso l'ammasso globulare M13, che ha un diametro angolare di $23'.0$, si trova a una distanza di 7.70 kpc dal Sole, si stima contenga $6.40 \\cdot 10^{5}$ stelle e ha una magnitudine superficiale media di 21.2 mag/arcsec$^2$. Il radiotelescopio aveva un'apertura di $3.05 \\cdot 10^{2}$ m e trasmetteva alla frequenza di $2.38 \\cdot 10^{3}$ MHz. Il fascio delle onde radio aveva un'ampiezza angolare pari al doppio del potere risolutivo del telescopio ed era puntato esattamente al centro di M13. Supponete che le stelle siano distribuite uniformemente nel volume di M13 e calcolate:\n\na) la densità media di stelle in M13;\nb) quante stelle verranno effettivamente raggiunte dal messaggio radio;\nc) la magnitudine apparente integrata di M13.",
+     "orig_lang": "it"
+    }
+   ]
+  },
+  {
+   "year": 2025,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "**Karel and Corty observe the sky**\n\nOn 15 April Karel sees the Sun towards the south, high above the horizon as shown in figure 1. That night Corty sees the star Arcturus towards the south, high above the horizon as shown in figure 2.\n\nConsider the positions A, B, C and D in both cases and answer the following questions, justifying your answers:\n\n(a) where will Karel see the Sun two months later, at the same time?\n(b) where will Corty see Arcturus one month later, at the same time?\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/itir-2025-d1-q1-1.png",
+     "paper_label": "Interregional round (Senior)",
+     "problem_orig": "**Karel e Corty osservano il cielo**\n\nIl 15 aprile Karel vede il Sole in direzione sud, alto sull'orizzonte come mostrato in figura 1. Quella notte Corty vede la stella Arturo in direzione sud, alta sull'orizzonte come mostrato in figura 2.\n\nConsiderate in entrambi i casi le posizioni A, B, C e D e rispondete alle seguenti domande motivando la risposta:\n\na) dove Karel vedrà il Sole due mesi dopo, alla stessa ora?\nb) dove Corty vedrà Arturo un mese dopo, alla stessa ora?\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/itir-2025-d1-q1-1.png",
+     "orig_lang": "it"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "**Magnitude of the binary system**\n\nA binary system has a total apparent magnitude of 2.15. The luminosity of one of the two stars is twice that of its companion. Assuming that the two stars are at the same distance from the observer, calculate the magnitude of each of the two stars.",
+     "paper_label": "Interregional round (Senior)",
+     "problem_orig": "**Magnitudine del sistema binario**\n\nUn sistema binario ha una magnitudine apparente totale pari a 2.15. La luminosità di una delle due stelle è il doppio di quella della compagna. Assumendo che le due stelle siano alla stessa distanza dall'osservatore, calcolate la magnitudine di ciascuna delle due stelle.",
+     "orig_lang": "it"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "**Which focal length?**\n\nA binary system is observed with a telescope with an aperture of 150 mm and a focal length of 750 mm. The two stars have a separation of $4''$. What must be the maximum focal length of an eyepiece in order to distinguish the two stars, taking the resolving power of the human eye to be $2'$?",
+     "paper_label": "Interregional round (Senior)",
+     "problem_orig": "**Quale focale?**\n\nUn sistema binario viene osservato con un telescopio con apertura di 150 mm e lunghezza focale di 750 mm. Le due stelle hanno una separazione di $4''$. Quale deve essere la lunghezza focale massima di un oculare per distinguere le due stelle considerando il potere risolutivo dell'occhio umano pari a $2'$?",
+     "orig_lang": "it"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "**The seasons of Arsura and Ghiacciolo**\n\nA planetary system includes two planets, called Ghiacciolo and Arsura. The inhabitants of Arsura complain that their seasons last too short a time compared with those of Ghiacciolo. The orbits of the two planets are circular and coplanar. The inclination of the rotation axis with respect to the orbital plane is $32^\\circ$ for both planets. Arsura has a semi-major axis of its orbit equal to half the semi-major axis of the orbit of Ghiacciolo. Calculate the ratio between the duration of summer on Arsura and on Ghiacciolo.",
+     "paper_label": "Interregional round (Senior)",
+     "problem_orig": "**Le stagioni di Arsura e Ghiacciolo**\n\nUn sistema planetario comprende due pianeti, chiamati Ghiacciolo e Arsura. Gli abitanti di Arsura si lamentano che le loro stagioni durano troppo poco rispetto a quelle di Ghiacciolo. Le orbite dei due pianeti sono circolari e complanari. L'inclinazione dell'asse di rotazione rispetto al piano orbitale è di $32^\\circ$ per entrambi i pianeti. Arsura ha un semiasse maggiore dell'orbita pari alla metà del semiasse maggiore dell'orbita di Ghiacciolo. Calcolate il rapporto tra la durata dell'estate su Arsura e su Ghiacciolo.",
+     "orig_lang": "it"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "**Who is right?**\n\nKarel and Corty are on Mercury and, during the very long Mercurian night, they sight two very bright objects in opposition. Karel recognises them at once: \"They are Jupiter and the Earth! Jupiter is the brighter object, because it is bigger\". Corty disagrees: \"No way, the brighter object is the Earth, because it is closer\". Considering all the orbits to be circular and coplanar, establish which of the two is right and calculate the magnitude difference between the Earth and Jupiter as seen from Mercury. Neglect the contribution of the Moon and of the satellites of Jupiter to the brightness of the two planets.",
+     "paper_label": "Interregional round (Senior)",
+     "problem_orig": "**Chi ha ragione?**\n\nKarel e Corty si trovano su Mercurio e durante la lunghissima notte mercuriana avvistano due astri luminosissimi in opposizione. Karel li riconosce subito: \"sono Giove e la Terra! Giove è l'astro più luminoso, perché è più grande\". Corty dissente: \"Ma no, l'astro più luminoso è la Terra, perché è più vicina\". Considerando tutte le orbite circolari e complanari, stabilite chi dei due ha ragione e calcolate la differenza di magnitudine tra Terra e Giove visti da Mercurio. Trascurate il contributo della Luna e dei satelliti di Giove alla luminosità dei due pianeti.",
+     "orig_lang": "it"
+    },
+    {
+     "day": 2,
+     "number": 1,
+     "problem": "**The ancestors of Karel and Corty cross the Pacific Ocean**\n\nAt the end of the 19th century the steamship SS Warrimoo was sailing the waters of the Pacific with the ancestors of Karel and Corty on board. At midnight on 31 December 1899 the SS Warrimoo crossed the equator exactly at the instant of its passage over the antimeridian of Greenwich, with grandmother Karel at the bow and grandfather Corty at the stern (see the figure on the right). In which season and on which day were grandmother Karel and grandfather Corty at that instant?\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/itir-2025-d2-q1-1.png",
+     "paper_label": "Interregional round (Master)",
+     "problem_orig": "**Gli antenati di Karel e Corty solcano l'oceano Pacifico**\n\nAlla fine del XIX secolo il piroscafo SS Warrimoo stava solcando le acque del Pacifico con a bordo gli antenati di Karel e Corty. Alla mezzanotte del 31 dicembre 1899 la SS Warrimoo ha attraversato l'equatore esattamente all'istante del passaggio sull'antimeridiano di Greenwich, con nonna Karel a prua e nonno Corty a poppa (vedi figura a destra). In quale stagione e in quale giorno si trovavano in quell'istante nonna Karel e nonno Corty?\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/itir-2025-d2-q1-1.png",
+     "orig_lang": "it"
+    },
+    {
+     "day": 2,
+     "number": 2,
+     "problem": "**The planetary alignment**\n\nSuppose that at a given moment Jupiter, Saturn, Uranus and Neptune are exactly aligned in opposition with the Earth. Consider all the orbits coplanar and calculate the maximum total gravitational attraction that they would exert on the Earth, and then compare it with the minimum attraction that the Sun exerts on the Earth. Is there reason to fear that such an alignment could perturb the Earth's orbit?",
+     "paper_label": "Interregional round (Master)",
+     "problem_orig": "**L'allineamento planetario**\n\nSupponete che in un dato momento Giove, Saturno, Urano e Nettuno si trovino esattamente allineati in opposizione con la Terra. Considerate tutte le orbite complanari e calcolate l'attrazione gravitazionale massima complessiva che essi eserciterebbero sulla Terra e poi confrontatela con l'attrazione minima che il Sole esercita sulla Terra. C'è motivo di temere che tale allineamento possa perturbare l'orbita terrestre?",
+     "orig_lang": "it"
+    }
+   ]
+  }
+ ]
+}
