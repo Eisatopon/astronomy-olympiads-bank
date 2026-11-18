@@ -694,7 +694,7 @@ dialog p { color: var(--muted); font-size: .92rem; }
 // Local copies (python -m http.server) read the files next to the page; the published site reads the raw files.
 const BASE = /^(localhost|127\.)/.test(location.hostname) ? './' : 'https://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/';
 // Bump on every data change so browsers never mix old and new files.
-const DATA_VERSION = '20261117-it-2008-2015';
+const DATA_VERSION = '20261118-it-master';
 const FIRST = 1990, LAST = 2026;
 const REGIONS = [['europe', 'Europe'], ['asia', 'Asia'], ['americas', 'Americas'], ['africa', 'Africa'], ['oceania', 'Oceania'], ['world', 'World'], ['other', 'Other']];
 const REGION_OF = {
@@ -765,7 +765,7 @@ const COUNTRIES = [
     { key: 'by3', name: 'Belarus Regional', flag: '🇧🇾', file: 'Belarus-astronomy-regional-problems.json', kind: 'years', full: 'Belarus Republican Olympiad in Astronomy, 3rd (regional) stage — translated from the official Russian papers' },
     { key: 'rs', name: 'Serbia', flag: '🇷🇸', file: 'Serbia-astronomy-problems.json', kind: 'years', full: 'Republic Competition in Astronomy of the Serbian Astronomical Society (national final, secondary schools): theory, data analysis and observation — translated from the official Serbian papers' },
     { key: 'hr', name: 'Croatia', flag: '🇭🇷', file: 'Croatia-astronomy-problems.json', kind: 'years', full: 'Olympiad Qualifying Test in astronomy (selection for the IOAA team; Zvjezdarnica Zagreb, Croatian Astronomical Society, Ministry of Science and Education) — translated from the official Croatian papers' },
-    { key: 'it', name: 'Italy', flag: '🇮🇹', file: 'Italy-astronomy-problems.json', kind: 'years', full: 'Campionati Italiani di Astronomia (formerly Olimpiadi Italiane di Astronomia), National Final, Senior category: theory and practical tests — translated from the official Italian papers' },
+    { key: 'it', name: 'Italy', flag: '🇮🇹', file: 'Italy-astronomy-problems.json', kind: 'years', full: 'Campionati Italiani di Astronomia (formerly Olimpiadi Italiane di Astronomia), National Final, Senior category and (from 2023) Master category: theory and practical tests — translated from the official Italian papers' },
     { key: 'gecaa', name: 'GeCAA', flag: '🌐', file: 'GeCAA-problems.json', kind: 'years', scope: 'international', full: 'Global e-Competition on Astronomy and Astrophysics (online, 2020), theory and data analysis' },
     { key: 'iaac', name: 'IAAC', flag: '🌐', file: 'IAAC-problems.json', kind: 'years', scope: 'international', full: 'International Astronomy and Astrophysics Competition (IAAC), online rounds: Qualification Round and Pre-Final Round' }
 ];
