@@ -694,7 +694,7 @@ dialog p { color: var(--muted); font-size: .92rem; }
 // Local copies (python -m http.server) read the files next to the page; the published site reads the raw files.
 const BASE = /^(localhost|127\.)/.test(location.hostname) ? './' : 'https://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/';
 // Bump on every data change so browsers never mix old and new files.
-const DATA_VERSION = '20261119-itj-junior';
+const DATA_VERSION = '20261119-itj-2008-2017';
 const FIRST = 1990, LAST = 2026;
 const REGIONS = [['europe', 'Europe'], ['asia', 'Asia'], ['americas', 'Americas'], ['africa', 'Africa'], ['oceania', 'Oceania'], ['world', 'World'], ['other', 'Other']];
 const REGION_OF = {
@@ -769,7 +769,7 @@ const COUNTRIES = [
     { key: 'hr', name: 'Croatia', flag: '🇭🇷', file: 'Croatia-astronomy-problems.json', kind: 'years', full: 'Olympiad Qualifying Test in astronomy (selection for the IOAA team; Zvjezdarnica Zagreb, Croatian Astronomical Society, Ministry of Science and Education) — translated from the official Croatian papers' },
     { key: 'it', name: 'Italy', flag: '🇮🇹', file: 'Italy-astronomy-problems.json', kind: 'years', full: 'Campionati Italiani di Astronomia (formerly Olimpiadi Italiane di Astronomia), National Final, Senior category and (from 2023) Master category: theory and practical tests — translated from the official Italian papers' },
     { key: 'itir', name: 'Italy Interregional', flag: '🇮🇹', file: 'Italy-astronomy-interregional-problems.json', kind: 'years', full: 'Campionati Italiani di Astronomia (formerly Olimpiadi Italiane di Astronomia), interregional round, Senior and Master categories — translated from the official Italian papers' },
-    { key: 'itj', name: 'Italy Junior', flag: '🇮🇹', file: 'Italy-astronomy-junior-problems.json', kind: 'years', full: 'Campionati Italiani di Astronomia (formerly Olimpiadi Italiane di Astronomia), National Final, Junior categories — translated from the official Italian papers' },
+    { key: 'itj', name: 'Italy Junior', flag: '🇮🇹', file: 'Italy-astronomy-junior-problems.json', kind: 'years', full: 'Campionati Italiani di Astronomia (formerly Olimpiadi Italiane di Astronomia), National Final, Junior categories (Junior 1 and Junior 2 from 2018) — translated from the official Italian papers' },
     { key: 'gecaa', name: 'GeCAA', flag: '🌐', file: 'GeCAA-problems.json', kind: 'years', scope: 'international', full: 'Global e-Competition on Astronomy and Astrophysics (online, 2020), theory and data analysis' },
     { key: 'iaac', name: 'IAAC', flag: '🌐', file: 'IAAC-problems.json', kind: 'years', scope: 'international', full: 'International Astronomy and Astrophysics Competition (IAAC), online rounds: Qualification Round and Pre-Final Round' }
 ];
