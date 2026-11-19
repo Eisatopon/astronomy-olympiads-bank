@@ -1524,9 +1524,9 @@
     {
      "day": 1,
      "number": 5,
-     "problem": "10.5. Landing on Venus and Titan\n\nDetermine by what factor the weight of a spacecraft at the equator of Venus and at the equator of Titan will change compared with its weight at the equator of the Earth. The spacecraft has the shape of a sphere of diameter 1 metre and mass 100 kg.",
+     "problem": "10.5. Landing on Venus and Titan\n\nDetermine by what factor the weight of a spacecraft at the equator of Venus and at the equator of Titan will change compared with its weight at the equator of the Earth. The spacecraft has the shape of a sphere of diameter 1 metre and mass 100 kg.",
      "paper_label": "Final – theoretical round (grade 10)",
-     "problem_orig": "10.5. Посадка на Венеру и Титан\n\nОпределите, во сколько раз изменится вес космического аппарата на экваторе Венеры и на экваторе Титана по сравнению с его весом на экваторе Земли. Космический аппарат имеет форму шара диаметром 1 метр и массой 100 кг.",
+     "problem_orig": "10.5. Посадка на Венеру и Титан\n\nОпределите, во сколько раз изменится вес космического аппарата на экваторе Венеры и на экваторе Титана по сравнению с его весом на экваторе Земли. Космический аппарат имеет форму шара диаметром 1 метр и массой 100 кг.",
      "orig_lang": "ru"
     },
     {
@@ -2136,9 +2136,9 @@
     {
      "day": 3,
      "number": 2,
-     "problem": "9.2. The wonderful star\n\nDuring the olympiad, on 9 April 2015, the best-known long-period variable star Mira (\"The Wonderful\") in Cetus (right ascension $02^\\mathrm{h}19^\\mathrm{m}$, declination $-3.0^\\circ$) reaches maximum brightness. At what maximum northern latitude on the Earth can it be seen on that day when the Sun sinks below the horizon by at least $12^\\circ$? Do not take atmospheric absorption and refraction into account. Consider the orbit of the Earth to be circular.",
+     "problem": "9.2. The wonderful star\n\nDuring the olympiad, on 9 April 2015, the best-known long-period variable star Mira (\"The Wonderful\") in Cetus (right ascension $02^\\mathrm{h}19^\\mathrm{m}$, declination $-3.0^\\circ$) reaches maximum brightness. At what maximum northern latitude on the Earth can it be seen on that day when the Sun sinks below the horizon by at least $12^\\circ$? Do not take atmospheric absorption and refraction into account. Consider the orbit of the Earth to be circular.",
      "paper_label": "Final – theoretical round (grade 9)",
-     "problem_orig": "9.2. Удивительная звезда\n\nВо время проведения олимпиады, 9 апреля 2015 года, максимума блеска достигает самая известная долгопериодическая переменная звезда Мира (\"Удивительная\") Кита (прямое восхождение $02^\\mathrm{ч}19^\\mathrm{м}$, склонение $-3.0^\\circ$). На какой максимальной северной широте на Земле ее можно будет увидеть в этот день при погружении Солнца под горизонт не менее $12^\\circ$? Атмосферное поглощение и рефракцию не учитывать. Орбиту Земли считать круговой.",
+     "problem_orig": "9.2. Удивительная звезда\n\nВо время проведения олимпиады, 9 апреля 2015 года, максимума блеска достигает самая известная долгопериодическая переменная звезда Мира (\"Удивительная\") Кита (прямое восхождение $02^\\mathrm{ч}19^\\mathrm{м}$, склонение $-3.0^\\circ$). На какой максимальной северной широте на Земле ее можно будет увидеть в этот день при погружении Солнца под горизонт не менее $12^\\circ$? Атмосферное поглощение и рефракцию не учитывать. Орбиту Земли считать круговой.",
      "orig_lang": "ru"
     },
     {
@@ -2370,9 +2370,9 @@
     {
      "day": 3,
      "number": 1,
-     "problem": "9.1. The Northern Express\n\nA train moves exactly north. When observed from this train at the moment of crossing the Arctic Circle, the Sun appeared at the north point and began to rise, moving at an angle of 5 degrees to the horizon. Determine the speed of the train. Neglect the relief of the Earth, refraction and the angular size of the Sun.",
+     "problem": "9.1. The Northern Express\n\nA train moves exactly north. When observed from this train at the moment of crossing the Arctic Circle, the Sun appeared at the north point and began to rise, moving at an angle of 5 degrees to the horizon. Determine the speed of the train. Neglect the relief of the Earth, refraction and the angular size of the Sun.",
      "paper_label": "Final – theoretical round (grade 9)",
-     "problem_orig": "9.1. Северный экспресс\n\nПоезд движется точно на север. При наблюдении из этого поезда в момент пересечения Северного полярного круга Солнце появилось в точке севера и стало восходить, двигаясь под углом 5 градусов к горизонту. Определить скорость поезда. Рельефом Земли, рефракцией и угловыми размерами Солнца пренебречь.",
+     "problem_orig": "9.1. Северный экспресс\n\nПоезд движется точно на север. При наблюдении из этого поезда в момент пересечения Северного полярного круга Солнце появилось в точке севера и стало восходить, двигаясь под углом 5 градусов к горизонту. Определить скорость поезда. Рельефом Земли, рефракцией и угловыми размерами Солнца пренебречь.",
      "orig_lang": "ru"
     },
     {

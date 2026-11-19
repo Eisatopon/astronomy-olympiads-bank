@@ -334,7 +334,7 @@
     {
      "day": 2,
      "number": 3,
-     "problem": "Problem B.1: Rotating the JWST (6 Points)\n\nThe JWST has a propulsion system to adjust the orbit and orientation of the telescope.\n\nFor this problem, we assume that the JWST only consists of the 18 primary mirror segments (with a weight of 40 kg each, $m_1$) forming a cylinder with a radius of 3.3 m ($R$), the Aft optical subsystem with a weight of 120 kg ($m_2$) forming a cone with a radius of 65 cm ($r$), and the science instrument module with a weight of 1400 kg ($m_3$) forming a cuboid with a side length of 5.3 m ($a$):\n\n(a) Derive a general expression for the moment of inertia $I$ of the telescope's shape with respect to the dimensions $R$, $r$, $a$ and the masses $m_1$, $m_2$, $m_3$. (Hint: Derive the moment of inertia for the individual components first. The rotational axis is the axis of symmetry.)\n\n(b) Calculate the numerical value of $I$ for the JWST. (Use only the values from the text above.)\n\nTo perform calibration measurements, the researchers need to rotate the telescope by 90 degrees. For that, they fire the MRE-1 thrusters at the bottom edge of the primary mirror (see figure) for 0.5 seconds with a thrust of 2.5 newtons.\n\n(c) How long does it take for the telescope to rotate by 90 degrees?\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/iaac-2022-pf-b1.png",
+     "problem": "Problem B.1: Rotating the JWST (6 Points)\n\nThe JWST has a propulsion system to adjust the orbit and orientation of the telescope.\n\nFor this problem, we assume that the JWST only consists of the 18 primary mirror segments (with a weight of 40 kg each, $m_1$) forming a cylinder with a radius of 3.3 m ($R$), the Aft optical subsystem with a weight of 120 kg ($m_2$) forming a cone with a radius of 65 cm ($r$), and the science instrument module with a weight of 1400 kg ($m_3$) forming a cuboid with a side length of 5.3 m ($a$):\n\n(a) Derive a general expression for the moment of inertia $I$ of the telescope's shape with respect to the dimensions $R$, $r$, $a$ and the masses $m_1$, $m_2$, $m_3$. (Hint: Derive the moment of inertia for the individual components first. The rotational axis is the axis of symmetry.)\n\n(b) Calculate the numerical value of $I$ for the JWST. (Use only the values from the text above.)\n\nTo perform calibration measurements, the researchers need to rotate the telescope by 90 degrees. For that, they fire the MRE-1 thrusters at the bottom edge of the primary mirror (see figure) for 0.5 seconds with a thrust of 2.5 newtons.\n\n(c) How long does it take for the telescope to rotate by 90 degrees?\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/iaac-2022-pf-b1.png",
      "paper_label": "Pre-Final Round"
     },
     {
@@ -399,7 +399,7 @@
     {
      "day": 2,
      "number": 2,
-     "problem": "Problem A.2: Brightness of a Binary Star (4 Points)\n\nA binary star system consists of two stars very close to one another. The two stars have apparent magnitudes of $m_1 = 2$ and $m_2 = 3$. The apparent magnitude $m$ is defined with a stars' flux density $F$, compared to a reference star with $m_0$ and $F_0$:\n$$m - m_0 = -2.5\\log_{10}\\left(\\frac{F}{F_0}\\right)$$\nCalculate the total apparent magnitude of the binary star system.",
+     "problem": "Problem A.2: Brightness of a Binary Star (4 Points)\n\nA binary star system consists of two stars very close to one another. The two stars have apparent magnitudes of $m_1 = 2$ and $m_2 = 3$. The apparent magnitude $m$ is defined with a stars' flux density $F$, compared to a reference star with $m_0$ and $F_0$:\n$$m - m_0 = -2.5\\log_{10}\\left(\\frac{F}{F_0}\\right)$$\nCalculate the total apparent magnitude of the binary star system.",
      "paper_label": "Pre-Final Round"
     },
     {
@@ -452,7 +452,7 @@
     {
      "day": 1,
      "number": 4,
-     "problem": "Problem D : Field of View of the ISS (5 Points)\n\nThe astronauts living on the ISS have a spectacular view of Earth. However, they see only a certain part of the Earth at a given time, and the planet's curvature limits their view.\n\nUse geometry to determine (a) the field of view angle $\\theta$, (b) the total distance $S$ visible, and (c) the percentage of Earth's surface that astronauts can see.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/iaac-2024-qr-d.png",
+     "problem": "Problem D : Field of View of the ISS (5 Points)\n\nThe astronauts living on the ISS have a spectacular view of Earth. However, they see only a certain part of the Earth at a given time, and the planet's curvature limits their view.\n\nUse geometry to determine (a) the field of view angle $\\theta$, (b) the total distance $S$ visible, and (c) the percentage of Earth's surface that astronauts can see.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/iaac-2024-qr-d.png",
      "paper_label": "Qualification Round"
     },
     {

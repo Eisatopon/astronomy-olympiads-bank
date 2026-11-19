@@ -369,7 +369,7 @@
     {
      "day": 1,
      "number": 2,
-     "problem": "[5 pt] Planet Nine is a hypothesized planet in the outer Solar System that may explain the clustering of orbital elements of distant trans-Neptunian objects. The hypothesized periapse of Planet Nine is 200 AU, and the apoapse is expected to be at approximately 1200 AU. What would the eccentricity of Planet Nine be? How does this eccentricity compare to that of the 8 major planets in the Solar System?",
+     "problem": "[5 pt] Planet Nine is a hypothesized planet in the outer Solar System that may explain the clustering of orbital elements of distant trans-Neptunian objects. The hypothesized periapse of Planet Nine is 200 AU, and the apoapse is expected to be at approximately 1200 AU. What would the eccentricity of Planet Nine be? How does this eccentricity compare to that of the 8 major planets in the Solar System?",
      "paper_label": "NAC – Short questions"
     },
     {
@@ -671,7 +671,7 @@
     {
      "day": 1,
      "number": 2,
-     "problem": "(10 points) The following expression describes the mass function of a binary system:\n$$f(M_1, M_2) = \\frac{M_2^3 sin^3(i)}{(M_1 + M_2)^2}$$\n• $M_1$: Mass of star 1.\n• $M_2$: Mass of star 2.\n• $i$: Inclination of the orbit.\n\nConsider an eclipsing binary system with a period of 70 years and a total semi-major axis of 36 AU. In this system, the semi-major axis of star 1 is two times larger than the semi-major axis of star 2.\n\nEstimate the mass function of the binary system in terms of solar masses.",
+     "problem": "(10 points) The following expression describes the mass function of a binary system:\n$$f(M_1, M_2) = \\frac{M_2^3 sin^3(i)}{(M_1 + M_2)^2}$$\n• $M_1$: Mass of star 1.\n• $M_2$: Mass of star 2.\n• $i$: Inclination of the orbit.\n\nConsider an eclipsing binary system with a period of 70 years and a total semi-major axis of 36 AU. In this system, the semi-major axis of star 1 is two times larger than the semi-major axis of star 2.\n\nEstimate the mass function of the binary system in terms of solar masses.",
      "paper_label": "NAC – short questions"
     },
     {
@@ -701,7 +701,7 @@
     {
      "day": 2,
      "number": 2,
-     "problem": "(30 points) A meteorite that is radially approaching the Earth collides with a space station that revolves around the Earth in a circular orbit with radius $R$. For all parts of the question, express your results in terms of the mass $M$ of the Earth, the gravitational constant $G$, the mass $m_1$ of the meteorite, and the mass $m_2$ of the space station.\n\n(a) Assume that, after the impact, the meteorite and the space station form a conglomerate that moves in a closed orbit which approaches the center of the Earth at a minimum distance $R/2$. State what the shape of the orbit of the conglomerate is and determine:\n• (i) the speed of the meteorite just before the collision,\n• (ii) the minimum and maximum speeds of the conglomerate,\n• (iii) the maximum distance of the conglomerate from the center of the Earth.\n\nDetermine the condition that $m_1$ and $m_2$ must obey so that the aforementioned scenario is possible.\n\n(b) Determine the minimum speed that the meteorite should have just before the collision so that the conglomerate moves in an open orbit after the impact. For this minimum value of the speed of the meteorite, state what the shape of the orbit of the conglomerate would be and determine\n• (i) the maximum speed of the conglomerate,\n• (ii) its minimum distance from the center of the Earth,\n• (iii) the angle traversed by the orbital radius from the moment of the collision until the moment when the conglomerate approaches the center of the Earth to minimum distance.",
+     "problem": "(30 points) A meteorite that is radially approaching the Earth collides with a space station that revolves around the Earth in a circular orbit with radius $R$. For all parts of the question, express your results in terms of the mass $M$ of the Earth, the gravitational constant $G$, the mass $m_1$ of the meteorite, and the mass $m_2$ of the space station.\n\n(a) Assume that, after the impact, the meteorite and the space station form a conglomerate that moves in a closed orbit which approaches the center of the Earth at a minimum distance $R/2$. State what the shape of the orbit of the conglomerate is and determine:\n• (i) the speed of the meteorite just before the collision,\n• (ii) the minimum and maximum speeds of the conglomerate,\n• (iii) the maximum distance of the conglomerate from the center of the Earth.\n\nDetermine the condition that $m_1$ and $m_2$ must obey so that the aforementioned scenario is possible.\n\n(b) Determine the minimum speed that the meteorite should have just before the collision so that the conglomerate moves in an open orbit after the impact. For this minimum value of the speed of the meteorite, state what the shape of the orbit of the conglomerate would be and determine\n• (i) the maximum speed of the conglomerate,\n• (ii) its minimum distance from the center of the Earth,\n• (iii) the angle traversed by the orbital radius from the moment of the collision until the moment when the conglomerate approaches the center of the Earth to minimum distance.",
      "paper_label": "NAC – medium questions"
     },
     {

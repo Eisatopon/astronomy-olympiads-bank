@@ -941,9 +941,9 @@
     {
      "day": 1,
      "number": 4,
-     "problem": "One astronomy textbook states that \"the difference between the Old and New Style, which at present amounts to 13 days, will remain until the end of the 21st century\". Do you agree with this statement?",
+     "problem": "One astronomy textbook states that \"the difference between the Old and New Style, which at present amounts to 13 days, will remain until the end of the 21st century\". Do you agree with this statement?",
      "paper_label": "In-person round (grades 8–9)",
-     "problem_orig": "В одном учебнике по астрономии написано, что «расхождение между старым и новым стилем, составляющее в настоящее время в 13 суток, сохранится до конца XXI века». Согласны ли вы с этим утверждением?",
+     "problem_orig": "В одном учебнике по астрономии написано, что «расхождение между старым и новым стилем, составляющее в настоящее время в 13 суток, сохранится до конца XXI века». Согласны ли вы с этим утверждением?",
      "orig_lang": "ru"
     },
     {
@@ -1244,9 +1244,9 @@
     {
      "day": 1,
      "number": 2,
-     "problem": "On the surface of which terrestrial planets can a sunrise be observed? Where will it be the shortest? Estimate its duration.\n\nReference data (from the paper):\n$$\\begin{array}{|l|c|c|c|c|c|}\n\\hline\n\\text{Body} & \\text{Radius, km} & \\text{Rotation period} & \\text{Semi-major axis, AU} & \\text{Eccentricity} & \\text{Orbital period, years} \\\\\n\\hline\n\\text{Sun} & 695\\,000 & 25.380\\ \\text{d} & - & - & - \\\\\n\\text{Mercury} & 2439.7 & 58.646\\ \\text{d} & 0.3871 & 0.2056 & 0.2408 \\\\\n\\text{Venus} & 6051.8 & 243.019\\ \\text{d}^{*} & 0.7233 & 0.0068 & 0.6152 \\\\\n\\text{Earth} & 6378.1 & 23.934\\ \\text{h} & 1.000 & 0.0167 & 1 \\\\\n\\text{Mars} & 3397.2 & 24.623\\ \\text{h} & 1.523 & 0.0934 & 1.881 \\\\\n\\hline\n\\end{array}$$\n$^{*}$ retrograde rotation.",
+     "problem": "On the surface of which terrestrial planets can a sunrise be observed? Where will it be the shortest? Estimate its duration.\n\nReference data (from the paper):\n$$\\begin{array}{|l|c|c|c|c|c|}\n\\hline\n\\text{Body} & \\text{Radius, km} & \\text{Rotation period} & \\text{Semi-major axis, AU} & \\text{Eccentricity} & \\text{Orbital period, years} \\\\\n\\hline\n\\text{Sun} & 695\\,000 & 25.380\\ \\text{d} & - & - & - \\\\\n\\text{Mercury} & 2439.7 & 58.646\\ \\text{d} & 0.3871 & 0.2056 & 0.2408 \\\\\n\\text{Venus} & 6051.8 & 243.019\\ \\text{d}^{*} & 0.7233 & 0.0068 & 0.6152 \\\\\n\\text{Earth} & 6378.1 & 23.934\\ \\text{h} & 1.000 & 0.0167 & 1 \\\\\n\\text{Mars} & 3397.2 & 24.623\\ \\text{h} & 1.523 & 0.0934 & 1.881 \\\\\n\\hline\n\\end{array}$$\n$^{*}$ retrograde rotation.",
      "paper_label": "Theoretical round (grades 8–9)",
-     "problem_orig": "На поверхности каких планет земной группы можно наблюдать восход Солнца? Где он будет самым коротким? Оцените его длительность.\n\nСправочные данные (из условия):\n$$\\begin{array}{|l|c|c|c|c|c|}\n\\hline\n\\text{Тело} & \\text{Радиус, км} & \\text{Период вращения} & \\text{Большая полуось, а. е.} & \\text{Эксцентриситет} & \\text{Период обращения, лет} \\\\\n\\hline\n\\text{Солнце} & 695\\,000 & 25.380\\ \\text{сут} & - & - & - \\\\\n\\text{Меркурий} & 2439.7 & 58.646\\ \\text{сут} & 0.3871 & 0.2056 & 0.2408 \\\\\n\\text{Венера} & 6051.8 & 243.019\\ \\text{сут}^{*} & 0.7233 & 0.0068 & 0.6152 \\\\\n\\text{Земля} & 6378.1 & 23.934\\ \\text{час} & 1.000 & 0.0167 & 1 \\\\\n\\text{Марс} & 3397.2 & 24.623\\ \\text{час} & 1.523 & 0.0934 & 1.881 \\\\\n\\hline\n\\end{array}$$\n$^{*}$ обратное вращение.",
+     "problem_orig": "На поверхности каких планет земной группы можно наблюдать восход Солнца? Где он будет самым коротким? Оцените его длительность.\n\nСправочные данные (из условия):\n$$\\begin{array}{|l|c|c|c|c|c|}\n\\hline\n\\text{Тело} & \\text{Радиус, км} & \\text{Период вращения} & \\text{Большая полуось, а. е.} & \\text{Эксцентриситет} & \\text{Период обращения, лет} \\\\\n\\hline\n\\text{Солнце} & 695\\,000 & 25.380\\ \\text{сут} & - & - & - \\\\\n\\text{Меркурий} & 2439.7 & 58.646\\ \\text{сут} & 0.3871 & 0.2056 & 0.2408 \\\\\n\\text{Венера} & 6051.8 & 243.019\\ \\text{сут}^{*} & 0.7233 & 0.0068 & 0.6152 \\\\\n\\text{Земля} & 6378.1 & 23.934\\ \\text{час} & 1.000 & 0.0167 & 1 \\\\\n\\text{Марс} & 3397.2 & 24.623\\ \\text{час} & 1.523 & 0.0934 & 1.881 \\\\\n\\hline\n\\end{array}$$\n$^{*}$ обратное вращение.",
      "orig_lang": "ru"
     },
     {
@@ -1877,9 +1877,9 @@
     {
      "day": 2,
      "number": 1,
-     "problem": "An astronomer sees a rising double star consisting of two components of spectral classes B and G with the same apparent brightness. Which of the stars will look brighter at upper culmination at an altitude of $30^\\circ$?",
+     "problem": "An astronomer sees a rising double star consisting of two components of spectral classes B and G with the same apparent brightness. Which of the stars will look brighter at upper culmination at an altitude of $30^\\circ$?",
      "paper_label": "Theoretical round (grades 10–11)",
-     "problem_orig": "Астроном видит восходящую двойную звезду, состоящую из двух компонент спектральных классов B и G с одинаковой видимой яркостью. Какая из звёзд будет выглядеть ярче во время верхней кульминации на высоте $30^\\circ$?",
+     "problem_orig": "Астроном видит восходящую двойную звезду, состоящую из двух компонент спектральных классов B и G с одинаковой видимой яркостью. Какая из звёзд будет выглядеть ярче во время верхней кульминации на высоте $30^\\circ$?",
      "orig_lang": "ru"
     },
     {
@@ -2127,9 +2127,9 @@
     {
      "day": 2,
      "number": 3,
-     "problem": "A globular star cluster is located 1 kiloparsec from us and has an apparent magnitude of $5^\\mathrm{m}$. Find its absolute magnitude. Assuming that the cluster consists of a million identical stars, determine the absolute magnitude of one star of the cluster.",
+     "problem": "A globular star cluster is located 1 kiloparsec from us and has an apparent magnitude of $5^\\mathrm{m}$. Find its absolute magnitude. Assuming that the cluster consists of a million identical stars, determine the absolute magnitude of one star of the cluster.",
      "paper_label": "Theoretical round (grade 9)",
-     "problem_orig": "Шаровое звёздное скопление находится в 1 килопарсеке от нас и имеет видимую звёздную величину $5^\\mathrm{m}$. Найдите его абсолютную звёздную величину. Считая, что скопление состоит из миллиона одинаковых звёзд, определите абсолютную звёздную величину одной звезды скопления.",
+     "problem_orig": "Шаровое звёздное скопление находится в 1 килопарсеке от нас и имеет видимую звёздную величину $5^\\mathrm{m}$. Найдите его абсолютную звёздную величину. Считая, что скопление состоит из миллиона одинаковых звёзд, определите абсолютную звёздную величину одной звезды скопления.",
      "orig_lang": "ru"
     },
     {
@@ -2412,9 +2412,9 @@
     {
      "day": 3,
      "number": 4,
-     "problem": "When Venus is observed at a certain angular distance $\\varepsilon$ from the Sun, its angular size can differ by a factor of 2. Determine the phases of Venus at these moments. The orbits of Venus and the Earth are circular and lie in the same plane.",
+     "problem": "When Venus is observed at a certain angular distance $\\varepsilon$ from the Sun, its angular size can differ by a factor of 2. Determine the phases of Venus at these moments. The orbits of Venus and the Earth are circular and lie in the same plane.",
      "paper_label": "Theoretical round (grade 10)",
-     "problem_orig": "При наблюдении за Венерой на некотором угловом удалении $\\varepsilon$ от Солнца её угловой размер может различаться в 2 раза. Определите фазы Венеры в эти моменты. Орбиты Венеры и Земли круговые и лежат в одной плоскости.",
+     "problem_orig": "При наблюдении за Венерой на некотором угловом удалении $\\varepsilon$ от Солнца её угловой размер может различаться в 2 раза. Определите фазы Венеры в эти моменты. Орбиты Венеры и Земли круговые и лежат в одной плоскости.",
      "orig_lang": "ru"
     },
     {
@@ -2910,9 +2910,9 @@
     {
      "day": 4,
      "number": 1,
-     "problem": "It is well known that the resolving power of a telescope is the better, the shorter the wavelength of observation. Why, then, is the resolution of images obtained by space telescopes in the hard X-ray and gamma-ray ranges much worse than in the optical?",
+     "problem": "It is well known that the resolving power of a telescope is the better, the shorter the wavelength of observation. Why, then, is the resolution of images obtained by space telescopes in the hard X-ray and gamma-ray ranges much worse than in the optical?",
      "paper_label": "Theoretical round (grade 11)",
-     "problem_orig": "Хорошо известно, что разрешающая способность телескопа тем лучше, чем меньше длина волны наблюдения. Почему же тогда разрешение изображений, полученных космическими телескопами в жёстком рентгеновском и гамма-диапазонах, существенно хуже оптических?",
+     "problem_orig": "Хорошо известно, что разрешающая способность телескопа тем лучше, чем меньше длина волны наблюдения. Почему же тогда разрешение изображений, полученных космическими телескопами в жёстком рентгеновском и гамма-диапазонах, существенно хуже оптических?",
      "orig_lang": "ru"
     },
     {

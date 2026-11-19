@@ -195,9 +195,9 @@
     {
      "day": 1,
      "number": 3,
-     "problem": "A red supergiant is at a distance of 13000 l.y. from the Sun and has an apparent visual magnitude $m = 8$. Calculate: (1) its absolute visual magnitude; (2) at what maximum distance from the Sun it would have to be in order to be the brightest star in the sky; express the result in light-years and in parsecs.",
+     "problem": "A red supergiant is at a distance of 13000 l.y. from the Sun and has an apparent visual magnitude $m = 8$. Calculate: (1) its absolute visual magnitude; (2) at what maximum distance from the Sun it would have to be in order to be the brightest star in the sky; express the result in light-years and in parsecs.",
      "paper_label": "Interregional round (Senior)",
-     "problem_orig": "Una supergigante rossa si trova alla distanza di 13000 a.l. dal Sole ed ha una magnitudine visuale apparente $m = 8$. Si calcolino: 1) la sua magnitudine visuale assoluta; 2) a quale distanza massima dal Sole dovrebbe trovarsi per essere la stella più luminosa del cielo; esprimete il risultato in anni luce ed in parsec.",
+     "problem_orig": "Una supergigante rossa si trova alla distanza di 13000 a.l. dal Sole ed ha una magnitudine visuale apparente $m = 8$. Si calcolino: 1) la sua magnitudine visuale assoluta; 2) a quale distanza massima dal Sole dovrebbe trovarsi per essere la stella più luminosa del cielo; esprimete il risultato in anni luce ed in parsec.",
      "orig_lang": "it"
     },
     {
@@ -285,9 +285,9 @@
     {
      "day": 1,
      "number": 3,
-     "problem": "**At Greenwich**\n\nThe sidereal time at Greenwich on 18 February 2003 at $0^\\mathrm{h}$ UT was $9^\\mathrm{h}\\,50^\\mathrm{m}\\,12^\\mathrm{s}$. At what time UT did a star with right ascension $18^\\mathrm{h}$ pass the meridian on that day?",
+     "problem": "**At Greenwich**\n\nThe sidereal time at Greenwich on 18 February 2003 at $0^\\mathrm{h}$ UT was $9^\\mathrm{h}\\,50^\\mathrm{m}\\,12^\\mathrm{s}$. At what time UT did a star with right ascension $18^\\mathrm{h}$ pass the meridian on that day?",
      "paper_label": "Interregional round (Senior)",
-     "problem_orig": "**A Greenwich**\n\nIl tempo siderale a Greenwich il 18 febbraio 2003 alle $0^\\mathrm{h}$ di UT era di $9^\\mathrm{h}\\,50^\\mathrm{m}\\,12^\\mathrm{s}$. A che ora di UT è passata al meridiano quel giorno una stella avente ascensione retta di 18 ore?",
+     "problem_orig": "**A Greenwich**\n\nIl tempo siderale a Greenwich il 18 febbraio 2003 alle $0^\\mathrm{h}$ di UT era di $9^\\mathrm{h}\\,50^\\mathrm{m}\\,12^\\mathrm{s}$. A che ora di UT è passata al meridiano quel giorno una stella avente ascensione retta di 18 ore?",
      "orig_lang": "it"
     },
     {
@@ -502,9 +502,9 @@
     {
      "day": 1,
      "number": 2,
-     "problem": "**A system of neutron stars**\n\nPSR B1913+16 is a binary system composed of two identical, perfectly spherical neutron stars, each with mean density $\\rho = 1.965 \\cdot 10^{11}\\ \\mathrm{kg/cm^3}$ and mass $M = 2.831 \\cdot 10^{30}$ kg. The two stars move on a circular orbit with a period $P = 7.7542$ hours, which is currently decreasing by 55 seconds each year. Calculate:\n\n(a) the radius, in km, of the two neutron stars;\n(b) the present value of the semi-major axis of the orbit;\n(c) the speed at which the two stars are currently moving on the orbit;\n(d) by how much the semi-major axis of the orbit decreases after one year.",
+     "problem": "**A system of neutron stars**\n\nPSR B1913+16 is a binary system composed of two identical, perfectly spherical neutron stars, each with mean density $\\rho = 1.965 \\cdot 10^{11}\\ \\mathrm{kg/cm^3}$ and mass $M = 2.831 \\cdot 10^{30}$ kg. The two stars move on a circular orbit with a period $P = 7.7542$ hours, which is currently decreasing by 55 seconds each year. Calculate:\n\n(a) the radius, in km, of the two neutron stars;\n(b) the present value of the semi-major axis of the orbit;\n(c) the speed at which the two stars are currently moving on the orbit;\n(d) by how much the semi-major axis of the orbit decreases after one year.",
      "paper_label": "Interregional round (Senior)",
-     "problem_orig": "**Un sistema di stelle di neutroni**\n\nPSR B1913+16 è un sistema binario composto da due stelle di neutroni identiche perfettamente sferiche ciascuna con densità media $\\rho = 1.965 \\cdot 10^{11}\\ \\mathrm{kg/cm^3}$ e massa $M = 2.831 \\cdot 10^{30}$ kg. Le due stelle ruotano su un'orbita circolare con un periodo $P = 7.7542$ ore, che attualmente diminuisce di 55 secondi ogni anno. Calcolate:\n\n1. il raggio, in km, delle due stelle di neutroni;\n2. il valore attuale del semiasse maggiore dell'orbita;\n3. la velocità con cui attualmente le due stelle si muovono sull'orbita;\n4. di quanto diminuisce dopo un anno il semiasse maggiore dell'orbita.",
+     "problem_orig": "**Un sistema di stelle di neutroni**\n\nPSR B1913+16 è un sistema binario composto da due stelle di neutroni identiche perfettamente sferiche ciascuna con densità media $\\rho = 1.965 \\cdot 10^{11}\\ \\mathrm{kg/cm^3}$ e massa $M = 2.831 \\cdot 10^{30}$ kg. Le due stelle ruotano su un'orbita circolare con un periodo $P = 7.7542$ ore, che attualmente diminuisce di 55 secondi ogni anno. Calcolate:\n\n1. il raggio, in km, delle due stelle di neutroni;\n2. il valore attuale del semiasse maggiore dell'orbita;\n3. la velocità con cui attualmente le due stelle si muovono sull'orbita;\n4. di quanto diminuisce dopo un anno il semiasse maggiore dell'orbita.",
      "orig_lang": "it"
     },
     {
