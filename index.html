@@ -694,7 +694,7 @@ dialog p { color: var(--muted); font-size: .92rem; }
 // Local copies (python -m http.server) read the files next to the page; the published site reads the raw files.
 const BASE = /^(localhost|127\.)/.test(location.hostname) ? './' : 'https://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/';
 // Bump on every data change so browsers never mix old and new files.
-const DATA_VERSION = '20261118-itir-interregional';
+const DATA_VERSION = '20261119-itj-junior';
 const FIRST = 1990, LAST = 2026;
 const REGIONS = [['europe', 'Europe'], ['asia', 'Asia'], ['americas', 'Americas'], ['africa', 'Africa'], ['oceania', 'Oceania'], ['world', 'World'], ['other', 'Other']];
 const REGION_OF = {
@@ -730,7 +730,8 @@ const REGION_OF = {
     hr: 'europe',
     ru910: 'europe',
     it: 'europe',
-    itir: 'europe'
+    itir: 'europe',
+    itj: 'europe'
 };
 const regionOf = key => REGION_OF[key] || 'other';
 const PAGE = 20;
@@ -768,6 +769,7 @@ const COUNTRIES = [
     { key: 'hr', name: 'Croatia', flag: '🇭🇷', file: 'Croatia-astronomy-problems.json', kind: 'years', full: 'Olympiad Qualifying Test in astronomy (selection for the IOAA team; Zvjezdarnica Zagreb, Croatian Astronomical Society, Ministry of Science and Education) — translated from the official Croatian papers' },
     { key: 'it', name: 'Italy', flag: '🇮🇹', file: 'Italy-astronomy-problems.json', kind: 'years', full: 'Campionati Italiani di Astronomia (formerly Olimpiadi Italiane di Astronomia), National Final, Senior category and (from 2023) Master category: theory and practical tests — translated from the official Italian papers' },
     { key: 'itir', name: 'Italy Interregional', flag: '🇮🇹', file: 'Italy-astronomy-interregional-problems.json', kind: 'years', full: 'Campionati Italiani di Astronomia (formerly Olimpiadi Italiane di Astronomia), interregional round, Senior and Master categories — translated from the official Italian papers' },
+    { key: 'itj', name: 'Italy Junior', flag: '🇮🇹', file: 'Italy-astronomy-junior-problems.json', kind: 'years', full: 'Campionati Italiani di Astronomia (formerly Olimpiadi Italiane di Astronomia), National Final, Junior categories — translated from the official Italian papers' },
     { key: 'gecaa', name: 'GeCAA', flag: '🌐', file: 'GeCAA-problems.json', kind: 'years', scope: 'international', full: 'Global e-Competition on Astronomy and Astrophysics (online, 2020), theory and data analysis' },
     { key: 'iaac', name: 'IAAC', flag: '🌐', file: 'IAAC-problems.json', kind: 'years', scope: 'international', full: 'International Astronomy and Astrophysics Competition (IAAC), online rounds: Qualification Round and Pre-Final Round' }
 ];
@@ -785,7 +787,7 @@ const MERGES = {
     brfin: { country: 'Brazil', sub: 'OBA', full: 'Brazilian Astronomy and Astronautics Olympiad (OBA), level 4 (secondary school) and level 3 (grades 6-9) papers — translated from the official Portuguese papers', parts: [['br', 'Level 4'], ['br3', 'Level 3']] },
     byall: { country: 'Belarus', sub: 'Republican Olympiad', full: 'Belarus Republican Olympiad in Astronomy, final stage and 3rd (regional) stage — translated from the official Russian papers', parts: [['by', 'Final stage'], ['by3', 'Regional stage']] },
     ruall: { country: 'Russia', sub: 'All-Russian final', full: 'All-Russian Astronomy Olympiad, final stage: grade 11 and grades 9-10 — translated from the official Russian papers', parts: [['ruao', 'Grade 11'], ['ru910', 'Grades 9-10']] },
-    itall: { country: 'Italy', sub: 'Campionati', full: 'Campionati Italiani di Astronomia (formerly Olimpiadi Italiane di Astronomia): National Final and interregional round, Senior and Master categories — translated from the official Italian papers', parts: [['it', 'National Final'], ['itir', 'Interregional round']] }
+    itall: { country: 'Italy', sub: 'Campionati', full: 'Campionati Italiani di Astronomia (formerly Olimpiadi Italiane di Astronomia): National Final (Senior, Master and Junior categories) and interregional round — translated from the official Italian papers', parts: [['it', 'National Final'], ['itir', 'Interregional round'], ['itj', 'National Final, Junior']] }
 };
 Object.entries(MERGES).forEach(([k, m]) => {
     const parts = m.parts.filter(([key]) => CBY[key]);
@@ -1917,6 +1919,7 @@ const ORGANISERS = {
     hr: {comp: 'Croatia Olympiad Qualifying Test in astronomy', org: 'Zvjezdarnica Zagreb (Zagreb Astronomical Union, zvjezdarnica.hr) with the Croatian Astronomical Society and the Ministry of Science and Education', rights: 'Zvjezdarnica Zagreb', short: 'Zvjezdarnica Zagreb', lang: () => 'Croatian'},
     it: {comp: 'Campionati Italiani di Astronomia', org: 'the Campionati Italiani di Astronomia (campionatiastronomia.it), run by the Societa Astronomica Italiana and INAF for the Italian Ministry of Education', rights: 'the Campionati Italiani di Astronomia (SAIt / INAF)', short: 'the organisers of the Campionati Italiani di Astronomia', lang: () => 'Italian'},
     itir: {comp: 'Campionati Italiani di Astronomia, interregional round', org: 'the Campionati Italiani di Astronomia (campionatiastronomia.it), run by the Societa Astronomica Italiana and INAF for the Italian Ministry of Education', rights: 'the Campionati Italiani di Astronomia (SAIt / INAF)', short: 'the organisers of the Campionati Italiani di Astronomia', lang: () => 'Italian'},
+    itj: {comp: 'Campionati Italiani di Astronomia, Junior categories', org: 'the Campionati Italiani di Astronomia (campionatiastronomia.it), run by the Societa Astronomica Italiana and INAF for the Italian Ministry of Education', rights: 'the Campionati Italiani di Astronomia (SAIt / INAF)', short: 'the organisers of the Campionati Italiani di Astronomia', lang: () => 'Italian'},
     iaac: {comp: 'IAAC', org: 'the International Astronomy and Astrophysics Competition (IAAC, iaac.space)', rights: 'IAAC', short: 'the IAAC'},
     iao: {comp: 'International Astronomy Olympiad', org: 'the International Astronomy Olympiad (IAO) and the Euro-Asian Astronomical Society', rights: 'IAO / Euro-Asian Astronomical Society', short: 'the IAO or the Euro-Asian Astronomical Society'},
     apao: {comp: 'Asian-Pacific Astronomy Olympiad', org: 'the Asian-Pacific Astronomy Olympiad (APAO) organisers (papers published on the IAO web site)', rights: 'the APAO organisers', short: 'the APAO organisers or the IAO'},
