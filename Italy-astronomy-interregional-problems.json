@@ -43,6 +43,38 @@
      "paper_label": "Interregional round (Senior)",
      "problem_orig": "Si considerino due stelle, di magnitudine 3 e 10 rispettivamente. Con un certo telescopio viene scattata una foto della prima stella, con un tempo di esposizione di 10 secondi. Volendo scattare una foto alla seconda stella, quanto dovrà essere il tempo di esposizione, se si vuole che questa seconda stella appaia, sulla foto, brillante come la prima?\n\nSi consideri la legge di Pogson nella forma semplificata in cui $m = -2.5 \\log_{10} (F/F_0)$, in cui $F$ è la quantità di luce misurata in 1 secondo di posa ed $F_0$ è la quantità di luce corrispondente ad una stella di magnitudine 0. Evidentemente si può scrivere $F = F_0 \\cdot 10^{-0.4\\,m}$. Si consideri inoltre che la quantità di luce registrata è proporzionale al tempo di posa.",
      "orig_lang": "it"
+    },
+    {
+     "day": 3,
+     "number": 1,
+     "problem": "Alpha Centauri is the star closest to the Sun. Its distance was measured for the first time at the Meudon Observatory (Paris) with the parallax method: at an interval of about six months, the star exhibits an apparent shift on the celestial sphere of about 0.762 arcsec, which is equivalent to a distance of about 4.28 light-years.\nCan you identify the serious inaccuracy in the text above?",
+     "paper_label": "Interregional round (Junior)",
+     "problem_orig": "Alfa Centauri è la stella più vicina al Sole. La sua distanza è stata misurata per la prima volta all'Osservatorio di Meudon (Parigi) con il metodo della parallasse: a distanza di sei mesi circa, la stella esibisce uno spostamento apparente sulla volta celeste pari a circa 0,762 arcsec, che equivalgono ad una distanza di circa 4,28 anni-luce .\nSapreste individuare la grave inesattezza presente nel testo sopra riportato ?",
+     "orig_lang": "it"
+    },
+    {
+     "day": 3,
+     "number": 2,
+     "problem": "In which direction and sense do the horns (that is, the tips) of a crescent Moon always point?",
+     "paper_label": "Interregional round (Junior)",
+     "problem_orig": "In quale direzione e verso sono sempre rivolti i corni (ossia le punte) di una falce di Luna?",
+     "orig_lang": "it"
+    },
+    {
+     "day": 3,
+     "number": 3,
+     "problem": "A famous science-fiction film of the 1950s (*Forbidden Planet*) is set on the fourth planet of the star Altair ($\\alpha$ Aquilae).\nWe know that, in reality, this star is steadily approaching the Sun with a radial velocity of 26 km$\\cdot$s$^{-1}$. Seen from the star Altair, what radial velocity would our Sun have?",
+     "paper_label": "Interregional round (Junior)",
+     "problem_orig": "Un celebre film di fantascienza degli anni '50 (*Il pianeta proibito*) si svolge sul quarto pianeta della stella Altair ($\\alpha$ Aquilae).\nNoi sappiamo che, nella realtà, questa stella si avvicina costantemente al Sole con velocità radiale di 26 km$\\cdot$s$^{-1}$. Visto dalla stella Altair, quale velocità radiale avrebbe il nostro Sole?",
+     "orig_lang": "it"
+    },
+    {
+     "day": 3,
+     "number": 4,
+     "problem": "Barnard's Star, in the constellation of Ophiuchus, shows a relatively rapid motion in the sky.\nWe know in fact that its radial velocity is $V_R = 117$ km$\\cdot$s$^{-1}$, that its tangential velocity is $V_T = 90$ km$\\cdot$s$^{-1}$, and that its parallax is $\\pi = 0''.546$.\nFrom these data calculate when the star, continuing along its trajectory with respect to the Sun, will reach the point of minimum distance from it, and what this minimum distance will be.",
+     "paper_label": "Interregional round (Junior)",
+     "problem_orig": "La stella di Barnard, nella costellazione dell'Ofiuco, mostra un movimento in cielo relativamente rapido.\nSappiamo infatti che la sua velocità radiale è $V_R = 117$ km$\\cdot$s$^{-1}$, che la sua velocità tangenziale è $V_T = 90$ km$\\cdot$s$^{-1}$, che la sua parallasse è $\\pi = 0'',546$.\nDa questi dati si calcoli quando la stella, nel proseguire la sua traiettoria rispetto al Sole, raggiungerà il punto di minima distanza da esso e quanto varrà tale distanza minima.",
+     "orig_lang": "it"
     }
    ]
   },
@@ -79,6 +111,30 @@
      "problem": "What is the total apparent magnitude of a double star whose individual components have magnitudes $m_1 = +1.0$ and $m_2 = +2.0$?",
      "paper_label": "Interregional round (Senior)",
      "problem_orig": "Qual'è la magnitudine apparente complessiva di una stella doppia le cui singole componenti hanno magnitudini $m_1 = +1.0$ ed $m_2 = +2.0$ ?",
+     "orig_lang": "it"
+    },
+    {
+     "day": 3,
+     "number": 1,
+     "problem": "Based on your experience, can you say whether the orbital motion of the Moon around the Earth takes place in the East-West or in the West-East direction? Explain your answer also with drawings.",
+     "paper_label": "Interregional round (Junior)",
+     "problem_orig": "In base alla vostra esperienza, sapreste dire se il moto orbitale della Luna intorno alla Terra avviene in direzione Est-Ovest oppure Ovest-Est? Spiegate la risposta anche con dei disegni.",
+     "orig_lang": "it"
+    },
+    {
+     "day": 3,
+     "number": 2,
+     "problem": "The revolution of the Earth around the Sun takes place on a plane called the \"ecliptic\". This plane forms with the equatorial plane of the Earth an angle $\\varepsilon = 23^\\circ.5$. On the basis of this datum, what maximum altitude above the horizon does the Sun reach at the winter solstice and at the summer solstice at a place on the Earth at latitude $\\varphi = 66^\\circ.5$? Explain also why the length of the day is greater in summer than in winter.",
+     "paper_label": "Interregional round (Junior)",
+     "problem_orig": "La rivoluzione della Terra attorno al Sole avviene su un piano chiamato \"eclittica\". Questo piano forma con il piano equatoriale terrestre un angolo $\\varepsilon = 23^\\circ{,}5$. Sulla base di questo dato si chiede quale altezza massima sopra l'orizzonte raggiunge il Sole al solstizio d'inverno e al solstizio estivo in una località della Terra situata alla latitudine $\\varphi = 66^\\circ{,}5$. Spiegate inoltre perché la durata del giorno è maggiore in estate che in inverno.",
+     "orig_lang": "it"
+    },
+    {
+     "day": 3,
+     "number": 3,
+     "problem": "In the constellation of Gemini, the star cluster M35 contains 200 stars within a diameter of 24 light-years, while the star cluster M36 contains 60 stars within a diameter of 14 light-years. Calculate in the two cases the mean volume density of stars (per cubic light-year).",
+     "paper_label": "Interregional round (Junior)",
+     "problem_orig": "Nella costellazione dei Gemelli, l'ammasso stellare M35 contiene 200 stelle entro un diametro di 24 anni-luce mentre l'ammasso stellare M36 contiene 60 stelle entro un diametro di 14 anni-luce. Calcolate nei due casi la densità volumetrica media di stelle (per anno-luce cubico).",
      "orig_lang": "it"
     }
    ]
@@ -125,6 +181,46 @@
      "paper_label": "Interregional round (Senior)",
      "problem_orig": "Calcolare la distanza media tra due stelle di una galassia e mostrare che essa è molto più grande del diametro di una stella. Si assuma che:\n\na) la galassia abbia una simmetria sferica;\nb) il numero di stelle della galassia sia $N = 10^{11}$;\nc) il diametro della galassia sia: $D_\\mathrm{gal} = 30$ Kpc;\nd) il diametro tipico di una stella all'interno della galassia sia $D_\\mathrm{Star} = 1.4 \\cdot 10^{11}$ cm.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/itir-2009-d1-q5-1.png",
      "orig_lang": "it"
+    },
+    {
+     "day": 3,
+     "number": 1,
+     "problem": "Herodotus recounts in *The Histories* that the Lydians and the Medes, who had been fighting a long war for five years, came to a peace treaty following the dismay caused by a total eclipse of the Sun. In the sixth year of the war, in fact, just while the fighting between the two armies was raging, suddenly the day turned into night and the battlefield was lit only by the Full Moon. The Lydians and the Medes, therefore, \"seeing night take the place of day, stopped fighting and eagerly wished, both sides, that peace be made\".\nThere is a serious error in this whole account. Can you identify it?\n\n[The illustration is not reproduced here (its author is not credited in the paper). It is on page 1 of the official paper: https://www.campionatiastronomia.it/wp-content/uploads/2009-regionale-junior.pdf]",
+     "paper_label": "Interregional round (Junior)",
+     "problem_orig": "Racconta Erodoto ne *Le Storie* che Lidi e Medi, che stavano combattendo una lunga guerra da cinque anni, giunsero ad un trattato di pace in seguito allo sconcerto suscitato da un'eclisse totale di Sole. Al sesto anno di guerra, infatti, proprio mentre fervevano i combattimenti fra i due eserciti, d'improvviso il giorno si trasformò in notte ed il campo di battaglia fu rischiarato solo dalla Luna piena. I Lidi e i Medi, quindi, \"vedendo la notte subentrare al giorno, smisero di combattere e con sollecitudine desiderarono, sia gli uni sia gli altri, che si facesse la pace\".\nIn tutto questo racconto c'è un grave errore. Sapreste individuarlo ?\n\n[L'illustrazione non è riprodotta qui (autore non indicato nel testo). Si trova a pagina 1 del testo ufficiale: https://www.campionatiastronomia.it/wp-content/uploads/2009-regionale-junior.pdf]",
+     "orig_lang": "it"
+    },
+    {
+     "day": 3,
+     "number": 2,
+     "problem": "An astronomer is undecided about where to install his telescopes. He considers several possibilities: (a) island of the Venice Lagoon; (b) North Pole; (c) terrace at the top of the Eiffel Tower; (d) International Space Station; (e) summit of the Great Pyramid of Cheops. List in increasing order the places from which he can observe, over the course of a year, an ever greater part of the celestial vault. Neglect the influence of atmospheric conditions and of ambient light.\n\n[The illustration is not reproduced here (its author is not credited in the paper). It is on page 1 of the official paper: https://www.campionatiastronomia.it/wp-content/uploads/2009-regionale-junior.pdf]",
+     "paper_label": "Interregional round (Junior)",
+     "problem_orig": "Un astronomo è indeciso sul luogo ove installare i suoi telescopi. Prende in considerazione diverse possibilità: a) isola della Laguna di Venezia; b) Polo Nord; c) terrazza in cima alla Torre Eiffel; d) Stazione Spaziale Internazionale; e) sommità della Grande Piramide di Cheope. Indicate in ordine crescente i luoghi dai quali egli potrà osservare nel corso di un anno una parte sempre maggiore della volta celeste. Si tralasci l'influenza delle condizioni atmosferiche e della luce ambientale.\n\n[L'illustrazione non è riprodotta qui (autore non indicato nel testo). Si trova a pagina 1 del testo ufficiale: https://www.campionatiastronomia.it/wp-content/uploads/2009-regionale-junior.pdf]",
+     "orig_lang": "it"
+    },
+    {
+     "day": 3,
+     "number": 3,
+     "problem": "Geostationary satellites are so called because they always remain on the vertical of the same point of the Earth's surface. Since they are nevertheless orbiting around the Earth, determine at what height above the surface of our planet they are.\nThe following data are known: (1) revolution period of the Moon, $T_\\mathrm{LUN} = 27^\\mathrm{d}\\,07^\\mathrm{h}\\,43.2^\\mathrm{m}$; (2) mean Earth-Moon distance, $a_\\mathrm{LUN} = 384104.86$ km; (3) rotation period of the Earth, $T_\\mathrm{TER} = 23.934$ hours; (4) radius of the Earth, $R_\\mathrm{TER} = 6372.80$ km.",
+     "paper_label": "Interregional round (Junior)",
+     "problem_orig": "I satelliti geostazionari sono così chiamati perché rimangono sempre sulla verticale dello stesso punto della superficie terrestre. Poiché essi stanno comunque orbitando intorno alla Terra, si determini a quale altezza si trovano rispetto alla superficie del nostro pianeta.\nSono noti i seguenti dati: 1) periodo di rivoluzione della Luna, $T_\\mathrm{LUN} = 27^\\mathrm{d}\\,07^\\mathrm{h}\\,43{,}2^\\mathrm{m}$; 2) distanza media Terra-Luna, $a_\\mathrm{LUN} = 384104{,}86$ km; 3) periodo di rotazione terrestre, $T_\\mathrm{TER} = 23{,}934$ ore; 4) raggio terrestre, $R_\\mathrm{TER} = 6372{,}80$ km.",
+     "orig_lang": "it"
+    },
+    {
+     "day": 3,
+     "number": 4,
+     "problem": "When the Moon appears to us half illuminated, with its bulge to the West, we speak of \"first quarter\". Then, about a week later, the Full Moon phase arrives. In principle, the full phase of the Moon could instead come a week before the phase with the bulge to the West. In that hypothetical case, what would have to be different in the Earth-Moon system?\n\n[The illustration is not reproduced here (its author is not credited in the paper). It is on page 3 of the official paper: https://www.campionatiastronomia.it/wp-content/uploads/2009-regionale-junior.pdf]",
+     "paper_label": "Interregional round (Junior)",
+     "problem_orig": "Quando la Luna ci appare illuminata per metà, con gobba a Ovest, si parla di \"primo quarto\". Poi, circa una settimana dopo, giunge la fase di Luna piena. In linea di principio, la fase piena della Luna potrebbe venire invece una settimana prima della fase di gobba a Ovest. In tale caso ipotetico, che cosa dovrebbe essere differente nel sistema Terra-Luna?\n\n[L'illustrazione non è riprodotta qui (autore non indicato nel testo). Si trova a pagina 3 del testo ufficiale: https://www.campionatiastronomia.it/wp-content/uploads/2009-regionale-junior.pdf]",
+     "orig_lang": "it"
+    },
+    {
+     "day": 3,
+     "number": 5,
+     "problem": "Determine at what distance from the eye a coin with a diameter of 1.7 cm must be placed so that the disc of the (full) Moon is completely covered.\n\n[The photograph is not reproduced here (its author is not credited in the paper). It is on page 3 of the official paper: https://www.campionatiastronomia.it/wp-content/uploads/2009-regionale-junior.pdf]",
+     "paper_label": "Interregional round (Junior)",
+     "problem_orig": "Determinare a quale distanza dall'occhio bisogna porre una moneta avente un diametro di cm 1.7 affinché il disco della Luna (piena) risulti completamente coperto.\n\n[La fotografia non è riprodotta qui (autore non indicato nel testo). Si trova a pagina 3 del testo ufficiale: https://www.campionatiastronomia.it/wp-content/uploads/2009-regionale-junior.pdf]",
+     "orig_lang": "it"
     }
    ]
   },
@@ -169,6 +265,46 @@
      "problem": "Starting from Kepler's second law, calculate the ratio between the tangential orbital speeds of the Earth at perihelion and at aphelion. Then, assuming that their mean is equal to the mean orbital speed of the Earth for a circular orbit, calculate their values in km/s.",
      "paper_label": "Interregional round (Senior)",
      "problem_orig": "Partendo dalla II Legge di Keplero, si calcoli il rapporto tra le velocità orbitali tangenziali della Terra al perielio e all'afelio. Assumendo poi che la loro media sia pari alla velocità orbitale media della Terra in caso di orbita circolare, se ne calcolino i valori in km/s.",
+     "orig_lang": "it"
+    },
+    {
+     "day": 3,
+     "number": 1,
+     "problem": "Consider the following sentence taken from a novel:\n\"We were there, on the beach. The Sun had set no more than two hours before. It seemed to have sunk into the sea when, right at the same point, as if emerging from that same sea, the full Moon began to rise, luminous, majestic, wonderful.\"\nExplain why the scene just described can never be observed.",
+     "paper_label": "Interregional round (Junior)",
+     "problem_orig": "Considerate la seguente frase estratta da un romanzo:\n\"Eravamo lì, sulla spiaggia. Il Sole era tramontato da non più di due ore. Sembrava fosse affondato nel mare quando, proprio nello stesso punto, come emergesse da quello stesso mare, ecco che incominciò a sorgere luminosa, maestosa, stupenda, la Luna piena\".\nSpiegate perché la scena appena descritta non potrà mai essere osservata.",
+     "orig_lang": "it"
+    },
+    {
+     "day": 3,
+     "number": 2,
+     "problem": "On the basis of the light curve of the transit of an extrasolar planet shown in the figure, draw the star/planet geometric configuration for each of the five indicated points (A, B, C, D, E).\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/itir-2011-d3-q2-1.png",
+     "paper_label": "Interregional round (Junior)",
+     "problem_orig": "In base alla curva di luce del transito di un pianeta extrasolare mostrata in figura disegnare la configurazione geometrica stella/pianeta per ciascuno dei cinque punti (A, B, C, D, E) indicati.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/itir-2011-d3-q2-1.png",
+     "orig_lang": "it"
+    },
+    {
+     "day": 3,
+     "number": 3,
+     "problem": "Mercury and Venus are called \"inner planets\". Observed from our planet, they always appear in the vicinity of the Sun, moving away from it at most to an angular distance called maximum elongation. Helping yourself, if you wish, with a drawing, give an estimate of the maximum elongation of Venus from the Sun as seen from the Earth. (Hint: express the distances of the planets from the Sun in astronomical units.)",
+     "paper_label": "Interregional round (Junior)",
+     "problem_orig": "Mercurio e Venere sono detti \"pianeti interni\". Osservati dal nostro pianeta, essi appaiono infatti sempre nelle vicinanze del Sole, allontanandosene al più fino ad una distanza angolare detta elongazione massima. Aiutandosi eventualmente con un disegno, si dia una stima dell'elongazione massima di Venere dal Sole vista, dalla Terra. (Suggerimento: si esprimano le distanze dei pianeti dal Sole in unità astronomiche).",
+     "orig_lang": "it"
+    },
+    {
+     "day": 3,
+     "number": 4,
+     "problem": "An observer is at latitude $\\varphi = 75^\\circ$ North and wants to know whether a comet with declination $\\delta = 30^\\circ$ South is visible from that place.",
+     "paper_label": "Interregional round (Junior)",
+     "problem_orig": "Un osservatore si trova alla latitudine $\\varphi = 75^\\circ$ Nord e vuole sapere se una cometa che ha declinazione $\\delta = 30^\\circ$ Sud risulta visibile da quel luogo.",
+     "orig_lang": "it"
+    },
+    {
+     "day": 3,
+     "number": 5,
+     "problem": "Neutron stars are extremely dense bodies in rapid rotation (on average they make about one turn around their axis every second). If such a star has radius $R = 25$ km, what mass should it have in order to attract the objects on its surface, which would otherwise be expelled because of its rapid rotation?\n\n[The illustration is not reproduced here (its author is not credited in the paper). It is on page 3 of the official paper: https://www.campionatiastronomia.it/wp-content/uploads/2011-regionale-junior.pdf]",
+     "paper_label": "Interregional round (Junior)",
+     "problem_orig": "Le stelle di neutroni sono corpi estremamente densi ed in rapida rotazione (effettuano in media circa un giro intorno al proprio asse di rotazione ogni secondo). Se una di tali stelle ha raggio $R = 25$ km, quale massa dovrebbe avere per attrarre gli oggetti sulla sua superficie, altrimenti espulsi a causa della sua rapida rotazione?\n\n[L'illustrazione non è riprodotta qui (autore non indicato nel testo). Si trova a pagina 3 del testo ufficiale: https://www.campionatiastronomia.it/wp-content/uploads/2011-regionale-junior.pdf]",
      "orig_lang": "it"
     }
    ]
@@ -215,6 +351,46 @@
      "paper_label": "Interregional round (Senior)",
      "problem_orig": "Un satellite artificiale ha un periodo di rivoluzione intorno alla Terra di 134 minuti. La sua orbita è ellittica e le distanze del satellite dalla superficie terrestre sono al perigeo $d_p = 660$ km, ed all'apogeo $d_a = 4023$ km. Ricordando che $G = 6.67 \\cdot 10^{-11}\\ \\mathrm{m^3\\,kg^{-1}\\,s^{-2}}$, si determini:\n\n1. la massa della Terra;\n2. la massa della Terra rispetto a quella del Sole.",
      "orig_lang": "it"
+    },
+    {
+     "day": 3,
+     "number": 1,
+     "problem": "What declination must stars have in order to be circumpolar for places at the following latitudes: $\\varphi = 0^\\circ$, $\\varphi = 30^\\circ$, $\\varphi = 60^\\circ$ and $\\varphi = 90^\\circ$?",
+     "paper_label": "Interregional round (Junior)",
+     "problem_orig": "Che declinazione debbono avere le stelle affinché siano circumpolari per località poste alle seguenti latitudini $\\varphi = 0^\\circ$, $\\varphi = 30^\\circ$, $\\varphi = 60^\\circ$ e $\\varphi = 90^\\circ$ ?",
+     "orig_lang": "it"
+    },
+    {
+     "day": 3,
+     "number": 2,
+     "problem": "The figure on the separate sheet shows the position of the Earth, during its motion of revolution around the Sun, with respect to the constellations of the zodiac.\n\n(a) In which constellation of the zodiac does the Sun appear today (20 February)?\n(b) Which constellation of the zodiac will be on the meridian today at midnight?\n(c) Which constellation of the zodiac will be seen this evening towards the west just after sunset?",
+     "paper_label": "Interregional round (Junior)",
+     "problem_orig": "La figura riportata nel foglio a parte rappresenta la posizione della Terra, durante il suo moto di rivoluzione attorno al Sole, rispetto alle costellazioni dello zodiaco.\n\na) In quale costellazione dello zodiaco appare il Sole oggi (20 febbraio)?\nb) Quale costellazione dello zodiaco sarà in meridiano oggi a mezzanotte?\nc) Quale costellazione dello zodiaco si vedrà questa sera verso ovest appena dopo il tramonto del Sole?",
+     "orig_lang": "it"
+    },
+    {
+     "day": 3,
+     "number": 3,
+     "problem": "The galaxy NGC6951 is 22.2 Mpc from the Earth. How long does the light emitted by the galaxy take to reach us? Considering also that the disc of the galaxy, seen from the Earth, has an angular diameter of $3.16'$, calculate how long a light signal, emitted from one of its ends, would take to reach the opposite end.",
+     "paper_label": "Interregional round (Junior)",
+     "problem_orig": "La galassia NGC6951 si trova a 22.2 Mpc dalla Terra. Quanto tempo impiega la luce emessa dalla galassia a giungere fino a noi ? Considerando inoltre che il disco della galassia, visto dalla Terra, ha un diametro di angolare $3.16'$, si calcoli quanto tempo impiegherebbe un segnale luminoso, emesso ad una sua estremità, ad arrivare all'estremità opposta.",
+     "orig_lang": "it"
+    },
+    {
+     "day": 3,
+     "number": 4,
+     "problem": "List the following stars in order of increasing distance ($d$) from the Sun: $\\varepsilon$ Eri ($\\pi = 0''.310$), Sirius ($d = 2.63$ parsec), Wolf 359 ($d = 7.78$ light-years), Gliese 628 ($\\pi = 0''.236$), Procyon ($d = 3.50$ parsec).",
+     "paper_label": "Interregional round (Junior)",
+     "problem_orig": "Elencate le seguenti stelle in ordine crescente di distanza ($d$) dal Sole: $\\varepsilon$ Eri ($\\pi = 0''.310$), Sirio ($d = 2.63$ parsec), Wolf 359 ($d = 7.78$ anni luce), Gliese 628 ($\\pi = 0''.236$), Procione ($d = 3.50$ parsec).",
+     "orig_lang": "it"
+    },
+    {
+     "day": 3,
+     "number": 5,
+     "problem": "The synodic period, for outer planets, can be obtained from the time interval between two successive oppositions. Based on observations, the synodic period of Mars is 779.24 days. What is its period of revolution, in days? (Show the calculations that justify the answer.)",
+     "paper_label": "Interregional round (Junior)",
+     "problem_orig": "Il periodo sinodico, per i pianeti esterni, può essere ricavato dall'intervallo di tempo tra due successive opposizioni. Basandosi sulle osservazioni, il periodo sinodico di Marte è di 779.24 giorni. Qual è, in giorni, il suo periodo di rivoluzione ? (Si mostrino i calcoli che giustificano la risposta).",
+     "orig_lang": "it"
     }
    ]
   },
@@ -259,6 +435,38 @@
      "problem": "**Watching the sky from Mars**\n\nCalculate the maximum and minimum apparent sizes of the Sun as seen from Mars. Suppose that Mars has a satellite with the same orbital characteristics as the Moon. What should the minimum diameter of this satellite be so that total solar eclipses can be observed on Mars?",
      "paper_label": "Interregional round (Senior)",
      "problem_orig": "**Osservando il cielo da Marte**\n\nCalcolate le dimensioni apparenti massima e minima del Sole visto da Marte. Supponete che Marte abbia un satellite con le medesime caratteristiche orbitali della Luna. Quanto dovrebbe valere il diametro minimo di questo satellite affinché si possano osservare eclissi totali di Sole su Marte?",
+     "orig_lang": "it"
+    },
+    {
+     "day": 3,
+     "number": 1,
+     "problem": "**A photo of Venus**\n\nIn describing a photo of the planet Venus an astronomer states that he obtained it in Bologna at 24:00. Explain the anomaly in the text.",
+     "paper_label": "Interregional round (Junior)",
+     "problem_orig": "**Una foto di Venere**\n\nNel descrivere una foto del pianeta Venere un astronomo afferma di averla ottenuta a Bologna alle ore 24:00. Spiegare l'anomalia presente nel testo.",
+     "orig_lang": "it"
+    },
+    {
+     "day": 3,
+     "number": 2,
+     "problem": "**Halley's comet**\n\nAt perihelion the distance of comet 1P/Halley from the Sun is $8.767 \\cdot 10^{10}$ m and its speed is 54.6 km/s. When the comet is at aphelion its distance from the Sun is $5.251 \\cdot 10^{12}$ m. Calculate the speed at aphelion and the period of revolution of Halley's comet.",
+     "paper_label": "Interregional round (Junior)",
+     "problem_orig": "**La cometa di Halley**\n\nAl perielio la distanza della cometa 1P/Halley dal Sole è di $8.767 \\cdot 10^{10}$ m e la sua velocità è di 54.6 km/s. Quando la cometa si trova all'afelio la distanza dal Sole vale $5.251 \\cdot 10^{12}$ m. Calcolare la velocità all'afelio e il periodo di rivoluzione della cometa di Halley.",
+     "orig_lang": "it"
+    },
+    {
+     "day": 3,
+     "number": 3,
+     "problem": "**The period of revolution of Venus**\n\nIf Venus had a mass of $1.461 \\cdot 10^{25}$ kg and a distance from the Sun of 0.7233 AU, what would its period of revolution be? In the solution state clearly the physical laws used, justifying any approximations.",
+     "paper_label": "Interregional round (Junior)",
+     "problem_orig": "**Il periodo di rivoluzione di Venere**\n\nSe Venere avesse una massa di $1.461 \\cdot 10^{25}$ kg e una distanza dal Sole di 0.7233 UA, quanto varrebbe il suo periodo di rivoluzione? Nella soluzione specificate con chiarezza le leggi fisiche utilizzate giustificando le eventuali approssimazioni.",
+     "orig_lang": "it"
+    },
+    {
+     "day": 3,
+     "number": 4,
+     "problem": "**A Supernova in Andromeda**\n\nThe absolute magnitude of a star in the Andromeda galaxy, whose distance is $2.25 \\cdot 10^{6}$ light-years, is $M = -5$. If this star exploded as a supernova, becoming $10^{5}$ times more luminous, what would its apparent magnitude be?",
+     "paper_label": "Interregional round (Junior)",
+     "problem_orig": "**Una Supernova in Andromeda**\n\nLa magnitudine assoluta di una stella nella galassia di Andromeda, la cui distanza è di $2.25 \\cdot 10^{6}$ anni luce, è $M = -5$. Se questa stella esplodesse come supernova diventando $10^{5}$ volte più luminosa, quanto varrebbe la sua magnitudine apparente?",
      "orig_lang": "it"
     }
    ]
@@ -305,6 +513,38 @@
      "paper_label": "Interregional round (Senior)",
      "problem_orig": "**Il Transito di Venere**\n\nL'8 giugno 2004 e il 6 Giugno 2012 si è verificato un fenomeno che si osserva raramente dalla Terra: il transito di Venere davanti al Sole. Si calcoli la diminuzione relativa massima della luminosità del Sole, visto dalla Terra, durante il fenomeno e la si confronti con la diminuzione di luminosità tipica del transito di un pianeta extrasolare di tipo gioviano. Si assumano orbite di Venere e della Terra circolari.",
      "orig_lang": "it"
+    },
+    {
+     "day": 3,
+     "number": 1,
+     "problem": "**Sun and Moon in motion**\n\nAlthough the Moon is much closer to the Earth than the Sun, the two bodies, observed for example from Bologna, take almost the same time to rise or to set. Give an explanation of the phenomenon.\n\n(The data sheet is the same as in the Senior paper of this year, problem 1.)",
+     "paper_label": "Interregional round (Junior)",
+     "problem_orig": "**Sole e Luna in movimento**\n\nSebbene la Luna sia molto più vicina alla Terra del Sole, i due astri, osservati per esempio da Bologna, impiegano quasi lo stesso tempo per sorgere o per tramontare. Date una spiegazione del fenomeno.\n\n(La tabella dei dati è la stessa della prova Senior di quest'anno, problema 1.)",
+     "orig_lang": "it"
+    },
+    {
+     "day": 3,
+     "number": 2,
+     "problem": "**The sky above Berlin**\n\nThe star Thuban ($\\alpha$ Dra) is circumpolar in the city of Berlin. What declination does Thuban have if the altitudes of the upper and lower culminations, measured from the cardinal point North, are $h_\\mathrm{sup} = 78^\\circ 7'$ and $h_\\mathrm{inf} = 26^\\circ 53'$? At what latitude is Berlin?",
+     "paper_label": "Interregional round (Junior)",
+     "problem_orig": "**Il cielo sopra Berlino**\n\nLa stella Thuban ($\\alpha$ Dra) è circumpolare nella città di Berlino. Quale declinazione ha Thuban se si conoscono le altezze, misurate dal punto cardinale Nord, delle culminazioni superiore $h_\\mathrm{sup} = 78^\\circ 7'$ e inferiore $h_\\mathrm{inf} = 26^\\circ 53'$? A che latitudine si trova Berlino?",
+     "orig_lang": "it"
+    },
+    {
+     "day": 3,
+     "number": 3,
+     "problem": "**A crater on the Moon**\n\nA photo of the Moon at perigee shows a circular crater whose angular size is $\\alpha = 5$ arcseconds ($= 0^\\circ.0014$). What is the diameter of the lunar crater in km?",
+     "paper_label": "Interregional round (Junior)",
+     "problem_orig": "**Un cratere sulla Luna**\n\nUna foto della Luna al perigeo mostra un cratere di forma circolare le cui dimensioni angolari sono $\\alpha = 5$ secondi d'arco ($= 0^\\circ.0014$). Quanto vale in km il diametro del cratere lunare?",
+     "orig_lang": "it"
+    },
+    {
+     "day": 3,
+     "number": 4,
+     "problem": "**The rotation of the Earth**\n\nCalculate the rotation speed, in metres per second, of the Earth at a place at latitude $+45^\\circ$.",
+     "paper_label": "Interregional round (Junior)",
+     "problem_orig": "**La rotazione della Terra**\n\nCalcolate la velocità di rotazione, in metri al secondo, della Terra in una località posta a latitudine $+45^\\circ$.",
+     "orig_lang": "it"
     }
    ]
   },
@@ -349,6 +589,46 @@
      "problem": "**The remnant of an ancient explosion**\n\nThe Crab Nebula (also known by the catalogue designations M 1 and NGC 1952) is a supernova remnant visible in the constellation of Taurus. The supernova that produced it was first observed on 4 July 1054 and was recorded by the Chinese and Arab astronomers of the time.\n\nThe angular size of the radius of the nebula is $R' = 5$ arcmin, its distance from the Earth is $d = 1200$ pc; the nebula is expanding with a speed $v = 1775$ km/s.\n\n1. Calculate the linear dimensions of the nebula.\n2. Calculate the age of the nebula.\n3. Check that the age obtained is compatible with the explosion of the supernova observed in 1054.\n\nNeglect any accelerations undergone by the gas.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/itir-2015-d1-q5-1.png",
      "paper_label": "Interregional round (Senior)",
      "problem_orig": "**Il resto di un'antica esplosione**\n\nLa Nebulosa del Granchio (nota anche come con le sigle di catalogo M 1 e NGC 1952) è un resto di supernova visibile nella costellazione del Toro. La supernova che la produsse fu osservata per la prima volta il 4 luglio 1054 e venne registrata dagli astronomi cinesi e arabi dell'epoca.\n\nLe dimensioni angolari del raggio della nebulosa sono $R' = 5$ arcmin, la sua distanza dalla Terra è $d = 1200$ pc; la nebulosa si sta espandendo con una velocità $v = 1775$ km/s.\n\n1. Calcolare le dimensioni lineari della nebulosa.\n2. Calcolare l'età della nebulosa.\n3. Verificare che l'età ottenuta sia compatibile con l'esplosione della supernova osservata nel 1054.\n\nSi trascurino eventuali accelerazioni subite dal gas.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/itir-2015-d1-q5-1.png",
+     "orig_lang": "it"
+    },
+    {
+     "day": 3,
+     "number": 1,
+     "problem": "**The altitude above the horizon**\n\nUnder what conditions does the altitude of a star above the horizon remain unchanged during a day?\n\n(The data sheet is the same as in the Senior paper of this year, problem 1.)\n\n[The illustration is not reproduced here (its author is not credited in the paper). It is on page 1 of the official paper: https://www.campionatiastronomia.it/wp-content/uploads/2015_Gara_IR_Junior_WEB.pdf]",
+     "paper_label": "Interregional round (Junior)",
+     "problem_orig": "**L'altezza sull'orizzonte**\n\nIn quali condizioni l'altezza di una stella sull'orizzonte resta invariata nel corso di una giornata?\n\n(La tabella dei dati è la stessa della prova Senior di quest'anno, problema 1.)\n\n[L'illustrazione non è riprodotta qui (autore non indicato nel testo). Si trova a pagina 1 del testo ufficiale: https://www.campionatiastronomia.it/wp-content/uploads/2015_Gara_IR_Junior_WEB.pdf]",
+     "orig_lang": "it"
+    },
+    {
+     "day": 3,
+     "number": 2,
+     "problem": "**The distance of a balloon**\n\nAn observer sees a balloon of diameter $D = 2r = 13$ m projected onto the disc of the Full Moon. For the observer, the balloon has an apparent diameter equal to half that of the Moon. Knowing that that night the Moon is at apogee, calculate how far the balloon is from the observer.\n\n[The illustration is not reproduced here (its author is not credited in the paper). It is on page 1 of the official paper: https://www.campionatiastronomia.it/wp-content/uploads/2015_Gara_IR_Junior_WEB.pdf]",
+     "paper_label": "Interregional round (Junior)",
+     "problem_orig": "**La distanza di un aerostato**\n\nUn osservatore vede un aerostato di diametro $D = 2r = 13$ m proiettarsi sul disco della Luna Piena. Per l'osservatore, l'aerostato risulta avere un diametro apparente pari a metà di quello della Luna. Sapendo che quella notte la Luna si trova all'apogeo, calcolare quanto dista l'aerostato dall'osservatore.\n\n[L'illustrazione non è riprodotta qui (autore non indicato nel testo). Si trova a pagina 1 del testo ufficiale: https://www.campionatiastronomia.it/wp-content/uploads/2015_Gara_IR_Junior_WEB.pdf]",
+     "orig_lang": "it"
+    },
+    {
+     "day": 3,
+     "number": 3,
+     "problem": "**A revolution of satellites**\n\nA satellite of Jupiter is at a distance $d_1 = 14.9 \\cdot R_\\mathrm{Jupiter}$ from the centre of the planet and its period of revolution is $P_1 = 7^\\mathrm{d}\\,3^\\mathrm{h}\\,36^\\mathrm{m}$. What is the period of revolution of another satellite whose distance from the planet is $d_2 = 2.52 \\cdot R_\\mathrm{Jupiter}$?\n\n[The illustration is not reproduced here (its author is not credited in the paper). It is on page 2 of the official paper: https://www.campionatiastronomia.it/wp-content/uploads/2015_Gara_IR_Junior_WEB.pdf]",
+     "paper_label": "Interregional round (Junior)",
+     "problem_orig": "**Una rivoluzione di satelliti**\n\nUn satellite di Giove si trova a una distanza pari a $d_1 = 14.9 \\cdot R_\\mathrm{Giove}$ dal centro del pianeta e il suo periodo di rivoluzione è $P_1 = 7^\\mathrm{d}\\,3^\\mathrm{h}\\,36^\\mathrm{m}$. Qual è il periodo di rivoluzione di un altro satellite la cui distanza dal pianeta è pari a $d_2 = 2.52 \\cdot R_\\mathrm{Giove}$?\n\n[L'illustrazione non è riprodotta qui (autore non indicato nel testo). Si trova a pagina 2 del testo ufficiale: https://www.campionatiastronomia.it/wp-content/uploads/2015_Gara_IR_Junior_WEB.pdf]",
+     "orig_lang": "it"
+    },
+    {
+     "day": 3,
+     "number": 4,
+     "problem": "**The astronaut and the scale**\n\nAn astronaut, whose weight on the Earth is $P = 750$ N, undertakes a space flight aboard his spaceship. Calculate his mass and his weight at a distance from the Earth where the acceleration of gravity is $g_2 = 6.82$ m/s$^2$.\n\n[The illustration is not reproduced here (its author is not credited in the paper). It is on page 2 of the official paper: https://www.campionatiastronomia.it/wp-content/uploads/2015_Gara_IR_Junior_WEB.pdf]",
+     "paper_label": "Interregional round (Junior)",
+     "problem_orig": "**L'astronauta e la bilancia**\n\nUn astronauta, il cui peso sulla Terra è $P = 750$ N, intraprende un volo spaziale a bordo della sua astronave. Calcolare la sua massa e il suo peso a una distanza dalla Terra dove l'accelerazione di gravita è $g_2 = 6.82$ m/s$^2$.\n\n[L'illustrazione non è riprodotta qui (autore non indicato nel testo). Si trova a pagina 2 del testo ufficiale: https://www.campionatiastronomia.it/wp-content/uploads/2015_Gara_IR_Junior_WEB.pdf]",
+     "orig_lang": "it"
+    },
+    {
+     "day": 3,
+     "number": 5,
+     "problem": "**The passages of the satellite**\n\nAn artificial satellite of mass $m = 350$ kg moves around the Earth on an equatorial orbit, at a distance $d = 4325$ km from its surface. An observer sees it pass the meridian at exactly midnight. At what time does he see it pass again if the satellite moves from West to East? At what time would he see it pass again if instead the satellite moved from East to West?\n\n[The illustration is not reproduced here (its author is not credited in the paper). It is on page 3 of the official paper: https://www.campionatiastronomia.it/wp-content/uploads/2015_Gara_IR_Junior_WEB.pdf]",
+     "paper_label": "Interregional round (Junior)",
+     "problem_orig": "**I passaggi del satellite**\n\nUn satellite artificiale di massa $m = 350$ kg si muove intorno alla Terra su un'orbita equatoriale, a una distanza $d = 4325$ km dalla sua superficie. Un osservatore lo vede passare al meridiano alla mezzanotte esatta. A che ora lo vede passare di nuovo, se il satellite si muove da Ovest verso Est? A che ora lo vedrebbe passare di nuovo, se invece il satellite si muovesse da Est verso Ovest?\n\n[L'illustrazione non è riprodotta qui (autore non indicato nel testo). Si trova a pagina 3 del testo ufficiale: https://www.campionatiastronomia.it/wp-content/uploads/2015_Gara_IR_Junior_WEB.pdf]",
      "orig_lang": "it"
     }
    ]
@@ -395,6 +675,46 @@
      "paper_label": "Interregional round (Senior)",
      "problem_orig": "**Le velocità al perielio e all'afelio**\n\nRicavate dalla legge di conservazione dell'energia meccanica e dalla seconda legge di Keplero le relazioni che forniscono le velocità di un pianeta al perielio e all'afelio e calcolate le velocità orbitali della Terra quando si trova al perielio e all'afelio.\n\n[L'illustrazione non è riprodotta qui (autore non indicato nel testo). Si trova a pagina 2 del testo ufficiale: https://www.campionatiastronomia.it/wp-content/uploads/2010/01/Gara_IR_2016_Senior_WEB.pdf]",
      "orig_lang": "it"
+    },
+    {
+     "day": 3,
+     "number": 1,
+     "problem": "**Jupiter and the Moon**\n\nYou observe the planet Jupiter, knowing that it is at opposition, and notice that the Moon is very close to Jupiter. What phase is the Moon in?\n\n(The data sheet is the same as in the Senior paper of this year, problem 1.)\n\n[The illustration is not reproduced here (its author is not credited in the paper). It is on page 1 of the official paper: https://www.campionatiastronomia.it/wp-content/uploads/2010/01/Gara_IR_2016_Junior_WEB.pdf]",
+     "paper_label": "Interregional round (Junior)",
+     "problem_orig": "**Giove e la Luna**\n\nOsservate il pianeta Giove sapendo che si trova all'opposizione e notate che la Luna è molto vicina a Giove. Che fase ha la Luna ?\n\n(La tabella dei dati è la stessa della prova Senior di quest'anno, problema 1.)\n\n[L'illustrazione non è riprodotta qui (autore non indicato nel testo). Si trova a pagina 1 del testo ufficiale: https://www.campionatiastronomia.it/wp-content/uploads/2010/01/Gara_IR_2016_Junior_WEB.pdf]",
+     "orig_lang": "it"
+    },
+    {
+     "day": 3,
+     "number": 2,
+     "problem": "**The planets in the evening**\n\nWhich planets of the Solar System can rise in the east in the evening?\n\n[The illustration is not reproduced here (its author is not credited in the paper). It is on page 1 of the official paper: https://www.campionatiastronomia.it/wp-content/uploads/2010/01/Gara_IR_2016_Junior_WEB.pdf]",
+     "paper_label": "Interregional round (Junior)",
+     "problem_orig": "**I pianeti di sera**\n\nQuali pianeti del Sistema Solare possono sorgere a est la sera?\n\n[L'illustrazione non è riprodotta qui (autore non indicato nel testo). Si trova a pagina 1 del testo ufficiale: https://www.campionatiastronomia.it/wp-content/uploads/2010/01/Gara_IR_2016_Junior_WEB.pdf]",
+     "orig_lang": "it"
+    },
+    {
+     "day": 3,
+     "number": 3,
+     "problem": "**The weight of an astronaut**\n\nAn astronaut, whose weight on the Earth is 686.7 N, is on the surface of a planet and, by dropping an object, measures that it takes 1.01 seconds to fall 5.41 m. The length of the equator of the planet, assumed spherical, is $36.57 \\cdot 10^{3}$ km. Calculate the mass of the planet and the weight of the astronaut on the planet, neglecting the effects due to rotation.\n\n[The illustration is not reproduced here (its author is not credited in the paper). It is on page 1 of the official paper: https://www.campionatiastronomia.it/wp-content/uploads/2010/01/Gara_IR_2016_Junior_WEB.pdf]",
+     "paper_label": "Interregional round (Junior)",
+     "problem_orig": "**Il peso di un astronauta**\n\nUn astronauta, il cui peso sulla Terra è di 686.7 N, si trova sulla superficie di un pianeta e lasciando cadere un oggetto misura che per percorrere 5.41 m impiega 1.01 secondi. La lunghezza dell'equatore del pianeta, supposto sferico, è pari a $36.57 \\cdot 10^{3}$ km. Calcolate la massa del pianeta e il peso dell'astronauta sul pianeta, trascurando gli effetti dovuti alla rotazione.\n\n[L'illustrazione non è riprodotta qui (autore non indicato nel testo). Si trova a pagina 1 del testo ufficiale: https://www.campionatiastronomia.it/wp-content/uploads/2010/01/Gara_IR_2016_Junior_WEB.pdf]",
+     "orig_lang": "it"
+    },
+    {
+     "day": 3,
+     "number": 4,
+     "problem": "**A walk with Halley**\n\nIn 1986 Halley's comet passed perihelion at a distance ($D_P$) from the Sun equal to $D_P = 8.9 \\cdot 10^{10}$ m. Between the orbits of which planets does Halley's perihelion lie? Knowing that the period of the comet is $T = 76$ years, what will its distance from the Sun ($D_A$) at aphelion be? Between the orbits of which planets does Halley's aphelion lie? Neglect the inclination of the orbit to the plane of the ecliptic. On which parameter does the large difference between $D_A$ and $D_P$ depend? Calculate the value of this parameter.\n\n[The illustration is not reproduced here (its author is not credited in the paper). It is on page 1 of the official paper: https://www.campionatiastronomia.it/wp-content/uploads/2010/01/Gara_IR_2016_Junior_WEB.pdf]",
+     "paper_label": "Interregional round (Junior)",
+     "problem_orig": "**A spasso con la Halley**\n\nNel 1986 la cometa di Halley è passata al perielio a una distanza ($D_P$) dal Sole pari a: $D_P = 8.9 \\cdot 10^{10}$ m. Tra le orbite di quali pianeti si trova il perielio della Halley? Sapendo che il periodo della cometa è $T = 76$ anni, quale sarà la sua distanza dal Sole ($D_A$) all'afelio? Tra le orbite di quali pianeti si trova l'afelio della Halley? Trascurate l'inclinazione dell'orbita sul piano dell'eclittica. Da quale parametro dipende la grande differenza tra $D_A$ e $D_P$ ? Calcolate il valore di questo parametro.\n\n[L'illustrazione non è riprodotta qui (autore non indicato nel testo). Si trova a pagina 1 del testo ufficiale: https://www.campionatiastronomia.it/wp-content/uploads/2010/01/Gara_IR_2016_Junior_WEB.pdf]",
+     "orig_lang": "it"
+    },
+    {
+     "day": 3,
+     "number": 5,
+     "problem": "**Two extrasolar planets**\n\nThe star Kepler-101 has two planets, Kepler-101b (gaseous) and Kepler-101c (rocky). Calculate the acceleration of gravity at the surface of the two planets, knowing that Kepler-101b has a radius $R_b = 0.52 \\cdot R_\\mathrm{Jupiter}$ and a mass $M_b = 51 \\cdot M_\\mathrm{Earth}$ and that Kepler-101c has a radius $R_c = 1.23 \\cdot R_\\mathrm{Earth}$ and a mass $M_c = 0.012 \\cdot M_\\mathrm{Jupiter}$. At what height above the surface of Kepler-101c will the acceleration of gravity equal that on the surface of Kepler-101b?\n\n[The illustration is not reproduced here (its author is not credited in the paper). It is on page 2 of the official paper: https://www.campionatiastronomia.it/wp-content/uploads/2010/01/Gara_IR_2016_Junior_WEB.pdf]",
+     "paper_label": "Interregional round (Junior)",
+     "problem_orig": "**Due pianeti extrasolari**\n\nLa stella Kepler-101 ha due pianeti, Kepler-101b (gassoso) e Kepler-101c (roccioso). Calcolare l'accelerazione di gravità alla superficie dei due pianeti, sapendo che Kepler-101b ha un raggio $R_b = 0.52 \\cdot R_\\mathrm{Giove}$ e una massa $M_b = 51 \\cdot M_\\mathrm{Terra}$ e che Kepler-101c ha un raggio $R_c = 1.23 \\cdot R_\\mathrm{Terra}$ e una massa $M_c = 0.012 \\cdot M_\\mathrm{Giove}$. A quale altezza dalla superfice di Kepler-101c si avrà un'accelerazione di gravità pari a quella sulla superfice di Kepler-101b?\n\n[L'illustrazione non è riprodotta qui (autore non indicato nel testo). Si trova a pagina 2 del testo ufficiale: https://www.campionatiastronomia.it/wp-content/uploads/2010/01/Gara_IR_2016_Junior_WEB.pdf]",
+     "orig_lang": "it"
     }
    ]
   },
@@ -439,6 +759,46 @@
      "problem": "**Jupiter and the Medicean satellites**\n\nThe image on the left shows Jupiter and the Medicean satellites. From East (E) to West (W), that is from left to right, the following are visible, in order: Ganymede, Io, Jupiter, Europa and Callisto. The angular distances of the satellites from the centre of the planet are:\n\n1. Ganymede – Jupiter = $2' 56''$\n2. Io – Jupiter = $2'$\n3. Europa – Jupiter = $2' 25''$\n4. Callisto – Jupiter = $2' 47''$\n\nSuppose we observe Jupiter and its four satellites with a telescope of aperture $D = 200$ mm and focal ratio $f/10$, on whose focal plane a camera is placed whose CCD measures $2048 \\times 2048$ pixels, each pixel being square with side $l_\\mathrm{pix} = 6.4$ micron ($\\mu$m). Check whether with this equipment it is possible to fit into the field of the CCD the complete image of Jupiter with its four Medicean satellites.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/itir-2017-d1-q5-1.png",
      "paper_label": "Interregional round (Senior)",
      "problem_orig": "**Giove e i satelliti Medicei**\n\nL'immagine a sinistra mostra Giove e i satelliti Medicei. Da Est (E) verso Ovest (W) – da sinistra verso destra – sono visibili, nell'ordine: Ganimede, Io, Giove, Europa e Callisto. Le distanze angolari dei satelliti dal centro del pianeta sono:\n\n1. Ganimede – Giove = $2' 56''$\n2. Io – Giove = $2'$\n3. Europa – Giove = $2' 25''$\n4. Callisto – Giove = $2' 47''$\n\nSupponiamo di osservare Giove e i suoi quattro satelliti con un telescopio di apertura $D = 200$ mm e rapporto focale $f/10$, sul cui piano focale è posta una camera fotografica il cui CCD ha dimensioni $2048 \\times 2048$ pixels con ciascun pixel di forma quadrata e lato $l_\\mathrm{pix} = 6.4$ micron ($\\mu$m). Verificare se con questa strumentazione è possibile far rientrare nel campo del CCD l'immagine completa di Giove con i suoi quattro satelliti medicei.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/itir-2017-d1-q5-1.png",
+     "orig_lang": "it"
+    },
+    {
+     "day": 3,
+     "number": 1,
+     "problem": "**The planet Mercury.**\n\nSay whether the following statements are true or false and justify your answer:\n(1) Mercury has been known since antiquity;\n(2) the four largest satellites of Mercury were discovered by Galileo in 1610;\n(3) the mass of Mercury is slightly less than 1/18 of the mass of the Earth;\n(4) Mercury, observed from the Earth, shows a complete cycle of phases in the course of its motion around the Sun;\n(5) Mercury was observed in opposition to the Sun on 24 July 2016.\n\n[The illustration is not reproduced here (its author is not credited in the paper). It is on page 1 of the official paper: https://www.campionatiastronomia.it/wp-content/uploads/2010/01/Gara_IR_2017_Junior_Soluzioni.pdf]",
+     "paper_label": "Interregional round (Junior)",
+     "problem_orig": "**Il pianeta Mercurio.**\n\nDite se le seguenti affermazioni sono vere o false e motivare la risposta:\n1) Mercurio è noto fin dall'antichità;\n2) i quattro maggiori satelliti di Mercurio sono stati scoperti da Galileo nel 1610;\n3) la massa di Mercurio è poco meno di 1/18 della massa della Terra;\n4) Mercurio, osservato dalla Terra, mostra un ciclo completo di fasi nel corso del suo moto intorno al Sole;\n5) Mercurio è stato osservato in opposizione al Sole il 24 Luglio 2016.\n\n[L'illustrazione non è riprodotta qui (autore non indicato nel testo). Si trova a pagina 1 del testo ufficiale: https://www.campionatiastronomia.it/wp-content/uploads/2010/01/Gara_IR_2017_Junior_Soluzioni.pdf]",
+     "orig_lang": "it"
+    },
+    {
+     "day": 3,
+     "number": 2,
+     "problem": "**Halley's comet changes period.**\n\nOn 9 September 2060 Halley's comet will pass 0.98 AU from Jupiter. This will cause a decrease of its orbital period from 76.01 to 74.41 years. By how much will the semi-major axis of Halley's orbit change (specify whether it will increase or decrease)?\n\n[The illustration is not reproduced here (its author is not credited in the paper). It is on page 1 of the official paper: https://www.campionatiastronomia.it/wp-content/uploads/2010/01/Gara_IR_2017_Junior_Soluzioni.pdf]",
+     "paper_label": "Interregional round (Junior)",
+     "problem_orig": "**La cometa di Halley cambia periodo.**\n\nIl 9 settembre del 2060 la cometa di Halley passerà a 0.98 UA da Giove. Questo causerà un decremento del suo periodo orbitale da 76.01 a 74.41 anni. Di quanto cambierà (specificare se aumenterà o diminuirà) il semiasse maggiore dell'orbita della Halley?\n\n[L'illustrazione non è riprodotta qui (autore non indicato nel testo). Si trova a pagina 1 del testo ufficiale: https://www.campionatiastronomia.it/wp-content/uploads/2010/01/Gara_IR_2017_Junior_Soluzioni.pdf]",
+     "orig_lang": "it"
+    },
+    {
+     "day": 3,
+     "number": 3,
+     "problem": "**The next Full Moon.**\n\nYou want to calculate when the next Full Moon will occur. You have at your disposal a calendar based on the sidereal lunar month, whose duration is $M_\\mathrm{sidereal} = 27.32$ days. Today is 13 February, the current sidereal month began with the New Moon of last January and will end in 11 days. Knowing that the synodic lunar month is $M_\\mathrm{synodic} = 29.52$ days, when will the next Full Moon occur?\n\n[The illustration is not reproduced here (its author is not credited in the paper). It is on page 1 of the official paper: https://www.campionatiastronomia.it/wp-content/uploads/2010/01/Gara_IR_2017_Junior_Soluzioni.pdf]",
+     "paper_label": "Interregional round (Junior)",
+     "problem_orig": "**La prossima Luna Piena.**\n\nVolete calcolare quando si verificherà la prossima Luna Piena. Avete a disposizione un calendario basato sul mese lunare siderale, la cui durata è: $M_\\mathrm{siderale} = 27.32$ giorni. Oggi è il 13 febbraio, il mese siderale in corso è iniziato con la Luna Nuova dello scorso gennaio e finirà tra 11 giorni. Sapendo che il mese lunare sinodico è $M_\\mathrm{sinodico} = 29.52$ giorni, quando si verificherà la prossima Luna piena?\n\n[L'illustrazione non è riprodotta qui (autore non indicato nel testo). Si trova a pagina 1 del testo ufficiale: https://www.campionatiastronomia.it/wp-content/uploads/2010/01/Gara_IR_2017_Junior_Soluzioni.pdf]",
+     "orig_lang": "it"
+    },
+    {
+     "day": 3,
+     "number": 4,
+     "problem": "**The satellite in orbit.**\n\nAn artificial satellite is placed on an elliptical orbit around the Earth with semi-major axis $a = 15000$ km and semi-minor axis $b = 13000$ km. Determine the height of the satellite above the surface of the Earth at apogee and at perigee.\n\n[The illustration is not reproduced here (its author is not credited in the paper). It is on page 2 of the official paper: https://www.campionatiastronomia.it/wp-content/uploads/2010/01/Gara_IR_2017_Junior_Soluzioni.pdf]",
+     "paper_label": "Interregional round (Junior)",
+     "problem_orig": "**Il satellite in orbita.**\n\nUn satellite artificiale viene messo su un'orbita ellittica attorno alla Terra con semiasse maggiore $a = 15000$ km e semiasse minore $b = 13000$ km. Determinate l'altezza sulla superfice della Terra del satellite all'Apogeo e al Perigeo.\n\n[L'illustrazione non è riprodotta qui (autore non indicato nel testo). Si trova a pagina 2 del testo ufficiale: https://www.campionatiastronomia.it/wp-content/uploads/2010/01/Gara_IR_2017_Junior_Soluzioni.pdf]",
+     "orig_lang": "it"
+    },
+    {
+     "day": 3,
+     "number": 5,
+     "problem": "**Bring the Pole Star closer!**\n\nThe Pole Star has an apparent magnitude $m = 1.96$ and is at a distance of 430 light-years from the Earth. Estimate its absolute magnitude and by how much we would have to bring it closer (in light-years) in order for it to have an apparent magnitude equal to that of Sirius ($m = -1.46$).\n\n[The illustration is not reproduced here (its author is not credited in the paper). It is on page 2 of the official paper: https://www.campionatiastronomia.it/wp-content/uploads/2010/01/Gara_IR_2017_Junior_Soluzioni.pdf]",
+     "paper_label": "Interregional round (Junior)",
+     "problem_orig": "**Avvicinate la Polare!**\n\nLa stella polare ha una magnitudine apparente $m = 1.96$ e si trova una distanza dalla Terra di 430 anni luce. Stimate la sua magnitudine assoluta e di quanto dovremmo avvicinarla (in anni luce) per avere una magnitudine apparente uguale a quella di Sirio ($m = -1.46$).\n\n[L'illustrazione non è riprodotta qui (autore non indicato nel testo). Si trova a pagina 2 del testo ufficiale: https://www.campionatiastronomia.it/wp-content/uploads/2010/01/Gara_IR_2017_Junior_Soluzioni.pdf]",
      "orig_lang": "it"
     }
    ]
@@ -485,6 +845,86 @@
      "paper_label": "Interregional round (Senior)",
      "problem_orig": "**Il pianeta del Piccolo principe**\n\nNel romanzo \"Il Piccolo Principe\" di Antoine de Saint-Exupery, il protagonista vive su un piccolo pianeta. Considerando che \"gli bastava fare due passi per vedere di nuovo il tramonto\" e considerando la lunghezza del passo di un bambino pari a 60 cm, calcolare il raggio del pianeta assumendo che la sua distanza dal Sole sia di 1 UA e che l'orbita sia circolare. Dopo aver ricavato il raggio del pianeta rispondere alle seguenti domande:\n\na) se la densità media del pianeta è pari a quella media della Terra, quanto valgono la sua accelerazione di gravità alla superficie e la sua velocità di fuga?\nb) quale dovrebbe essere la densità media del pianeta affinché l'accelerazione di gravità alla sua superficie sia pari a quella terrestre? E quale dovrebbe essere invece la sua densità affinché la velocità di fuga sia pari a quella terrestre?\nc) in ciascuno dei due casi citati nel punto b, si calcoli la velocità minima al suolo che deve avere un aereo, della massa di 980 kg, per staccarsi dalla superfice. Si consideri il pianeta privo di atmosfera.",
      "orig_lang": "it"
+    },
+    {
+     "day": 3,
+     "number": 1,
+     "problem": "**Sunrise and sunset on the Moon**\n\nIf you are on the Moon, at the centre of the face visible from the Earth as indicated in the figure, how often do you see the Sun rise? And how often do you see the Earth rise?\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/itir-2018-d3-q1-1.png",
+     "paper_label": "Interregional round (Junior 2)",
+     "problem_orig": "**Alba e tramonto sulla luna**\n\nSe vi trovate sulla Luna, al centro della faccia visibile dalla Terra come indicato nella figura, ogni quanto tempo vedete sorgere il Sole? E ogni quanto tempo vedete sorgere la Terra?\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/itir-2018-d3-q1-1.png",
+     "orig_lang": "it"
+    },
+    {
+     "day": 3,
+     "number": 2,
+     "problem": "**Pippo goes to Mars**\n\nPippo has been selected for the space programme \"Let's Send Them to Mars\" of TASA (TopoliniA Space Agency) and is packing his bags. He has been told that on Mars he will have, in the base under construction, a small cabinet in which to stow at most 23 kg of material. Pippo puts 23 kg of luggage into his suitcases. Topolino, who came to say goodbye before departure, points out to him that he made a mistake in his calculations. Is he right? Why?",
+     "paper_label": "Interregional round (Junior 2)",
+     "problem_orig": "**Pippo va su Marte**\n\nPippo è stato selezionato per il programma spaziale \"Mandiamoli su Marte\" della TASA (TopoliniA Space Agency) e sta facendo i bagagli. Gli è stato detto che su Marte avrà a disposizione, nella base in costruzione, un mobiletto dove potrà stipare al massimo 23 kg di materiale. Pippo mette nelle valigie 23 kg di bagagli. Topolino, venuto a salutarlo prima della partenza, gli fa notare che ha sbagliato a fare i calcoli. Ha ragione? Perché?",
+     "orig_lang": "it"
+    },
+    {
+     "day": 3,
+     "number": 3,
+     "problem": "**Concentric orbits**\n\nTwo planets A and B move in uniform circular motion along two concentric orbits with periods $T_A = 224.70$ days and $T_B = 686.97$ days respectively. If the two planets move in the same direction, how often will they be aligned with the Sun, on the same side of it? If instead one of the two moved in the opposite direction to the other, after how long would the alignment occur?",
+     "paper_label": "Interregional round (Junior 2)",
+     "problem_orig": "**Orbite Concentriche**\n\nDue pianeti A e B si muovono di moto circolare uniforme lungo due orbite concentriche con periodi, rispettivamente, $T_A = 224.70$ giorni e $T_B = 686.97$ giorni. Se i due pianeti si muovono nello stesso senso, ogni quanto tempo si troveranno allineati con il Sole, dalla stessa parte rispetto a esso? Se invece uno dei due si muovesse in senso opposto rispetto all'altro, dopo quanto tempo si verificherebbe l'allineamento?",
+     "orig_lang": "it"
+    },
+    {
+     "day": 3,
+     "number": 4,
+     "problem": "**The altitude of the Sun**\n\nCalculate the maximum altitude of the Sun above the horizon at the summer solstice for an observer located:\n(a) at the North Pole,\n(b) at the Tropic of Cancer,\n(c) at the equator,\n(d) at the Tropic of Capricorn.",
+     "paper_label": "Interregional round (Junior 2)",
+     "problem_orig": "**L'altezza del Sole**\n\nCalcolare l'altezza massima del Sole sull'orizzonte al solstizio d'estate per un osservatore posto:\na) al Polo Nord,\nb) al tropico del Cancro,\nc) all'equatore,\nd) al tropico del Capricorno.",
+     "orig_lang": "it"
+    },
+    {
+     "day": 3,
+     "number": 5,
+     "problem": "**Terrestrial kinematics**\n\nThe Earth takes about 23 hours and 56 minutes to complete one full rotation about its axis.\n(a) With what tangential speed does a point on the equator move because of the rotation of the Earth?\n(b) What is the centripetal acceleration acting on this point?\n(c) What centripetal force acts on a body of mass 1.3 kg at the equator?",
+     "paper_label": "Interregional round (Junior 2)",
+     "problem_orig": "**Cinematica terrestre**\n\nLa Terra impiega circa 23 ore e 56 minuti per compiere una rotazione completa attorno al proprio asse.\na) Con quale velocità tangenziale si muove un punto all'equatore per effetto della rotazione della Terra?\nb) Quanto vale l'accelerazione centripeta che agisce su questo punto?\nc) Quale forza centripeta agisce su un corpo di massa 1.3 kg all'equatore?",
+     "orig_lang": "it"
+    },
+    {
+     "day": 4,
+     "number": 1,
+     "problem": "**Complete the sentences**\n\nThe Sun formed about ___________________________ years ago from a cloud of gas and dust. The gas consisted of about 75% ____________________ and about 25% helium. The Sun began to shine when in its ________________ the conditions of ____________________ and pressure sufficient to ignite the _____________________________ reactions were reached.",
+     "paper_label": "Interregional round (Junior 1)",
+     "problem_orig": "**Completa le frasi**\n\nIl Sole si è formato circa ___________________________ di anni fa da una nube di gas e di polveri. Il gas era costituito per circa il 75% da ____________________ e per circa il 25% da elio. Il Sole cominciò a brillare quando nel suo ________________ si raggiunsero le condizioni di ____________________ e pressione sufficienti per innescare le reazioni _____________________________",
+     "orig_lang": "it"
+    },
+    {
+     "day": 4,
+     "number": 2,
+     "problem": "**The altitudes of the Sun**\n\nCalculate the maximum altitude above the horizon of the Sun at the spring equinox for an observer located at the North Pole and for an observer located at the equator.",
+     "paper_label": "Interregional round (Junior 1)",
+     "problem_orig": "**Le altezze del Sole**\n\nCalcolare l'altezza massima sull'orizzonte del Sole all'equinozio di primavera per un osservatore posto al Polo Nord e per un osservatore posto all'equatore.",
+     "orig_lang": "it"
+    },
+    {
+     "day": 4,
+     "number": 3,
+     "problem": "**The Moon in the morning**\n\nYou observe the Moon with a telescope from the terrace of your school at the start of the morning lessons. The Moon is past the meridian. In which two of the seven phases shown in the figure can the Moon be? What are the two phases you indicated called?\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/itir-2018-d4-q3-1.png",
+     "paper_label": "Interregional round (Junior 1)",
+     "problem_orig": "**La Luna al mattino**\n\nOsservate la Luna con un telescopio dal terrazzo della vostra scuola all'inizio delle lezioni mattutine. La Luna si trova oltre il meridiano. In quali due delle sette fasi mostrate in figura può essere la Luna? Come si chiamano le due fasi da voi indicate?\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/itir-2018-d4-q3-1.png",
+     "orig_lang": "it"
+    },
+    {
+     "day": 4,
+     "number": 4,
+     "problem": "**Hylonome**\n\nIn February 1995 the astronomers Jewitt and Luu discovered from the Mauna Kea Observatory (Hawaii) the asteroid Hylonome, located between Uranus and Neptune. Its mean distance from the Sun is 3760 million km. What is its orbital period?",
+     "paper_label": "Interregional round (Junior 1)",
+     "problem_orig": "**Hylonome**\n\nNel febbraio del 1995 gli astronomi Jewitt e Luu scoprirono dall'Osservatorio di Mauna Kea (Hawaii) l'asteroide Hylonome, posto tra Urano e Nettuno. La sua distanza media dal Sole è di 3760 milioni di km. Qual è il suo periodo orbitale?",
+     "orig_lang": "it"
+    },
+    {
+     "day": 4,
+     "number": 5,
+     "problem": "**The map**\n\nThe figure on the right, which in the original text was on a separate sheet supplied with the paper, shows a star map of a region of the southern-hemisphere sky.\n(1) With the help of a ruler, measure and enter in the table below the map the coordinates Right Ascension (RA), expressed in hours and minutes (hh:mm), and Declination ($\\delta$), expressed in degrees and arcminutes ($^\\circ$, $'$), of the five stars marked with circles.\n(2) What does the label \"J2000\" shown on the map refer to?\n\n$$\n\\begin{array}{|c|c|c|}\n\\hline\n\\text{N} & \\text{right ascension} & \\text{declination} \\\\ \\hline\n1 & & \\\\ \\hline\n2 & & \\\\ \\hline\n3 & & \\\\ \\hline\n4 & & \\\\ \\hline\n5 & & \\\\ \\hline\n\\end{array}\n$$\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/itir-2018-d4-q5-1.png",
+     "paper_label": "Interregional round (Junior 1)",
+     "problem_orig": "**La mappa**\n\nNella figura qui a fianco, riportata nel testo originale in un foglio fornito a parte, è rappresentata una mappa stellare di una zona di cielo dell'emisfero sud.\n1) Con l'aiuto di un righello, misurate e riportate nella tabella presente sotto la mappa le coordinate Ascensione Retta (AR) espressa in ore e minuti (hh:mm) e Declinazione ($\\delta$) espressa in gradi e primi d'arco ($^\\circ$, $'$) delle cinque stelle evidenziate con i cerchi.\n2) A cosa si riferisce la dicitura \"J2000\" riportata nella mappa?\n\n$$\n\\begin{array}{|c|c|c|}\n\\hline\n\\text{N} & \\text{ascensione retta} & \\text{declinazione} \\\\ \\hline\n1 & & \\\\ \\hline\n2 & & \\\\ \\hline\n3 & & \\\\ \\hline\n4 & & \\\\ \\hline\n5 & & \\\\ \\hline\n\\end{array}\n$$\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/itir-2018-d4-q5-1.png",
+     "orig_lang": "it"
     }
    ]
   },
@@ -529,6 +969,78 @@
      "problem": "**Major Tom**\n\nIn the lyrics of the song \"Space Oddity\" (David Bowie, 1969), Major Tom, in orbit around the Earth with his spacecraft, says that he is: \"Though I'm past one hundred thousand miles\", that is, 100000 miles from the Earth. Knowing that the nautical mile is defined as the length of the arc of meridian subtended by an angle of one arcminute and assuming the Earth to be spherical, calculate the distance of the spacecraft from the Earth's surface in km and its orbital period. Supposing that from Italy the transit of Major Tom's spacecraft in front of the full Moon is visible on 19 February 2019, with the Moon on the meridian, calculate when the next transit (day and hour) of the spacecraft across the disc of the Moon will occur, state what phase the Moon will have, and say whether this phenomenon will still be observable from Italy. Assume the orbits of the spacecraft and of the Moon around the Earth to be coplanar.",
      "paper_label": "Interregional round (Senior)",
      "problem_orig": "**Il Maggiore Tom**\n\nNel testo della canzone \"Space Oddity\" (David Bowie, 1969), il Maggiore Tom, in orbita con la sua navicella attorno alla Terra, afferma di essere: \"Though I'm past one hundred thousand miles\", ovvero a 100000 miglia dalla Terra. Sapendo che il miglio nautico è definito come la lunghezza dell'arco di meridiano sotteso da un angolo di un minuto d'arco e assumendo la Terra sferica, calcolate la distanza della navicella dalla superficie terrestre in km e il suo periodo orbitale. Ipotizzando che dall'Italia sia visibile il transito davanti alla Luna piena della navicella del Maggiore Tom il 19 febbraio 2019, con la Luna al meridiano, calcolate quando si verificherà il transito successivo (giorno e ora) della navicella sul disco della Luna, indicate che fase avrà la Luna e dite se questo fenomeno sarà ancora osservabile dall'Italia. Assumete le orbite di navicella e Luna attorno alla Terra complanari.",
+     "orig_lang": "it"
+    },
+    {
+     "day": 3,
+     "number": 1,
+     "problem": "**A matter of density**\n\nList the four rocky planets of the Solar System in order of density, from the least dense to the densest.\n\n(The data sheet is the same as in the Senior paper of this year, problem 1.)",
+     "paper_label": "Interregional round (Junior 2)",
+     "problem_orig": "**Una questione di densità**\n\nElencate in ordine di densità i quattro pianeti rocciosi del Sistema Solare, dal meno denso al più denso.\n\n(La tabella dei dati è la stessa della prova Senior di quest'anno, problema 1.)",
+     "orig_lang": "it"
+    },
+    {
+     "day": 3,
+     "number": 2,
+     "problem": "**The Sun seen from $\\alpha$ Centauri**\n\nKnowing that $\\alpha$ Centauri is 4.365 light-years from the Sun, calculate the apparent magnitude of the Sun as seen from a planet orbiting $\\alpha$ Centauri.",
+     "paper_label": "Interregional round (Junior 2)",
+     "problem_orig": "**Il Sole visto da $\\alpha$ Centauri**\n\nSapendo che $\\alpha$ Centauri dista dal Sole 4.365 anni luce, calcolate la magnitudine apparente del Sole visto da un pianeta in orbita attorno ad $\\alpha$ Centauri.",
+     "orig_lang": "it"
+    },
+    {
+     "day": 3,
+     "number": 3,
+     "problem": "**The elongation of Venus**\n\nAssuming circular orbits for the Earth and Venus, the maximum elongation of Venus is $46^\\circ$.\n(a) Mark on a drawing the position of the Sun and of the Earth, the orbit of Venus and its position when Venus, seen from the Earth, appears at greatest elongation;\n(b) derive from the drawing the corresponding Earth-Venus distance;\n(c) state what phase Venus has when, observed from the Earth, it is at greatest elongation.",
+     "paper_label": "Interregional round (Junior 2)",
+     "problem_orig": "**L'elongazione di Venere**\n\nAssumendo per Terra e Venere orbite circolari, l'elongazione massima di Venere è $46^\\circ$.\n1. Indicate su un disegno la posizione del Sole e della Terra, l'orbita di Venere e la sua posizione quando Venere, visto dalla Terra, appare alla massima elongazione;\n2. ricavate dal disegno la corrispondente distanza Terra-Venere;\n3. indicate che fase ha Venere quando, osservato dalla Terra, è alla massima elongazione.",
+     "orig_lang": "it"
+    },
+    {
+     "day": 3,
+     "number": 4,
+     "problem": "**A game for cats**\n\nThe kitten Karel plays with an expanded polystyrene ball that reproduces the Earth at a scale of 1:159450000. Knowing that the density of expanded polystyrene is 0.04 g/cm$^3$, calculate the mass of the ball in g. If an extrasolar planet existed with the density of expanded polystyrene and the mass of the Earth, what would its radius be in km? What would be the ratio to the radius of the Earth? Also, what would Karel's weight be on it, knowing that on the Earth the kitten weighs 26.5 N?",
+     "paper_label": "Interregional round (Junior 2)",
+     "problem_orig": "**Un gioco da gatti**\n\nLa gattina Karel gioca con una pallina di polistirolo espanso che riproduce la Terra in scala 1:159450000. Sapendo che la densità del polistirolo espanso è di 0.04 g/cm$^3$, calcolate la massa della pallina in g. Se esistesse un pianeta extrasolare con la densità del polistirolo espanso e la massa della Terra, quale sarebbe il suo raggio in km? Quale sarebbe il rapporto con il raggio della Terra? Inoltre, quale sarebbe il peso di Karel su di esso, sapendo che sulla Terra la gattina pesa 26.5 N?",
+     "orig_lang": "it"
+    },
+    {
+     "day": 4,
+     "number": 1,
+     "problem": "**Kepler's laws. Complete the text**\n\nThe 1st law states that the orbits of the planets of the Solar System are (1) _________ and that the (2) _________ occupies one of the two foci. The 2nd law states that the segment joining a planet to the Sun sweeps out equal areas in equal (3) ________, so a planet moves more (4) ______________ along its orbit when it is closer to the Sun. The 3rd law states that the square of the orbital period is proportional to the cube of the distance from the Sun; hence the outer planets have orbital periods that are (5) __________ than those of the inner planets.\n\n(The data sheet is the same as in the Senior paper of this year, problem 1.)",
+     "paper_label": "Interregional round (Junior 1)",
+     "problem_orig": "**Le leggi di Keplero. Completate il testo**\n\nLa I$^a$ legge afferma che le orbite dei pianeti del Sistema Solare sono delle (1) _________ e che il (2) _________ occupa uno dei due fuochi. La II$^a$ legge afferma che il segmento che unisce un pianeta al Sole descrive aree uguali in (3) ________ uguali, di conseguenza un pianeta si muove più (4) ______________ lungo la sua orbita quando è più vicino al Sole. La III$^a$ legge afferma che il quadrato del periodo orbitale è proporzionale al cubo della distanza dal Sole; quindi i pianeti esterni hanno periodi orbitali più (5) __________ rispetto ai pianeti interni.\n\n(La tabella dei dati è la stessa della prova Senior di quest'anno, problema 1.)",
+     "orig_lang": "it"
+    },
+    {
+     "day": 4,
+     "number": 2,
+     "problem": "**A bigger Earth**\n\nWhat are the mass and the acceleration of gravity on the surface of a planet that has the same density as the Earth, but twice the radius of the Earth?",
+     "paper_label": "Interregional round (Junior 1)",
+     "problem_orig": "**Una Terra più grande**\n\nQuanto valgono la massa e l'accelerazione di gravità sulla superficie di un pianeta che ha la stessa densità della Terra, ma raggio doppio del raggio terrestre?",
+     "orig_lang": "it"
+    },
+    {
+     "day": 4,
+     "number": 3,
+     "problem": "**A planet with whiskers**\n\nOn the planet Felix-1534, 4000 light-years from the Earth, lives a population of cats who aim to conquer the Earth with the support of the terrestrial cats. The Felixan cats send a radio message that reaches the kitten Karel on Earth on 14 February 2019, warning that they will set off towards the Earth after having received the reply of the terrestrial cats by radio. Considering that the spaceships of the cats of Felix-1534 travel at $\\frac{1}{100}$ of the speed of light, if Karel sends the reply immediately, how long after will the conquering cats arrive on Earth?",
+     "paper_label": "Interregional round (Junior 1)",
+     "problem_orig": "**Un pianeta con i baffi**\n\nSul pianeta Felix-1534, distante 4000 anni luce dalla Terra, vive una popolazione di gatti che mirano a conquistare la Terra con il sostegno dei gatti terrestri. I gatti felixani inviano una comunicazione radio che arriva alla gattina Karel sulla Terra il 14 febbraio 2019, avvisando che si metteranno in viaggio verso la Terra dopo aver ricevuto la risposta dei gatti terrestri via radio. Considerando che le astronavi dei gatti di Felix-1534 viaggiano a $\\frac{1}{100}$ della velocità della luce, se Karel invia immediatamente la risposta, dopo quanto tempo arriveranno sulla Terra i gatti conquistatori?",
+     "orig_lang": "it"
+    },
+    {
+     "day": 4,
+     "number": 4,
+     "problem": "**A new comet**\n\nThe arrival of a comet whose declination is $\\delta = -20^\\circ$ has been announced. Can an observer at latitude $\\varphi = 80^\\circ$ N observe the comet?",
+     "paper_label": "Interregional round (Junior 1)",
+     "problem_orig": "**Una nuova cometa**\n\nÈ stato annunciato l'arrivo di una cometa la cui declinazione è $\\delta = -20^\\circ$. Può un osservatore che si trova alla latitudine $\\varphi = 80^\\circ$ N osservare la cometa?",
+     "orig_lang": "it"
+    },
+    {
+     "day": 4,
+     "number": 5,
+     "problem": "**Superman or Apollo?**\n\nIt is claimed that Superman is faster than a bullet. Since a bullet has a speed of about 700 m/s, suppose that Superman can fly at 1000 m/s. At this speed, how many hours would Superman take to:\n(a) complete one full circuit around the Earth's equator (assuming it spherical)?\n(b) reach the Moon at perigee?\nConsidering that the astronauts of the Apollo missions took about 3 days to reach the Moon, were the astronauts of the Apollo missions or Superman faster?",
+     "paper_label": "Interregional round (Junior 1)",
+     "problem_orig": "**Superman o Apollo?**\n\nSi sostiene che Superman sia più veloce di un proiettile. Poiché un proiettile ha una velocità di circa 700 m/s, supponiamo che Superman possa volare a 1000 m/s. A questa velocità, quante ore impiegherebbe Superman per:\n1. compiere un giro completo attorno all'equatore della Terra (assumendola sferica)?\n2. raggiungere la Luna al perigeo?\nConsiderando che gli astronauti delle missioni Apollo hanno impiegato circa 3 giorni per raggiungere la Luna, erano più veloci gli astronauti delle missioni Apollo o Superman?",
      "orig_lang": "it"
     }
    ]
@@ -575,6 +1087,70 @@
      "paper_label": "Interregional round (Senior)",
      "problem_orig": "**Quale pianeta?**\n\nTra una congiunzione superiore e la successiva opposizione di un pianeta esterno del Sistema Solare, osservato dalla Terra, trascorrono 199.44 giorni. Trascurando l'inclinazione dell'orbita del pianeta sull'eclittica determinate:\n\n1. di quale pianeta si tratta (nota: nel calcolo del periodo orbitale assumete una possibile differenza di 0.001 anni tra il valore calcolato e quello presente nella tabella dei dati);\n2. il diametro angolare del pianeta all'opposizione assumendo la Terra al perielio e il pianeta all'afelio;\n3. il diametro angolare del pianeta all'opposizione assumendo la Terra all'afelio e il pianeta al perielio;\n4. il diametro angolare del pianeta osservato da un suo satellite che ha massa trascurabile rispetto al pianeta, periodo orbitale di 7.155 giorni e orbita circolare;\n5. nei casi dei punti 2 e 3 le dimensioni lineari del pianeta sul piano focale di un telescopio sulla Terra con apertura $D = 1$ m e rapporto di apertura (detto anche rapporto focale) pari a $f/10$.",
      "orig_lang": "it"
+    },
+    {
+     "day": 3,
+     "number": 1,
+     "problem": "**Finding one's way with the Sun**\n\nA group of young Olympians leaves on 21 June from a place in Italy for a camping trip. At a certain point of the route they decide to work out the coordinates of the place using a wooden pole and a clock. After planting the pole, they check that the part above the ground is exactly two metres long and wait until the shadow it casts is at its minimum. This happens at 13:10:30 local time (time of the Rome zone with daylight saving time) with the shadow 0.716 m long. What are the coordinates of the place where they are? Neglect the effects due to the equation of time.",
+     "paper_label": "Interregional round (Junior 2)",
+     "problem_orig": "**Orientarsi con il Sole**\n\nUn gruppo di giovani olimpionici parte il 21 giugno da una località in Italia per un campeggio. A un certo punto del percorso decidono di ricavare le coordinate del luogo utilizzando un'asta di legno e un orologio. Piantata l'asta, verificano che la parte al di sopra il suolo è lunga esattamente due metri e attendono che l'ombra da essa proiettata sia minima. Questo avviene alle 13:10:30 locali (tempo del fuso di Roma con ora legale) con l'ombra lunga 0.716 m. Quali sono le coordinate del luogo in cui si trovano? Si trascurino gli effetti dovuti all'equazione del tempo.",
+     "orig_lang": "it"
+    },
+    {
+     "day": 3,
+     "number": 2,
+     "problem": "**Stellar threats**\n\nThe terrible Darth Vader of Star Wars has a new deadly weapon, a planet accelerator, with which he threatens the rebels of the Resistance. Darth Vader aims his weapon at the planet Earth, increasing the rotation speed of the planet at the equator by 329 km/h.\n(a) With the new rotation speed, assuming the Earth to be spherical with unchanged radius, how many hours will the new sidereal day last?\n(b) If the Earth keeps this rotation speed about its axis for a whole orbit around the Sun, and neglecting precession, how many solar days will a year consist of?",
+     "paper_label": "Interregional round (Junior 2)",
+     "problem_orig": "**Minacce stellari**\n\nIl terribile Darth Vader di Star Wars ha una nuova micidiale arma, un acceleratore di pianeti, con la quale minaccia i ribelli della Resistenza. Darth Vader punta la sua arma contro il pianeta Terra, aumentando la velocità di rotazione del pianeta all'equatore di 329 km/h.\n1. Con la nuova velocità di rotazione, supponendo la Terra sferica con raggio invariato, quante ore durerà il nuovo giorno siderale?\n2. Se la Terra mantiene questa velocità di rotazione su sé stessa per un'intera orbita intorno al Sole, e trascurando la precessione, da quanti giorni solari sarà composto un anno?",
+     "orig_lang": "it"
+    },
+    {
+     "day": 3,
+     "number": 3,
+     "problem": "**A new planetary system**\n\nA planetary system has recently been discovered consisting of a star with mean density equal to the mean density of the Sun and radius equal to twice that of the Sun, around which two planets orbit. The orbits of the two planets are circular and lie in the same plane, and their masses are negligible with respect to that of the star. The innermost planet, called Vulcano, has an orbital speed of 60.0 km/s. Seen from Vulcano, the outermost planet, called Gaia, has a synodic period of 883 Earth days. Calculate:\n(a) the distance from the star and the orbital period of Vulcano;\n(b) the distance from the star and the orbital period of Gaia;\n(c) the angle of maximum elongation of Vulcano with respect to the star if observed from Gaia.",
+     "paper_label": "Interregional round (Junior 2)",
+     "problem_orig": "**Un nuovo sistema planetario**\n\nÈ stato recentemente scoperto un sistema planetario formato da una stella con densità media pari alla densità media del Sole e raggio pari al doppio di quello del Sole, attorno alla quale orbitano due pianeti. Le orbite dei due pianeti sono circolari e giacciono sullo stesso piano, le loro masse sono trascurabili rispetto a quella della stella. Il pianeta più interno, chiamato Vulcano, ha una velocità orbitale di 60.0 km/s. Visto da Vulcano, il pianeta più esterno, chiamato Gaia, ha un periodo sinodico di 883 giorni terrestri. Calcolate:\n1. la distanza dalla stella e il periodo orbitale di Vulcano;\n2. la distanza dalla stella e il periodo orbitale di Gaia;\n3. l'angolo di elongazione massima di Vulcano rispetto alla stella se osservato da Gaia.",
+     "orig_lang": "it"
+    },
+    {
+     "day": 4,
+     "number": 1,
+     "problem": "**Orbits and eclipses**\n\nComplete the following text.\n\nThe point of its orbit at which the Earth is at the minimum distance from the Sun is called _______________. The point of its orbit at which the Moon is at the maximum distance from the Earth is called _______________. If there is a suitable Sun-Earth-Moon alignment, an eclipse of _______________ can be observed from the Earth. Under the same conditions an eclipse of _______________ could be observed from the Sun. On the occasion of a lunar eclipse observed from the Earth the phase of the Moon is: ________________.",
+     "paper_label": "Interregional round (Junior 1)",
+     "problem_orig": "**Orbite ed eclissi**\n\nCompletate il seguente testo.\n\nIl punto della sua orbita in cui la Terra si trova alla minima distanza dal Sole è detto _______________. Il punto della sua orbita in cui la Luna si trova alla massima distanza dalla Terra è detto _______________. Se si ha un opportuno allineamento Sole-Terra-Luna, dalla Terra si potrà osservare un'eclisse di _______________. Nelle stesse condizioni dal Sole si potrebbe osservare un'eclisse di _______________. In occasione di un'eclissi di Luna osservata dalla Terra la fase della Luna è: ________________.",
+     "orig_lang": "it"
+    },
+    {
+     "day": 4,
+     "number": 2,
+     "problem": "**At the Tropic of Cancer**\n\nOn which day does the Sun, observed from a place on the Tropic of Cancer (latitude $\\varphi = 23^\\circ 26'$), reach its maximum altitude $h = 90^\\circ$ above the horizon? Illustrate the situation with a drawing.",
+     "paper_label": "Interregional round (Junior 1)",
+     "problem_orig": "**Al Tropico del Cancro**\n\nQuale giorno il Sole, osservato da una località posta sul Tropico del Cancro (latitudine $\\varphi = 23^\\circ 26'$), raggiunge l'altezza massima $h = 90^\\circ$ sull'orizzonte? Illustrate la situazione con un disegno.",
+     "orig_lang": "it"
+    },
+    {
+     "day": 4,
+     "number": 3,
+     "problem": "**Feline nightmares**\n\nThe kitten Karel was very impressed by the first image of a supermassive black hole, released on 10 April 2019. One night she falls asleep and dreams of travelling on a spaceship which, approaching the black hole, begins to orbit it on an elliptical orbit with semi-major axis of 15.1 light-days. Knowing that, in reality, a star orbits the black hole with a period of 97.8 years and a semi-major axis of the orbit of 8.20 light-days, calculate:\n(a) the mass of the black hole in solar masses;\n(b) the time the spaceship of Karel would take to complete one orbit around the black hole.",
+     "paper_label": "Interregional round (Junior 1)",
+     "problem_orig": "**Incubi felini**\n\nLa gattina Karel è rimasta molto impressionata dalla prima immagine di un buco nero supermassiccio rilasciata il 10 aprile 2019. Una notte si addormenta e sogna di viaggiare su una navicella che, avvicinandosi al buco nero, inizia a orbitargli intorno su un'orbita ellittica con semiasse maggiore di 15.1 giorni-luce. Sapendo che, nella realtà, una stella orbita attorno al buco nero con un periodo di 97.8 anni e semiasse maggiore dell'orbita di 8.20 giorni-luce, calcolate:\n1. la massa del buco nero in masse solari;\n2. il tempo che servirebbe alla navicella di Karel per completare un'orbita attorno al buco nero.",
+     "orig_lang": "it"
+    },
+    {
+     "day": 4,
+     "number": 4,
+     "problem": "**Ice eruptions**\n\nIn February 2010 the Cassini probe, orbiting Saturn, photographed violent jets of very fine ice crystals emitted from the surface of Enceladus, a moon of Saturn with a diameter $D_E = 5.0 \\cdot 10^{2}$ km and a mass $M_E = 8.6 \\cdot 10^{19}$ kg. Calculate:\n(a) the mean density of Enceladus in kg/m$^3$ and in g/cm$^3$;\n(b) the acceleration of gravity on the surface of Enceladus.",
+     "paper_label": "Interregional round (Junior 1)",
+     "problem_orig": "**Eruzioni di ghiaccio**\n\nNel febbraio 2010 la sonda Cassini, che orbitava attorno a Saturno, ha fotografato violenti getti di finissimi cristalli di ghiaccio emessi dalla superficie di Encelado, una luna di Saturno che ha un diametro $D_E = 5.0 \\cdot 10^{2}$ km e una massa $M_E = 8.6 \\cdot 10^{19}$ kg. Calcolate:\n1. la densità media di Encelado in kg/m$^3$ e in g/cm$^3$;\n2. l'accelerazione di gravità sulla superficie di Encelado.",
+     "orig_lang": "it"
+    },
+    {
+     "day": 4,
+     "number": 5,
+     "problem": "**Northern lights**\n\nOn 8 November 2000 at 12:00 UT the Sun produced a Coronal Mass Ejection (CME). On 12 November at 12:00 UT the CME hit the Earth and produced an aurora borealis. The Hubble Space Telescope (HST) observed on 8 December 2000 at 13:11 UT an aurora on Saturn, produced by the same CME. During the period from November to December 2000 the Earth and Saturn were aligned with each other, both on the same side with respect to the Sun. Assuming their orbits to be circular, answer the following questions:\n(a) How long did the CME take to reach the Earth?\n(b) How long did the CME take to reach Saturn?\n(c) What was the mean speed of the CME on its journey between the Sun and the Earth, in km/s and in km/h?\n(d) What was the mean speed of the CME on its journey between the Earth and Saturn, in km/s and in km/h?\n(e) During the journey from the Sun to Saturn, did the CME accelerate or decelerate?",
+     "paper_label": "Interregional round (Junior 1)",
+     "problem_orig": "**Aurore boreali**\n\nL'8 novembre 2000 alle 12:00 UT il Sole ha prodotto una Coronal Mass Ejection (CME). Il 12 novembre alle 12:00 UT la CME ha colpito la Terra e ha prodotto un'aurora boreale. Il Telescopio Spaziale Hubble (HST) ha osservato l'8 dicembre 2000 alle 13:11 UT un'aurora boreale su Saturno, prodotta dalla stessa CME. Durante il periodo che va da novembre a dicembre 2000, la Terra e Saturno erano allineati fra loro entrambi dalla stessa parte rispetto al Sole. Assumendo le loro orbite circolari, rispondete alle seguenti domande:\n1. Quanto tempo ha impiegato la CME per raggiungere la Terra?\n2. Quanto tempo ha impiegato la CME per raggiungere Saturno?\n3. Qual è stata la velocità media della CME nel suo viaggio fra il Sole e la Terra in km/s e in km/h?\n4. Qual è stata la velocità media della CME nel suo viaggio fra la Terra e Saturno in km/s e in km/h?\n5. Durante il tragitto dal Sole a Saturno la CME ha accelerato o decelerato?",
+     "orig_lang": "it"
     }
    ]
   },
@@ -620,6 +1196,70 @@
      "paper_label": "Interregional round (Senior)",
      "problem_orig": "**Come leggere sulla Luna**\n\nGli astronauti della missione Apollo 35, allunati nel Mare della Tranquillità, devono leggere le istruzioni per il rientro sulla Terra, quando improvvisamente si guastano tutte le luci della cabina e non ci sono sorgenti di luce artificiale disponibili. Il Sole sorgerà tra poco più di 7 giorni terrestri, quando la riserva di ossigeno si sarà esaurita. Quale sorgente di luce naturale potrebbero immediatamente usare per leggere? Assumete che la magnitudine apparente di una sorgente che consente di leggere deve essere almeno $m = 12$. La Luna è in apogeo, il suo periodo sinodico è di circa 29.5 giorni.",
      "orig_lang": "it"
+    },
+    {
+     "day": 3,
+     "number": 1,
+     "problem": "**The Sun and the seasons**\n\nWrite the intervals within which the right ascension ($\\alpha$) and the declination ($\\delta$) of the Sun vary during the 4 seasons, justifying your answer.",
+     "paper_label": "Interregional round (Junior 2)",
+     "problem_orig": "**Il Sole e le stagioni**\n\nScrivete gli intervalli entro cui variano l'ascensione retta ($\\alpha$) e la declinazione ($\\delta$) del Sole durante le 4 stagioni giustificando la vostra risposta.",
+     "orig_lang": "it"
+    },
+    {
+     "day": 3,
+     "number": 2,
+     "problem": "**The satellite in circular orbit**\n\nCalculate the magnitude of the tangential velocity and the period of revolution of a satellite moving in a circular orbit at a height of 160.1 km above the surface of the Earth. Neglect the presence of the atmosphere.",
+     "paper_label": "Interregional round (Junior 2)",
+     "problem_orig": "**Il satellite in orbita circolare**\n\nCalcolate il modulo della velocità tangenziale e il periodo di rivoluzione di un satellite che percorre un'orbita circolare a un'altezza di 160.1 km sulla superficie della Terra. Trascurate la presenza dell'atmosfera.",
+     "orig_lang": "it"
+    },
+    {
+     "day": 3,
+     "number": 3,
+     "problem": "**Telescope observations**\n\nAn amateur telescope has an objective 9 cm in diameter and focal ratio f/13. A visual observation is made using an eyepiece of focal length 39 mm and field of view (FoV) of $100^\\circ$.\n(a) What magnification is obtained?\n(b) What is the field of view of the telescope with this eyepiece?",
+     "paper_label": "Interregional round (Junior 2)",
+     "problem_orig": "**Osservazioni al telescopio**\n\nUn telescopio amatoriale ha un obiettivo di 9 cm di diametro e rapporto focale f/13. Viene condotta un'osservazione visuale utilizzando un oculare di lunghezza focale di 39 mm e campo di vista (FoV) di $100^\\circ$.\n1. Qual è l'ingrandimento che si ottiene?\n2. Qual è il campo di vista del telescopio con questo oculare?",
+     "orig_lang": "it"
+    },
+    {
+     "day": 4,
+     "number": 1,
+     "problem": "**True or false**\n\n(1) At the North Pole the celestial pole coincides with the zenith. (True / False)\n(2) The Sun is always on the ecliptic. (True / False)\n(3) The Earth passes through perihelion when it is summer in the northern hemisphere. (True / False)\n(4) The brightest star of the northern hemisphere of the sky is Sirius. (True / False)\n(5) The mass of the Earth is about 1.23 times greater than that of Venus. (True / False)",
+     "paper_label": "Interregional round (Junior 1)",
+     "problem_orig": "**Vero o falso**\n\n1. Al polo nord il polo celeste coincide con lo zenit. (V / F)\n2. Il Sole si trova sempre sull'eclittica. (V / F)\n3. La Terra passa al perielio quando nell'emisfero nord è estate. (V / F)\n4. La stella più luminosa dell'emisfero nord del cielo è Sirio. (V / F)\n5. La massa della Terra è circa 1.23 volte maggiore di quella di Venere. (V / F)",
+     "orig_lang": "it"
+    },
+    {
+     "day": 4,
+     "number": 2,
+     "problem": "**The sky of London**\n\nWhich of the stars in the table below (the declination $\\delta$ is given for each) are circumpolar as observed from London (latitude $\\varphi = 51^\\circ 30' 30''$; longitude $\\lambda = 0^\\circ 7' 32''$)? Tick one box (Yes or No) and justify your answer with the appropriate calculations.\n\n$$\n\\begin{array}{|l|c|c|}\n\\hline\n\\text{Star} & \\text{Yes} & \\text{No} \\\\ \\hline\n\\text{Betelgeuse}\\ (\\delta = +07^\\circ 24' 25'') & & \\\\ \\hline\n\\text{Sirius}\\ (\\delta = -16^\\circ 42' 58'') & & \\\\ \\hline\n\\text{Capella}\\ (\\delta = +45^\\circ 59' 53'') & & \\\\ \\hline\n\\text{Vega}\\ (\\delta = +38^\\circ 47' 1'') & & \\\\ \\hline\n\\text{Aldebaran}\\ (\\delta = +16^\\circ 30' 33'') & & \\\\ \\hline\n\\text{Deneb}\\ (\\delta = +45^\\circ 16' 49'') & & \\\\ \\hline\n\\end{array}\n$$",
+     "paper_label": "Interregional round (Junior 1)",
+     "problem_orig": "**Il cielo di Londra**\n\nQuali delle stelle nella tabella seguente (per ognuna viene indicata la declinazione $\\delta$) sono circumpolari osservate da Londra (latitudine $\\varphi = 51^\\circ 30' 30''$; longitudine $\\lambda = 0^\\circ 7' 32''$)? Barrate una casella (Sì o No) e giustificate la risposta con gli opportuni calcoli.\n\n$$\n\\begin{array}{|l|c|c|}\n\\hline\n\\text{Stella} & \\text{Sì} & \\text{No} \\\\ \\hline\n\\text{Betelgeuse}\\ (\\delta = +07^\\circ 24' 25'') & & \\\\ \\hline\n\\text{Sirio}\\ (\\delta = -16^\\circ 42' 58'') & & \\\\ \\hline\n\\text{Capella}\\ (\\delta = +45^\\circ 59' 53'') & & \\\\ \\hline\n\\text{Vega}\\ (\\delta = +38^\\circ 47' 1'') & & \\\\ \\hline\n\\text{Aldebaran}\\ (\\delta = +16^\\circ 30' 33'') & & \\\\ \\hline\n\\text{Deneb}\\ (\\delta = +45^\\circ 16' 49'') & & \\\\ \\hline\n\\end{array}\n$$",
+     "orig_lang": "it"
+    },
+    {
+     "day": 4,
+     "number": 3,
+     "problem": "**The phases of the Moon**\n\n(1) List the four main lunar phases in chronological order, starting from one of your choice.\n(2) In which of these phases is the Earth interposed between the Moon and the Sun?\n(3) In which of these phases is the Moon interposed between the Earth and the Sun?\n(4) Between which of the four main lunar phases do the \"waxing gibbous Moon\" and the \"waning gibbous Moon\" lie?",
+     "paper_label": "Interregional round (Junior 1)",
+     "problem_orig": "**Le fasi della Luna**\n\n1. Elencate le quattro principali fasi lunari in ordine cronologico, iniziando da una a vostra scelta.\n2. In quale di queste fasi la Terra è interposta tra la Luna e il Sole?\n3. In quale di queste fasi la Luna è interposta tra la Terra e il Sole?\n4. Tra quali delle quattro principali fasi lunari si collocano la \"Luna gibbosa crescente\" e la \"Luna gibbosa calante\"?",
+     "orig_lang": "it"
+    },
+    {
+     "day": 4,
+     "number": 4,
+     "problem": "**Karel's perseverance**\n\nThe kitten Karel is in the control centre of the Perseverance mission. Walking with... perseverance over the control panel, she presses the button that activates the Perseverance drone. Next to the button there is an indicator, which lights up as soon as the confirmation arrives from Mars that the command sent from the Earth has been received. With reference to the schematic figure on the left, assuming the orbits of Mars and the Earth to be circular and in the same plane, calculate the time, in minutes and seconds, that elapses between the pressing of the button and the lighting of the indicator in the following two cases:\n\n(1) Mars is at opposition (position A);  (2) Mars is at quadrature (position B).\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/itir-2021-d4-q4-1.png",
+     "paper_label": "Interregional round (Junior 1)",
+     "problem_orig": "**Karel's perseverance**\n\nLa gattina Karel si trova nel centro di controllo della missione Perseverance. Passeggiando con… perseveranza sul quadro comandi, preme il pulsante che attiva il drone di Perseverance. Accanto al pulsante si trova un indicatore, che si accende appena arriva da Marte la conferma che il comando inviato dalla Terra è stato ricevuto. Con riferimento alla figura schematica a sinistra, assumendo le orbite di Marte e Terra circolari e sullo stesso piano, calcolate il tempo, in minuti e secondi, che passa tra la pressione del pulsante e l'accensione dell'indicatore nei seguenti due casi:\n\n1. Marte è in opposizione (posizione A);  2. Marte è in quadratura (posizione B).\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/itir-2021-d4-q4-1.png",
+     "orig_lang": "it"
+    },
+    {
+     "day": 4,
+     "number": 5,
+     "problem": "**Millionths of a solar hemisphere**\n\nThe area of groups of sunspots is normally expressed in \"millionths of a solar hemisphere\" (MH). At its maximum extent the sunspot group AR-11944 reached an area of 1480 MH. Knowing that the surface area of a hemisphere is half the surface area of a sphere, calculate:\n(1) the area, in km$^2$, corresponding to 1 MH;\n(2) to how many \"terrestrial hemispheres\" the area of the sunspot group AR-11944 corresponded.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/itir-2021-d4-q5-1.png",
+     "paper_label": "Interregional round (Junior 1)",
+     "problem_orig": "**Milionesimi di emisfero solare**\n\nL'area dei gruppi di macchie solari viene normalmente espressa in \"milionesimi di emisfero solare\" (MH). Al massimo della sua estensione il gruppo di macchie AR-11944 ha raggiunto un'area pari a 1480 MH. Sapendo che l'area della superficie di un emisfero è metà dell'area della superficie di una sfera, calcolate:\n1. l'area, in km$^2$, corrispondente a 1 MH;\n2. a quanti \"emisferi terrestri\" corrispondeva l'area del gruppo di macchie AR-11944.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/itir-2021-d4-q5-1.png",
+     "orig_lang": "it"
     }
    ]
   },
@@ -664,6 +1304,70 @@
      "problem": "**The Earth at the zenith**\n\nFrom a point on the surface of the Moon the full Earth is seen at the zenith and has, on average, an integrated apparent magnitude $m_\\mathrm{int} = -16.2$. Neglecting the phenomenon of librations:\n\n(a) calculate the mean surface magnitude of the Earth in magnitudes/arcsec$^2$;\n(b) estimate the mean apparent magnitude of the full Earth from a point on the lunar surface from which the Earth is seen just above the horizon (the lower edge of the Earth touches the lunar horizon);\n(c) assuming a declination of $+5^\\circ$ for the Earth in a lunar equatorial coordinate system, estimate the geographic coordinates of the regions of the Moon from which the Earth can be observed at the zenith.",
      "paper_label": "Interregional round (Senior)",
      "problem_orig": "**La Terra allo zenith**\n\nDa un punto sulla superficie della Luna la Terra piena è vista allo zenith e ha, in media, una magnitudine apparente integrata $m_\\mathrm{int} = -16.2$. Trascurando il fenomeno delle librazioni:\n\n1. calcolate la magnitudine superficiale media della Terra in magnitudini/arcsec$^2$;\n2. stimate la magnitudine apparente media della Terra piena da un punto della superficie lunare dal quale la Terra è vista appena sopra l'orizzonte (il bordo inferiore della Terra tocca l'orizzonte lunare);\n3. assumendo per la Terra una declinazione di $+5^\\circ$ in un sistema di coordinate equatoriali lunare, stimate le coordinate geografiche delle regioni della Luna da cui la Terra può essere osservata allo zenith.",
+     "orig_lang": "it"
+    },
+    {
+     "day": 3,
+     "number": 1,
+     "problem": "**Planetary configurations**\n\nIn the following table mark with an \"X\" which planetary configurations, with respect to the Sun, are possible for the two categories of planets.\n\n$$\n\\begin{array}{|l|c|c|}\n\\hline\n & \\text{Inner planets} & \\text{Outer planets} \\\\ \\hline\n\\text{Inferior conjunction} & & \\\\ \\hline\n\\text{Greatest eastern elongation} & & \\\\ \\hline\n\\text{Opposition} & & \\\\ \\hline\n\\text{Greatest western elongation} & & \\\\ \\hline\n\\text{Quadrature} & & \\\\ \\hline\n\\end{array}\n$$",
+     "paper_label": "Interregional round (Junior 2)",
+     "problem_orig": "**Configurazioni planetarie**\n\nNella seguente tabella indicate con \"X\" quali configurazioni planetarie, rispetto al Sole, sono possibili per le due categorie di pianeti.\n\n$$\n\\begin{array}{|l|c|c|}\n\\hline\n & \\text{Pianeti interni} & \\text{Pianeti esterni} \\\\ \\hline\n\\text{Congiunzione inferiore} & & \\\\ \\hline\n\\text{Massima elongazione est} & & \\\\ \\hline\n\\text{Opposizione} & & \\\\ \\hline\n\\text{Massima elongazione ovest} & & \\\\ \\hline\n\\text{Quadratura} & & \\\\ \\hline\n\\end{array}\n$$",
+     "orig_lang": "it"
+    },
+    {
+     "day": 3,
+     "number": 2,
+     "problem": "**A satellite on a collision course**\n\nCalculate the period of revolution of an artificial satellite placed in a circular orbit around the Earth, at a distance of $384.4 \\cdot 10^{3}$ km from its centre, in the same plane as the orbit of the Moon. Why, whatever its initial position on the orbit, will this satellite sooner or later collide with the Moon?",
+     "paper_label": "Interregional round (Junior 2)",
+     "problem_orig": "**Un satellite in rotta di collisione**\n\nCalcolate il periodo di rivoluzione di un satellite artificiale posizionato su un'orbita circolare attorno alla Terra, a una distanza di $384.4 \\cdot 10^{3}$ km dal centro di quest'ultima, sullo stesso piano dell'orbita della Luna. Perché, qualunque sia la sua posizione iniziale sull'orbita, questo satellite finirà prima o poi per scontrarsi con la Luna?",
+     "orig_lang": "it"
+    },
+    {
+     "day": 3,
+     "number": 3,
+     "problem": "**Betelgeuse like SN1987A**\n\nThe figure on the left shows the remnant of supernova SN1987A, observed by the HST in the Large Magellanic Cloud, which is 50.0 kpc from the Sun. At the moment of maximum brightness the supernova reached an apparent magnitude of 3.0. It is believed that the star Betelgeuse, 550 light-years away from us, will also explode as a supernova with a maximum absolute magnitude equal to that of SN1987A. When this happens, what apparent magnitude will the supernova Betelgeuse have, as observed from the Earth?\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/itir-2022-d3-q3-1.png",
+     "paper_label": "Interregional round (Junior 2)",
+     "problem_orig": "**Betelgeuse come SN1987A**\n\nLa figura a sinistra mostra il resto della supernova SN1987A, osservata da HST nella Grande Nube di Magellano, che dista dal Sole 50.0 kpc. La supernova ha raggiunto, al momento del massimo di luminosità, una magnitudine apparente pari a 3.0. Si ritiene che anche la stella Betelgeuse, distante da noi 550 anni luce, esploderà come supernova con magnitudine assoluta massima pari a quella di SN1987A. Quando ciò avverrà, quale magnitudine apparente avrà, osservata dalla Terra, la supernova Betelgeuse?\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/itir-2022-d3-q3-1.png",
+     "orig_lang": "it"
+    },
+    {
+     "day": 4,
+     "number": 1,
+     "problem": "**True or false?**\n\n(1) The ecliptic is the apparent path of the Sun with respect to the stars on the celestial sphere. (True / False)\n(2) The ecliptic intersects the terrestrial equator at two points: the vernal point (or point $\\gamma$) and the autumnal point (or point $\\Omega$). (True / False)\n(3) The Sun passes through the vernal point at the autumn equinox and through the autumnal point at the spring equinox. (True / False)\n(4) The obliquity of the ecliptic is the angle between the ecliptic and the celestial equator. (True / False)\n(5) The value of the obliquity varies with a period of about 41,000 years. (True / False)",
+     "paper_label": "Interregional round (Junior 1)",
+     "problem_orig": "**Vero o falso?**\n\n1. L'eclittica è il percorso apparente del Sole rispetto alle stelle sulla sfera celeste. (V / F)\n2. L'eclittica interseca l'equatore terrestre in due punti: punto di Ariete (o punto $\\gamma$) e punto della Bilancia (o punto $\\Omega$). (V / F)\n3. Il Sole passa per il punto di Ariete all'equinozio d'autunno e per il punto della Bilancia all'equinozio di primavera. (V / F)\n4. L'obliquità dell'eclittica è l'angolo tra l'eclittica e l'equatore celeste. (V / F)\n5. Il valore dell'obliquità varia con un periodo di circa 41.000 anni. (V / F)",
+     "orig_lang": "it"
+    },
+    {
+     "day": 4,
+     "number": 2,
+     "problem": "**Planetary quiz**\n\n(1) List the planets of the Solar System in decreasing order of mass.\n(2) How many and which have known satellites?\n(3) How many and which have a known ring system?\n(4) Between which planets is the main asteroid belt located?\n(5) Which planets of the Solar System are called \"gas giants\"?",
+     "paper_label": "Interregional round (Junior 1)",
+     "problem_orig": "**Quiz planetario**\n\n1. Elencate in ordine decrescente di massa i pianeti del Sistema Solare.\n2. Quanti e quali hanno satelliti conosciuti?\n3. Quanti e quali hanno un sistema di anelli conosciuto?\n4. Tra quali pianeti si trova la fascia principale degli asteroidi?\n5. Quali pianeti del Sistema Solare sono definiti \"giganti gassosi\"?",
+     "orig_lang": "it"
+    },
+    {
+     "day": 4,
+     "number": 3,
+     "problem": "**Planetary configurations**\n\nFrom Mars you observe Venus at greatest elongation, Mercury in inferior conjunction with the Sun and the Earth in superior conjunction with the Sun. Draw to scale the orbits of the 4 planets and indicate the positions of Mercury, Venus, the Earth and Mars. Consider the orbits to be circular and neglect the sizes of the Sun and of the planets.",
+     "paper_label": "Interregional round (Junior 1)",
+     "problem_orig": "**Configurazioni planetarie**\n\nDa Marte osservate Venere alla massima elongazione, Mercurio in congiunzione inferiore con il Sole e la Terra in congiunzione superiore con il Sole. Disegnate in scala le orbite dei 4 pianeti e indicate le posizioni di Mercurio, Venere, Terra e Marte. Considerate le orbite circolari e trascurate le dimensioni del Sole e dei pianeti.",
+     "orig_lang": "it"
+    },
+    {
+     "day": 4,
+     "number": 4,
+     "problem": "**The planet Ailim**\n\nThe planet Ailim orbits a star identical to the Sun. Ailim moves along an elliptical orbit, with eccentricity 0.650 and semi-major axis $149.6 \\cdot 10^{6}$ km. Calculate the value of the semi-minor axis of the orbit and the period of revolution of Ailim around its star.",
+     "paper_label": "Interregional round (Junior 1)",
+     "problem_orig": "**Il pianeta Ailim**\n\nIl pianeta Ailim orbita attorno a una stella uguale al Sole. Ailim si muove lungo un'orbita ellittica, con eccentricità 0.650 e con semiasse maggiore di $149.6 \\cdot 10^{6}$ km. Calcolate il valore del semiasse minore dell'orbita e il periodo di rivoluzione di Ailim intorno alla sua stella.",
+     "orig_lang": "it"
+    },
+    {
+     "day": 4,
+     "number": 5,
+     "problem": "**The distance between the foci**\n\nFrom Kepler's first law we know that the Sun occupies one of the two foci of the elliptical orbit of each planet.\n(1) Order the planets of the Solar System according to the distance between the two foci of their orbit, from the smallest value to the largest.\n(2) For which planets does the focus not occupied by the Sun lie outside the orbit of the Earth?",
+     "paper_label": "Interregional round (Junior 1)",
+     "problem_orig": "**La distanza tra i fuochi**\n\nDalla I legge di Keplero sappiamo che il Sole occupa uno dei due fuochi dell'orbita ellittica di ciascun pianeta.\n1. Ordinate i pianeti del Sistema Solare in base alla distanza tra i due fuochi della loro orbita, dal valore minore a quello maggiore,.\n2. Per quali pianeti il fuoco non occupato dal Sole si trova all'esterno dell'orbita della Terra?",
      "orig_lang": "it"
     }
    ]
@@ -717,6 +1421,86 @@
      "problem": "**The magnitude of Saturn**\n\nLast summer the astronomer D. Stratt tried his hand at calculating the visual magnitude of Saturn at opposition, on the basis of its radius, its distance from the Sun, taken equal to the semi-major axis of its orbit, and its albedo. What value did he obtain? The astronomer then found, however, that the magnitude of Saturn at opposition can reach about $-0.5$, in clear disagreement with his estimate. What mistakes may D. Stratt have made?",
      "paper_label": "Interregional round (Master)",
      "problem_orig": "**La magnitudine di Saturno**\n\nL'estate scorsa l'astronomo D. Stratt si è cimentato nel calcolo della magnitudine visuale di Saturno all'opposizione, sulla base del suo raggio, della sua distanza dal Sole, assunta pari al semiasse maggiore dell'orbita, e della sua albedo. Quale valore ha ottenuto? L'astronomo ha scoperto però che la magnitudine di Saturno all'opposizione può arrivare fino a circa $-0.5$, in netto disaccordo con la sua stima. Quali errori può avere commesso D. Stratt?",
+     "orig_lang": "it"
+    },
+    {
+     "day": 3,
+     "number": 1,
+     "problem": "**Comet ZTF**\n\nThese days we are witnessing the close passage of comet C/2022 E3 (ZTF), whose period of revolution is $5.20 \\cdot 10^{4}$ years and which at perihelion was at a distance of 162 million km from the Sun. Calculate:\n(a) the semi-major axis of the orbit in astronomical units and in km;\n(b) the eccentricity of the orbit;\n(c) the distance of comet ZTF from the Sun at aphelion in astronomical units.",
+     "paper_label": "Interregional round (Junior 2)",
+     "problem_orig": "**La cometa ZTF**\n\nIn questi giorni si assiste al passaggio ravvicinato della cometa C/2022 E3 (ZTF), il cui periodo di rivoluzione è di $5.20 \\cdot 10^{4}$ anni, e che al perielio si è trovata a una distanza di 162 milioni di km dal Sole. Calcolate:\n1. il semiasse maggiore dell'orbita in unità astronomiche e in km;\n2. l'eccentricità dell'orbita;\n3. la distanza della cometa ZTF dal Sole all'afelio in unità astronomiche.",
+     "orig_lang": "it"
+    },
+    {
+     "day": 3,
+     "number": 2,
+     "problem": "**Transit across the Sun**\n\nImagine observing the transit of the Earth across the disc of the Sun from a very distant extrasolar planet. Assume the orbit of the Earth to be circular and that the transit takes place along the diameter of the Sun at constant speed. Calculate the duration of the transit, neglecting the size of the Earth.",
+     "paper_label": "Interregional round (Junior 2)",
+     "problem_orig": "**Transito sul Sole**\n\nImmaginate di osservare il transito della Terra sul disco del Sole da un pianeta extrasolare molto lontano. Assumete l'orbita della Terra circolare e che il transito avvenga lungo il diametro del Sole a velocità costante. Calcolate la durata del transito trascurando le dimensioni della Terra.",
+     "orig_lang": "it"
+    },
+    {
+     "day": 3,
+     "number": 3,
+     "problem": "**The displaced Earth**\n\nSuppose the semi-major axis of the Earth's orbit is doubled.\n(a) How long would the period of revolution of the Earth around the Sun be? Express the result in days.\n(b) What should the mass of the Sun be so that the duration of the period of revolution of the Earth does not change?",
+     "paper_label": "Interregional round (Junior 2)",
+     "problem_orig": "**La Terra spostata**\n\nSupponete di raddoppiare il semiasse maggiore dell'orbita della Terra.\n1. Quanto durerebbe il periodo di rivoluzione della Terra attorno al Sole? Esprimete il risultato in giorni.\n2. Quanto dovrebbe valere la massa del Sole affinché la durata del periodo di rivoluzione della Terra non cambi?",
+     "orig_lang": "it"
+    },
+    {
+     "day": 3,
+     "number": 4,
+     "problem": "**Planetary triangulation**\n\nA radio signal must be sent immediately to the Perseverance rover on Mars, which unfortunately is in conjunction with the Sun and cannot be reached directly. It is decided to send the signal towards the VRR (Venus Radio Repeater) repeater placed on the surface of Venus. The Earth–Sun–Venus angle is a right angle and the VRR, having received the signal, retransmits it instantly towards Mars. How long does the signal take to be transmitted from the Earth to Mars? Assume all the orbits to be circular and in the same plane and neglect the motion of the planets during the transmission of the signal.",
+     "paper_label": "Interregional round (Junior 2)",
+     "problem_orig": "**Triangolazione planetaria**\n\nUn segnale radio deve essere immediatamente inviato al rover Perseverance su Marte, che purtroppo è in congiunzione con il Sole e non può essere raggiunto direttamente. Si decide di inviare il segnale verso il ripetitore VRR (Venus Radio Repeater) posto sulla superficie di Venere. L'angolo Terra - Sole - Venere è retto e il VRR, ricevuto il segnale, lo ritrasmette istantaneamente verso Marte. Quanto tempo impiega il segnale per essere trasmesso dalla Terra a Marte? Assumete tutte le orbite circolari e sullo stesso piano e trascurate lo spostamento dei pianeti durante la trasmissione del segnale.",
+     "orig_lang": "it"
+    },
+    {
+     "day": 3,
+     "number": 5,
+     "problem": "**The speed of the comet**\n\nA comet of mass $7.15 \\cdot 10^{16}$ kg follows a parabolic orbit with perihelion at 4.64 AU from the Sun. Calculate its speed at perihelion.",
+     "paper_label": "Interregional round (Junior 2)",
+     "problem_orig": "**La velocità della cometa**\n\nUna cometa di massa $7.15 \\cdot 10^{16}$ kg segue un'orbita parabolica con perielio a 4.64 UA dal Sole. Calcolate la sua velocità al perielio.",
+     "orig_lang": "it"
+    },
+    {
+     "day": 4,
+     "number": 1,
+     "problem": "**Complete the following description of the Solar System**\n\nThe Solar System consists of the ……...……, which alone possesses over 99 % of the mass of the whole system, of ……….…. planets, five dwarf planets, their respective satellites and many minor bodies. This last category includes the …..…………… , mostly distributed in two regions (the main belt and the Kuiper belt) and the …..….………..… (mostly located in the hypothetical Oort cloud). In order of increasing distance from the Sun, the planets are: ………………………….…………… ……………………………………………………….….",
+     "paper_label": "Interregional round (Junior 1)",
+     "problem_orig": "**Completate la seguente descrizione del Sistema Solare**\n\nIl Sistema Solare è costituito dal ……...……, che da solo possiede oltre il 99 % della massa di tutto il sistema, da ……….…. pianeti, cinque pianeti nani, dai rispettivi satelliti e da molti corpi minori. Quest'ultima categoria comprende gli ……...…………, in gran parte distribuiti in due regioni (la fascia principale e la fascia di Kuiper) e le …..….………..… (prevalentemente situate nell'ipotetica nube di Oort). In ordine di distanza crescente dal Sole, i pianeti sono: ………………………….…………… ……………………………………………………….….",
+     "orig_lang": "it"
+    },
+    {
+     "day": 4,
+     "number": 2,
+     "problem": "**The Sun goes out**\n\nYou are observing Mars, which is at opposition, and Jupiter, which is at quadrature. Suddenly the Sun goes out. Make a drawing of the described planetary configuration and calculate how long after the Sun goes out you will see Mars and Jupiter go dark from the Earth. Assume the orbits to be circular and all in the same plane and neglect the motion of the planets.",
+     "paper_label": "Interregional round (Junior 1)",
+     "problem_orig": "**Il Sole spento**\n\nState osservando Marte, che si trova in opposizione, e Giove, che si trova in quadratura. Improvvisamente il Sole si spegne. Realizzate un disegno della configurazione planetaria descritta e calcolate dopo quanto tempo dallo spegnimento del Sole vedrete dalla Terra spegnersi Marte e Giove. Assumete le orbite circolari e tutte sullo stesso piano e trascurate lo spostamento dei pianeti.",
+     "orig_lang": "it"
+    },
+    {
+     "day": 4,
+     "number": 3,
+     "problem": "**Where is my shadow?**\n\nUsually our photos also capture our shadow; however, in some situations it is possible to photograph oneself without the shadow! Where must the Sun be to take a photo without a shadow? Indicate four situations (place and date) in which this is possible. Justify your answer with the appropriate calculations.",
+     "paper_label": "Interregional round (Junior 1)",
+     "problem_orig": "**Dov'è la mia ombra?**\n\nUsualmente nelle nostre foto viene ripresa anche la nostra ombra; però in alcune situazioni è possibile fotografarsi senza la presenza dell'ombra! Per fare una foto senza ombra dove si deve trovare il Sole? Indicate quattro situazioni (luogo e data) in cui ciò è possibile. Giustificate la vostra risposta con gli opportuni calcoli.",
+     "orig_lang": "it"
+    },
+    {
+     "day": 4,
+     "number": 4,
+     "problem": "**The displaced Earth**\n\nSuppose the semi-major axis of the Earth's orbit is doubled. How long would the period of revolution of the Earth around the Sun be? Express the result in days.",
+     "paper_label": "Interregional round (Junior 1)",
+     "problem_orig": "**La Terra spostata**\n\nSupponete di raddoppiare il semiasse maggiore dell'orbita della Terra. Quanto durerebbe il periodo di rivoluzione della Terra attorno al Sole? Esprimete il risultato in giorni.",
+     "orig_lang": "it"
+    },
+    {
+     "day": 4,
+     "number": 5,
+     "problem": "**Contact with aliens**\n\nIn recent years numerous extrasolar planets have been discovered that have habitability characteristics similar to the Earth. Various projects study the possibility of listening for or sending signals to detect the presence of advanced alien civilisations. One of these projects, whose duration is 50 years, sends a radio signal today in all directions.\n(a) Calculate the maximum distance (in parsecs) of a planet from which a reply can be received before the end of the project.\n(b) Consider a sphere whose radius equals this maximum distance. Knowing that in the spherical region within 100 parsecs of the Sun (called the Local Bubble) there are about $5.0 \\cdot 10^{4}$ stars uniformly distributed, and assuming one inhabited planet for every 10 stars, calculate from how many hypothetical civilisations we could receive a reply before the end of the project.",
+     "paper_label": "Interregional round (Junior 1)",
+     "problem_orig": "**Il contatto con gli alieni**\n\nNegli ultimi anni sono stati scoperti numerosi pianeti extrasolari che hanno caratteristiche di abitabilità simili alla Terra. Vari progetti studiano la possibilità di ascoltare o di inviare segnali per rivelare la presenza di civiltà aliene avanzate. Uno di questi progetti, la cui durata è di 50 anni, invia oggi un segnale radio in tutte le direzioni.\n1. Calcolate la distanza massima (in parsec) di un pianeta da cui è possibile ricevere una risposta prima della conclusione del progetto.\n2. Considerate una sfera di raggio pari a tale distanza massima. Sapendo che nella regione sferica entro 100 parsec dal Sole (detta Bolla Locale) ci sono circa $5.0 \\cdot 10^{4}$ stelle distribuite uniformemente e ipotizzando la presenza di un pianeta abitato ogni 10 stelle, calcolate da quante ipotetiche civiltà potremmo ricevere una risposta prima della conclusione del progetto.",
      "orig_lang": "it"
     }
    ]
@@ -787,6 +1571,70 @@
      "paper_label": "Interregional round (Master)",
      "problem_orig": "**C'è posta per M13**\n\nNel 1974 è stato inviato dal radiotelescopio di Arecibo (Porto Rico) un messaggio radio verso l'ammasso globulare M13, che ha un diametro angolare di $23'.0$, si trova a una distanza di 7.70 kpc dal Sole, si stima contenga $6.40 \\cdot 10^{5}$ stelle e ha una magnitudine superficiale media di 21.2 mag/arcsec$^2$. Il radiotelescopio aveva un'apertura di $3.05 \\cdot 10^{2}$ m e trasmetteva alla frequenza di $2.38 \\cdot 10^{3}$ MHz. Il fascio delle onde radio aveva un'ampiezza angolare pari al doppio del potere risolutivo del telescopio ed era puntato esattamente al centro di M13. Supponete che le stelle siano distribuite uniformemente nel volume di M13 e calcolate:\n\na) la densità media di stelle in M13;\nb) quante stelle verranno effettivamente raggiunte dal messaggio radio;\nc) la magnitudine apparente integrata di M13.",
      "orig_lang": "it"
+    },
+    {
+     "day": 3,
+     "number": 1,
+     "problem": "**Lunar orbits**\n\nA research team has discovered a new small moon in circular orbit around a planet of the Solar System. The moon has a period of revolution of 13.90 hours and a distance of $1.340 \\cdot 10^{5}$ km from the centre of the planet. Which planet of our Solar System is it?",
+     "paper_label": "Interregional round (Junior 2)",
+     "problem_orig": "**Orbite lunari**\n\nUn gruppo di ricerca ha scoperto una nuova piccola luna in orbita circolare attorno a un pianeta del Sistema Solare. La luna ha un periodo di rivoluzione di 13.90 ore e una distanza di $1.340 \\cdot 10^{5}$ km dal centro del pianeta. Di quale pianeta del nostro Sistema Solare si tratta?",
+     "orig_lang": "it"
+    },
+    {
+     "day": 3,
+     "number": 2,
+     "problem": "**The weight of the LEM**\n\nThe LEM (Lunar Excursion Module), the Apollo 11 module that landed on the Moon on 20 July 1969, had a mass of 13.3 tonnes. Calculate:\n(a) the weight of the LEM on the surface of the Moon;\n(b) at what height above the lunar ground the LEM weighed half of its weight on the surface.\n\nNeglect the effects due to the gravitational attraction of the Sun and the Earth and to the rotation of the Moon.",
+     "paper_label": "Interregional round (Junior 2)",
+     "problem_orig": "**Il peso del LEM**\n\nIl LEM (Lunar Excursion Module), il modulo dell'Apollo 11 che si è posato sulla Luna il 20 luglio 1969, aveva una massa di 13.3 tonnellate. Calcolate:\na) il peso del LEM sulla superficie della Luna;\nb) a quale altezza dal suolo della Luna il LEM pesava la metà rispetto al suo peso sulla superficie.\n\nTrascurate gli effetti dovuti all'attrazione gravitazionale del Sole e della Terra e alla rotazione della Luna.",
+     "orig_lang": "it"
+    },
+    {
+     "day": 3,
+     "number": 3,
+     "problem": "**The dense Sun**\n\nNeutron stars are some of the densest objects in the universe, with a mean density of $5.0 \\cdot 10^{17}$ kg/m$^3$. Calculate:\n(a) the radius of the Sun if it had the mean density of a neutron star;\n(b) the apparent magnitude of the Sun if, at the same photospheric temperature, it had that radius.",
+     "paper_label": "Interregional round (Junior 2)",
+     "problem_orig": "**Il Sole denso**\n\nLe stelle di neutroni sono alcuni degli oggetti più densi dell'universo, con densità media pari a $5.0 \\cdot 10^{17}$ kg/m$^3$. Calcolate:\na) il raggio del Sole se avesse la densità media di una stella di neutroni;\nb) la magnitudine apparente del Sole se, a parità di temperatura della fotosfera, avesse tale raggio.",
+     "orig_lang": "it"
+    },
+    {
+     "day": 4,
+     "number": 1,
+     "problem": "**Astroquiz**\n\nComplete the following sentences.\n(a) The smallest planet of the Solar System is ____________ .\n(b) The planet Neptune is about as large as the planet ____________ .\n(c) The Earth is about ____________ light-minutes from the Sun.\n(d) When the Moon covers the Sun, wholly or partly, we call this event ______________________ .\n(e) The ________________ galaxy is the spiral galaxy closest to the Milky Way.",
+     "paper_label": "Interregional round (Junior 1)",
+     "problem_orig": "**Astroquiz**\n\nCompletate le seguenti frasi.\na) Il pianeta più piccolo del Sistema Solare è ____________ .\nb) Il pianeta Nettuno è grande circa come il pianeta ____________ .\nc) La Terra dista dal Sole circa ____________ minuti luce.\nd) Quando la Luna copre il Sole, in tutto o in parte, chiamiamo questo evento ______________________ .\ne) La galassia di _________________ è la galassia a spirale più vicina alla Via Lattea.",
+     "orig_lang": "it"
+    },
+    {
+     "day": 4,
+     "number": 2,
+     "problem": "**Planetary dilemma**\n\nDoes an object with a mass of 10 kg weigh more on the surface of Venus or at the top of the clouds of Neptune? Justify your answer. For the distance of the cloud tops from the centre of Neptune, take the radius of Neptune given in the data table.",
+     "paper_label": "Interregional round (Junior 1)",
+     "problem_orig": "**Dilemma planetario**\n\nUn oggetto con massa di 10 kg pesa di più sulla superficie di Venere o alla sommità delle nubi di Nettuno? Motivate la risposta. Assumete per la distanza della sommità delle nubi dal centro di Nettuno il raggio di Nettuno indicato nella tabella dei dati.",
+     "orig_lang": "it"
+    },
+    {
+     "day": 4,
+     "number": 3,
+     "problem": "**The star Arcturus**\n\nThe star Arcturus, in the constellation Boötes, is 11.1 parsecs from the Sun. Calculate:\n(a) the distance of Arcturus from the Earth in light-years;\n(b) how long light takes to travel from Arcturus to the Earth;\n(c) how long a radio signal takes to travel from the Earth to Arcturus.",
+     "paper_label": "Interregional round (Junior 1)",
+     "problem_orig": "**La stella Arturo**\n\nLa stella Arturo, nella costellazione del Boote, dista 11.1 parsec dal Sole.\nCalcolate:\na) la distanza in anni luce di Arturo dalla Terra;\nb) quanto tempo impiega la luce per viaggiare da Arturo alla Terra;\nc) quanto tempo impiega un segnale radio per viaggiare dalla Terra ad Arturo.",
+     "orig_lang": "it"
+    },
+    {
+     "day": 4,
+     "number": 4,
+     "problem": "**In orbit around a distant star**\n\nA spaceship moves around a star whose mass is 9 times the mass of the Sun, on an elliptical orbit with semi-major axis $1.346 \\cdot 10^{9}$ km and eccentricity 0.702.\nCalculate:\n(a) in how many Earth years the spaceship completes one full orbit around the star;\n(b) the minimum distance from the star reached by the spaceship.",
+     "paper_label": "Interregional round (Junior 1)",
+     "problem_orig": "**In orbita intorno a una stella lontana**\n\nUn'astronave si muove attorno a una stella che ha massa uguale a 9 volte la massa del Sole, su un'orbita ellittica con semiasse maggiore di $1.346 \\cdot 10^{9}$ km ed eccentricità 0.702.\nCalcolate:\na) in quanti anni terrestri l'astronave compie un'orbita completa attorno alla stella;\nb) la distanza minima dalla stella raggiunta dall'astronave.",
+     "orig_lang": "it"
+    },
+    {
+     "day": 4,
+     "number": 5,
+     "problem": "**Flights and sunsets**\n\nAn aeroplane takes off near Bari (longitude $16^\\circ 51'$ east, latitude $41^\\circ 08'$ north) and, flying west, lands after 3 hours and 50 minutes near Porto, Portugal (longitude $08^\\circ 39'$ west, latitude $41^\\circ 08'$ north). The aeroplane takes off at sunset. On its arrival, how much time has elapsed since sunset at the destination?",
+     "paper_label": "Interregional round (Junior 1)",
+     "problem_orig": "**Voli e tramonti**\n\nUn aereo decolla vicino a Bari (longitudine $16^\\circ 51'$ est, latitudine $41^\\circ 08'$ nord) e, volando in direzione ovest, atterra dopo 3 ore e 50 minuti nei pressi di Oporto, in Portogallo (longitudine $08^\\circ 39'$ ovest, latitudine $41^\\circ 08'$ nord). L'aereo decolla al tramonto del Sole. Al suo arrivo quanto tempo è trascorso dal tramonto del Sole nella località di destinazione?",
+     "orig_lang": "it"
     }
    ]
   },
@@ -847,6 +1695,70 @@
      "problem": "**The planetary alignment**\n\nSuppose that at a given moment Jupiter, Saturn, Uranus and Neptune are exactly aligned in opposition with the Earth. Consider all the orbits coplanar and calculate the maximum total gravitational attraction that they would exert on the Earth, and then compare it with the minimum attraction that the Sun exerts on the Earth. Is there reason to fear that such an alignment could perturb the Earth's orbit?",
      "paper_label": "Interregional round (Master)",
      "problem_orig": "**L'allineamento planetario**\n\nSupponete che in un dato momento Giove, Saturno, Urano e Nettuno si trovino esattamente allineati in opposizione con la Terra. Considerate tutte le orbite complanari e calcolate l'attrazione gravitazionale massima complessiva che essi eserciterebbero sulla Terra e poi confrontatela con l'attrazione minima che il Sole esercita sulla Terra. C'è motivo di temere che tale allineamento possa perturbare l'orbita terrestre?",
+     "orig_lang": "it"
+    },
+    {
+     "day": 3,
+     "number": 1,
+     "problem": "**Nobel Prize in Physics**\n\nYou are in Stockholm ($\\varphi = +59^\\circ 21'$) to collect the Nobel Prize in Physics. Consider the following stars: Mizar ($\\alpha = 13^\\mathrm{h}\\,24^\\mathrm{m}$; $\\delta = +54^\\circ 55'$), Altair ($\\alpha = 19^\\mathrm{h}\\,51^\\mathrm{m}$; $\\delta = +8^\\circ 52'$) and $\\alpha$-Centauri ($\\alpha = 14^\\mathrm{h}\\,40^\\mathrm{m}$; $\\delta = -60^\\circ 50'$), and say which of them is circumpolar, which is anti-circumpolar and which rises and sets.",
+     "paper_label": "Interregional round (Junior 2)",
+     "problem_orig": "**Premio Nobel per la fisica**\n\nVi trovate a Stoccolma ($\\varphi = +59^\\circ 21'$) per ritirare il premio Nobel per la fisica. Considerate le seguenti stelle: Mizar ($\\alpha = 13^\\mathrm{h}\\,24^\\mathrm{m}$; $\\delta = +54^\\circ 55'$), Altair ($\\alpha = 19^\\mathrm{h}\\,51^\\mathrm{m}$; $\\delta = +8^\\circ 52'$) e $\\alpha$-Centauri ($\\alpha = 14^\\mathrm{h}\\,40^\\mathrm{m}$; $\\delta = -60^\\circ 50'$) e indicate quale di esse è circumpolare, quale è anti-circumpolare e quale è occidua.",
+     "orig_lang": "it"
+    },
+    {
+     "day": 3,
+     "number": 2,
+     "problem": "**Someone call Kepler!**\n\nCalculate the orbital periods, in Earth years, of the following dwarf planets:\n(a) Pluto, whose semi-major axis is $5.906\\cdot 10^{9}$ km;\n(b) Makemake, whose semi-major axis is $6.850\\cdot 10^{12}$ m;\n(c) Haumea, whose semi-major axis is 9.8 % larger than the semi-major axis of Pluto's orbit;\n(d) Ceres, whose semi-major axis is 2.765 AU.\n\nRound the result to the nearest integer.",
+     "paper_label": "Interregional round (Junior 2)",
+     "problem_orig": "**Qualcuno chiami Keplero!**\n\nCalcolate i periodi orbitali in anni terrestri dei seguenti pianeti nani:\na) Plutone, il cui semiasse maggiore dell'orbita è $5.906\\cdot 10^{9}$ km;\nb) Makemake, il cui semiasse maggiore dell'orbita è $6.850\\cdot 10^{12}$ m;\nc) Haumea, il cui semiasse maggiore dell'orbita è del 9.8 % più grande rispetto al semiasse maggiore dell'orbita di Plutone;\nd) Cerere il cui semiasse maggiore dell'orbita è 2.765 UA.\n\nArrotondate il risultato all'intero più prossimo.",
+     "orig_lang": "it"
+    },
+    {
+     "day": 3,
+     "number": 3,
+     "problem": "**The great gravitational attractor**\n\nA spaceship, which weighs 14710 N on Earth, is at a distance of 4 light-minutes from the centre of a large spherical gravitational attractor whose radius equals that of the Sun. Calculate the gravitational force of attraction between the spaceship and the attractor in the following two cases:\n(a) the mass of the gravitational attractor equals half the mass of the Sun;\n(b) the mass of the gravitational attractor equals the mass of Jupiter.",
+     "paper_label": "Interregional round (Junior 2)",
+     "problem_orig": "**Il grande attrattore gravitazionale**\n\nUn'astronave, che sulla Terra pesa 14710 N, si trova alla distanza di 4 minuti luce dal centro di un grande attrattore gravitazionale di forma sferica e raggio pari a quello del Sole. Calcolate la forza di attrazione gravitazionale tra l'astronave e l'attrattore, nei seguenti due casi:\na) la massa dell'attrattore gravitazionale è uguale alla metà della massa del Sole;\nb) la massa dell'attrattore gravitazionale è uguale alla massa di Giove.",
+     "orig_lang": "it"
+    },
+    {
+     "day": 4,
+     "number": 1,
+     "problem": "**Astroquiz**\n\nComplete the following sentences:\n(a) the orbits of the planets around the Sun have the shape of a(n) ___________ and the Sun occupies one of the two ___________ ;\n(b) the point of the orbit closest to the Sun is called ___________ ;\n(c) the planet of the Solar System whose orbit has the greatest eccentricity is ___________ ;\n(d) along their orbits the planets have minimum speed when they are at ___________ .",
+     "paper_label": "Interregional round (Junior 1)",
+     "problem_orig": "**Astroquiz**\n\nCompletate le seguenti frasi:\na) le orbite dei pianeti attorno al Sole hanno forma ___________ e il Sole occupa uno dei due ___________ :\nb) il punto dell'orbita più vicino al Sole è detto ___________ ;\nc) il pianeta del Sistema Solare con l'orbita con la maggiore eccentricità è ___________ ;\nd) lungo le loro orbite i pianeti hanno velocità minima quando si trovano al ___________ .",
+     "orig_lang": "it"
+    },
+    {
+     "day": 4,
+     "number": 2,
+     "problem": "**A miniature Solar System**\n\nSuppose the dimensions of the Solar System are reduced so that the diameter of the Earth becomes exactly 1 cm, and calculate the values of:\n(a) the radius of the Sun;\n(b) the semi-major axis of the orbit of Neptune.",
+     "paper_label": "Interregional round (Junior 1)",
+     "problem_orig": "**Un Sistema Solare in miniatura**\n\nSupponete di ridurre le dimensioni del Sistema Solare in modo tale che il diametro della Terra sia ridotto esattamente a 1 cm e calcolate quanto varrebbero:\na) il raggio del Sole;\nb) il semiasse maggiore dell'orbita di Nettuno.",
+     "orig_lang": "it"
+    },
+    {
+     "day": 4,
+     "number": 3,
+     "problem": "**BepiColombo**\n\nThe BepiColombo probe, a mission of the European Space Agency (ESA) and the Japan Aerospace Exploration Agency (JAXA), will orbit Mercury at a height of 200 km above the surface of the planet and will complete one full orbit in 95.1 minutes. What will its orbital speed be? Assume that the orbit of the probe is circular.",
+     "paper_label": "Interregional round (Junior 1)",
+     "problem_orig": "**Bepicolombo**\n\nLa sonda Bepicolombo, una missione dell'Agenzia Spaziale Europea (ESA) e dell'Agenzia Spaziale Giapponese (JAXA), orbiterà attorno a Mercurio a un'altezza di 200 km dalla superficie del pianeta e percorrerà un'orbita completa in 95.1 minuti. Quale sarà la sua velocità orbitale? Supponete che l'orbita della sonda sia circolare.",
+     "orig_lang": "it"
+    },
+    {
+     "day": 4,
+     "number": 4,
+     "problem": "**Nobel Prize in Physics**\n\nYou are in Stockholm (latitude $= +59^\\circ 21'$) to collect the Nobel Prize in Physics. Which of the following stars will be circumpolar for you: Arcturus ($\\alpha = 14^\\mathrm{h}\\,16^\\mathrm{m}$; $\\delta = +19^\\circ 11'$), Vega ($\\alpha = 18^\\mathrm{h}\\,37^\\mathrm{m}$; $\\delta = +38^\\circ 47'$) or Canopus ($\\alpha = 16^\\mathrm{h}\\,29^\\mathrm{m}$; $\\delta = -52^\\circ 42'$)?",
+     "paper_label": "Interregional round (Junior 1)",
+     "problem_orig": "**Premio Nobel per la fisica**\n\nVi trovate a Stoccolma (latitudine $= +59^\\circ 21'$) per ritirare il premio Nobel per la fisica. Quale delle seguenti stelle sarà per voi circumpolare: Arturo ($\\alpha = 14^\\mathrm{h}\\,16^\\mathrm{m}$; $\\delta = +19^\\circ 11'$), Vega ($\\alpha = 18^\\mathrm{h}\\,37^\\mathrm{m}$; $\\delta = +38^\\circ 47'$) o Canopo ($\\alpha = 16^\\mathrm{h}\\,29^\\mathrm{m}$; $\\delta = -52^\\circ 42'$)?",
+     "orig_lang": "it"
+    },
+    {
+     "day": 4,
+     "number": 5,
+     "problem": "**The satellite moves away**\n\nA satellite, which weighs 25000 N on the surface of the Earth, is placed in a circular orbit around the Earth at a height of 350.0 km above the surface. Calculate by what percentage the gravitational force of attraction of the Earth would decrease if the satellite were placed in a circular orbit at a height of 35000 km.",
+     "paper_label": "Interregional round (Junior 1)",
+     "problem_orig": "**Il satellite si allontana**\n\nUn satellite, che sulla superficie della Terra pesa 25000 N, viene posto in orbita circolare attorno alla Terra a un'altezza di 350.0 km dalla superficie. Calcolate di quanto diminuirebbe, in percentuale, la forza di attrazione terrestre se il satellite fosse posto in orbita circolare a 35000 km di altezza.",
      "orig_lang": "it"
     }
    ]
