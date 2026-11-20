@@ -2701,7 +2701,7 @@ function showUpdated() {
 /* ---------- Share one problem ----------
    Links go through the share worker (workers/share): its page carries the problem's title and statement
    for link previews and sends people on to ?p=<uid>. */
-const SHARE_URL = 'https://hipparchus.sokkorom.workers.dev/p/';
+const SHARE_URL = 'https://hipparchus.eisatopon.gr/p/';
 function problemLabel(p) {
     const c = CBY[p.country];
     return `${c.flag} ${c.merge ? CBY[c.merge].name : c.name} ${p.year}${c.merge ? `, ${c.grade}` : ''}${p.paperLabel ? `${c.merge ? ' ·' : ','} ${p.paperLabel}` : p.day ? `${c.merge ? ' ·' : ','} Day ${p.day}` : ''} – Problem ${p.num}`;
