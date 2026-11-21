@@ -1,0 +1,1847 @@
+{
+ "competition": "Sri Lankan Olympiad on Astronomy and Astrophysics (SLAAO), Institute of Physics, Sri Lanka",
+ "years": [
+  {
+   "year": 2007,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "Solar atmosphere can be divided into three major parts based on temperature. They are photosphere, chromosphere and corona. The most suitable answer for the average temperature of the corona is\n\n(a) $6000\\ \\mathrm{K}$\n(b) $10000\\ \\mathrm{K}$\n(c) above $100000\\ \\mathrm{K}$\n(d) $3500\\ \\mathrm{K}$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "The sidereal day is 3 minutes and 56 seconds less than a solar day. This time difference is due to\n\n(a) Earth's rotation\n(b) Sun's rotation\n(c) Sun's motion around the galactic center\n(d) Earth's revolution around the Sun",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "The Polaris will not always be the North star due to\n\n(a) The sidereal day being shorter than the solar day\n(b) Due to the precession of the Earth's axis.\n(c) The Earth's period being slightly longer than 365 days.\n(d) The Solar wind blowing the Earth away from the sun.",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "An observer standing $30^\\circ$ north from equator observes a star at zenith (right above the head). If the observer moves along the same longitude, $90^\\circ$ to the south from where he is, what could be the new altitude of the star?\n\n(a) $0^\\circ$\n(b) $30^\\circ$\n(c) $60^\\circ$\n(d) $90^\\circ$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "Red shift of the spectral lines show the distance galaxies are moving away from us. The receding speed is given by $V = \\left(\\dfrac{\\Delta\\lambda}{\\lambda}\\right)C$. A spectrum of certain galaxy is observed in the H$\\alpha$ region and found wavelength of H$\\alpha$ absorption line is $6564.64\\ \\mathring{A}$. If the laboratory wavelength ($\\lambda$) of H$\\alpha$ is $6563\\ \\mathring{A}$ and the speed of light ($C$) is $300{,}000\\ \\mathrm{km\\,s^{-1}}$ find the receding speed of the galaxy.\n\n(a) $35\\ \\mathrm{km\\,s^{-1}}$\n(b) $50\\ \\mathrm{km\\,s^{-1}}$\n(c) $65\\ \\mathrm{km\\,s^{-1}}$\n(d) $75\\ \\mathrm{km\\,s^{-1}}$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "problem": "The different bands of electromagnetic radiation consist of little packets of energy, called photons traveling through space. The amount of energy this packet possess is directly proportionate to their frequency. Find energy of such electromagnetic wave which has the wavelength of $5000\\ \\mathring{A}$ ($5\\times10^{-7}\\ \\mathrm{m}$). The speed of light $3\\times10^{8}\\ \\mathrm{m\\,s^{-1}}$ and Plank constant $6.625\\times10^{-34}\\ \\mathrm{J\\,s}$.\n\n(a) $39.75\\times10^{38}\\ \\mathrm{J}$\n(b) $39.75\\times10^{-20}\\ \\mathrm{J}$\n(c) $39.75\\times10^{-20}\\ \\mathrm{J\\,s}$\n(d) $30.34\\times10^{30}\\ \\mathrm{J\\,s}$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 7,
+     "problem": "The hydrogen in interstellar medium is generally quite cold (if it is not in the vicinity of warm stars) and found in its atomic or neutral ground state. Such clouds are called HI regions. Cold interstellar hydrogen emits radiation in radio region at the wavelength of\n\n(a) $26\\ \\mathrm{cm}$\n(b) $21\\ \\mathrm{cm}$\n(c) $5910\\ \\mathrm{A}^{0}$\n(d) $1000\\ \\mathrm{nm}$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 8,
+     "problem": "The term \"Hot Jupiters\" is a commonly used word among the planetary scientists in the world. This explains\n\n(a) The Jupiter formed much closed to the Sun few billions years ago.\n(b) Volcanic eruptions heat up the Jupiter's surface.\n(c) Discovered some Jupiter size extra-solar planets are closer to the parent star than the distance between the Sun and Jupiter.\n(d) The Jupiter becomes a star in the future.",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 9,
+     "problem": "Stars are born, evolve and die. The primary mass of the star decides the way it destroys. A star which is comparable to the Sun's mass destroys as\n\n(a) Supernovae\n(b) Novae\n(c) Planetary nebulae\n(d) X-ray burst",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 10,
+     "problem": "A, B, and C are three stars with temperatures of $6000\\ \\mathrm{K}$, $24000\\ \\mathrm{K}$, and $3500\\ \\mathrm{K}$, respectively. What is the possible colour sequence of those stars A, B and C, respectively.\n\n(a) Yellowish, Bluish, Reddish\n(b) Reddish, Bluish, Yellowish\n(c) Bluish, Yellowish, Reddish\n(d) Yellowish, Reddish, Bluish",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 11,
+     "problem": "The brightest star of the Scorpion constellation is\n\n(a) Sirius\n(b) Regulus\n(c) Antares\n(d) Polaris",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 12,
+     "problem": "There a two stars A and B with apparent magnitudes 1 and 3, respectively. The correct expression about their apparent brightness is\n\n(a) Star A is 6 times brighter than the star B.\n(b) Star A is 6 times fainter than the star B.\n(c) Star A is 6.310 times brighter than the star B.\n(d) Star A is 2.512 times brighter than the star B.",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 13,
+     "problem": "The weight of a man on Earth's surface is $60\\ \\mathrm{kg}$. If he goes to the planet Mars, his weight at the Martian surface would be\n\n(a) $20\\ \\mathrm{kg}$\n(b) $10\\ \\mathrm{kg}$\n(c) $60\\ \\mathrm{kg}$\n(d) $120\\ \\mathrm{kg}$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 14,
+     "problem": "The escape velocity ($V$) of an object (at its surface) depends on its mass ($M$) and radius ($R$), and is given by $V = \\sqrt{2GM/R}$. (Here, universal gravitational constant $G = 6.67\\times10^{-11}\\ \\mathrm{m^{3}\\,kg^{-1}\\,s^{-2}}$). Suppose a star with a escape velocity of $1800\\ \\mathrm{km\\,s^{-1}}$ subsequently becomes a neutron star having a radius $10^{5}$ times smaller than the original star, the escape velocity of the neutron star would be\n\n(a) $200{,}000\\ \\mathrm{km\\,s^{-1}}$\n(b) $180{,}000\\ \\mathrm{km\\,s^{-1}}$\n(c) $180{,}000\\ \\mathrm{m\\,s^{-1}}$\n(d) $569210\\ \\mathrm{km\\,s^{-1}}$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 15,
+     "problem": "An observer who is on the $15^\\circ$ northern latitude observed a star in the Ursa Minor constellation at 9.00 p.m. local time. The star has $25^\\circ$ angular separations with bottom star of the pointer stars of the Ursa Major constellation. What would be the altitude of the observed star after a time lapse of 3 hours.\n\n(a) $37.5^\\circ$\n(b) $12^\\circ$\n(c) $25^\\circ$\n(d) $15^\\circ$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 16,
+     "problem": "A comet orbiting around the Sun has a perihelion distance of $2.0\\ \\mathrm{A.U.}$ and an aphelion distance of $6.0\\ \\mathrm{A.U.}$ Eccentricity ($e$) of its elliptical orbit is\n\n(a) $0.4$\n(b) $0.5$\n(c) $0.7$\n(d) $1.0$.",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 17,
+     "problem": "Using the Kepler's third law compute the period of an asteroid orbiting around the Sun having a semi-major axis of $4.0\\ \\mathrm{AU}$ (astronomical Units). The answer in Earth years is\n\n(a) $3$\n(b) $4$\n(c) $8$\n(d) $76$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 18,
+     "problem": "If the orbital speed of earth as $30\\ \\mathrm{km/s}$ and distance between the Earth and the Sun as $1.5\\times10^{11}\\ \\mathrm{m}$, the mass of the Sun would be (Useful information: Universal gravitational constant $G = 6.67\\times10^{-11}\\ \\mathrm{m^{3}\\,kg^{-1}\\,s^{-2}}$).\n\n(a) $1.9\\times10^{30}\\ \\mathrm{kg}$\n(b) $2.0\\times10^{30}\\ \\mathrm{kg}$\n(c) $2.1\\times10^{30}\\ \\mathrm{kg}$\n(d) Non of the above answers are correct.",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 19,
+     "problem": "If the focal length of the objective of a telescope is $1\\ \\mathrm{m}$ and the focal length of its eye piece is $10\\ \\mathrm{mm}$, the magnification of the telescope is\n\n(a) $10$\n(b) $100$\n(c) $200$\n(d) $1000$.",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 20,
+     "problem": "A star gives a parallax of $0.29''$ when observed from the earth with a time gap of 6 months. The distance to that star in light years is\n\n(a) $3.26$\n(b) $5.62$\n(c) $11.24$\n(d) $22.48$.",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 2,
+     "number": 21,
+     "problem": "Describe the Titius Bode law and estimate the distance to planet Saturn from the Sun in Astronomical Units (AU).",
+     "paper_label": "Part B"
+    },
+    {
+     "day": 2,
+     "number": 22,
+     "problem": "Draw a sketch of the celestial sphere and label (i) ecliptic, (ii) celestial equator, (iii) Vernal and Autumnal equinoxes. On the same diagram or a separate diagram indicate the equatorial coordinate system: Right Ascension and Declination.",
+     "paper_label": "Part B"
+    },
+    {
+     "day": 2,
+     "number": 23,
+     "problem": "Draw the H-R diagram and indicate the regions where you could find main sequence stars, red giants, blue giants, white dwarfs and red dwarfs.",
+     "paper_label": "Part B"
+    },
+    {
+     "day": 2,
+     "number": 24,
+     "problem": "Draw a sketch of Saturn and label the main belts and zones of the Saturnian southern hemisphere, its ring system and divisions.",
+     "paper_label": "Part B"
+    }
+   ]
+  },
+  {
+   "year": 2008,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "For a star, the trigonometric parallax was measured to be $0.04$ arc seconds. What is the distance to the star in parsec?\n\nUseful information given with the paper:\n- Speed of light $c = 3\\times10^{5}\\ \\mathrm{km/s}$\n- Universal gravitational constant $G = 6.67\\times10^{-11}\\ \\mathrm{m^{3}\\,kg^{-1}\\,s^{-2}}$\n\n(a) $20\\ \\mathrm{pc}$\n(b) $25\\ \\mathrm{pc}$\n(c) $30\\ \\mathrm{pc}$\n(d) $35\\ \\mathrm{pc}$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "If the semi-major axes of the orbits of Mercury and Jupiter are $0.387$ and $5.203$ astronomical units, respectively and Jupiter's orbital period is $11.862$ years, the orbital period of Mercury in years would be\n\n(a) $2.106$\n(b) $0.937$\n(c) $0.402$\n(d) $0.241$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "If the maximum elongation of Venus from the sun is $46^\\circ$, the Sun -- Venus distance in astronomical units would be (the distance between the Sun and the Earth is 1 AU)\n\n(a) $0.71$\n(b) $0.72$\n(c) $0.73$\n(d) $0.93$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "Using the value for Hubble's constant $H_0$ as $70\\ \\mathrm{km/s/Mpc}$, the age of the universe can be computed approximately as (in billion years)\n\n(a) $12.1$\n(b) $13.6$\n(c) $14.0$\n(d) $15.0$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "The four spectra shown in the figures are taken in the same wavelength range from four stars which have different type of spectral classes. According to the maximum relative flux and the line absorptions in the given wavelength range, identify the spectral classes of the four spectra.\n\n(a) 1- O type, 2- A type, 3- M type, 4- G type\n(b) 1- A type, 2- O type, 3- M type, 4- G type\n(c) 1- G type, 2- O type, 3- A type, 4- M type\n(d) 1- M type, 2- A type, 3- O type, 4- G type\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/lk-2008-q5-1.png",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "problem": "The reason that we see the same side of the moon always is\n\n(a) 5 degrees angle between the planes of the moon and earth.\n(b) Moon does not rotate at all .\n(c) Moon's rotational speed is equal to the moon's speed of revolution.\n(d) Tidal effect of the moon on the earth.",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 7,
+     "problem": "The solar spectrum observes in ground based telescope is an absorption spectrum. The spectrum of any black body is usually an emission spectrum. The reason/s for the solar spectrum becomes an absorption is\n\n(a) The gases around the solar atmosphere\n(b) The Earth's atmosphere\n(c) The convection current in the solar convection zone\n(d) Both (a) and (b)",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 8,
+     "problem": "When measured in a laboratory on Earth, ionized Ca is found to have a wavelength of $393.3\\ \\mathrm{nm}$. When you observe the spectrum of a galaxy you find this spectral line at $401.8\\ \\mathrm{nm}$. What is the approximate distance of the galaxy? (Useful information: $H_0 = 70\\ \\mathrm{km/s/Mpc}$, use low speed relationship between recessional speed ($v$) and red shift ($z$) )\n\n(a) $93\\ \\mathrm{Mpc}$\n(b) $60\\ \\mathrm{Mpc}$\n(c) $120\\ \\mathrm{Mpc}$\n(d) $205\\ \\mathrm{Kpc}$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 9,
+     "problem": "Jupiter has a magnitude of about $-4$. Roughly, how many times brighter is the Jupiter than the dimmest stars visible to the naked eye, with magnitude of $+6$ ?\n\n(a) $100$\n(b) $1000$\n(c) $10000$\n(d) $10^{5}$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 10,
+     "problem": "A RR Lyrae variable in a galaxy periodically doubles its light out put. By how much does its apparent magnitude change?\n\n(a) $0.50$\n(b) $0.75$\n(c) $4.00$\n(d) Does not change",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 11,
+     "problem": "The stars are observed through various filters. The following table shows 4 stars and their magnitudes observed through B and V filters. Of those four stars which one will evolve first?\n\n$$\\begin{array}{c|c|c} \\text{Star} & B & V \\\\ \\hline E & 0.56 & 0.34 \\\\ F & 0.78 & 0.58 \\\\ G & 0.29 & 0.89 \\\\ H & 0.45 & 0.54 \\end{array}$$\n\n(a) E\n(b) F\n(c) G\n(d) H",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 12,
+     "problem": "If the focal length of the objective of a telescope is $1\\ \\mathrm{m}$ and the focal length of its eye piece is $20\\ \\mathrm{mm}$, the magnification of the telescope is\n\n(a) $10$\n(b) $50$\n(c) $100$\n(d) $200$.",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 13,
+     "problem": "One night during a full Moon, the Moon subtends an angle of $0.49$ degree to an observer. The observer's distance to the Moon on that night is (the diameter of the moon is $3476\\ \\mathrm{km}$)\n\n(a) $432{,}947\\ \\mathrm{km}$\n(b) $203{,}223\\ \\mathrm{km}$\n(c) $406{,}446\\ \\mathrm{km}$\n(d) $384{,}400\\ \\mathrm{km}$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 14,
+     "problem": "A Sun-orbiting periodic comet is the farthest at $31$ A.U. and the closest at $1$ A.U. The orbital period of this comet (in earth years) is\n\n(a) $8$\n(b) $16$\n(c) $64$\n(d) $76$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 15,
+     "problem": "At what wavelength does a star with the surface temperature of $5000\\ \\mathrm{K}$ radiate most intensely. (Consider the star as a blackbody and use the Wien's law, Wien constant $= 2.898\\times10^{-3}\\ \\mathrm{m\\,K}$)\n\n(a) $0.58\\ \\mu\\mathrm{m}$\n(b) $0.75\\ \\mu\\mathrm{m}$\n(c) $0.49\\ \\mu\\mathrm{m}$\n(d) $0.63\\ \\mu\\mathrm{m}$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 16,
+     "problem": "A crater on the surface of the Moon has a diameter of $80\\ \\mathrm{km}$. Is it possible to resolve this crater with naked eyes, assuming the eye pupil aperture is $5\\ \\mathrm{mm}$ ?\n\n(a) Yes\n(b) No\n(c) Depend on country of observation\n(d) Data provided is insufficient to answer",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 17,
+     "problem": "The weight of a man on Earth's surface is $60\\ \\mathrm{kg}$. If he goes to the moon, his weight at the lunar surface would be\n\n(a) $10\\ \\mathrm{kg}$\n(b) $20\\ \\mathrm{kg}$\n(c) $60\\ \\mathrm{kg}$\n(d) $120\\ \\mathrm{kg}$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 18,
+     "problem": "If the mass of the Sun is $1.9891\\times10^{30}\\ \\mathrm{kg}$, and the distance between the Earth and the Sun is $1.5\\times10^{11}\\ \\mathrm{m}$, the orbital velocity of the earth would be (assume a circular orbit)\n\n(a) $28\\ \\mathrm{km/s}$\n(b) $30\\ \\mathrm{km/s}$\n(c) $32\\ \\mathrm{km/s}$\n(d) None of the above answers are correct.",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 19,
+     "problem": "The luminosity of the Sun is $3.9\\times10^{26}\\ \\mathrm{J/s}$ and Sun contains roughly $10^{57}$ atoms. The reactions in the Sun involved in burning release roughly $10^{-19}\\ \\mathrm{J/atom}$. What is the length of time required to consume the entire Sun by burning?\n\n(a) 3.9 trillion years.\n(b) $2.6\\times10^{12}$ years.\n(c) $3.9\\times10^{11}$ seconds\n(d) $0.26\\times10^{12}$ seconds",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 20,
+     "problem": "If the Sun is at a distance ($d$) of $8500\\ \\mathrm{pc}$ from the centre of the Milky Way Galaxy and the Sun's orbital speed ($v$) is $220\\ \\mathrm{km/s}$, using the equation for period $P = 2\\pi d/v$, calculate the orbital period of the sun about the centre of the Galaxy. The answer is (in million years)\n\n(a) $225$\n(b) $230$\n(c) $400$\n(d) $850$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 2,
+     "number": 21,
+     "problem": "Based on the International Astronomical Union resolution passed on 24th August 2006 give the definitions of (a) a planet, (b) a dwarf planet, and (c) Small Solar-System Bodies.",
+     "paper_label": "Part B"
+    },
+    {
+     "day": 2,
+     "number": 22,
+     "problem": "A CCD (Charge Coupled Device) camera with pixel dimensions $9\\times10^{-6}\\ \\mathrm{m}$ is attached to the Cassegrain focus of the $45\\ \\mathrm{cm}$, $f/12$ telescope. Find the angle subtended by a pixel in the sky in units of arcseconds.",
+     "paper_label": "Part B"
+    },
+    {
+     "day": 2,
+     "number": 23,
+     "problem": "Our sun in the Main Sequence (MS) burns $10\\%$ of its total mass in the core. In the nuclear fusion reaction $0.7\\%$ of mass is converted in to energy. The total energy output of the Sun in one second is $L = 3.845\\times10^{26}\\ \\mathrm{J}$. The mass of the Sun $M = 1.9891\\times10^{30}\\ \\mathrm{kg}$.\n\nUsing the Einstein's famous equation for energy and mass, $E = mc^{2}$ find the life time of the Sun in the main sequence in billions of years.",
+     "paper_label": "Part B"
+    },
+    {
+     "day": 2,
+     "number": 24,
+     "problem": "Draw the Hertzsprung-Russel (H-R) diagram and indicate the track of a sun like star on the same diagram during its evolutionary history, i.e. birth from an interstellar cloud of gas and dust to its final demise.",
+     "paper_label": "Part B"
+    },
+    {
+     "day": 2,
+     "number": 25,
+     "problem": "The intensity ($I$) of a star is inversely proportional to the square of the distance ($d^{2}$) of the star.\n\n$$I \\propto \\frac{1}{d^{2}}$$\n\nThe magnitudes which the stars would have if they were at distance of 10 parsec are called the absolute magnitudes ($M$). The absolute visual magnitude ($M_V$), apparent visual magnitude ($m_v$) and the intensity ($I$) are related as follows.\n\n$$M_V - m_v = -2.5\\left[\\log I(10\\ \\mathrm{pc}) - \\log I(d)\\right]$$\n\n(a) Using above two relations show that\n\n$$M_V = m_v - 5\\log d + 5$$\n\n(b) For a star with $m_v = 3.0$, the distance ($d$) was measured to be $63\\ \\mathrm{pc}$. Find the absolute magnitude ($M_V$) of the star.",
+     "paper_label": "Part B"
+    }
+   ]
+  },
+  {
+   "year": 2009,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "At what wavelength does a star with the surface temperature of $3000\\ \\mathrm{K}$ radiate most intensely. (Consider the star as a blackbody and use the Wien's law, Wien constant $= 2.898\\times10^{-3}\\ \\mathrm{m\\,K}$).\n\nUseful information given with the paper:\n- Speed of light $c = 3\\times10^{5}\\ \\mathrm{km/s}$\n- Universal gravitational constant $G = 6.67\\times10^{-11}\\ \\mathrm{m^{3}\\,kg^{-1}\\,s^{-2}}$\n\n(a) $0.58\\ \\mu\\mathrm{m}$\n(b) $0.75\\ \\mu\\mathrm{m}$\n(c) $0.49\\ \\mu\\mathrm{m}$\n(d) $0.29\\ \\mu\\mathrm{m}$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "For a star, the trigonometric parallax was measured to be $0.05$ arc seconds. What is the distance to the star in parsec?\n\n(a) $20\\ \\mathrm{pc}$\n(b) $25\\ \\mathrm{pc}$\n(c) $30\\ \\mathrm{pc}$\n(d) $35\\ \\mathrm{pc}$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "The objective of the Arthur C Clarke Institute telescope has a diameter $45\\ \\mathrm{cm}$. At what distance would two small green ($\\lambda = 5.4\\times10^{-4}\\ \\mathrm{cm}$) objects $30\\ \\mathrm{cm}$, apart be barely resolved by the telescope, assuming the minimum angle of resolution for the telescope is given by\n\n$$\\theta = 1.22\\left(\\frac{\\lambda}{D}\\right)$$\n\n(a) $20.6\\ \\mathrm{km}$\n(b) $17.3\\ \\mathrm{km}$\n(c) $24.8\\ \\mathrm{km}$\n(d) $22.4\\ \\mathrm{km}$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "A crater on the surface of the Moon has a diameter of $80\\ \\mathrm{km}$. Is it possible to resolve this crater with naked eyes, assuming the eye pupil aperture is $5\\ \\mathrm{mm}$ ?\n\n(a) Yes\n(b) No\n(c) Depend on country of observation\n(d) Data provided is insufficient to answer",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "If the focal length of the objective of a telescope is $1\\ \\mathrm{m}$ and the focal length of its eye piece is $20\\ \\mathrm{mm}$, the magnification of the telescope is\n\n(a) $10$\n(b) $50$\n(c) $100$\n(d) $200$.",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "problem": "A K star on the main sequence has the luminosity of $0.4L_\\odot$. This star is observed to have a flux of $6.23\\times10^{-34}\\ \\mathrm{W\\,m^{-2}}$. What is the distance to this star? You may neglect the atmospheric effects.(Luminosity of the Sun $L_\\odot = 3.96\\times10^{26}\\ \\mathrm{J\\,s^{-1}}$).\n\n(a) $23\\ \\mathrm{pc}$\n(b) $125\\ \\mathrm{pc}$\n(c) $310\\ \\mathrm{pc}$\n(d) $453\\ \\mathrm{pc}$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 7,
+     "problem": "The magnitude of the faintest star you can see with your naked eyes in a very clear night sky is $m = 6$ and that of the brightest star is $m = -1.5$. What is the energy flux ratio of the faintest to that of the brightest?\n\n(a) $4$\n(b) $0.4$\n(c) $10^{-3}$\n(d) $10^{-4}$ .",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 8,
+     "problem": "In the Earth-Moon system, it is found that moon is $384000\\ \\mathrm{km}$ away from the earth and the length of the lunar month (sidereal) is $27.3$ days. Find the mass of the Earth.\n\n(a) $1.5\\times10^{6}\\ \\mathrm{kg}$\n(b) $3\\times10^{19}\\ \\mathrm{kg}$\n(c) $6\\times10^{24}\\ \\mathrm{kg}$\n(d) $9\\times10^{31}\\ \\mathrm{kg}$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 9,
+     "problem": "An astronomer photographs the spectrum of an object and finds a spectral line at $499\\ \\mathrm{nm}$ wavelength. In the laboratory, this spectral line occurs at $500\\ \\mathrm{nm}$. According to the Doppler effect, this object is moving\n\n(a) away from the Earth at $499/500$ the speed of light.\n(b) away from the Earth at $1/500$ the speed of light.\n(c) toward the Earth at $499/500$ the speed of light.\n(d) toward the Earth at $1/500$ the speed of light.",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 10,
+     "problem": "The luminosity of the Sun is $L_\\odot = 3.96\\times10^{26}\\ \\mathrm{J\\,s^{-1}}$. If the radius of the sun is $R_\\odot = 7\\times10^{8}\\ \\mathrm{m}$ what could be the effective temperature of the Sun $T_e$?\n\n(a) $6000\\ \\mathrm{K}$\n(b) $5600\\ \\mathrm{K}$\n(c) $6100\\ \\mathrm{K}$\n(d) $5800\\ \\mathrm{K}$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 11,
+     "problem": "The giant galaxy M87 is observed to be 3 times farther away than the spiral galaxy M51. With respect to the Milky Way, what would be the velocity of the M87 galaxy as that of the M51 galaxy.\n\n(a) 3 times smaller,\n(b) 3 times bigger,\n(c) 9 times smaller\n(d) 9 times bigger",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 12,
+     "problem": "The weight of a man on Earth's surface is $60\\ \\mathrm{kg}$. If he goes to the Mars, his weight at the Martian surface would be\n\n(a) $10\\ \\mathrm{kg}$\n(b) $20\\ \\mathrm{kg}$\n(c) $60\\ \\mathrm{kg}$\n(d) $120\\ \\mathrm{kg}$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 13,
+     "problem": "In comparison with the Sun, stars located in the galactic halo are expected to have\n\n(a) low metal abundances.\n(b) metal abundances similar to those in the Sun.\n(c) metal abundances higher than those in the Sun.\n(d) none of the above.",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 14,
+     "problem": "A Sun-orbiting periodic comet is the farthest at $31.5$ A.U. and the closest at $0.5$ A.U. The orbital period of this comet (in earth years) is\n\n(a) $8$\n(b) $16$\n(c) $64$\n(d) $76$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 15,
+     "problem": "Red shift $Z$, of a distant Quasar is equal to 2. By what factor the density of the Universe changed compared to the time when Quasar emits light?\n\n(a) 8 times smaller,\n(b) 8 times larger,\n(c) 27 times smaller,\n(d) 64 times smaller",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 16,
+     "problem": "A certain star \"X\" has the coordinates ($+45^\\circ$ dec : 8 RA). On Sept 22 (Autumnal equinox) at what time does this star rise and in what direction?\n\n(a) at 12:00pm local time in North East\n(b) at 8.00pm local time in North West.\n(c) at 2:00pm local time in North East\n(d) at 2:00am local time in North East",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 17,
+     "problem": "Radio observations at a wavelength of $21\\ \\mathrm{cm}$ are useful probes of the galaxy because\n\n(a) they locate molecular hydrogen.\n(b) they find hot, ionized hydrogen clouds in the spiral arms.\n(c) they map neutral hydrogen in the spiral arms.\n(d) they can detect dark matter.",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 18,
+     "problem": "Which type of galaxy is dominated by Population II stars and contains little or no gas or dust?\n\n(a) elliptical,\n(b) spiral,\n(c) barred spiral,\n(d) irregular",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 19,
+     "problem": "The apparent magnitude measured over all wavelengths is called\n\n(1) Absolute magnitude\n(2) Bolometric apparent magnitude\n(3) Colour magnitude\n(4) Bolometric absolute magnitude",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 20,
+     "problem": "Which part of the H-R diagram that the T- Tauri stars are located\n\n(1) Red giant branch\n(2) Supergiant branch\n(3) Pre-main sequence branch\n(4) AGB branch",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 2,
+     "number": 21,
+     "problem": "Below is a picture on a $35\\ \\mathrm{mm}$ film of annular eclipse in North Sumatra on August 22, 1998, taken with a telescope having effective diameter $10\\ \\mathrm{cm}$ and f-ratio 15. The diameter of the Sun's disk in original picture on the film is $13.817\\ \\mathrm{mm}$ and the diameter of the Moon's disk is $13.235\\ \\mathrm{mm}$. Estimate the distances of the Sun and the Moon (expressed in km) from the Earth and the percentage of the solar disk covered by the Moon during the annular eclipse. (Diameter of the Sun $= 1\\,392\\,000\\ \\mathrm{km}$, Daimeter of the Moon $= 3476\\ \\mathrm{km}$.)\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/lk-2009-q21-1.png",
+     "paper_label": "Part B"
+    },
+    {
+     "day": 2,
+     "number": 22,
+     "problem": "Sketch the optical parts of a slit spectrograph and label them. Discuss briefly its main drawbacks.",
+     "paper_label": "Part B"
+    },
+    {
+     "day": 2,
+     "number": 23,
+     "problem": "Radio wavelength observations of gas cloud swirling around a black hole in the center of our galaxy show that radiation from the hydrogen spin-flip transition (rest frequency $= 1420.41\\ \\mathrm{MHz}$) is detected at a frequency of $1421.23\\ \\mathrm{MHz}$. If this gas cloud is located at a distance of $0.2\\ \\mathrm{pc}$ from the black hole and is orbiting in a circle, determine the speed of this cloud and whether it's moving toward or away from us and calculate the mass of the black hole.",
+     "paper_label": "Part B"
+    },
+    {
+     "day": 2,
+     "number": 24,
+     "problem": "Draw the Hertzsprung-Russel (H-R) diagram and indicate the regions where you could find main sequence stars, red giants, blue giants, white dwarfs and red dwarfs. Indicate the track of a sun like star on the same diagram during its evolutionary history, i.e. birth from an interstellar cloud of gas and dust to its final demise.",
+     "paper_label": "Part B"
+    },
+    {
+     "day": 2,
+     "number": 25,
+     "problem": "Two persons, on the equator of the Earth separated by $180^\\circ$ in longitude, observe the Moon's position with respect to the background star field at the same time. If the declination of the Moon is zero, sketch the situation and calculate the difference in apparent right ascension seen by those two persons.",
+     "paper_label": "Part B"
+    }
+   ]
+  },
+  {
+   "year": 2011,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "What is the approximate range of temperatures on the lunar surface?\n\nUseful information given with the paper:\n- Speed of light $c = 3\\times10^{5}\\ \\mathrm{km/s}$\n- Universal gravitational constant $G = 6.67\\times10^{-11}\\ \\mathrm{m^{3}\\,kg^{-1}\\,s^{-2}}$\n\n(a) $-150\\ ^\\circ\\mathrm{C}$ to $0\\ ^\\circ\\mathrm{C}$\n(b) $0\\ ^\\circ\\mathrm{C}$ to $100\\ ^\\circ\\mathrm{C}$\n(c) $-150\\ ^\\circ\\mathrm{C}$ to $120\\ ^\\circ\\mathrm{C}$\n(d) $0\\ ^\\circ\\mathrm{C}$ to $120\\ ^\\circ\\mathrm{C}$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "From Kepler's third law, an asteroid with an orbital period of 8 years lies at an average distance from the Sun equal to\n\n(a) 4 astronomical units.\n(b) 8 astronomical units.\n(c) 16 astronomical units.\n(d) 2 astronomical units.",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "The lunar cycle of phases and the Moon's orbital period around the Earth differ slightly. Which line in the table is correct?\n\n$$\\begin{array}{c|c|c} & \\text{orbital period / day} & \\text{lunar cycle / day} \\\\ \\hline \\text{a)} & 27.3 & 28.0 \\\\ \\text{b)} & 27.3 & 29.5 \\\\ \\text{c)} & 28.0 & 29.5 \\\\ \\text{d)} & 29.5 & 27.3 \\end{array}$$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "The mean mass density for a super massive black hole with total mass of $1\\times10^{8}\\ M_\\odot$ inside the Schwarzschild radius would be (here $M_\\odot = 1.99\\times10^{30}\\ \\mathrm{kg}$).\n\n(a) $1.85\\times10^{3}\\ \\mathrm{kg}$\n(b) $1.99\\times10^{30}\\ \\mathrm{kg}$\n(c) $3.00\\times10^{8}\\ \\mathrm{kg}$\n(d) $6.67\\times10^{5}\\ \\mathrm{kg}$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "A student sees a thin, crescent Moon. At what time of day, and whereabouts in the sky, would this be visible?\n\n(a) due south at midnight\n(b) in the east at dawn\n(c) in the north near Polaris\n(d) in the west at sunset",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "problem": "Which of the following statements does not use the term angular size or angular distance correctly?\n\n(a) The angular distance between those two bright stars in the sky is about 2 meters.\n(b) The angular size of the Moon is about 1/2 degree.\n(c) The angular distance between those two houses in the distance is $30^\\circ$.\n(d) You can use your outstretched hand to estimate angular sizes and angular distances.",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 7,
+     "problem": "The radial velocity curve for binary system is shown in the figure. The radial velocities are plotted with the corresponding phases of the bunary system. Which statement is true about the properties of radial velocities ($V_A$, $V_B$), orbital periods ($T_A$, $T_B$) and the masses ($M_A$, $M_B$) of the binary system.\n\n(a) $V_A > V_B,\\quad T_A > T_B,\\quad M_A > M_B$\n(b) $V_A < V_B,\\quad T_A = T_B,\\quad M_A > M_B$\n(c) $V_A < V_B,\\quad T_A < T_B,\\quad M_A < M_B$\n(d) $V_A > V_B,\\quad T_A = T_B,\\quad M_A < M_B$\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/lk-2011-q7-1.png",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 8,
+     "problem": "What part of a comet points most directly away from the Sun?\n\n(a) the jets of gas\n(b) the nucleus\n(c) the dust tail\n(d) the plasma tail",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 9,
+     "problem": "There are no aurora on Venus because it\n\n(a) lacks atmospheric oxygen.\n(b) lacks a strong magnetic field.\n(c) lacks an ionosphere.\n(d) is too hot.",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 10,
+     "problem": "Which one of the following moon features is named Copernicus? Is it a:\n\n(a) sea\n(b) crater\n(c) mountain range\n(d) rill",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 11,
+     "problem": "Of the following four times, which one best represents the time it takes energy generated in the core of the sun to reach the surface of the sun and be radiated?\n\n(a) Three minutes\n(b) Thirty days\n(c) One thousand years\n(d) One million years",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 12,
+     "problem": "The brightest star in this constellation is Aldebaran. In which constellation can this star be found?\n\n(a) Taurus\n(b) Orion\n(c) Lyra\n(d) Gemini",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 13,
+     "problem": "Spectral line splitting due to the influence of magnetic fields is called:\n\n(a) Boltzmann Effect\n(b) Zeeman Effect\n(b) Planck Effect\n(c) Zanstra's Effect",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 14,
+     "problem": "The heliocentric parallax of Centauri A is $0.76$ arc seconds. What is the distance of this star in light years?\n\n(a) $2.82$\n(b) $3.56$\n(c) $4.29$\n(d) $5.74$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 15,
+     "problem": "The figure shows three spectra from stars with different luminosity classes. What will be the correct order of the luminosity classes?\n\n(a) A-Main Sequence, B-Luminous Super Giant, C-Giant\n(b) A- Luminous Super Giant, B- Giant, C- Main Sequence\n(c) A- Giant, B- Main Sequence, C- Luminous Super Giant\n(d) A- Giant, B- Luminous Super Giant, C- Main Sequence\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/lk-2011-q15-1.png",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 16,
+     "problem": "Most single-appearance comets enter the inner Solar System directly from the Oort Cloud. Estimate how long it takes a comet to make this journey. Assume that in the Oort Cloud, $35\\,000\\ \\mathrm{AU}$ from the Sun, the comet was at aphelion.\n\n(a) $76$ years\n(b) $2.5\\times10^{4}$ years\n(c) $2.3\\times10^{6}$ years\n(d) $1.2\\times10^{6}$ years",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 17,
+     "problem": "What would be the diameter of a radio telescope working at a wavelngth of $\\lambda = 1\\ \\mathrm{cm}$ with the same resolution as an optical telescope of diameter $D = 10\\ \\mathrm{cm}$?\n\n(a) $100\\ \\mathrm{nm}$\n(b) $10\\ \\mathrm{cm}$\n(c) $500\\ \\mathrm{m}$\n(d) $2\\ \\mathrm{km}$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 18,
+     "problem": "If the solar constant is $1366\\ \\mathrm{W\\,m^{-2}}$, estimate the number of solar neutrinos which should pass through a $1\\ \\mathrm{m^{2}}$ area of the Earth's surface perpendicular to the Sun every second. Use the fact that each fusion reaction in the Sun produces $26.8\\ \\mathrm{MeV}$ of energy and 2 neutrinos.\n\n(a) $1.3\\times10^{6}$\n(b) $3.4\\times10^{10}$\n(c) $6.4\\times10^{14}$\n(d) $4.3\\times10^{12}$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 19,
+     "problem": "The relative velocity of a certain galaxy at a distance of $8\\ \\mathrm{Mpc}$ away would be (use the value of Hubble's constant as $70\\ \\mathrm{km/s}$ per Mpc).\n\n(a) $7\\ \\mathrm{km/s}$\n(b) $10\\ \\mathrm{km/s}$\n(c) $70\\ \\mathrm{km/s}$\n(d) $560\\ \\mathrm{km/s}$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 20,
+     "problem": "A RR Lyrae variable in a galaxy periodically doubles its light out put. By how much does its apparent magnitude change ?\n\n(a) $0.50$\n(b) $0.75$\n(c) $4.00$\n(d) Does not change",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 2,
+     "number": 21,
+     "problem": "A student tries to measure field of view (FOV) of the eyepiece of his/her telescope, using rotation of the Earth. To do this job, the observer points the telescope towards Vega (alpha Lyr., RA: $18.5^{\\mathrm{h}}$, Dec: $+39^\\circ$), turns off its \"clock drive\" and measures trace out time, $t = 5.3$ minutes, that Vega crosses the full diameter of the FOV. Calculate the the FOV of this telescope in arc-minutes?",
+     "paper_label": "Part B"
+    },
+    {
+     "day": 2,
+     "number": 22,
+     "problem": "Draw the H-R diagram and indicate the regions where you could find main sequence stars, red giants, blue giants, white dwarfs and red dwarfs.",
+     "paper_label": "Part B"
+    },
+    {
+     "day": 2,
+     "number": 23,
+     "problem": "Identify the two constellations in the following picture and label any five stars here with their names by pointing them using an arrow\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/lk-2011-q23-1.png",
+     "paper_label": "Part B"
+    },
+    {
+     "day": 2,
+     "number": 24,
+     "problem": "Look at the pictures of the telescope and match the names of the items with the corresponding letters. Write your answers in the attached table:\n\n$$\\begin{array}{|l|c|} \\hline \\textbf{Item name} & \\textbf{Letter} \\\\ \\hline \\text{(example) Tripod} & \\text{M} \\\\ \\text{1. Counterweight} &  \\\\ \\text{2. Right Ascension Setting Circle (R.A. Scale)} &  \\\\ \\text{3. Declination Setting Circle (Declination Scale)} &  \\\\ \\text{4. Right Ascension locking knob} &  \\\\ \\text{5. Declination locking knob} &  \\\\ \\text{6. Geographical latitude scale} &  \\\\ \\text{7. Finder scope} &  \\\\ \\text{8. Focuser tube} &  \\\\ \\text{9. Focuser knob} &  \\\\ \\text{10. Eyepiece} &  \\\\ \\text{11. Declination Axis} &  \\\\ \\text{12. Right Ascension Axis (Polar Axis)} &  \\\\ \\text{13. Right Ascension slow motion adjustment} &  \\\\ \\text{14. Declination flexible slow motion adjustment} &  \\\\ \\text{15. 90}^\\circ\\text{ diagonal mirror} &  \\\\ \\text{16. Azimuth adjustment knobs} &  \\\\ \\text{17. Altitude adjustment screws} &  \\\\ \\text{18. Lock screw} &  \\\\ \\text{19. Spirit level bubble} &  \\\\ \\text{20. Eyepiece reticle light -- on/off switch \\& brightness control} &  \\\\ \\hline \\end{array}$$\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/lk-2011-q24-1.png\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/lk-2011-q24-2.png",
+     "paper_label": "Part B"
+    }
+   ]
+  },
+  {
+   "year": 2012,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "What is the most common particle in the solar wind?\n\nUseful information given with the paper:\n- Speed of light $c = 3\\times10^{8}\\ \\mathrm{m\\,s^{-1}}$\n- Universal gravitational constant $G = 6.67\\times10^{-11}\\ \\mathrm{m^{3}\\,kg^{-1}\\,s^{-2}}$\n- Solar mass $M_\\odot = 1.99\\times10^{30}\\ \\mathrm{kg}$\n- Hubble constant $H = 75\\ \\mathrm{km\\,s^{-1}\\,Mpc^{-1}}$\n- Mass of electron $m_e = 9.11\\times10^{-31}\\ \\mathrm{kg}$\n\n(a) $\\mathrm{H^{+}}$\n(b) electrons\n(c) alpha particles\n(d) neutrons\n(e) leptons",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "The heliocentric parallax of Centauri A is $0.76$ arc seconds. What is the distance of this star in light years?\n\n(a) $2.82$\n(b) $3.56$\n(c) $4.29$\n(d) $5.74$\n(e) $7.31$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "When differentiating between Type I and II supernovas, the presence or absence of the following element in the spectrum is considered:\n\n(a) H\n(b) He\n(c) C\n(d) Ne\n(e) Fe",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "Following figure shows two H-R diagrams of two star clusters. Which conclusion is possible by observing the figure?\n\n(a) number of stars in cluster 2 $>$ number of stars in cluster 1\n(b) age of cluster 2 $>$ age of cluster 1\n(c) distance to cluster 2 $>$ distance to cluster 1\n(d) luminosity of cluster 2 $>$ luminosity of cluster 1\n(e) none of the above.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/lk-2012-q4-1.png",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "If two stars have same distance from the earth, then their\n\n(a) Apparent magnitudes are equal.\n(b) Absolute magnitudes are equal.\n(c) Difference of apparent magnitudes are equal to the difference of absolute magnitude.\n(d) Apparent angular diameters are equal.\n(e) None of the above",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "problem": "In the absence of any interstellar medium let $m^{*}$ be the apparent magnitude of a star. Let $m$ be the measured apparent magnitude of the same star. Then the value $m - m^{*}$ is called,\n\n(a) absolute correction\n(b) interstellar correction\n(c) bolometric correction\n(d) absorption correction\n(e) Magnitude correction",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 7,
+     "problem": "How thick are Saturn's rings from top to bottom?\n\n(a) A few tens of thousands of kilometers\n(b) A few kilometers\n(c) A few tens of meters\n(d) A few million kilometers\n(e) A few hundred kilometers",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 8,
+     "problem": "The objective of a reflecting telescope has a diameter $60\\ \\mathrm{cm}$. At what distance would two small red ($\\lambda = 6.8\\times10^{-4}\\ \\mathrm{cm}$) objects $40\\ \\mathrm{cm}$ apart be barely resolved by the telescope?\n\n(a) $28.95\\ \\mathrm{km}$\n(b) $10.62\\ \\mathrm{km}$\n(c) $60.00\\ \\mathrm{km}$\n(d) $1.22\\ \\mathrm{km}$\n(e) $2.85\\ \\mathrm{km}$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 9,
+     "problem": "The orbital period of a dwarf planet is found to be $560$ years. The length of the semi-major axis of its elliptical orbit around the sun is,\n\n(a) $3.8$\n(b) $22.8$\n(c) $67.9$\n(d) $131.2$\n(e) $6.79$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 10,
+     "problem": "Assume the mass of neutrinos is $m_\\nu = 10^{-5}m_e$. The number density of neutrinos ($n_\\nu$) needed to compensate the dark matter of the universe will be.\n\n(Assume the universe is flat and $25\\ \\%$ of its mass is dark matter. Hint: Take the classical total energy equal to zero.)\n\n(a) $1.1\\times10^{-26}\\ \\mathrm{m^{-3}}$\n(b) $3\\times10^{8}\\ \\mathrm{m^{-3}}$\n(c) $2.4\\times10^{-18}\\ \\mathrm{m^{-3}}$\n(d) $1.5\\times10^{41}\\ \\mathrm{m^{-3}}$\n(e) $6.2\\times10^{23}\\ \\mathrm{m^{-3}}$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 11,
+     "problem": "At what wavelength does a star with the surface temperature of $25000\\ \\mathrm{K}$ radiates the highest intensity radiation. (Consider the star as a blackbody and use the Wien's law, Wien constant $= 2.898\\times10^{-3}\\ \\mathrm{m\\,K}$.)\n\n(a) $0.12\\ \\mu\\mathrm{m}$\n(b) $0.22\\ \\mu\\mathrm{m}$\n(c) $0.29\\ \\mu\\mathrm{m}$\n(d) $0.33\\ \\mu\\mathrm{m}$\n(e) $0.43\\ \\mu\\mathrm{m}$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 12,
+     "problem": "The apparent magnitude of the sun is $m_{\\mathrm{sun}} = -26.81$ and its distance is $\\mathrm{AU} = 4.848\\times10^{-6}\\ \\mathrm{pc}$. What is the absolute magnitude of the sun?\n\n(a) $4.76$\n(b) $5.86$\n(c) $5.63$\n(d) $6.78$\n(e) $8.3$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 13,
+     "problem": "The parallax angle for Sirius is $0.347''$ what is the distance modulus for Sirius?\n\n(a) $-3.76$\n(b) $3.76$\n(c) $-2.88$\n(d) $2.88$\n(e) $3.77$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 14,
+     "problem": "Which star has the higher luminosity and a lower temperature than the Sun?\n\n(a) Rigel\n(b) Alpha Centauri\n(c) Serius\n(d) Aldebaran\n(e) Benar'd Star",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 15,
+     "problem": "Which is closest to the average distance between asteroids in the asteroid belt?\n\n(a) $100$ thousand km\n(b) $1$ million km\n(c) $1$ thousand km\n(d) $10$ thousand km\n(e) $10$ million km",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 16,
+     "problem": "The mean mass density for a super massive black hole with total mass of $1\\times10^{8}\\ M_\\odot$ inside the Schwarzschild radius is,\n\n(a) $1.85\\times10^{3}\\ \\mathrm{kg\\,m^{-3}}$\n(b) $3\\times10^{8}\\ \\mathrm{kg\\,m^{-3}}$\n(c) $2.4\\times10^{8}\\ \\mathrm{kg\\,m^{-3}}$\n(d) $9.0\\times10^{41}\\ \\mathrm{kg\\,m^{-3}}$\n(e) $5\\times10^{23}\\ \\mathrm{kg\\,m^{-3}}$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 17,
+     "problem": "On January $1^{\\mathrm{st}}$ 1998 the planet Uranus was at a distance of $20.721\\ \\mathrm{A.U}$ .The radius of Uranus is $25559\\ \\mathrm{km}$. What was the apparent angular diameter of Uranus on January $1^{\\mathrm{st}}$ in arc minutes?\n\n(a) $3.392$\n(b) $0.028$\n(c) $1.696$\n(d) $1.644$\n(e) $0.056$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 18,
+     "problem": "Consider the following statements on the fate of a star.\n\n(A) It depends on the mass.\n(B) Star having a mass of $1.5\\ M_\\odot$ will eventually be a neutron star.\n(C) Stars having a mass less than $1.4\\ M_\\odot$ will cool down to white dwarfs.\n\nCorrect statement/s is/are?\n\n(a) (A) Only\n(b) (A) & (C) Only\n(c) (A) & (B) Only\n(d) (B) & (C) Only\n(e) All (A), (B) & (C)",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 19,
+     "problem": "The brightest star of the Sagittarius constellation is,\n\n(a) Sirius\n(b) Kaus Australis\n(c) Antares\n(d) Algieba\n(e) Nunki",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 20,
+     "problem": "The star constellations indicated in the following figures 1, 2, 3 and 4 respectively are\n\n(a) Canis major, Taurus, Scorpius and Orion\n(b) Ursa major, Scorpius, Orion and Leo\n(c) Ursa minor, Taurus, Scorpius and Orion\n(d) Cepheus, cetus, Scorpius, and sextans\n(e) Canis major, Leo, Scorpius and Orion\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/lk-2012-q20-1.png",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 2,
+     "number": 21,
+     "problem": "At some evolutionary stage of binary stars matter from one star falls onto the other and form an accretion disk. For a mass $m$ falling from infinity to a distance $R$ from the central mass $M$, the Kinetic Energy matches the Potential Energy as\n\n$$\\frac{1}{2}mv^{2} = \\frac{GMm}{R}$$\n\nThe mass eventually hits the surface of the star and its KE is released as heat, and appears in some form of radiation. For an accretion rate $dm/dt$, the KE is turned into heat at a rate $[1/2][\\,dm/dt\\,]v^{2}$, or the accretion luminosity $L$ is\n\n$$L = \\frac{1}{2}\\frac{dm}{dt}v^{2} = \\frac{GM}{R}\\frac{dm}{dt}$$\n\n(i) Show that for a black hole with Schwarzschild radius $r_s$, the luminosity can be expressed as\n\n$$L = \\frac{r_s}{2R}\\frac{dm}{dt}c^{2}$$\n$$L = \\xi\\frac{dm}{dt}c^{2}$$\n\nIn this form $\\xi$ can be seen to be the efficiency of the conversion of rest mass energy into luminosity.\n\n(ii) Show that the efficiency $\\xi$ for a solar mass white dwarf star, for which the radius is of order $5\\times10^{8}\\ \\mathrm{cm}$, is $\\xi \\approx 3\\times10^{-4}$.\n\n(iii) What is the efficiency for a solar mass neutron star, with radius of order $10\\ \\mathrm{km}$?\n\n(iv) How do your answers compare with the efficiency for the release of energy via the p-p chain, for which $\\xi \\approx 10^{-2}$?",
+     "paper_label": "Part B"
+    },
+    {
+     "day": 2,
+     "number": 22,
+     "problem": "The vernal equinox was near the following \"Nakshatras\" at different epochs.\n\n$$\\begin{array}{|l|l|c|c|} \\hline \\textbf{Epoch} & \\textbf{Constellation} & \\textbf{Mean } \\alpha\\ (1900) & \\textbf{Mean } \\delta\\ (1900) \\\\ \\hline 1900 & \\text{Purva Bhadrapada} & 0 & 0 \\\\ \\text{Siddhanta} & \\text{Ashvini} & 1^{\\mathrm{h}}\\ 55^{\\mathrm{m}}\\ 20^{\\mathrm{s}} & +21^\\circ\\ 39' \\\\ \\text{Yajurweda} & \\text{Krittika} & 3^{\\mathrm{h}}\\ 40^{\\mathrm{m}}\\ 32^{\\mathrm{s}} & +23^\\circ\\ 52' \\\\ \\text{Rigveda} & \\text{Mrigashirsha} & 5^{\\mathrm{h}}\\ 30^{\\mathrm{m}}\\ 11^{\\mathrm{s}} & -2^\\circ\\ 29' \\\\ \\hline \\end{array}$$\n\nUsing the phenomenon of precession calculate the times of the above unknown epochs, Siddhanta, Yajurweda, Rigveda. Take per year as the mean constant of precession.\n\n(Hint: convert $\\alpha$, $\\beta$ to $\\lambda$). Use following spherical trigonometric relation\n\n$$\\cos\\beta\\cos\\lambda = \\cos\\delta\\cos\\alpha$$\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/lk-2012-q22-1.png",
+     "paper_label": "Part B"
+    },
+    {
+     "day": 2,
+     "number": 23,
+     "problem": "Answer all parts.\n\n(i) Sirius A is the brightest star in the sky. It is 8.6 light years from Earth. Show that this distance is approximately $8\\times10^{16}\\ \\mathrm{m}$.\n\n(ii) Hence, determine the intensity of Sirius A as seen from Earth. The luminosity of Sirius A is $1.0\\times10^{28}\\ \\mathrm{W}$.\n\n(iii) When the Sun nears the end of its life it will burn helium in its core for a further 100 million years and become a red star. When it has depleted the helium in its core it is estimated that its surface temperature will fall from its present value of $5780\\ \\mathrm{K}$ to $3160\\ \\mathrm{K}$ and its radius form $6.96\\times10^{8}\\ \\mathrm{m}$ to $1.26\\times10^{11}\\ \\mathrm{m}$.\n\nShow that the luminosity of the Sun will increase by a factor of about 3000 due to these Changes.\n\n(iv) A Hertzsprung-Russell diagram is shown below.\n\nMark with an \"X\" the position of the Sun today.\n\nUse the information give in (iii) to mark with a \"Y\" the position of the Sun when it has depleted its helium core.\n\n(v) Calculate the mass being converted into energy in the core of 'Sirius A' every Second.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/lk-2012-q23-1.png",
+     "paper_label": "Part B"
+    },
+    {
+     "day": 2,
+     "number": 24,
+     "problem": "While Amal was flying in a plane above the Colombo city on 21st of March with an elevation of $10\\ \\mathrm{km}$, he observed the sun rise at 6.01 a.m. according to his watch (Sri Lankan local time GMT + 0530). Ashan was at the University of Colombo on the same day. At what time did Ashan observed the sun rise?\n\n(Assume that both observes were at the same geological position ($6.9167^\\circ\\ \\mathrm{N}$, $79.8333^\\circ\\ \\mathrm{E}$) when they observe the sun rise and Ashan was able to see the horizon without any interference. Consider the radius of the earth to be $6200\\ \\mathrm{km}$.)",
+     "paper_label": "Part B"
+    },
+    {
+     "day": 2,
+     "number": 25,
+     "problem": "Consider the following image of the moon. Observe that the line separating the illuminated side and the shadowed side is an ellipse arc. Let the length of the semi major axis of this ellipse be 'a', the semi minor axis be 'b' and the angle between the sun and the moon (as seen from earth) is $\\alpha$.\n\n(i) Derive an expression for the sun-moon-earth angle ($\\beta$) in terms of 'a' and 'b'.\n\n(ii) What is the phase of the moon, expressed as a percentage, in terms of $\\beta$?\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/lk-2012-q25-1.png",
+     "paper_label": "Part B"
+    }
+   ]
+  },
+  {
+   "year": 2013,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "Choose the answer contains the types of reflecting telescopes shown in the following in the order.\n\nUseful information given with the paper:\n- Speed of light $c = 3\\times10^{8}\\ \\mathrm{m\\,s^{-1}}$\n- Universal gravitational constant $G = 6.67\\times10^{-11}\\ \\mathrm{m^{3}\\,kg^{-1}\\,s^{-2}}$\n- Solar mass $M_\\odot = 1.99\\times10^{30}\\ \\mathrm{kg}$\n- Hubble constant $H = 75\\ \\mathrm{km\\,s^{-1}\\,Mpc^{-1}}$\n- Mass of electron $m_e = 9.11\\times10^{-31}\\ \\mathrm{kg}$\n\n(a) 1- Prime focus, 2- Newton focus, 3- Cassegrain focus, 4- Coude' focus\n(b) 1- Newton focus, 2- Prime focus, 3- Cassegrain focus, 4- Coude' focus\n(c) 1- Newton focus, 2- Prime focus, 3- Coude' focus, 4- Cassegrain focus\n(d) 1- Prime focus, 2- Newton focus, 3- Coude' focus, 4- Cassegrain focus\n(e) 1- Prime focus, 2- Coude' focus, 3- Newton focus, 4- Cassegrain focus\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/lk-2013-q1-1.png",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "A star ($S$) which rotates along its axis is shown in the figure. When observing from Earth ($E$), a gas is observed to be emitted from the star. A spectral line of that gas's observed intensity distribution ($I$) represented as a function of the wavelength ($\\lambda$) is best shown in which option. If the star is not rotating the intensity distribution of the spectral line is shown in dash lines.\n\n(The choices (a)-(e) are shown in the figure.)\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/lk-2013-q2-1.png\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/lk-2013-q2-2.png",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "Consider the following three statements given on \"Kepler's Laws\" of elliptical motion\n\n1.) All planets move in elliptical orbits, with the sun at one focus.\n2.) A line that connects a planet to the sun sweeps out equal areas in equal times.\n3.) The square of the period of any planet is proportional to the cube of the major axis of its orbit.\n\nIncorrect Statement/s is/are ?\n\n(a) (1) only\n(b) (2) only\n(c) (3) only\n(d) (2) and (3) only\n(e) (1) and (2) only",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "Consider the following image of the moon. Observe that the line separating the illuminated side and the shadowed side is an ellipse arc. Let the length of the semi major axis of this ellipse be '$a$', the semi minor axis be '$b$' and the angle between the sun and the moon (as seen from earth) is $\\beta$.\n\nWhat is the correct expression for the sun-moon-earth angle ($\\beta$) in terms of '$a$' and '$b$'.\n\n(a) $\\beta = \\cos^{-1}\\left(\\dfrac{b}{a}\\right)$\n(b) $\\beta = \\cos^{-1}\\left(\\dfrac{a}{b}\\right)$\n(c) $\\beta = \\sin^{-1}\\left(\\dfrac{b}{a}\\right)$\n(d) $\\beta = \\sin^{-1}\\left(\\dfrac{b}{a}\\right)$\n(e) $\\beta = \\cos^{-1}\\left(\\dfrac{a+b}{a-b}\\right)$\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/lk-2013-q4-1.png",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "Three students commented on the topic \"Time measurements in a Black hole\" (Assume you can survive in a Black hole to test the variation of time)\n\nStudent (1): If you were to enter a black hole, you would find your watch ticking along at the same rate as it always had.\n\nStudent (2): Although your watch as seen by you would not change its ticking rate, just as in special relativity, someone else would see a different ticking rate on your watch than the usual. You would see the watch of a friend at great distance from the hole to be ticking at a much faster rate than yours.\n\nStudent (3): If you stayed just outside the black hole for a while, then went back to join your friend (staying outside of the black hole), you would find that the friend had aged less than you had during your separation.\n\nConsidering the assumption above which of the student/s is/are can be considered as correct according to his/their comment.\n\n(a) (1) only\n(b) (2) only\n(c) (3) only\n(d) (2) and (3) only\n(e) (1) and (2) only",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "problem": "Consider the following statements about F-number of a telescope. Which one of the following is not correct?\n\n(a) Decreasing the aperture is meant to be as the incensement of the F-number.\n(b) F-number is calculated from the equation $f/D$. Where $f$ is the focal length of the eye-piece and $D$ is the diameter of the eye-piece.\n(c) A $100\\ \\mathrm{mm}$ focal length lens with an aperture setting of $f/8$ will have a pupil diameter of $25\\ \\mathrm{mm}$.\n(d) The greater the focal ratio, the fainter the images created (measuring brightness per unit area of the image).\n(e) None of the above.",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 7,
+     "problem": "Astronomical Telescope is a valuable instrument used in observing the sky. Following are some of the statements given on its characteristics. Which one of the following is not correct?\n\n(a) It creates a real image in the vicinity of the eye of the observer.\n(b) The distance between the objective lens and the eyepiece is equal to $f_o + f_e$. Where $f_o$ is the focal length of the objective and $f_e$ is the focal length of the eyepiece.\n(c) The magnifying power of an astronomical telescope may be defined as the ratio of the angle subtended at the eye by the image to the angle subtended at the eye by the object.\n(d) Magnifying power can also be given as $\\dfrac{f_o}{f_e}$.\n(e) Objective lens has larger focal length than the eyepiece.",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 8,
+     "problem": "A $5^{\\mathrm{th}}$ magnitude star is how many times brighter than an $8^{\\mathrm{th}}$ magnitude star?\n\n(a) $3$\n(b) $15.85$\n(c) $16.00$\n(d) $15.05$\n(e) $12.85$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 9,
+     "problem": "Which of the following is true for retrograde motion?\n\nRetrograde motion is;\n\n(a) Caused by epicycles.\n(b) Undergone only by superior planets.\n(c) Undergone only by inferior planets.\n(d) An effect due to the projection of planet orbits onto the sky.\n(e) An effect due to the mass of the planet.",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 10,
+     "problem": "If you were watching a star collapsing to form a black hole, the light would disappear because it:\n\n(a) Is strongly redshifted\n(b) Is strongly blue shifted\n(c) Its color suddenly becomes black\n(d) Its explosion due to lack of Hydrogen & Helium\n(e) None of the above",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 11,
+     "problem": "A supernova shines with luminosity $10^{10}$ times that of the Sun. If such a supernova appears in our sky bright as the Sun, how far away from us might be located?\n\n(a) $0.485\\ \\mathrm{Ly}$\n(b) $1.58\\ \\mathrm{Ly}$\n(c) $105\\ \\mathrm{Ly}$\n(d) $0.158\\ \\mathrm{Ly}$\n(e) $4.85\\ \\mathrm{Ly}$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 12,
+     "problem": "A nova was observed with a maximum apparent magnitude of $-1.1$ in year 2000 by a earth based optical interferometer. The wave length shift of its Hydrogen H$\\alpha$ line was $37\\ \\mathring{A}$. When it was again observed in year 2008 with the same telescope system, there was a gas shell around that star with a diameter of 16 arc seconds. What is the absolute magnitude of this star?\n\n(a) $-7.35$\n(b) $-5.60$\n(c) $1.45$\n(d) $3.50$\n(e) $2.90$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 13,
+     "problem": "A Primordial Hydrogen gas cloud on a cosmic microwave background radiation (CMBR), having a actual diameter of $1\\times10^{5}$ light years was observed with a observable angular diameter of $6.00\\times10^{-6}$ rad With respect to the above data, what is the correct statement about the space curvature of universe and the deceleration parameter? (Consider that the density parameter of dark energy is a constant )\n\n$$\\begin{array}{c|c|c} & \\text{space curvature } (u) & \\text{deceleration parameter } (q) \\\\ \\hline \\text{(a)} & 0 & q = \\frac12 \\\\ \\text{(b)} & + & q > \\frac12 \\\\ \\text{(c)} & + & q < \\frac12 \\\\ \\text{(d)} & - & q < \\frac12 \\\\ \\text{(e)} & - & q = \\frac12 \\end{array}$$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 14,
+     "problem": "If the values of critical density of universe ($1.0\\times10^{-26}\\ \\mathrm{kg\\,m^{-3}}$) and the density parameter of Dark energy (0.74) are constants which are independent from time, Then what is the value of the deceleration parameter to stop the expansion of universe in a some certain time (Consider the values of Hubble $= 71\\ \\mathrm{km\\,s^{-1}\\,Mpc^{-1}}$ constant and the gravitational constant $= 6.67\\times10^{-11}\\ \\mathrm{kg^{-2}\\,N\\,m^{2}}$ as given here)\n\n(a) $0.10$\n(b) $0.15$\n(c) $0.25$\n(d) $0.26$\n(e) $0.50$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 15,
+     "problem": "Theoretical and observational evidences proved that the universe was $\\rho_{\\mathrm{rad}} > \\rho_{\\mathrm{mat}}$ between the 2500 years and the big bang happened. The values of matter density and the radiation density were transited each other ($\\rho_{\\mathrm{rad}} < \\rho_{\\mathrm{mat}}$). Which statement is not acceptable with the above process of the universe, which was happened 2500 after the big bang.\n\n(a) Universe got transparency for the photons in Recombination Era\n(b) While the movement via the universe, Wavelengths of photons were more influenced with cosmic expansion than the matter.\n(c) Maximum photons amount which generated by Quantum physical processes of primordial universe was obtained at Spectral decoupling era.\n(d) Ratio of Neutrons and Protons were obtained in Weak Decoupling Era\n(e) None of the above",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 16,
+     "problem": "When a spectrum of a B2 star was analyzed, the H$_\\alpha$ line of its spectrum was absent. A spectrum of a B5 star with a same Luminosity shows a H alpha line of its spectrum. What is the most relevant statement to explain this phenomenon?\n\n(a) Energy of electrons in energy levels of Hydrogen atoms in B2 star is lower than those values of B5 star\n(b) There are no electrons in 2nd energy level of B2 star because of those electrons are shifted to stable states that have higher energy.\n(c) The electron density of B5 star is lower than the electron density of B2 star\n(d) Temperature of B2 star is higher than temperature of B5 star.\n(e) None of the above",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 17,
+     "problem": "A $5\\ M_\\odot$ star causes a gravitational red-shift (Einstin shift) such that a $500\\ \\mathrm{nm}$ photon is detected with a wavelength of $600\\ \\mathrm{nm}$. What is the radius of the Star in solar units?\n\n(a) $8.8\\ R_\\odot$\n(b) $5.8\\ R_\\odot$\n(c) $6.8\\ R_\\odot$\n(d) $21.6\\ R_\\odot$\n(e) $15\\ R_\\odot$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 18,
+     "problem": "Comet Hale Bopp had a perihelion distance of $0.9141\\ \\mathrm{AU}$ and eccentricity $0.9951$. What is the aphelion distance of the comet.\n\n(a) $407\\ \\mathrm{AU}$\n(b) $156\\ \\mathrm{AU}$\n(c) $372\\ \\mathrm{AU}$\n(d) $78\\ \\mathrm{AU}$\n(e) $24\\ \\mathrm{AU}$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 19,
+     "problem": "Cepheids vary in luminosity by up to a factor of 150. If this variation is only due to change in radii, the ratio of radii during maxima and minima is.\n\n(a) $15$\n(b) $20$\n(c) $150$\n(d) $225$\n(e) $12$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 20,
+     "problem": "In observations taken on the Summer Solstice and Winter Solstice the position of Polaris is seen to be shifted by $0.007$ arc sec. What is the distance to the Pole Star?\n\n(a) $293\\ \\mathrm{pc}$\n(b) $562\\ \\mathrm{pc}$\n(c) $1000\\ \\mathrm{pc}$\n(d) $4.2\\ \\mathrm{pc}$\n(e) $25\\ \\mathrm{pc}$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 2,
+     "number": 21,
+     "problem": "This question consists of 3 tables and full sky charts in Alt-Azimuth coordinates, showing the sky of June 2013. On the chart different objects are marked in different numbering systems: constellations are noted in capital letters; stars are noted in Arabic numeral and deep sky objects are noted in small caps. The star chart contain 5 deep sky objects, 10 constellations and 10 stars, to be marked on tables I, II and III. Your task is to correctly address the objects in the tables.\n\nTable I - List of deep sky objects (a, b, c, d, e)\n\n$$\\begin{array}{lll} \\text{( ) AndromedaGalaxy} & \\text{( ) EtaCarinaeNebula} & \\text{( ) Perseus Double Cluster} \\\\ \\text{( ) Butterfly Cluster} & \\text{( ) GreatRift} & \\text{( ) Pleiades} \\\\ \\text{( ) Centaurus A} & \\text{( ) HelixNebula} & \\text{( ) Praesepe Cluster} \\\\ \\text{( ) Cone Nebula} & \\text{( ) Hercules Globular Cluster} & \\text{( ) RingNebula} \\\\ \\text{( ) CrabNebula} & \\text{( ) Lagoon Nebula - M8} & \\text{( ) Horse Head Nebula} \\\\ \\text{( ) DumbellNebula} & \\text{( ) OmegaCentauri Cluster} & \\text{( ) SmallMagellanicCloud} \\\\ \\text{( ) EagleNebula - M16} & \\text{( ) Orion Nebula} & \\text{( ) Ptolemy Cluster -M7} \\end{array}$$\n\nTable II - List of constellations (A, B, C, D, E, F, G, H, J, K)\n\n$$\\begin{array}{llll} \\text{( ) Andromeda} & \\text{( ) Antlia} & \\text{( ) Apus} & \\text{( ) Aquarius} \\\\ \\text{( ) Aquila} & \\text{( ) Ara} & \\text{( ) Aries} & \\text{( ) Auriga} \\\\ \\text{( ) Bootes} & \\text{( ) Caelum} & \\text{( ) Camelopardus} & \\text{( ) Cancer} \\\\ \\text{( ) CanesVenatici} & \\text{( ) Canis Major} & \\text{( ) Canis Minor} & \\text{( ) Capricornus} \\\\ \\text{( ) Carina} & \\text{( ) Cassiopeia} & \\text{( ) Centaurus} & \\text{( ) Cepheus} \\\\ \\text{( ) Cetus} & \\text{( ) Chamaeleon} & \\text{( ) Circinus} & \\text{( ) Columba} \\\\ \\text{( ) Coma Berenices} & \\text{( ) Corona Australis} & \\text{( ) Corona Borealis} & \\text{( ) Corvus} \\\\ \\text{( ) Crater} & \\text{( ) Crux} & \\text{( ) Cygnus} & \\text{( ) Delphinus} \\\\ \\text{( ) Dorado} & \\text{( ) Draco} & \\text{( ) Equuleus} & \\text{( ) Eridano} \\\\ \\text{( ) Fornax} & \\text{( ) Gemini} & \\text{( ) Grus} & \\text{( ) Hercules} \\\\ \\text{( ) Horologium} & \\text{( ) Hydra} & \\text{( ) Hydrus} & \\text{( ) Indus} \\\\ \\text{( ) Lacerta} & \\text{( ) Leo} & \\text{( ) Leo Minor} & \\text{( ) Lepus} \\\\ \\text{( ) Libra} & \\text{( ) Lupus} & \\text{( ) Lynx} & \\text{( ) Lyra} \\\\ \\text{( ) Mensa} & \\text{( ) Microscopium} & \\text{( ) Monoceros} & \\text{( ) Musca} \\\\ \\text{( ) Norma} & \\text{( ) Octans} & \\text{( ) Ophiuchus} & \\text{( ) Orion} \\\\ \\text{( ) Pavo} & \\text{( ) Pegasus} & \\text{( ) Perseus} & \\text{( ) Phoenix} \\\\ \\text{( ) Pictor} & \\text{( ) Pisces} & \\text{( ) PiscisAustrinus} & \\text{( ) Puppis} \\\\ \\text{( ) Pyxis} & \\text{( ) Reticulum} & \\text{( ) Sagitta} & \\text{( ) Sagitarius} \\\\ \\text{( ) Scorpius} & \\text{( ) Sculptor} & \\text{( ) Scutum} & \\text{( ) Serpens} \\\\ \\text{( ) Sextans} & \\text{( ) Taurus} & \\text{( ) Telescopium} & \\text{( ) Triangulum} \\\\ \\text{( ) TriangulumAustralis} & \\text{( ) Tucana} & \\text{( ) Ursa Major} & \\text{( ) Ursa Minor} \\\\ \\text{( ) Vela} & \\text{( ) Virgo} & \\text{( ) Volans} & \\text{( ) Vulpecula} \\end{array}$$\n\nTable III - List of stars (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11)\n\n$$\\begin{array}{llll} \\text{( ) Achernar} & \\text{( ) Atria} & \\text{( ) Fomalhaut} & \\text{( ) Pollux} \\\\ \\text{( ) Acrux} & \\text{( ) Avior} & \\text{( ) Gacrux} & \\text{( ) Procion} \\\\ \\text{( ) Adhara} & \\text{( ) Polaris} & \\text{( ) GammaVelorum} & \\text{( ) Regulus} \\\\ \\text{( ) Al Na'ir} & \\text{( ) Bellatrix} & \\text{( ) Hadar} & \\text{( ) Rigel} \\\\ \\text{( ) Aldebaran} & \\text{( ) Betelgeuse} & \\text{( ) Hamal} & \\text{( ) RigilKentaurus} \\\\ \\text{( ) Alhena} & \\text{( ) Canopus} & \\text{( ) KausAustralis} & \\text{( ) Sargas} \\\\ \\text{( ) Alioth} & \\text{( ) Capella} & \\text{( ) Menkaliman} & \\text{( ) Shaula} \\\\ \\text{( ) Alkaid} & \\text{( ) Castor} & \\text{( ) Miaplacidus} & \\text{( ) Sirius} \\\\ \\text{( ) Alnilan} & \\text{( ) Delta Velorum} & \\text{( ) Mirfak} & \\text{( ) Spica} \\\\ \\text{( ) Alphard} & \\text{( ) Deneb} & \\text{( ) Mirzam} & \\text{( ) Vega} \\\\ \\text{( ) Altair} & \\text{( ) DenebKaitos} & \\text{( ) Nunki} & \\text{( ) Wezen} \\\\ \\text{( ) Antares} & \\text{( ) Dubhe} & \\text{( ) Peacock} & \\text{( ) Saiph} \\\\ \\text{( ) Arcturus} & \\text{( ) El Nath} &  &  \\end{array}$$\n\nChart I - This month's Night Sky\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/lk-2013-q21-1.png",
+     "paper_label": "Part B"
+    },
+    {
+     "day": 2,
+     "number": 22,
+     "problem": "This problem models the launching of a detector from the surface of the earth to Mars. We assume that the earth and Mars are moving around the sun in circles resting on the same plane. The radius of the orbit of Mars is $R_m$, which is 1.5 times larger than that of the earth. An economical and simple way to lounge the detector consists of 2 steps. First, a rocket is used to accelerate the detector on the earth's surface such that it acquires enough kinetic energy to overcome the gravitational force of the earth and becomes a satellite moving around the earth. Second, at a suitable time, an engine that connects to the detector ignites for a short instant and accelerates the detector along its direction of motion. After a short (negligible) time, the speed of the detector increases to a suitable value such that the detector moves along an elliptical orbit that connects the earth and Mars, with the two planets located at the end points of the ellipse (see Diagram A)\n\n(a) In Step I, what is the minimum speed needed for the detector to become an artificial satellite that moves along the earth's orbit?\n\n(b) After the detector becomes a satellite moving around the earth, on 1 March 00.00am of a certain year, the angular distance between the detector and Mars is measured to be $60^\\circ$ (diagram B). What is the date that the engine of the detector should be fired so that the detector can fall on the surface of Mars (Correct today)? Given: radius of the earth: $6.4\\times10^{6}\\ \\mathrm{m}$, acceleration due to gravity $= 9.8\\ \\mathrm{m/s^{2}}$\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/lk-2013-q22-1.png",
+     "paper_label": "Part B"
+    },
+    {
+     "day": 2,
+     "number": 23,
+     "problem": "Answer to bath parts\n\n(i) Stars produce their energy by fusing hydrogen into helium. If the mass deficit of helium after the nuclear reaction is $0.7\\%$ of the mass of the constituent hydrogen atoms, and if $10\\%$ of the hydrogen in the Sun undergoes fusion reactions, calculate the total available nuclear energy of the Sun in Joules.\n\n(ii) How long the Sun could emit energy produced by nuclear fusion if the Sun has had constant luminosity ($L_{\\mathrm{sun}}$) of $4\\times10^{26}\\ \\mathrm{W}$",
+     "paper_label": "Part B"
+    },
+    {
+     "day": 2,
+     "number": 24,
+     "problem": "Hiran can observe he grate spiral galaxy Andromeda with an apparent magnitude of $3.4$ and there are $10^{10}$ stars in it. The distance to the galaxy is $2.4$ million light years.\n\n(i) What is the average absolute magnitude of each star ($M_0$)?\n\n(ii) If Andromeda is spread over an area of $3^\\circ\\times1^\\circ$ in the sky, calculate its radius if it? Find out the angle of tilt of the galaxy to our line of sight.\n\n(iii) The Andromeda galaxy is moving towards the Milky-way at $250\\ \\mathrm{km/s}$. Calculate the blue shift. (Is this in violation of Hubble's law? Explain.)",
+     "paper_label": "Part B"
+    },
+    {
+     "day": 2,
+     "number": 25,
+     "problem": "A photograph of Jupiter was taken by the largest telescope in Sri Lanka, which situated at the Arther C. Clarke institute, Katubadda. (A cassegrain reflector with aperture diameter $45\\ \\mathrm{cm}$, $f/12$) using SBIG ST. monochrome CCD camera on $19^{\\mathrm{th}}$ January 2013 at 0007 (LCT). The overall size of the CCD photograph was ($765\\times510$ pixels) and great red spot of Jupiter was detected by $30\\times12$ pixels region on the photograph. Great red spot of Jupiter was located at $30^\\circ$ west from Jupiter's central meridian and $20^\\circ$ south from equator of Jupiter's disk at that time. Pixel scale of the CCD camera is (1 pixel $= 9\\ \\mu\\mathrm{m}$) average diameter is $1.43\\times10^{5}$ and Jupiter (on that day) was $6.60\\times10^{8}\\ \\mathrm{km}$\n\n(i) Find the area of Jupiter's great red spot using above data of CCD photograph in unit of millionth of Jovian hemisphere (mJh)\n\n(ii) What is the importance of the quantum efficiency of a CCD chip for a photograph of a deep sky object taken by this camera (briefly explain)\n\n(iii) A.) Why does the temperature off CCD chip must be kept in low value when we obtaining a photograph.\n\nB.) The cooling mechanism of the CCD camera was malfunctioning by its own technical failure, how it effects for the quality of the image (briefly explain)",
+     "paper_label": "Part B"
+    }
+   ]
+  },
+  {
+   "year": 2015,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "The physics theory that can be used to describe the stability of a white dwarf is,\n\nUseful information given with the paper:\n- Speed of light $c = 3\\times10^{8}\\ \\mathrm{m\\,s^{-1}}$\n- Universal gravitational constant $G = 6.67\\times10^{-11}\\ \\mathrm{m^{3}\\,kg^{-1}\\,s^{-2}}$\n- Solar mass $M_\\odot = 1.99\\times10^{30}\\ \\mathrm{kg}$\n- Hubble constant $H = 75\\ \\mathrm{km\\,s^{-1}\\,Mpc^{-1}}$\n- Mass of electron $m_e = 9.11\\times10^{-31}\\ \\mathrm{kg}$\n- Wien's displacement constant $= 0.0029\\ \\mathrm{m\\,K}$\n\n(A) Pauli's exclusion principle\n(B) Heisenberg's uncertainty principle\n(C) Conservation of angular momentum\n(D) Conservation of charges\n(E) None of the above",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "Nuclear fusion make a classical nova explode, while it makes normal stars just burn steadily because,\n\n(A) a white dwarf is so dense\n(B) a white dwarf is made of Carbon and Oxygen\n(C) The pressure in a white dwarf does not depend on its temperature\n(D) The pressure in a white dwarf increases linearly with the temperature\n(E) The pressure in a white dwarf decreases linearly with the temperature",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "Suppose you observe a millisecond pulsar. One day you measure the period of the pulses and arrival times accurately. Once you observe after one week it is noticed that all the pulses are delayed by $1\\ \\mu\\mathrm{s}$ although the period is the same. If the delay is caused by the motion of the pulsar, then the pulsar must have moved,\n\n(A) $300\\ \\mathrm{m}$ towards the Earth\n(B) $300\\ \\mathrm{m}$ away from the Earth\n(C) $100\\ \\mathrm{m}$ towards the Earth\n(D) $100\\ \\mathrm{m}$ towards the Earth\n(E) $1\\ \\mu\\mathrm{m}$ away from the Earth",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "Imagine that you've just discovered a new deep sky object in space. This object can change in brightness uniformly by a factor of two in only ten seconds. What can you deduce from this rapid variability?\n\n(A) It must be smaller than $3\\times10^{6}\\ \\mathrm{km}$ in size\n(B) It must be larger than $3\\times10^{6}\\ \\mathrm{km}$ in size\n(C) It must be smaller than $3\\times10^{5}\\ \\mathrm{km}$ in size\n(D) It must be larger than $3\\times10^{6}\\ \\mathrm{km}$ in size\n(E) You can't deduce anything on its size",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "Cosmic Microwave Background Radiation (CMB) occurred due to,\n\n(A) Inflation\n(B) Big bang\n(C) Recombination\n(D) Particle antiparticle annihilation\n(E) Solar storms",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "problem": "Most of the potentially habitable planets found so far are in orbit around,\n\n(A) Pulsars\n(B) White dwarfs\n(C) Red giants\n(D) Red dwarf stars\n(E) Blue giants",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 7,
+     "problem": "The energy process with highest efficiency is,\n\n(A) nuclear fusion\n(B) colliding matter with antimatter\n(C) nuclear fission\n(D) releasing gravitational energy of a black hole\n(E) fossil fuel",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 8,
+     "problem": "Imagine that a galaxy had a very unusual mass distribution - all the mass was in two rings, centred on the nucleus but at two different radii. There was no mass inside the inner ring, between the two rings, or outside the outer ring. What would you expect the rotation curve to look like for this strange galaxy?\n\n(The choices (A)-(E) are shown in the figure.)\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/lk-2015-q8-1.png",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 9,
+     "problem": "The planet without seasons,\n\n(A) Uranus\n(B) Neptune\n(C) Saturn\n(D) Jupiter\n(E) None of the above",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 10,
+     "problem": "Calculate the temperature (in Celsius) of a comet surface when it is 10 astronomical units from the Sun. (Consider the comet as a blackbody)\n\n(A) $120$\n(B) $80$\n(C) $100$\n(D) $75$\n(E) $88$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 11,
+     "problem": "Suppose that the gravitational force law between two massive objects were $F = \\dfrac{G m_1 m_2}{r^{2+\\varepsilon}}$ (where $\\varepsilon$ is a small positive number). Which of the following statements would be false?\n\n(A) The total mechanical energy of the planet-Sun system would be conserved.\n(B) The angular momentum of a single planet moving about the Sun would be conserved.\n(C) The periods of the planets in the orbits would be proportional to the $\\dfrac{(3+\\varepsilon)}{2}$ power of their respective orbital radii.\n(D) A single planet could move in a stationary noncircular elliptical orbit about the Sun.\n(E) A single planet could move in a stationary circular orbit about the Sun.",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 12,
+     "problem": "The mean mass density for a super massive black hole with total mass of $1\\times10^{8}\\ M_\\odot$ inside the Schwarzschild radius is,\n\n(A) $1.85\\times10^{3}\\ \\mathrm{kg/m^{3}}$\n(B) $3\\times10^{8}\\ \\mathrm{kg/m^{3}}$\n(C) $2.4\\times10^{8}\\ \\mathrm{kg/m^{3}}$\n(D) $9.0\\times10^{41}\\ \\mathrm{kg/m^{3}}$\n(E) $5\\times10^{23}\\ \\mathrm{kg/m^{3}}$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 13,
+     "problem": "Consider the following three statements given on \"Kepler's Laws\" of elliptical motion\n\n1.) All planets move in elliptical orbits, with the sun at one focus.\n2.) A line that connects a planet to the sun sweeps out equal areas in equal times.\n3.) The square of the period of any planet is proportional to the cube of the major axis of its orbit.\n\nIncorrect Statement/s is/are?\n\n(A) (1) only\n(B) (2) only\n(C) (3) only\n(D) (2) and (3) only\n(E) (1) and (2) only",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 14,
+     "problem": "Comet Hale Bopp had a perihelion distance of $0.9141\\ \\mathrm{AU}$ and eccentricity $0.9951$. What is the aphelion distance of the comet?\n\n(A) $407\\ \\mathrm{AU}$\n(B) $156\\ \\mathrm{AU}$\n(C) $372\\ \\mathrm{AU}$\n(D) $78\\ \\mathrm{AU}$\n(E) $24\\ \\mathrm{AU}$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 15,
+     "problem": "Choose the answer contains the types of reflecting telescopes shown in the following in the order.\n\n(A) 1- Prime focus, 2- Newton focus, 3- Cassegrain focus, 4- Coude' focus\n(B) 1- Newton focus, 2- Prime focus, 3- Cassegrain focus, 4- Coude' focus\n(C) 1- Newton focus, 2- Prime focus, 3- Coude' focus, 4- Cassegrain focus\n(D) 1- Prime focus, 2- Newton focus, 3- Coude' focus, 4- Cassegrain focus\n(E) 1- Prime focus, 2- Coude' focus, 3- Newton focus, 4- Cassegrain focus\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/lk-2015-q15-1.png",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 16,
+     "problem": "The curvature of Mars is such that its surface drops a vertical distance of $2\\ \\mathrm{m}$ for every $3600\\ \\mathrm{m}$ tangent to the surface. In addition, the gravitational acceleration near its surface is $0.4$ times that near the surface of Earth. What is the speed a golf ball would need to orbit Mars near the surface, ignoring the effects of air resistance?\n\n(A) $0.9\\ \\mathrm{km/s}$\n(B) $1.8\\ \\mathrm{km/s}$\n(C) $3.6\\ \\mathrm{km/s}$\n(D) $4.5\\ \\mathrm{km/s}$\n(E) $5.4\\ \\mathrm{km/s}$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 17,
+     "problem": "In inertial frame $S$, two events occur at the same instant time and $3$ light minutes apart in space. In inertial frame $S'$, the same events occur at $5$ light minutes apart. What is the time interval between the events in $S'$.\n\n(A) $0\\ \\mathrm{min}$\n(B) $2\\ \\mathrm{min}$\n(C) $4\\ \\mathrm{min}$\n(D) $8\\ \\mathrm{min}$\n(E) $16\\ \\mathrm{min}$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 18,
+     "problem": "Which of the following phenomena is not useful in estimating the distance between two celestial bodies?\n\n(A) Venus transits over the disk of the sun\n(B) Stars with no proper motion appear to change their position in the sky when viewed six months apart\n(C) Doppler shift exhibited by stars\n(D) A Total Solar Eclipse\n(E) None of the above",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 19,
+     "problem": "A binary system of stars consists of star ($a$) and star ($b$) with brightness ratio 2. The binary system is difficult to resolve and is observed from the Earth as one star of $5^{\\mathrm{th}}$ magnitude. Find the apparent magnitude of each of the two stars ($m_a$, $m_b$).\n\n(A) $5.44, 6.19$\n(B) $5.11, 5.44$\n(C) $5.56, 6.20$\n(D) $5.50, 6,50$\n(E) $6.00, 5.00$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 20,
+     "problem": "When it is about the same distance from the Sun as is Jupiter, a spacecraft on a mission to the outer planets has the speed that is 1.5 times the speed of Jupiter in its orbit. Which of the following describes the orbit of the spacecraft about the Sun?\n\n(A) Spiral\n(B) Circle\n(C) Ellipse\n(D) Parabola\n(E) Hyperbola",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 2,
+     "number": 21,
+     "problem": "The most frequent orbital maneuvers performed by spacecraft consist of velocity variations along the direction of flight, namely accelerations to reach higher orbits or braking done to initiate re-entering in the atmosphere. In this problem we will study the orbital variations when the engine thrust is applied in a radial direction.\n\nTo obtain numerical values use: Earth radius $R_T = 6.37\\times10^{6}\\ \\mathrm{m}$,\n\nEarth surface gravity $g = 9.81\\ \\mathrm{m\\,s^{-2}}$ and take the length of the sidereal day to be $T_0 = 24.0\\ \\mathrm{h}$\n\nWe consider a geosynchronous communications satellite of mass $m$ placed in an equatorial circular orbit of radius $r_0$. These satellites have an \"apogee engine\" which provides the tangential thrusts needed to reach the final orbit.\n\na. Compute the numerical value of $r_0$\n\nb. Give the analytical expression of the velocity $v_0$ of the satellite as a function of $g, R_T, and\\ r_0$. Calculate its numerical value.\n\nc. Obtain the expressions of its angular momentum $L_0$ and mechanical energy $E_0$ as functions of $v_0, m, g\\ and\\ R_T$\n\nOnce this geosynchronous circular orbit has been reached (see Figure), the satellite has been stabilized in the desired location, and is being set to do its work, an error by the ground controllers causes the apogee engine to be fired again. The thrust happens to be directed towards the Earth and, despite the quick reaction of the ground crew to shut the engine off, an unwanted velocity variation $\\Delta v$ is imparted on the satellite. We characterize this boost by the parameter $\\beta = \\dfrac{\\Delta v}{v_0}$. The duration of the engine burn is always negligible with respect to any other orbital times, so that it can be considered as instantaneous.\n\nSuppose $\\beta < 1$\n\nd. Determine the parameters of the new orbit - semi-latus-rectum ($l$) and eccentricity ($\\varepsilon$), in terms of $r_0\\ and\\ \\beta$.\n\ne. Calculate the angle $\\alpha$ between the major axis of the new orbit and the position vector at the accidental misfire.\n\nf. Give the analytical expressions of the perigee, $r_{min}$ and apogee, $r_{max}$, distances to the Earth center, as functions of $r_0\\ and\\ \\beta$ and calculate their numerical values for $\\beta = 0.25$\n\ng. Determine the period of the new orbit, $T$, as a function of $T_0\\ and\\ \\beta$ and calculate its numerical value for $\\beta = 0.25$\n\nHINT: For $m \\ll\\ll M$\n\n$$r(\\theta) = \\frac{l}{1 - \\varepsilon\\cos(\\theta)}$$\n\nWhere, semi-latus-rectum $l = \\dfrac{L^{2}}{GMm^{2}}$ and eccentricity $\\varepsilon = \\sqrt{1 + \\dfrac{2EL^{2}}{G^{2}M^{2}m^{3}}}$\n\n$L$ is the angular momentum and $E$ is the total mechanical energy.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/lk-2015-q21-1.png\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/lk-2015-q21-2.png",
+     "paper_label": "Part B"
+    },
+    {
+     "day": 2,
+     "number": 22,
+     "problem": "It is well known that most stars form binary systems. One type of binary system consists of an ordinary star with mass $m_0$ and radius $R$, and a more massive, compact neutron star with mass $M$, rotating around each other. In all the following ignore the motion of the earth. Observations of such a binary system reveal the following information:\n\n- The maximum angular displacement of the ordinary star is $\\Delta\\theta$, whereas that of the neutron star is $\\Delta\\phi$ (see Fig. 1).\n- The time it takes for these maximum displacements is $\\tau$.\n- The radiation characteristics of the ordinary star indicate that its surface temperature is $T$ and the radiated energy incident on a unit area on earth's surface per unit time is $P$.\n- The calcium line in this radiation differs from its normal wavelength $\\lambda_0$ by an amount $\\Delta\\lambda$, due only to the gravitational field of the ordinary star. (For this calculation the photon can be considered to have an effective mass of $h/c\\lambda$.)\n\nFind an expression for the distance from earth to this system ($l$), only in terms of the observed quantities and universal constants.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/lk-2015-q22-1.png",
+     "paper_label": "Part B"
+    },
+    {
+     "day": 2,
+     "number": 23,
+     "problem": "M 100 is a one of the largest and brightest galaxy in Virgo cluster of galaxies. It is located in the constellation of Coma Berenices in the night sky. It is classified as SAB(s) bc category and identified as a spiral galaxy with an Active Galactic Nucleus.\n\nA research was organized for determination the distance to M 100 using three distance indicators, which are individual for each other.\n\na. During the first method, distance was calculated by using the spectroscopic shift of ionized H$\\alpha$ line and cosmological redshift phenomena. Frequency of shifted H$\\alpha$ line in the spectrum was measured as $454.73\\ \\mathrm{THz}$. Hubble time, when the galaxy emitted these light photons was $1.26\\times10^{10}$ years\n\ni) Calculate distance to the Galaxy ($d_a$) in units of Mpc ($1\\ \\mathrm{pc} = 3.26$ Light years, $C = 3\\times10^{8}\\ \\mathrm{m\\,s^{-1}}$)\n\n- You should use Hubble time in the paragraph in order to find Hubble constant. You are not allowed to use the value of Hubble constant at the beginning of this paper.\n\nii) Express the ($d_a$) value in units of Light years and (Au)\n\nb. During the second method, distance was determined by using a Cepheid variable star which is named as C39 in M 100. C39 is classified as classical Cepheid class I. Light curve via V-band of the C39 was plotted by photometric measurements. (graph 1)\n\n- X-axis of (graph 1) depicts the Phase of the variable star. Phase $= 0 \\rightarrow 2$ is equal to $57.6$ days\n- Relationship between Absolute visual magnitude (V-band) and time periods can be written as follows,\n\n$$M_v = -2.76\\left[\\log_{10}(P) - 1.0\\right] - 4.16$$\n\n- All the terms of above equation have their general meanings.\n\ni) Find the distance modulus by analyzing the graph and using above equation.\n\nii) Using the value of the distance modulus, Calculate the distance to the galaxy ($d_b$) in units of Mpc.\n\nc. During the third method, used distance indicator was the Type 1a supernova explosion ($SN2006X$) which is occurred in M 100 galaxy in 2006. It is the brightest supernova explosion which is ever reported in M 100. Peak visual magnitude (V-band) of $SN2006X$ was ($+13.0$).\n\nA typical cataclysmic variable star which exceeds Chandrasekar limit, is exploded as Type 1a supernova with absolute (V-band) magnitude $= (-19.3)$.\n\ni) Using above data and information on $SN2006X$, calculate the distance to the galaxy ($d_c$) in units of Mpc.\n\nd. Using statistical analysis of above three distances ($d_a, d_b, d_c$) that you have calculated Calculate:\n\ni) The average distance to M 100\n\nii) Standard Deviation ($S$)\n\n$$S = \\sqrt{\\frac{\\sum (x - \\bar{x})^{2}}{n - 1}}$$\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/lk-2015-q23-1.png",
+     "paper_label": "Part B"
+    },
+    {
+     "day": 2,
+     "number": 24,
+     "problem": "Solar Dynamic Observatory (SDO) launched in 2010 has given the astronomers the opportunity to monitor the solar interior, chromosphere, and corona with high spatial and temporal resolution. SDO's Atmospheric Imaging Assembly (AIA) is the major instrument that enables this task. A single AIA telescope has a field of view (FOV) approximately $41$ arc minutes. The instrument was designed to achieve a spatial resolution of $0.6''$ per pixel. CCD cameras used in AIA have a pixel size of $12$ micro meters.\n\na) Two types of CCD cameras were available to NASA during the development of AIA: Type A with dimensions $2048\\times2048$ px and type B with dimensions $4096\\times4096$ px. Using the above data determine which type best suits to fit in AIA? Also find the focal length of the telescope.\n\nb) Figure shows the point spread function of a point source that casted on the ccd on a particular day. By referring to the figure, find the astronomical seeing on the particular day on which the image was taken.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/lk-2015-q24-1.png",
+     "paper_label": "Part B"
+    },
+    {
+     "day": 2,
+     "number": 25,
+     "problem": "This question consists of a full sky charts in Alt-Azimuth coordinates, showing the sky of a month in this year. On the chart different objects are marked in different numbering systems: constellations are noted in uppercase letters; stars are noted in Arabic numeral and deep sky objects are noted in lowercase letters. The table contains 5 stars, 5 constellations and 5 deep sky objects to be marked on the sky map.\n\n(A) Mark the for directions (N,S,E,W) on the star chart.\n\n(B) Make a rough sketch of the Ecliptic and the celestial equator on the star chart.\n\n(C) Mark five constellations, five deep sky objects, 5 stars on the map as given in the following chart.\n\n$$\\begin{array}{|c|l|c|l|c|l|} \\hline \\text{A} & \\text{Lyra} & (1) & \\text{Vega} & \\text{a} & \\text{Lagoon Nebula M8} \\\\ \\text{B} & \\text{Libra} & (2) & \\text{Denab} & \\text{b} & \\text{Andromeda Galaxy M31} \\\\ \\text{C} & \\text{Cygnus} & (3) & \\text{Altair} & \\text{c} & \\text{Dumbbell Nebula M27} \\\\ \\text{D} & \\text{Aquarius} & (4) & \\text{Antares} & \\text{d} & \\text{Hercules Globular Cluster M13} \\\\ \\text{E} & \\text{Cassiopeia} & (5) & \\text{Fomalhaut} & \\text{e} & \\text{Wild Duck Cluster M11} \\\\ \\hline \\end{array}$$\n\n(D) Give the approximate horizontal coordinates (altitude and azimuth) of the given objects O1 and O2.\n\n(E) Consider Saturn in the following star map and answer the questions (steps are required)\n\nGeographical longitude of the observer: $80.7^\\circ\\mathrm{E}$\n\nObserved Time: 20h\n\nLocal sidereal Time: 19h\n\nRight ascension of Saturn: 15h 50m\n\na. What was the Local Hour Angle of Saturn (at this time)?\n\nb. At what time was Saturn on the meridian at this location?\n\nc. At what time was Saturn on the meridian at Greenwich?\n\nChart I - Night Sky\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/lk-2015-q25-1.png",
+     "paper_label": "Part B"
+    }
+   ]
+  },
+  {
+   "year": 2016,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "The sun has three major zones in its interior. What are those three zones (listed from center of the sun outward)?\n\nUseful information given with the paper:\n- Speed of light $c = 3\\times10^{8}\\ \\mathrm{m\\,s^{-1}}$\n- Universal gravitational constant $G = 6.67\\times10^{-11}\\ \\mathrm{m^{3}\\,kg^{-1}\\,s^{-2}}$\n- Solar mass $M_\\odot = 2\\times10^{30}\\ \\mathrm{kg}$\n- Hubble constant $H = 75\\ \\mathrm{km\\,s^{-1}\\,Mpc^{-1}}$\n- Mass of electron $m_e = 9.11\\times10^{-31}\\ \\mathrm{kg}$\n- Wien's displacement constant $= 2.898\\times10^{-3}\\ \\mathrm{m\\,K}$\n- Stefan-Boltzmann constant $= 5.67\\times10^{-8}\\ \\mathrm{W\\,m^{-2}\\,K^{-4}}$\n\n(A) Core, Mantle, Crust\n(B) Core, Convective Zone, Radiative Zone\n(C) Core, Radiative Zone, Convective Zone\n(D) Convective Zone, Radiative Zone, Chromosphere\n(E) Radiative zone, Convective Zone, Core",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "Given a star of 70 solar masses and 20 solar radii, what type of star is this?\n\n(A) Main Sequence\n(B) Giant\n(C) Dwarf\n(D) Neutron Star\n(E) Supergiant",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "The latitude and longitude of Delhi are $28.61$ degrees N and $77.21$ degrees E, respectively. A star at which of the following declinations never rises over the horizon in Delhi?\n\n(A) $60$ degrees\n(B) $45$ degrees\n(C) $0$ degrees\n(D) $-45$ degrees\n(E) $-60$ degrees",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "The semi-major axis of an asteroid in the asteroid belt is 3 AU. What is its orbital period, in years?\n\n(A) $9.0$\n(B) $5.2$\n(C) $27.0$\n(D) $2.1$\n(E) $3.0$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "The mean orbital velocity of Jupiter is $13.1\\ \\mathrm{km/s}$, its mass is $1.9\\times10^{27}\\ \\mathrm{kg}$, and its orbit has a semi-major axis of $7.9\\times10^{8}\\ \\mathrm{km}$. Compute the angular momentum in SI units (Joule-seconds).\n\n(A) $9.0\\times10^{42}$\n(B) $2.6\\times10^{47}$\n(C) $1.6\\times10^{55}$\n(D) $2.0\\times10^{43}$\n(E) $2.5\\times10^{35}$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "problem": "What object is left at the middle of a planetary nebula, and what is the largest mass at which this object can exist?\n\n(A) White dwarf, 1.4 solar masses\n(B) White dwarf, 3.0 solar masses\n(C) Neutron star, 1.4 solar masses\n(D) Neutron star, 3.0 solar masses\n(E) Solar system, 3.0 solar masses",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 7,
+     "problem": "What causes the \"Kirkwood Gaps\" found in the asteroid belt?\n\n(A) Mars\n(B) Jupiter\n(C) Saturn\n(D) Uranus\n(E) Solar wind",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 8,
+     "problem": "Calculate the escape velocity of a planet with twice the mass and 1/3 the radius of Earth.\n\n(A) $9.2\\ \\mathrm{km/s}$\n(B) $11.2\\ \\mathrm{km/s}$\n(C) $13.7\\ \\mathrm{km/s}$\n(D) $21.2\\ \\mathrm{km/s}$\n(E) $27.4\\ \\mathrm{km/s}$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 9,
+     "problem": "What size telescope is required to resolve Hellas Planitia (a $2{,}300\\ \\mathrm{km}$ wide crater) on Mars through a V-band filter (effective wavelength $= 550\\ \\mathrm{nm}$) when Mars is $54.6$ million km away from Earth?\n\n(A) $34.8\\ \\mathrm{mm}$\n(B) $26.1\\ \\mathrm{mm}$\n(C) $15.9\\ \\mathrm{mm}$\n(D) $10.6\\ \\mathrm{mm}$\n(E) $7.7\\ \\mathrm{mm}$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 10,
+     "problem": "When taking the spectrum of a galaxy with redshift $z = 1$, the H-alpha line ($\\lambda = 656\\ \\mathrm{nm}$) appears at what wavelength?\n\n(A) $656.5\\ \\mathrm{nm}$\n(B) $326\\ \\mathrm{nm}$\n(C) $656\\ \\mathrm{nm}$\n(D) $657\\ \\mathrm{nm}$\n(E) $1312\\ \\mathrm{nm}$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 11,
+     "problem": "Which of the following Messier objects is grouped incorrectly with its type and constellation?\n\n(A) M4, globular cluster, Scorpius\n(B) M27, spiral galaxy, Sagittarius\n(C) M42, emission nebula, Orion\n(D) M57, planetary nebula, Lyra\n(E) M87, elliptical galaxy, Virgo",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 12,
+     "problem": "The famous Halley's comet appeared in the night sky in 1986. The semi-major axis of its orbit is $17.8\\ \\mathrm{AU}$. When is it going to return next?\n\n(A) $2023$\n(B) $2061$\n(C) $2064$\n(D) $2093$\n(E) $2065$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 13,
+     "problem": "Eddington limit of a star can be calculated by using following equation\n\n$$L_{Edd} = \\frac{4\\pi G m_p C}{\\sigma_T}$$\n\nEach term of above equation represents its general meaning.\n\nMass of the Crab pulsar is $1.4\\ M_\\odot$ and it lies $2200\\ \\mathrm{pc}$ away from Earth. Mass of a proton is $1.67\\times10^{-27}\\ \\mathrm{kg}$, $\\sigma_T = 6.65\\times10^{-29}\\ \\mathrm{m^{2}}$. What is the brightness (flux density OR intensity) of Crab pulsar which can be observed by an observer in Earth at its maximum Luminosity.\n\n(A) $3\\times10^{-5}\\ \\mathrm{W\\,m^{-2}}$\n(B) $3\\times10^{-10}\\ \\mathrm{W\\,m^{-2}}$\n(C) $3\\times10^{-15}\\ \\mathrm{W\\,m^{-2}}$\n(D) $3\\times10^{-20}\\ \\mathrm{W\\,m^{-2}}$\n(E) $1.5\\times10^{-5}\\ \\mathrm{W\\,m^{-2}}$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 14,
+     "problem": "Hot flares of $100\\ \\mathrm{MeV}$ in the Crab nebula were observed by FERMI space telescope. What can be the wavelength that was used by the telescope for this observation?\n\n(a) $5.00\\times10^{-12}\\ \\mathrm{m}$\n(b) $5.00\\times10^{-14}\\ \\mathrm{m}$\n(c) $2.00\\times10^{-12}\\ \\mathrm{m}$\n(d) $1.24\\times10^{-12}\\ \\mathrm{m}$\n(e) $1.24\\times10^{-14}\\ \\mathrm{m}$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 15,
+     "problem": "Diameter of a globular cluster is $2\\ \\mathrm{pc}$. It has totally $10^{7}$ number of stars. What is the maximum distance limit which Hubble Space Telescope with $2.4\\ \\mathrm{m}$ aperture ought to resolve individual stars within the cluster? (Assume that all stars in the cluster are distributed in a same plane ($i = 90^\\circ$) and separated from equal distance). Mean wavelength of white light is $5000\\ \\mathring{A}$.\n\n(A) $2\\ \\mathrm{pc}$\n(B) $20\\ \\mathrm{pc}$\n(C) $200\\ \\mathrm{pc}$\n(D) $2000\\ \\mathrm{pc}$\n(E) $20\\,000\\ \\mathrm{pc}$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 16,
+     "problem": "Figure (A) depicts a light curve of a Type 1 Cepheid variable star. If the Sun has Absolute magnitude of $M = 5.0$, find distance to the Cepheid variable star described by the light curve in figure (A). Figure (B) depicts the graph of Luminosity-Period relationship in Cepheid variable stars.\n\n(A) $2\\ \\mathrm{pc}$\n(B) $20\\ \\mathrm{pc}$\n(C) $200\\ \\mathrm{pc}$\n(D) $2000\\ \\mathrm{pc}$\n(E) Given data is not enough to solve\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/lk-2016-q16-1.png",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 17,
+     "problem": "Zubeneschamali ($\\beta$ Librae) belongs to the type of B$_8$V. Its luminosity is $130\\ L_\\odot$ and apparent magnitude $V = 2.6$. What is the distance to the star Zubeneschamali? $1\\ \\mathrm{pc} = 206265\\ \\mathrm{AU}$, Visual magnitude of the Sun is $-26.7$\n\n(A) $10\\ \\mathrm{pc}$\n(B) $20\\ \\mathrm{pc}$\n(C) $30\\ \\mathrm{pc}$\n(D) $40\\ \\mathrm{pc}$\n(E) $200\\ \\mathrm{pc}$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 18,
+     "problem": "A primordial Hydrogen gas cloud that has intrinsic diameter $1.00\\times10^{5}$ Light years has distance of 15 billion Light years from Earth. It imprints a bright hot spot of $1.34\\times10^{-5}\\ \\mathrm{rad}$ on CMBR all-sky map. With respect to this observation, what is the correct statement about the Curvature ($u$) and declaration parameter ($q$) of Universe? (Assume that density parameter of the Dark Energy is a constant which is independent from time).\n\n$$\\begin{array}{c|c|c} & \\text{space curvature } (u) & \\text{deceleration parameter } (q) \\\\ \\hline \\text{(a)} & 0 & q = \\frac12 \\\\ \\text{(b)} & + & q > \\frac12 \\\\ \\text{(c)} & + & q < \\frac12 \\\\ \\text{(d)} & - & q < \\frac12 \\\\ \\text{(e)} & - & q = \\frac12 \\end{array}$$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 19,
+     "problem": "Critical density and the density parameter of Dark Energy ($\\Omega_\\Lambda$) in present day universe are $1.0\\times10^{-26}\\ \\mathrm{kg\\,m^{-3}}$ and $0.7$, respectively. What should be the value of Declaration parameter ($q$) if the radiation density is negligible when compared with the matter density of Universe? Matter density of universe is given by the following equation.\n\n$$\\rho_m = \\frac{3H_0^{2}q}{4\\pi G}$$\n\n(A) $0.05$\n(B) $0.01$\n(C) $0.14$\n(D) $0.27$\n(E) $0.30$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 20,
+     "problem": "What is the value of Cosmic Scale Factor in a galaxy which has a cosmological redshift of $Z = 1.5$ when it emitted light photons which we use to observe it today? (Consider the cosmic scale factor at present as $1.0$)\n\n(A) $0.1$\n(B) $0.4$\n(C) $0.6$\n(D) $2.5$\n(E) $10$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 2,
+     "number": 21,
+     "problem": "An experiment was designed to measure the effective Field Of View (FOV) of photographs taken by a new SBIG ST-8300M monochrome CCD camera which is connected to a Celestron C 1400 telescope [$14''$ ($356\\ \\mathrm{mm}$) aperture and $f/11$] that is located in a space laboratory orbiting in the Geo-stationary orbit. The camera is connected to the telescope with a 5X Barlow lens. They have used orbital movements of Galilean satellites to fulfil this task. Here, you have been provided 10 selectively edited photographs (Pic 1-10) among 4800 photographs which were taken within 2010/10/18 and 2010/10/25\n\n- When they analyzed 4800 numbers of photographs, they could find that any of the Galilean satellite except \"D\" was not able to entirely move off FOV of the telescope\n\nA)\n\n1. Identify Galilean satellites in these photographs which are labeled as A,B,C,D by analyzing them.\n\n2. According to these photographs, FOV of the photographs which are taken from the telescope equipped with the CCD, can be measured by using orbital movement of one Galilean satellite. What is that satellite?\n\n3. If the average distance between Earth and Jupiter within this period was $6.12\\times10^{8}\\ \\mathrm{km}$, Calculate the FOV of photographs which was taken by the Telescope equipped with the CCD, by using orbital movement of the satellite that you mentioned in A) 2\n\n- Distances from Jupiter to Galilean satellites are given in Table 1.\n\n$$\\begin{array}{|l|c|} \\hline \\text{Galilean Satellite} & \\text{Average distance from Jupiter (km)} \\\\ \\hline \\text{Io} & 4.21\\times10^{5} \\\\ \\text{Europa} & 6.70\\times10^{5} \\\\ \\text{Ganymede} & 1.07\\times10^{6} \\\\ \\text{Callisto} & 1.88\\times10^{6} \\\\ \\hline \\end{array}$$\n\nTable 1\n\nB)\n\n1. What is the special astronomical event which was captured in \"Pic (8)\"?\n\n2. One scientist thought to find the true diameter of Galilean satellite that you identified in A 2). He calculated number of pixels along the diameter of that satellite using a software called \"CCDOps\". There was 31 pixels along the diameter of that Galilean satellite in Pic (8). Calculate the true diameter of that Galilean satellite using following technical specifications of SBIG ST-8300M CCD camera.\n\nSBIG ST-8300M (Monochromatic CCD Camera): CCD Chip $=$ Truesense KAF-8300; Pixel array $= 3326\\times2504$; Chip size $= 17.96\\times13.52\\ \\mathrm{mm}$; Pixel size $= 5.4\\ \\mu\\mathrm{m}$\n\nAssumptions:-\n\n- That Galilean satellite is a symmetric sphere and it has same equatorial and polar diameters.\n- Distance from the Earth to that Satellite is equal to the distance from the Earth to Jupiter.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/lk-2016-q21-1.png\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/lk-2016-q21-2.png\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/lk-2016-q21-3.png",
+     "paper_label": "Part B"
+    },
+    {
+     "day": 2,
+     "number": 22,
+     "problem": "Figure 2 in this question is a photograph of CL0024+1654, a cluster of galaxy which acts as a gravitational lens that is located in Constellation Pisces. It has a redshift ($Z$) $= 0.39$. Distance to the galaxy (which is appeared as refraction images) labeled as \"$\\mathrm{X}$\" in this image is found to be $2543.2\\ \\mathrm{Mpc}$\n\nFigure 1 in this question depicts a point gravitational lens that has a spherical symmetry with mass $M$ bends the light rays in deflection angle of $\\alpha$. The relation between gravitational deflection angle and the mass of the lens can be given as follows, ($\\alpha$ is considered as very small angle)\n\n$$\\alpha = \\frac{4GM}{hC^{2}}$$\n\nPlanck constant $= 6.63\\times10^{-34}\\ \\mathrm{J\\,s}$\n\nIn Figure 2, $\\mathrm{O}$ = the observer / $\\mathrm{S}$ = Source / $\\mathrm{S_1}$ = Gravitational refraction image of S\n\n$\\mathrm{L}$ = Point gravitational Lens / $h$ = Impact Parameter (which is known as distance from the lens mass $M$ to the intersection of the undeflected light ray with the lens plane.\n\n$\\alpha$, $\\beta$, $\\gamma$ angles in this question is very small. Therefore $\\tan\\theta \\approx \\theta$\n\n1. Derive the following equation which gives the angular position of the $\\mathrm{S_1}$ image ($\\theta$) with respect to the straight line between the Lens and the observer.\n\n$$\\theta^{2} = \\left(\\frac{4GM(D_S - D_L)}{C^{2}D_S D_L}\\right) + \\beta\\theta$$\n\n2. When the gravitation lens (L), the source (S) and the observer (O) are perfectly aligned with each other along a straight line ($\\beta = 0$), it creates a ring-like image which is known as Einstein Ring. Derive an equation for the angular radius of this Einstein ring (Einstein radius $= \\theta_E$) using above equation in 1.\n\n3. Radius of the Einstein ring in CL0024+1654 was measured as ($\\theta_E$) $= 2.75\\times10^{-4}$ rad. Can we observe this ring by resolving it through the Hubble space telescope with $2.4\\ \\mathrm{m}$ diameter using the Visual wavelengths? (Average wavelength of white light is $5000\\ \\mathring{A}$)\n\n4. Calculate the mass of CL0024+1654 galactic cluster which consists the gravitational lens using above information.\n\n5. Photometric observation revealed that the galactic cluster has a mass $2\\times10^{9}\\ M_\\odot$. What may be the reason for this deviation of two values? (Mass of the Sun $= 2\\times10^{30}\\ \\mathrm{kg}$)\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/lk-2016-q22-1.png\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/lk-2016-q22-2.png",
+     "paper_label": "Part B"
+    },
+    {
+     "day": 2,
+     "number": 23,
+     "problem": "Suppose that you are on an Earth-like planet for a vacation as an invitation of your alien friend. You may have done following observations.\n\n- A day of this planet is much shorter than its year. The location you are staying ($\\mathrm{A}$) is located on the northern hemisphere of this planet.\n- The minimum angle which its sun (the parent star) appears from the zenith at ($\\mathrm{A}$) is $10^\\circ$. In this day, its sun is located on the meridian and southward to the zenith at ($\\mathrm{A}$).\n- The maximum angle between the zenith at ($\\mathrm{A}$) and its sun when it crosses the meridian is $90^\\circ$. In this day, its sun is located on the meridian and southward to the zenith at ($\\mathrm{A}$). These are the extremes over the course of the year of this planet.\n\n1. By considering above observations, find;\n\n(i) The Latitude of ($\\mathrm{A}$) on the planet.\n\n(ii) Axial tilt of the planet.\n\n2. The house of your alien friend is situated at the same Longitude but $1000\\ \\mathrm{km}$ southward to the location ($\\mathrm{A}$). That place is known as ($\\mathrm{B}$). In one day of each year, when the sun is located on ($\\mathrm{A}$)'s meridian and at the minimum angular separation from zenith of ($\\mathrm{A}$), The Summer Solstice is directly overhead of the ($\\mathrm{B}$). Find the radius of this planet.\n\n3. With a spectrograph, you determine that the star is a K type dwarf star. If the length of the year in this planet is 31 Earth days, calculate the semi-major axis of the planet's orbit. (Mean mass of a K type dwarf star is $0.6\\ M_\\odot$ and a year in earth corresponds to 365 earth days)\n\n4. Luminosity of a K type dwarf star is $0.1\\ L_\\odot$. Albedo of this planet is equal to $0.30$ which is the average albedo of the Earth. Estimate surface temperature of the planet, assuming that there is no any greenhouse effect. (Luminosity of THE SUN (In our Solar System) is $3.85\\times10^{26}\\ \\mathrm{W}$, Stefan-Boltzmann constant $= 5.67\\times10^{-8}\\ \\mathrm{W\\,m^{-2}\\,K^{-4}}$)\n\n5. The place ($\\mathrm{A}$) is situated on top of a mountain which has an elevation of $6000\\ \\mathrm{m}$ from the sea level of that planet. If the atmospheric refraction of starlight at the horizon is $24'$, what is the minimum declination for a star, to be seen marginally circumpolar for this location, ($\\mathrm{A}$). (Assume that the planet is a symmetric sphere)",
+     "paper_label": "Part B"
+    },
+    {
+     "day": 2,
+     "number": 24,
+     "problem": "Stars reach break-up speed when they are rotating so fast the centripetal acceleration at the equator equals the gravitational acceleration (or, from the viewpoint of a rotating non-inertial observer: when the centrifugal acceleration exceeds the acceleration due to gravity, $g$). This is a good physical limit on the expected rotation speed for compact stellar remnants.\n\nCalculate the rotation period of a $1.4\\ M_\\odot$ neutron star with a radius of $10\\ \\mathrm{km}$. Assume the star remains spherical",
+     "paper_label": "Part B"
+    },
+    {
+     "day": 2,
+     "number": 25,
+     "problem": "One of the advantages of having many test particles orbiting a parent mass (planet, or star) is that more sophisticated methods of mass determination become available because you have more data to work with. This exercise will verify that Kepler III and Newton gravitational law applies to the Galilean satellites around Jupiter, and will produce an estimate of the mass of Jupiter\n\na. Using the above table, create a graph of $\\log(p)$ vs. $\\log(a)$\n\n$$\\begin{array}{|l|c|c|} \\hline \\text{Name of moons} & P = \\text{Orbital period (days)} & a = \\text{Semi major axis (m)} \\\\ \\hline \\text{Io} & 1.77 & 4.2\\times10^{8} \\\\ \\text{Europa} & 3.55 & 6.7\\times10^{8} \\\\ \\text{Ganymede} & 7.15 & 1.1\\times10^{9} \\\\ \\text{Callisto} & 16.7 & 1.9\\times10^{9} \\\\ \\hline \\end{array}$$\n\nb. Find the formulae for above graph.\n\nc. From the graph, show that the slope of the best-fit straight line through the data is 3/2 of the value obtained form $G(m_1 + m_2) = \\dfrac{4\\pi^{2}a^{3}}{P^{2}}$ .\n\nd. Calculate the mass of Jupiter from the y-intercept of your graph.",
+     "paper_label": "Part B"
+    }
+   ]
+  },
+  {
+   "year": 2017,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "Cosmological redshift is the result of the\n\nUseful information given with the paper:\n- Speed of light $c = 3\\times10^{8}\\ \\mathrm{m\\,s^{-1}}$\n- Universal gravitational constant $G = 6.67\\times10^{-11}\\ \\mathrm{m^{3}\\,kg^{-1}\\,s^{-2}}$\n- Solar mass $M_\\odot = 1.99\\times10^{30}\\ \\mathrm{kg}$\n- Hubble constant $H = 75\\ \\mathrm{km\\,s^{-1}\\,Mpc^{-1}}$\n- Mass of electron $m_e = 9.11\\times10^{-31}\\ \\mathrm{kg}$\n- Wien's displacement constant $= 2.898\\times10^{-3}\\ \\mathrm{m\\,K}$\n- Stefan-Boltzmann constant $= 5.67\\times10^{-8}\\ \\mathrm{W\\,m^{-2}\\,K^{-4}}$\n\n(A) expansion of the universe.\n(B) supermassive black holes.\n(C) galaxies speeding away from us.\n(D) Tully-Fisher relation.\n(E) nuclear reaction",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "For main sequence stars, the general rule is: the higher the surface temperature, the\n\n(A) less luminous are the stars.\n(B) more luminous are the stars.\n(C) greater the masses of the stars.\n(D) more common are binary stars.\n(E) none of the answers are correct..",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "In which part of the Milky Way are Population I stars like the sun most likely to be found?\n\n(A) bulge.\n(B) nucleus.\n(C) halo\n(D) disk.\n(E) no specific place",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "The oldest star clusters are\n\n(A) globular clusters.\n(B) galactic clusters.\n(C) open clusters.\n(D) the Pleiades.\n(E) all are in same age",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "Zubeneschamali ($\\beta$ Librae) belongs to the type of B$_8$V. Its luminosity is $130\\ L_\\odot$ and apparent magnitude $V = 2.6$. What is the distance to the star Zubeneschamali? $1\\ \\mathrm{pc} = 206265\\ \\mathrm{Au}$, Visual magnitude of the Sun is ($-26.7$) .\n\n(A) $10\\ \\mathrm{pc}$\n(B) $20\\ \\mathrm{pc}$\n(C) $30\\ \\mathrm{p}$\n(D) $40\\ \\mathrm{pc}$\n(E) $200\\ \\mathrm{pc}$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "problem": "The type of telescope shown by a ray diagram in this figure is\n\n(A) Newtonian\n(B) Cassegrain\n(C) Coude\n(D) Maksukov\n(E) Schmidt Cassegrain\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/lk-2017-q6-1.png",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 7,
+     "problem": "A K star on the main sequence has the luminosity of $0.4L_\\odot$. This star is observed to have a flux of $6.23\\times10^{-34}\\ \\mathrm{W\\,m^{-2}}$. What is the distance to this star? You may neglect the atmospheric effects. (Luminosity of the Sun $L_\\odot = 3.96\\times10^{26}\\ \\mathrm{J\\,s^{-1}}$).\n\n(A) $23\\ \\mathrm{pc}$\n(B) $125\\ \\mathrm{pc}$\n(C) $310\\ \\mathrm{pc}$\n(D) $453\\ \\mathrm{pc}$\n(E) $658\\ \\mathrm{pc}$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 8,
+     "problem": "Of the following, which main sequence star has a longer life expectancy than the Sun?\n\n(A) Spectral type B9.\n(B) Spectral type K2.\n(C) Spectral type A7.\n(D) Spectral type O5.\n(E) Spectral type F4.",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 9,
+     "problem": "Figure (A) depicts a light curve of a Type 1 Cepheid variable star. If the Sun has Absolute magnitude of $M = 5.0$, find distance to the Cepheid variable star described by the light curve in figure (A). Figure (B) depicts the graph of Luminosity-Period relationship in Cepheid variable stars.\n\n(A) $2\\ \\mathrm{pc}$\n(B) $20\\ \\mathrm{pc}$\n(C) $200\\ \\mathrm{pc}$\n(D) $2000\\ \\mathrm{pc}$\n(E) Given data is not sufficient to solve\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/lk-2017-q9-1.png",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 10,
+     "problem": "The microwave background radiation has a spectrum which peaks at a wavelength of $1.1\\ \\mathrm{mm}$ and is identical in shape to that of a black body of temperature $2.7\\ \\mathrm{K}$. At what wavelength will the spectrum of the Star Sirius A (temperature $9940\\ \\mathrm{K}$) peak?\n\n(A) $9036\\ \\mathrm{nm}$\n(B) $335\\ \\mathrm{nm}$\n(C) $299\\ \\mathrm{nm}$\n(D) $34\\ \\mathrm{nm}$\n(E) $2580\\ \\mathrm{nm}$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 11,
+     "problem": "A telescope, observing in space at a wavelength of $800\\ \\mathrm{nm}$, has an aperture with a diameter of $5\\ \\mathrm{m}$. What is its angular resolution?\n\n(A) $1.95\\times10^{-7}$ arcsec\n(B) $4.03\\times10^{-2}$ arcsec\n(C) $1.95\\times10^{-1}$ arcsec\n(D) $1.6$ arcsec\n(E) $2.8$ arcsec",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 12,
+     "problem": "It is found that the orbital speed of an exoplanet around a star is $30\\ \\mathrm{km/s}$ and distance between the exoplanet and the star as $3\\times10^{11}\\ \\mathrm{m}$. What is the mass of the star ?\n\n(A) $4\\times10^{30}\\ \\mathrm{kg}$\n(B) $2\\times10^{30}\\ \\mathrm{kg}$\n(C) $2\\times10^{60}\\ \\mathrm{kg}$\n(D) $4\\times10^{60}\\ \\mathrm{kg}$\n(E) $9.1\\times10^{34}\\ \\mathrm{kg}$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 13,
+     "problem": "In the \"Great Debate\" between Curtis and Shapley, evidence that the sun is not near the center of the Milky Way was provided by the observation that\n\n(A) cepheids had been seen in other galaxies.\n(B) dust reddens star light.\n(C) most globular clusters are on one side of the sky.\n(D) spiral nebulae could be seen to rotate.\n(E) all the statements are incorrect.",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 14,
+     "problem": "A planet in an elliptical orbit around a star moves at $30\\ \\mathrm{km\\,s^{-1}}$ when at perihelion ($1\\ \\mathrm{AU}$ from star). What velocity will the planet have at aphelion ($3\\ \\mathrm{AU}$ from star)?\n\n(A) $10\\ \\mathrm{km\\,s^{-1}}$\n(B) $30\\ \\mathrm{km\\,s^{-1}}$\n(C) $90\\ \\mathrm{km\\,s^{-1}}$\n(D) $120\\ \\mathrm{km\\,s^{-1}}$\n(E) $156\\ \\mathrm{km\\,s^{-1}}$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 15,
+     "problem": "Matter falls onto the surface of a neutron star of mass 1 solar mass and radius $10\\ \\mathrm{km}$ at a rate of $10^{-9}$ solar masses per year. What is the luminosity of that system?\n\n(A) $1.32\\times10^{7}\\ \\mathrm{W}$\n(B) $1.47\\times10^{9}\\ \\mathrm{W}$\n(C) $1.32\\times10^{16}\\ \\mathrm{W}$\n(D) $4.7\\times10^{23}\\ \\mathrm{W}$\n(E) $8.3\\times10^{29}\\ \\mathrm{W}$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 16,
+     "problem": "Imagine that a galaxy had a very unusual mass distribution - all the mass was in two rings, centred on the nucleus but at two different radii. There was no mass inside the inner ring, between the two rings, or outside the outer ring. What would you expect the rotation curve to look like for this strange galaxy?\n\n(The choices (A)-(E) are shown in the figure.)\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/lk-2017-q16-1.png",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 17,
+     "problem": "The Sun will spend $1.2\\times10^{10}$ yr on the main sequence. Given that main sequence stars obey a mass-luminosity relationship of the form $L \\propto M^{3.5}$, what is the lifetime of a $2M_\\odot$ star?\n\n(A) $1.06\\times10^{9}\\ \\mathrm{yr}$\n(B) $6.0\\times10^{9}\\ \\mathrm{yr}$\n(C) $3.7\\times10^{9}\\ \\mathrm{yr}$\n(D) $2.06\\times10^{9}\\ \\mathrm{yr}$\n(E) $2.12\\times10^{9}\\ \\mathrm{yr}$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 18,
+     "problem": "If the parallax angle for Sirius is $0.377''$ find the distance modulus of Sirius.\n\n(A) $2.6525$\n(B) $-2.88$\n(C) $5.3$\n(D) $-1.4$\n(E) $400$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 19,
+     "problem": "For a star with $m_{bol} = 5.0$, the distance ($d$) was measured to be $64\\ \\mathrm{pc}$. The absolute bolometric magnitude ($M_{bol}$) of the star is\n\n(A) $1$\n(B) $2$\n(C) $3.5$\n(D) $-1.4$\n(E) $5$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 20,
+     "problem": "Hubble classified galaxies by their appearance. Which of the following types of galaxies do NOT fall on Hubble's tuning fork diagram?\n\n(A) Peculiar galaxies.\n(B) Spiral galaxies.\n(C) Elliptical galaxies.\n(D) Barred spiral galaxies.\n(E) None of the above answers.",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 2,
+     "number": 21,
+     "problem": "What do you understand by the escape velocity of a planet?\n\nImagine a planet having mass and radius half those of the earth. The surface temperature of the planet reaches up to $800\\ \\mathrm{K}$. Estimate whether there is a possibility of the presence of oxygen molecules in the planet's atmosphere. (Useful information: Escape velocity of earth $= 11.2\\ \\mathrm{km\\,s^{-1}}$, Boltzmann's constant $k = 1.38\\times10^{-23}\\ \\mathrm{J\\,K^{-1}}$ and the mass of an oxygen molecule $= 5.3\\times10^{-26}\\ \\mathrm{kg}$.)",
+     "paper_label": "Part B"
+    },
+    {
+     "day": 2,
+     "number": 22,
+     "problem": "The following graph shows absolute magnitude as a function of period for classical Cepheids in the Milky Way and other Local Group galaxies.\n\nAscertain the distance to the classical Cepheid variable star found in the Milky Way galaxy having the following light-curve.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/lk-2017-q22-1.png\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/lk-2017-q22-2.png",
+     "paper_label": "Part B"
+    },
+    {
+     "day": 2,
+     "number": 23,
+     "problem": "(a) The star Sirius ($\\alpha$ Canis Majoris) is the brightest star (other than the Sun) in the sky. It has an observed parallax of $p = 0.377''$. What is its distance from the Sun in parsecs?\n\n(b) Sirius is actually a binary star, with a faint companion. The apparent bolometric magnitude of the bright primary Sirius-A is $m_{(bol,A)} = -1.55$.\n\n(i) What is its absolute bolometric magnitude $M_{bol}$? Assuming the Sun has an absolute bolometric magnitude of $+4.75$, calculate the luminosity of Sirius (in solar units $L_{sun}$).\n\n(ii) The secondary Sirius-B has an apparent bolometric magnitude $m_{(bol,B)} = +5.69$. Calculate the absolute bolometric magnitude and luminosity of Sirius-B.\n\n(c) The orbit of the Sirius system is nearly edge-on to our line of sight, and has an observed orbital period of $49.94$ years. The relative orbit of the two stars is seen to have an apparent semi-major axis a of $7.62''$.\n\nCompute the orbital semi-major axis $a$ in AU, and thus use Kepler's 3rd Law to find the total mass $M$ of the system in terms of solar mass.",
+     "paper_label": "Part B"
+    },
+    {
+     "day": 2,
+     "number": 24,
+     "problem": "$B_m$ and $B_n$, ($n > m$) be the brightnesses of two stars having magnitudes $m$ and $n$ respectively, show that the relationship between their brightnesses and magnitudes can be given as\n\n$$\\frac{B_m}{B_n} = 10^{0.4(n-m)}$$\n\nHence show that the relationship between absolute magnitude $M$, apparent magnitude $m$ and the distance to a star $d$ in parsecs can be expressed as\n\n$$M = m + 5 - 5\\log d$$",
+     "paper_label": "Part B"
+    },
+    {
+     "day": 2,
+     "number": 25,
+     "problem": "Study the following image of the night sky at 9.00 p.m. on a certain day at a certain place and answer the following questions.\n\n(A) Mark all the four directions North, South East, West on the map.\n\n(B) Is this place in North of Colombo or South? (Answer: ................)\n\n(C) Mark and name 10 constellations on the given map.\n\n(D) Sketch rough band of ecliptic i.e. apparent path of the Sun, the Moon and all the planets in the sky.\n\n(E) In which month the sky will appear like this at this time? (Answer: ................)\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/lk-2017-q25-1.png",
+     "paper_label": "Part B"
+    }
+   ]
+  },
+  {
+   "year": 2018,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "The figure shows the values of an experiment which is similar to the experiment of Eratosthenes. According to the given values what is the circumference of Earth ?\n\nUseful information given with the paper:\n- Speed of light $c = 3\\times10^{8}\\ \\mathrm{m\\,s^{-1}}$\n- Universal gravitational constant $G = 6.67\\times10^{-11}\\ \\mathrm{m^{3}\\,kg^{-1}\\,s^{-2}}$\n- Solar mass $M_\\odot = 1.99\\times10^{30}\\ \\mathrm{kg}$\n- Hubble constant $H = 75\\ \\mathrm{km\\,s^{-1}\\,Mpc^{-1}}$\n- Mass of electron $m_e = 9.11\\times10^{-31}\\ \\mathrm{kg}$\n- Wien's displacement constant $= 2.898\\times10^{-3}\\ \\mathrm{m\\,K}$\n- Stefan-Boltzmann constant $= 5.67\\times10^{-8}\\ \\mathrm{W\\,m^{-2}\\,K^{-4}}$\n\n(A) $6207\\ \\mathrm{km}$\n(B) $3900\\ \\mathrm{km}$\n(C) $650\\ \\mathrm{km}$\n(D) $6500\\ \\mathrm{km}$\n(E) $46{,}250\\ \\mathrm{km}$\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/lk-2018-q1-1.png",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "What is the Sidereal Time at noon, December 21?\n\n(A) 18:00\n(B) 12:00\n(C) 12:04\n(D) 11:56\n(E) 13.00",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "Which is the constellation that would not be able to observe by a person who lives in Milan (Northern latitude $45^\\circ$)?\n\n(A) Orion\n(B) Scorpio\n(C) Auriga\n(D) Crux\n(E) Aris",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "Which of the following two coordinates cannot be used to locate a celestial object in the sky?\n\n(A) Declination and Right ascension\n(B) Altitude and Azimuth\n(C) Declination and Hour angle\n(D) Declination and altitude\n(E) Declination and Azimuth",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "The following shows a diagram of the constellation Pegasus and its nearby celestial objects. Answer the questions with regard to the diagram.\n\nWhat is the celestial object labeled by the letter $\\mathbf{A}$?\n\n(A) Alpheratz\n(B) Andromeda Galaxy\n(C) Mirach\n(D) Almach\n(E) Sun\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/lk-2018-q5-1.png",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "problem": "The following shows a diagram of the constellation Pegasus and its nearby celestial objects (see the diagram given with question 5).\n\nIn which direction should an observer gaze his eye towards Formalhuat (Brightest star in Pisces)\n\n(A) $1$\n(B) $2$\n(C) $3$\n(D) $4$\n(E) $3$ and $4$\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/lk-2018-q5-1.png",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 7,
+     "problem": "When a spectrum of a B2 star was analyzed, the H$_\\alpha$ line of its spectrum was absent. A spectrum of a B5 star with a same Luminosity shows a H alpha line of its spectrum. What is the most relevant statement to explain this phenomenon?\n\n(A) Energy of electrons in energy levels of Hydrogen atoms in B2 star is lower than those values of B5 star\n(B) There are no electrons in 2nd energy level of B2 star because of those electrons are shifted to stable states that have higher energy.\n(C) The electron density of B5 star is lower than the electron density of B2 star\n(D) Temperature of B2 star is higher than temperature of B5 star.\n(E) None of the above",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 8,
+     "problem": "A $5\\ M_\\odot$ star causes a gravitational red-shift (Einstein shift) such that a $500\\ \\mathrm{nm}$ photon is detected with a wavelength of $600\\ \\mathrm{nm}$. What is the radius of the Star in solar units?\n\n(A) $8.8\\ R_\\odot$\n(B) $5.8\\ R_\\odot$\n(C) $6.8\\ R_\\odot$\n(D) $21.6\\ R_\\odot$\n(E) $15\\ R_\\odot$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 9,
+     "problem": "Comet Hale Bopp had a perihelion distance of $0.9141\\ \\mathrm{AU}$ and eccentricity $0.9951$. What is the aphelion distance of the comet?\n\n(A) $407\\ \\mathrm{AU}$\n(B) $156\\ \\mathrm{AU}$\n(C) $372\\ \\mathrm{AU}$\n(D) $78\\ \\mathrm{AU}$\n(E) $24\\ \\mathrm{AU}$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 10,
+     "problem": "Cepheids vary in luminosity by up to a factor of 150. If this variation is only due to change in radii, the ratio of radii during maxima and minima is.\n\n(A) $15$\n(B) $20$\n(C) $150$\n(D) $225$\n(E) $12$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 11,
+     "problem": "When it is about the same distance from the Sun as is Jupiter, a spacecraft on a mission to the outer planets has the speed that is 1.5 times the speed of Jupiter in its orbit. Which of the following describes the orbit of the spacecraft about the Sun?\n\n(A) Spiral\n(B) Circle\n(C) Ellipse\n(D) Parabola\n(E) Hyperbola",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 12,
+     "problem": "Figure (A) depicts a light curve of a Type 1 Cepheid variable star. If the Sun has Absolute magnitude of $M = 5.0$, find distance to the Cepheid variable star described by the light curve in figure (A). Figure (B) depicts the graph of Luminosity-Period relationship in Cepheid variable stars.\n\n(A) $2\\ \\mathrm{pc}$\n(B) $20\\ \\mathrm{pc}$\n(C) $200\\ \\mathrm{pc}$\n(D) $2000\\ \\mathrm{pc}$\n(E) Given data is not enough to solve\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/lk-2018-q12-1.png",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 13,
+     "problem": "The mean orbital velocity of Jupiter is $13.1\\ \\mathrm{km/s}$, its mass is $1.9\\times10^{27}\\ \\mathrm{kg}$, and its orbit has a semi-major axis of $7.9\\times10^{8}\\ \\mathrm{km}$. What is its angular momentum, in SI units (Joule-seconds)?\n\n(A) $9.0\\times10^{42}$\n(B) $2.6\\times10^{47}$\n(C) $1.6\\times10^{55}$\n(D) $2.0\\times10^{43}$\n(E) $2.5\\times10^{35}$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 14,
+     "problem": "What object is left at the middle of a planetary nebula, and what is the largest mass at which this object can exist?\n\n(A) White dwarf, 1.4 solar masses\n(B) White dwarf, 3.0 solar masses\n(C) Neutron star, 1.4 solar masses\n(D) Neutron star, 3.0 solar masses\n(E) Solar system, 3.0 solar masses",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 15,
+     "problem": "Imagine that a galaxy had a very unusual mass distribution - all the mass was in two rings, centred on the nucleus but at two different radii. There was no mass inside the inner ring, between the two rings, or outside the outer ring. What would you expect the rotation curve to look like for this strange galaxy?\n\n(The choices (A)-(E) are shown in the figure.)\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/lk-2018-q15-1.png",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 16,
+     "problem": "Which c causes the \"Kirkwood Gaps\" found in the asteroid belt?\n\n(A) Mars\n(B) Jupiter\n(C) Saturn\n(D) Uranus\n(E) Solar wind",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 17,
+     "problem": "Calculate the escape velocity from a planet with twice the mass and 1/3 the radius of Earth .\n\n(A) $9.2\\ \\mathrm{km/s}$\n(B) $11.2\\ \\mathrm{km/s}$\n(C) $13.7\\ \\mathrm{km/s}$\n(D) $21.2\\ \\mathrm{km/s}$\n(E) $27.4\\ \\mathrm{km/s}$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 18,
+     "problem": "What size telescope is needed to resolve Hellas Planitia (a $2{,}300\\ \\mathrm{km}$ wide crater) on Mars through a v-band filter (effective wavelength $= 550\\ \\mathrm{nm}$) when Mars is $54.6$ million km from Earth?\n\n(A) $34.8\\ \\mathrm{mm}$\n(B) $26.1\\ \\mathrm{mm}$\n(C) $15.9\\ \\mathrm{mm}$\n(D) $10.6\\ \\mathrm{mm}$\n(E) $7.7\\ \\mathrm{mm}$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 19,
+     "problem": "When taking the spectrum of a galaxy with redshift $z = 1$, the H-alpha line ($\\lambda = 656\\ \\mathrm{nm}$) appears at what wavelength?\n\n(A) $32.6\\ \\mathrm{nm}$\n(B) $326\\ \\mathrm{nm}$\n(C) $656\\ \\mathrm{nm}$\n(D) $1312\\ \\mathrm{nm}$\n(E) $6563\\ \\mathrm{nm}$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 20,
+     "problem": "Which of the following Messier objects is grouped incorrectly with its type and constellation?\n\n(A) M4, globular cluster, Scorpius\n(B) M27, spiral galaxy, Sagittarius\n(C) M42, emission nebula, Orion\n(D) M57, planetary nebula, Lyra\n(E) M87, elliptical galaxy, Virgo",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 2,
+     "number": 21,
+     "problem": "This question consists of 3 tables and full sky charts in Alt-Azimuth coordinates, showing the sky of June 2018. On the chart different objects are marked in different numbering systems: constellations are noted in capital letters; stars are noted in Arabic numeral and deep sky objects are noted in small caps. The star chart contain 5 deep sky objects, 10 constellations and 10 stars, to be marked on tables I, II and III. Your task is to correctly address the objects in the tables.\n\nTable I - List of deep sky objects (a, b, c, d, e)\n\n$$\\begin{array}{lll} \\text{( ) AndromedaGalaxy} & \\text{( ) EtaCarinaeNebula} & \\text{( ) Perseus Double Cluster} \\\\ \\text{( ) Butterfly Cluster} & \\text{( ) GreatRift} & \\text{( ) Pleiades} \\\\ \\text{( ) Centaurus A} & \\text{( ) HelixNebula} & \\text{( ) Praesepe Cluster} \\\\ \\text{( ) Cone Nebula} & \\text{( ) Hercules Globular Cluster} & \\text{( ) RingNebula} \\\\ \\text{( ) CrabNebula} & \\text{( ) Lagoon Nebula - M8} & \\text{( ) Horse Head Nebula} \\\\ \\text{( ) DumbellNebula} & \\text{( ) OmegaCentauri Cluster} & \\text{( ) SmallMagellanicCloud} \\\\ \\text{( ) EagleNebula - M16} & \\text{( ) Orion Nebula} & \\text{( ) Ptolemy Cluster -M7} \\end{array}$$\n\nTable II - List of constellations (A, B, C, D, E, F, G, H, J, K)\n\n$$\\begin{array}{llll} \\text{( ) Andromeda} & \\text{( ) Antlia} & \\text{( ) Apus} & \\text{( ) Aquarius} \\\\ \\text{( ) Aquila} & \\text{( ) Ara} & \\text{( ) Aries} & \\text{( ) Auriga} \\\\ \\text{( ) Bootes} & \\text{( ) Caelum} & \\text{( ) Camelopardus} & \\text{( ) Cancer} \\\\ \\text{( ) CanesVenatici} & \\text{( ) Canis Major} & \\text{( ) Canis Minor} & \\text{( ) Capricornus} \\\\ \\text{( ) Carina} & \\text{( ) Cassiopeia} & \\text{( ) Centaurus} & \\text{( ) Cepheus} \\\\ \\text{( ) Cetus} & \\text{( ) Chamaeleon} & \\text{( ) Circinus} & \\text{( ) Columba} \\\\ \\text{( ) Coma Berenices} & \\text{( ) Corona Australis} & \\text{( ) Corona Borealis} & \\text{( ) Corvus} \\\\ \\text{( ) Crater} & \\text{( ) Crux} & \\text{( ) Cygnus} & \\text{( ) Delphinus} \\\\ \\text{( ) Dorado} & \\text{( ) Draco} & \\text{( ) Equuleus} & \\text{( ) Eridano} \\\\ \\text{( ) Fornax} & \\text{( ) Gemini} & \\text{( ) Grus} & \\text{( ) Hercules} \\\\ \\text{( ) Horologium} & \\text{( ) Hydra} & \\text{( ) Hydrus} & \\text{( ) Indus} \\\\ \\text{( ) Lacerta} & \\text{( ) Leo} & \\text{( ) Leo Minor} & \\text{( ) Lepus} \\\\ \\text{( ) Libra} & \\text{( ) Lupus} & \\text{( ) Lynx} & \\text{( ) Lyra} \\\\ \\text{( ) Mensa} & \\text{( ) Microscopium} & \\text{( ) Monoceros} & \\text{( ) Musca} \\\\ \\text{( ) Norma} & \\text{( ) Octans} & \\text{( ) Ophiuchus} & \\text{( ) Orion} \\\\ \\text{( ) Pavo} & \\text{( ) Pegasus} & \\text{( ) Perseus} & \\text{( ) Phoenix} \\\\ \\text{( ) Pictor} & \\text{( ) Pisces} & \\text{( ) PiscisAustrinus} & \\text{( ) Puppis} \\\\ \\text{( ) Pyxis} & \\text{( ) Reticulum} & \\text{( ) Sagitta} & \\text{( ) Sagitarius} \\\\ \\text{( ) Scorpius} & \\text{( ) Sculptor} & \\text{( ) Scutum} & \\text{( ) Serpens} \\\\ \\text{( ) Sextans} & \\text{( ) Taurus} & \\text{( ) Telescopium} & \\text{( ) Triangulum} \\\\ \\text{( ) TriangulumAustralis} & \\text{( ) Tucana} & \\text{( ) Ursa Major} & \\text{( ) Ursa Minor} \\\\ \\text{( ) Vela} & \\text{( ) Virgo} & \\text{( ) Volans} & \\text{( ) Vulpecula} \\end{array}$$\n\nTable III - List of stars (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11)\n\n$$\\begin{array}{llll} \\text{( ) Achernar} & \\text{( ) Atria} & \\text{( ) Fomalhaut} & \\text{( ) Pollux} \\\\ \\text{( ) Acrux} & \\text{( ) Avior} & \\text{( ) Gacrux} & \\text{( ) Procion} \\\\ \\text{( ) Adhara} & \\text{( ) Polaris} & \\text{( ) GammaVelorum} & \\text{( ) Regulus} \\\\ \\text{( ) Al Na'ir} & \\text{( ) Bellatrix} & \\text{( ) Hadar} & \\text{( ) Rigel} \\\\ \\text{( ) Aldebaran} & \\text{( ) Betelgeuse} & \\text{( ) Hamal} & \\text{( ) RigilKentaurus} \\\\ \\text{( ) Alhena} & \\text{( ) Canopus} & \\text{( ) KausAustralis} & \\text{( ) Sargas} \\\\ \\text{( ) Alioth} & \\text{( ) Capella} & \\text{( ) Menkaliman} & \\text{( ) Shaula} \\\\ \\text{( ) Alkaid} & \\text{( ) Castor} & \\text{( ) Miaplacidus} & \\text{( ) Sirius} \\\\ \\text{( ) Alnilan} & \\text{( ) Delta Velorum} & \\text{( ) Mirfak} & \\text{( ) Spica} \\\\ \\text{( ) Alphard} & \\text{( ) Deneb} & \\text{( ) Mirzam} & \\text{( ) Vega} \\\\ \\text{( ) Altair} & \\text{( ) DenebKaitos} & \\text{( ) Nunki} & \\text{( ) Wezen} \\\\ \\text{( ) Antares} & \\text{( ) Dubhe} & \\text{( ) Peacock} & \\text{( ) Saiph} \\\\ \\text{( ) Arcturus} & \\text{( ) El Nath} &  &  \\end{array}$$\n\nChart I - This month's Night Sky\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/lk-2018-q21-1.png",
+     "paper_label": "Part B"
+    },
+    {
+     "day": 2,
+     "number": 22,
+     "problem": "What do you understand by the escape velocity of a planet?\n\nImagine a planet having mass and radius half those of the earth. The surface temperature of the planet reaches up to $800\\ \\mathrm{K}$. Estimate whether there is a possibility of the presence of oxygen molecules in the planet's atmosphere.\n\n(Useful information: Escape velocity of earth $= 11.2\\ \\mathrm{km\\,s^{-1}}$, Boltzmann's constant $k = 1.38\\times10^{-23}\\ \\mathrm{J\\,K^{-1}}$ and the mass of an oxygen molecule $= 5.3\\times10^{-26}\\ \\mathrm{kg}$.)",
+     "paper_label": "Part B"
+    },
+    {
+     "day": 2,
+     "number": 23,
+     "problem": "The following figure shows an observer's view of the sky looking south. The observer's meridian is shown.\n\n(a) By thow many degrees does the Earth spin in one hour?\n\n(b) At 19.00 GMT ON December $15^{\\mathrm{th}}$, star A is crossing the observer's meridian indicate on the above figure the position of the star one hour later. Use the letter B.\n\n(c) On the above figure indicate the position of Star \"A\" at 19.00 GMT one month later. Use the letter \"C\".\n\n(d) The longitude of the observer is $3^\\circ$ East. At what time GMT would an observer at a longitude of $1^\\circ$ West observe star \"A\" crossing his/her meridian on December $15^{\\mathrm{th}}$. ?\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/lk-2018-q23-1.png",
+     "paper_label": "Part B"
+    },
+    {
+     "day": 2,
+     "number": 24,
+     "problem": "Stars reach break-up speed when they are rotating so fast the centripetal acceleration at the equator equals the gravitational acceleration (or, from the viewpoint of a rotating non-inertial observer :when the centrifugal acceleration exceeds the acceleration due to gravity, $g$) is a good physical limit on the expected rotation speed for compact stellar remnants Using this theroy show that the maximum rotation speed that a panet can have is $v = \\sqrt{\\dfrac{GM}{R}}$. Calculate the rotation period of a $1.4\\ M_\\odot$ neutron star with a radius of $10\\ \\mathrm{km}$. Assume the star remains spherical.",
+     "paper_label": "Part B"
+    },
+    {
+     "day": 2,
+     "number": 25,
+     "problem": "The following graph shows absolute magnitude as a function of period for classical Cepheids in the Milky Way and other Local Group galaxies.\n\nAscertain the distance to the classical Cepheid variable star found in the Milky Way galaxy having the following light-curve.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/lk-2018-q25-1.png\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/lk-2018-q25-2.png",
+     "paper_label": "Part B"
+    }
+   ]
+  },
+  {
+   "year": 2019,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "Parallax angle of $\\alpha$ Canis Majoris is $0.379''$. The distance to the star from the Sun,\n\nUseful information given with the paper:\n- Speed of light $c = 3\\times10^{8}\\ \\mathrm{m\\,s^{-1}}$\n- Universal gravitational constant $G = 6.67\\times10^{-11}\\ \\mathrm{m^{3}\\,kg^{-1}\\,s^{-2}}$\n- Solar mass $M_\\odot = 1.99\\times10^{30}\\ \\mathrm{kg}$\n- Hubble constant $H = 75\\ \\mathrm{km\\,s^{-1}\\,Mpc^{-1}}$\n- Mass of electron $m_e = 9.11\\times10^{-31}\\ \\mathrm{kg}$\n- Wien's displacement constant $= 2.898\\times10^{-3}\\ \\mathrm{m\\,K}$\n- Stefan-Boltzmann constant $= 5.67\\times10^{-8}\\ \\mathrm{W\\,m^{-2}\\,K^{-4}}$\n\n(A) $12.7$ light years\n(B) $8.6$ light years\n(C) $17.2$ light years\n(D) $9.2$ light years\n(E) $1.2$ light years",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "Following five stars have the same magnitude (Shown by the arrow) of velocity seen from Earth. Which one it has the highest radial velocity Component.\n\n(The choices (A)-(E) are shown in the figure.)\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/lk-2019-q2-1.png",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "Let $m^{*}$ be the apparent magnitude of a star, if there wasn't any interstellar medium. And let $m$ be the measured apparent magnitude of the same star. Then the value $m - m^{*}$ is called,\n\n(A) absolute correction\n(B) interstellar correction\n(C) bolometric correction\n(D) absorption correction\n(E) none of the above",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "At what wavelength does a star with the surface temperature of $8000\\ \\mathrm{K}$ radiate most intensely?\n\n(A) $0.36\\ \\mu\\mathrm{m}$\n(B) $0.49\\ \\mu\\mathrm{m}$\n(C) $0.80\\ \\mu\\mathrm{m}$\n(D) $1.63\\ \\mu\\mathrm{m}$\n(E) $2.65\\ \\mu\\mathrm{m}$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "The minimum angular separation of two green colour ($\\lambda = 550\\ \\mathrm{nm}$) objects to identify separately by a telescope that has a diameter of $102\\ \\mathrm{cm}$.\n\n(A) $6.58\\times10^{-7}\\ $\n(B) $1.36\\times10^{-1}\\ $\n(C) $1.36\\times10^{-3}\\ $\n(D) $6.58\\times10^{-9}\\ $\n(E) $2.34\\times10^{-3}\\ $",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "problem": "Section of a CCD image containing a star is shown below. How many counts are due to the star?\n\n$$\\begin{array}{|c|c|c|c|c|} \\hline 10 & 10 & 11 & 10 & 10 \\\\ \\hline 10 & 9 & 10 & 9 & 9 \\\\ \\hline \\mathbf{110} & 10 & 11 & 11 & 11 \\\\ \\hline 10 & 10 & 9 & 11 & 9 \\\\ \\hline 10 & 9 & 9 & 10 & 9 \\\\ \\hline \\end{array}$$\n\n(A) $50$\n(B) $100$\n(C) $150$\n(D) $200$\n(E) $250$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 7,
+     "problem": "What's the brightest star in Gemini?\n\n(A) Caster\n(B) Pollux\n(C) Acubens\n(D) Aldebaran\n(E) Sirius",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 8,
+     "problem": "The orbital period and the semi-major axis of Saturn is $29.447$ earth years and $9.54\\ \\mathrm{AU}$ respectively. What's the mass of Saturn ?\n\n(A) $1.7\\times10^{-4}\\ M_\\odot$\n(B) $1.3\\times10^{-3}\\ M_\\odot$\n(C) $0.0015\\ M_\\odot$\n(D) $2.\\ 3\\mathrm{x}^{-}\\ 10^{4}\\ M_\\odot$\n(E) $0.0027\\ M_\\odot$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 9,
+     "problem": "When does Madagascar experiences the longest night?\n\n(A) March 21\n(B) June 21\n(C) September 21\n(D) December 21\n(E) April 8",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 10,
+     "problem": "The maximum distance that the trigonometric parallax method can be used for accurate measurement of distance to stars is\n\n(A) $3.26\\ \\mathrm{pc}$\n(B) $10\\ \\mathrm{pc}$\n(C) $50\\ \\mathrm{pc}$\n(D) $100\\ \\mathrm{pc}$\n(E) $1\\ \\mathrm{ly}$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 11,
+     "problem": "If two stars have same distance from the earth, then their\n\n(A) apparent magnitudes are equal\n(B) absolute magnitudes are equal\n(C) difference of apparent magnitudes are equal to the difference of absolute magnitude\n(D) can see them in the day time\n(E) none of the above.",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 12,
+     "problem": "The apparent magnitude of a star is called the absolute magnitude when the star is kept at a hypothetical distance of\n\n(A) $20\\ \\mathrm{pc}$\n(B) $1\\ \\mathrm{AU}$\n(C) $32.6\\ \\mathrm{ly}$\n(D) $150\\times10^{6}\\ \\mathrm{km}$\n(E) $100\\ \\mathrm{pc}$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 13,
+     "problem": "The Harvard classification of stars is a colour and temperature sequence as well as a spectral sequence. The correct order of the sequence is\n\n(A) A-B-F-G-H-K-M (-S)\n(B) O-B-A- G-K-F-M (-S)\n(C) O-B-A-F-G-K-M (-S)\n(D) G-I-R-L-A-K-M (-S)\n(E) none of the above",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 14,
+     "problem": "According to the variable star nomenclature, which one of the following could not be a name of a variable star?\n\n(A) T Tauri,\n(B) B Lyrae,\n(C) VV Ceti,\n(D) V 1500 Cygnai,\n(E) RR Lyrae",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 15,
+     "problem": "Majority of the stars in the H-R diagram fall on the region of\n\n(A) red giants\n(B) main sequence\n(C) white dwarfs\n(D) super giants\n(E) red dwarfs",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 16,
+     "problem": "The stars are observed through various filters. The following table shows 4 stars and their magnitudes observed through B and V filters. Of those four stars which one will evolve first?\n\n$$\\begin{array}{|c|c|c|} \\hline \\text{Star} & B & V \\\\ \\hline E & 0.56 & 0.34 \\\\ \\hline F & 0.78 & 0.58 \\\\ \\hline G & 0.29 & 0.89 \\\\ \\hline H & 0.45 & 0.54 \\\\ \\hline \\end{array}$$\n\n(A) E\n(B) F\n(C) G\n(D) H\n(E) insufficient data",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 17,
+     "problem": "If a protostar forms with a mass less than $0.08$ solar masses, its internal temperature never reaches a value high enough for thermonuclear fusion to begin. Such objects are known as\n\n(A) giant planets\n(B) white dwarfs\n(C) brown dwarfs\n(D) asteroids\n(E) hot Jupiters",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 18,
+     "problem": "Calculate the escape velocity of a planet with twice the mass and 1/3 the radius of Earth.\n\n(A) $9.2\\ \\mathrm{km/s}$\n(B) $11.2\\ \\mathrm{km/s}$\n(C) $13.7\\ \\mathrm{km/s}$\n(D) $21.2\\ \\mathrm{km/s}$\n(E) $27.4\\ \\mathrm{km/s}$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 19,
+     "problem": "Hot flares of $100\\ \\mathrm{MeV}$ in the Crab nebula were observed by FERMI space telescope. What can be the wavelength that was used by the telescope for this observation?\n\n(A) $5.00\\times10^{-12}\\ \\mathrm{m}$\n(B) $5.00\\times10^{-14}\\ \\mathrm{m}$\n(C) $2.00\\times10^{-12}\\ \\mathrm{m}$\n(D) $1.24\\times10^{-12}\\ \\mathrm{m}$\n(E) $1.24\\times10^{-14}\\ \\mathrm{m}$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 20,
+     "problem": "When taking the spectrum of a galaxy with redshift $z = 1$, the H-alpha line ($\\lambda = 656\\ \\mathrm{nm}$) appears at what wavelength?\n\n(A) $656.5\\ \\mathrm{nm}$\n(B) $326\\ \\mathrm{nm}$\n(C) $656\\ \\mathrm{nm}$\n(D) $657\\ \\mathrm{nm}$\n(E) $312\\ \\mathrm{nm}$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 2,
+     "number": 21,
+     "problem": "Information given for Part B: For Speed of light, Hubble constant and Wien's displacement constant please refer the data on page 1. Other Information: Effective temperature of the Sun $= 5800\\ \\mathrm{K}$, Absolute magnitude of the Sun $= 4.83$ mag, Obliquity of the ecliptic $= 23^\\circ\\ 26''$, Radius of Earth $= 6378\\ \\mathrm{km}$, Distance between the Sun and the Earth $= 1\\ \\mathrm{AU} = 1.496\\times10^{11}\\ \\mathrm{m}$, Mean distance between Earth and Moon $= 3.844\\times10^{8}\\ \\mathrm{m}$, Mass of Moon $= 7.349\\times10^{22}\\ \\mathrm{kg}$, Coordinates of the University of Colombo observatory $= 6.9^\\circ\\ \\mathrm{N}$, $79.86^\\circ\\ \\mathrm{E}$, Radius of Moon $= 1.737\\times10^{6}\\ \\mathrm{m}$, Radius of Sun $= 6.96\\times10^{8}\\ \\mathrm{m}$, Brightness of Sun in V-band $= -26.8$ mag, Absolute bolometric brightness of Sun $= 4.72$ mag, Solar constant $= 1366\\ \\mathrm{W\\,m^{-2}}$, Luminosity of Sun $= 3.96\\times10^{26}\\ \\mathrm{J\\,s^{-1}}$, Earth aphelion $= 1.0167\\ \\mathrm{AU}$, Earth perihelion $= 0.98329\\ \\mathrm{AU}$, Moon perigee $= 0.0024238\\ \\mathrm{AU}$, Moon apogee $= 0.0027099\\ \\mathrm{AU}$.\n\ni. A f/6.56 & $30.48\\ \\mathrm{cm}$ diameter telescope owned by Colombo University is equipped with a $1024\\times1024$ CCD chip which has $9\\ \\mu\\mathrm{m}$ sized pixels on it. What is the Field of View (FOV) of the telescope in arc minutes? The observations are conducted in the university premises.\n\nii. A human eye that is adapted to darkness has a maximum focal length of $24\\ \\mathrm{mm}$ and the diameter of the eye pupil is $8\\ \\mathrm{mm}$ and can observe a star which has an apparent magnitude of $6.0$ mag. What is the apparent magnitude of the faintest star which can be observed by above telescope under the same sky conditions?\n\niii. A refracting telescope which has an objective and an eyepiece of focal lengths $180\\ \\mathrm{cm}$ and $20\\ \\mathrm{cm}$, respectively is used for observing a star with an altitude of $50^\\circ$ at the Colombo University observatory premises in Sri Lanka. At that moment estimate the displacement of the apparent position of the star caused by the rotation of the Earth around its axis.\n\niv. Show two more reasons that can caused to a displacement of the apparent position of a star relative to its absolute position.",
+     "paper_label": "Part B"
+    },
+    {
+     "day": 2,
+     "number": 22,
+     "problem": "Both full moons of January 2018 were supermoons because the Moon was near its perigee. Both events were enhanced by the fact that the Earth was in perihelion. The faintest full moon (micromoon) would appear if both bodies were at apocentres. Assume that the Moon orbits in the plane of ecliptic.\n\n(a) Calculate distances between the Earth and the Sun and also between the Earth and the Moon, both at pericentre and apocentre. Write your answers in meters (m).\n\n(b) Find the distance between the Sun and the Moon during both super and micromoon. Write your answers in meters (m).\n\n(c) By how much (in percents) is the angular size of the Moon during a supermoon larger than that during a micromoon? Assume that you are at the centre of the Earth and that the Moon is a perfect sphere.\n\n(d) Calculate the intensity of solar radiation at the Moon's distance for both super and micromoon.\n\n(e) The Moon does not produce its own light, it only reflects the solar radiation. The luminosity $L_M$ of the Moon is therefore proportional to its albedo ($A = 0.136$), cross-section and intensity of the incoming radiation. Calculate $L_M$ of super and micromoon.\n\n(f) Calculate the difference in magnitudes between the super and micromoons.",
+     "paper_label": "Part B"
+    },
+    {
+     "day": 2,
+     "number": 23,
+     "problem": "i. A team of students planned to observe a star which can be barely observed by naked eye. What would be its apparent magnitude?\n\nii. Assume that turbulences are equally spread over atmosphere. Above star is planned to start the observations at the point where the distortions due to atmospheric turbulences are minimum. What would be the date that the observations can be started most early after the sun set? The observations are conducted at the Colombo University premises.\n\niii. Estimate the time that the observations can be started.",
+     "paper_label": "Part B"
+    },
+    {
+     "day": 2,
+     "number": 24,
+     "problem": "Suppose that we are planning to send a spacecraft to Mars with the lowest cost. But rocket fuel is very expensive. The more a spacecraft can \"coast\" with engines off, the lower the cost of the mission. Though a spacecraft could follow a variety of curved paths from Earth to Mars, one path called the Hohmann transfer orbit uses the least energy and is thereby considered to be the most efficient. The Hohmann transfer orbit is an elliptical orbit with the sun at one focus of the ellipse that intersects the orbit of the target planet. When the Hohmann transfer orbit is used, the launch occurs when Earth is at Hohmann perihelion (the point of the Hohmann orbit that is closest to the sun). Arrival occurs when Mars is at Hohmann aphelion (the point of the Hohmann orbit that is farthest from the sun). Your task is to determine the next launch opportunity to Mars. Consider the heliocentric coordinate system given below to determine the positions of the objects and the Hohmann transfer orbit. Use AU as the unit for distance in your answers. (Sun-Earth distance $= 1\\ \\mathrm{AU}$, Sun-Mars distance $= 1.52\\ \\mathrm{AU}$)\n\nIn order to simplify the task, following three assumptions are made.\n\n- The orbits of Earth and Mars are circular and centered on the sun.\n- Earth and Mars travel at constant speeds.\n- The orbits of Earth and Mars are in the same plane.\n\n(a) Find the length of the semi-major axis of the Hohmann transfer orbit.\n\n(b) Caculate distance from Sun to the center (ellipse center) of Hohmann transfer orbit and mark the center as \"X\" on the figure given above.\n\n(c) Find the location of the second focus (one focus is at the sun) for the Hohmann transfer orbit and mark it as \"Y\" on the figure given above.\n\n(d) Kepler's Third Law states that the square of the period of any planet is proportional to the cube of the semi-major axis of its orbit ($P^{2} = ka^{3}$). Find the value for the constant \"k\" using earth's orbit data. Then determine the period of the Hohmann transfer orbit and then the travel time to Mars along this orbit.\n\n(e) Using the daily motions of Earth and Mars, compute the ideal angle to have between Earth and Mars during a launch window. (1 Mars year $= 687$ Earth days)\n\n(f) Draw the Hohmann transfer orbit from Earth to Mars.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/lk-2019-q24-1.png",
+     "paper_label": "Part B"
+    },
+    {
+     "day": 2,
+     "number": 25,
+     "problem": "Answer the following questions using the given star chart.\n\ni. Draw the celestial equator and mark it as C.\n\nii. Draw the ecliptic and mark it as E.\n\niii. Mark the position of Sun on $21^{\\mathrm{st}}$ of March by D.\n\niv. Draw the summer triangle.\n\nv. Mark the deep sky object M15 by P.\n\nvi. Mark below stars on the map by their number.\n\n1. Vega\n2. Altair\n3. Deneb\n4. Markab\n5. Alpheratz\n6. Antares\n\nvii. Write the name of the star marked by an arrow.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/lk-2019-q25-1.png",
+     "paper_label": "Part B"
+    }
+   ]
+  },
+  {
+   "year": 2022,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "The distance of a star is $d = 100\\ \\mathrm{pc}$ and its apparent magnitude $m = 6$. What is its absolute magnitude?\n\nUseful information given with the paper:\n- Speed of light $c = 3\\times10^{8}\\ \\mathrm{m\\,s^{-1}}$\n- Universal gravitational constant $G = 6.67\\times10^{-11}\\ \\mathrm{m^{3}\\,kg^{-1}\\,s^{-2}}$\n- Solar mass $M_\\odot = 1.99\\times10^{30}\\ \\mathrm{kg}$\n- Hubble constant $H = 75\\ \\mathrm{km\\,s^{-1}\\,Mpc^{-1}}$\n- Mass of electron $m_e = 9.11\\times10^{-31}\\ \\mathrm{kg}$\n- Wien's displacement constant $= 2.898\\times10^{-3}\\ \\mathrm{m\\,K}$\n- Stefan-Boltzmann constant $= 5.67\\times10^{-8}\\ \\mathrm{W\\,m^{-2}\\,K^{-4}}$\n\n(a) $-2.0$\n(b) $+2.0$\n(c) $-1.0$\n(d) $+1.0$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "The angular distance between the components of the binary star $\\zeta$ Herculis is $1.38''$. What should be the diameter of a telescope to be resolve the binary? Assume the wavelength of the emission color of the binary is green ($\\lambda = 550\\ \\mathrm{nm}$).\n\n(a) $6\\ \\mathrm{cm}$\n(b) $8\\ \\mathrm{cm}$\n(c) $12\\ \\mathrm{cm}$\n(d) $16\\ \\mathrm{cm}$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "What's the brightest star in Scorpius?\n\n(a) Caster\n(b) Antares\n(c) Acubens\n(d) Aldebaran",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "The orbital period and the semi-major axis of Saturn is $29.447$ earth years and $9.54\\ \\mathrm{AU}$, respectively. What's the mass of Saturn in solar mass units ($M_\\odot$)?\n\n(a) $1.7\\times10^{-4}$\n(b) $1.3\\times10^{-3}$\n(c) $0.0015$\n(d) $2.3\\times10^{-4}$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "The time interval between two successive occurrences of a specific type of alignment of a planet (or the moon) with the sun and the earth is referred to as:\n\n(a) conjunction period\n(b) opposition period\n(c) a sidereal period\n(d) a synodic period",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "problem": "The period of the Martian moon Phobos is $0.3189\\ \\mathrm{d}$ and the radius of the orbit $9370\\ \\mathrm{km}$. What is the mass of Mars? Assume mass of Phobos is negligible compared with Mars.\n\n(a) $5\\times10^{20}\\ \\mathrm{kg}$\n(b) $2\\times10^{23}\\ \\mathrm{kg}$\n(c) $7\\times10^{25}\\ \\mathrm{kg}$\n(d) $4\\times10^{30}\\ \\mathrm{kg}$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 7,
+     "problem": "Which of the following is TRUE for Retrograde motion? Retrograde motion is:\n\n(a) caused by epicycles\n(b) undergone only by superior planets\n(c) undergone only by inferior planets\n(d) an effect due to the projection of planet orbits onto the sky",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 8,
+     "problem": "Use the following figure for questions Number 8, 9 and 10.\n\nThe ultimate fate of the Universe depends upon the overall geometry of space-time Each of these geometries has implications for the relative size of the Universe as time progresses. In the figure, the relative size of the Universe is graphed as Distance vs. Time for the three primary geometries, labelled A, B, and C.\n\nCurve A describe which type of universe?\n\n(a) Open, where the Universe will continue to expand forever\n(b) Flat, where parallel lines never meet.\n(c) Closed, where the Universe will ultimately re-collapse\n(d) Parallel, where multiple Universes parallel to our own evolution\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/lk-2022-q8-1.png",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 9,
+     "problem": "Use the following figure for questions Number 8, 9 and 10 (see the figure given with question 8).\n\nCurve B describe which type of universe?\n\n(a) Open, where the Universe will continue to expand forever\n(b) Flat, where parallel lines never meet.\n(c) Parallel, where multiple Universes parallel to our own evolution\n(d) Closed, where the Universe will ultimately re-collapse\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/lk-2022-q8-1.png",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 10,
+     "problem": "Use the following figure for questions Number 8, 9 and 10 (see the figure given with question 8).\n\nCurve C describes which type of universe?\n\n(a) Open, where the Universe will continue to expand forever\n(b) Flat, where parallel lines never meet.\n(c) Closed, where the Universe will ultimately re-collapse\n(d) Parallel, where multiple Universes parallel to our own evolution\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/lk-2022-q8-1.png",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 11,
+     "problem": "The distance of a binary star is $10\\ \\mathrm{pc}$ and the largest angular separation of the components is $7''$ and the smallest is $1''$. The orbital period is $100$ years. Determine the mass of the binary in terms of the solar mass. (Assuming that the orbital plane is normal to the line of sight.)\n\n(a) $6.4$\n(b) $8.6$\n(c) $4.8$\n(d) $10.2$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 12,
+     "problem": "Eddington limit of a star can be calculated by using following equation\n\n$$L_{Edd} = \\frac{4\\pi G m_p C}{\\sigma_T}$$\n\nEach term of above equation represents its general meaning.\n\nThe mass of the Crab pulsar is $1.4\\ M_\\odot$ and it lies $2200\\ \\mathrm{pc}$ away from Earth. Mass of a proton is $1.67\\times10^{-27}\\ \\mathrm{kg}$, $\\sigma_T = 6.65\\times10^{-29}\\ \\mathrm{m^{2}}$. What is the brightness (flux density OR intensity) of Crab pulsar which can be observed by an observer in Earth at its maximum Luminosity.\n\n(a) $3\\times10^{-5}\\ \\mathrm{W\\,m^{-2}}$\n(b) $3\\times10^{-10}\\ \\mathrm{W\\,m^{-2}}$\n(c) $3\\times10^{-15}\\ \\mathrm{W\\,m^{-2}}$\n(d) $1.5\\times10^{-5}\\ \\mathrm{W\\,m^{-2}}$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 13,
+     "problem": "The latitude and longitude of Delhi are $28.61$ degrees N and $77.21$ degrees E, respectively. A star at which of the following declinations never rises over the horizon in Delhi?\n\n(a) $60$ degrees\n(b) $45$ degrees\n(c) $-45$ degrees\n(d) $-60$ degrees",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 14,
+     "problem": "When it is about the same distance from the Sun as is Jupiter, a spacecraft on a mission to the outer planets has the speed that is 1.5 times the speed of Jupiter in its orbit. Which of the following describes the orbit of the spacecraft about the Sun?\n\n(a) Spiral\n(b) Circle\n(c) Ellipse\n(d) Parabola",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 15,
+     "problem": "Spiral galaxies have spiral arms with a distinct bluish color, caused by what?\n\n(a) A very hot interstellar medium\n(b) Recent and ongoing star formation\n(c) Blueshifted supergiant stars\n(d) Dust and giant molecular clouds",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 16,
+     "problem": "What object is left at the middle of a planetary nebula, and what is the largest mass at which this object can exist?\n\n(a) White dwarf, 1.4 solar masses\n(b) White dwarf, 3.0 solar masses\n(c) Neutron star, 1.4 solar masses\n(d) Neutron star, 3.0 solar masses\n(e) Solar system, 3.0 solar masses",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 17,
+     "problem": "If the density of the Universe is less than critical, then the Universe:\n\n(a) Will ultimately collapse back in on itself\n(b) Must be static, with an unknown cause for the redshifts\n(c) Will expand forever\n(d) Must be spherical",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 18,
+     "problem": "Calculate the escape velocity from a planet with twice the mass and 1/3 the radius of Earth .\n\n(a) $9.2\\ \\mathrm{km/s}$\n(b) $11.2\\ \\mathrm{km/s}$\n(c) $13.7\\ \\mathrm{km/s}$\n(d) $27.4\\ \\mathrm{km/s}$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 19,
+     "problem": "When taking the spectrum of a galaxy with redshift $z = 1$, the H-alpha line ($\\lambda = 656\\ \\mathrm{nm}$) appears at what wavelength?\n\n(a) $32.6\\ \\mathrm{nm}$\n(b) $326\\ \\mathrm{nm}$\n(c) $656\\ \\mathrm{nm}$\n(d) $1312\\ \\mathrm{nm}$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 20,
+     "problem": "Which graph best shows the altitude of the Sun as measured by the observer located at $42^\\circ$ North, at various times on December 21 ?\n\n(The choices (a)-(d) are shown in the figure.)\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/lk-2022-q20-1.png",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 2,
+     "number": 21,
+     "problem": "If the stellar core mass available for fusion is a constant fraction of the total mass $M$, and luminosity is $L$ then the main sequence lifetime ($t_{ms}$) is given by\n\n$$t_{ms} \\propto \\frac{M}{L}$$\n\n(a) An O8 main sequence star has a luminosity of $170\\,000\\ L_{sun}$ and a mass of $23\\ M_{sun}$. If the sun has a lifetime of 10 billion years on the main sequence, approximately how long will the O8 star last?\n\n(b) An M8 dwarf star, one of the wimpiest main sequence stars known, has a luminosity of only $0.0012\\ L_{sun}$ and a mass of $0.06\\ M_{sun}$. What would its lifetime be?\n\n(c) If the O8 star has an effective temperature of $35000\\ \\mathrm{K}$ and the M8 of $2600\\ \\mathrm{K}$, estimate their radii in $R_{sun}$.\n\n(d) The central pressures are estimated by scaling the hydrostatic equilibrium equation\n\n$$\\frac{P}{R} = \\frac{GM\\rho}{R^{2}} \\quad \\text{where } P \\text{ - pressure, } R \\text{ -- radius and } \\rho \\text{ - density}$$\n\nEstimate the central pressure of two stars.\n\nInformation given for Part B: For Speed of light, Hubble constant and Wien's displacement constant please refer the data on page 1. Other Information: Effective temperature of the Sun $= 5800\\ \\mathrm{K}$, Absolute magnitude of the Sun $= 4.83$ mag, Obliquity of the ecliptic $= 23^\\circ\\ 26'$, Radius of Earth $= 6378\\ \\mathrm{km}$, $1\\ \\mathrm{AU} = 1.496\\times10^{11}\\ \\mathrm{m}$.",
+     "paper_label": "Part B"
+    },
+    {
+     "day": 2,
+     "number": 22,
+     "problem": "Stars reach break-up speed when they are rotating so fast the centripetal acceleration at the equator equals the gravitational acceleration (or, from the viewpoint of a rotating non-inertial observer: when the centrifugal acceleration exceeds the acceleration due to gravity, $g$). This is a good physical limit on the expected rotation speed for compact stellar remnants.\n\nCalculate the rotation period of a $1.4\\ M_\\odot$ neutron star with a radius of $10\\ \\mathrm{km}$. Assume the star remains spherical",
+     "paper_label": "Part B"
+    },
+    {
+     "day": 2,
+     "number": 23,
+     "problem": "(a) A f/6.56 & $30.48\\ \\mathrm{cm}$ diameter telescope owned by Colombo University is equipped with a $1024\\times1024$ CCD chip which has $9\\ \\mu\\mathrm{m}$ sized pixels on it. What is the Field of View (FOV) of the telescope in arc minutes? The observations are conducted in the university premises.\n\n(b) A human eye that is adapted to darkness has a maximum focal length of $24\\ \\mathrm{mm}$ and the diameter of the eye pupil is $8\\ \\mathrm{mm}$ and can observe a star which has an apparent magnitude of $6.0$ mag. What is the apparent magnitude of the faintest star which can be observed by above telescope under the same sky conditions?\n\n(c) A refracting telescope which has an objective and an eyepiece of focal lengths $180\\ \\mathrm{cm}$ & $20\\ \\mathrm{cm}$, respectively is observing a star with an altitude of $50^\\circ$ at the university premises. At that moment estimate the displacement of the apparent position of the star caused by the rotation of the Earth around its axis.\n\n(d) Show two more reasons that can caused to a displacement of the apparent position of a star relative to its absolute position.",
+     "paper_label": "Part B"
+    },
+    {
+     "day": 2,
+     "number": 24,
+     "problem": "Answer the following questions using the given sky star chart. This is the night sky as seen from Colombo at mid-night on 8th September 2022.\n\n(a) Mark East (E) and West (W) in the chart.\n\n(b) Mark celestial equator and name it as C.\n\n(c) Draw the ecliptic and mark it as P.\n\n(d) Identify the brightest star in the field and name it as A. What is the actual name of this star?\n\n(e) Roughly mark the position of Andromida galaxy (M31).\n\n(f) Mark below stars on the map by their number.\n\n1. Altair, 2. Antares, 3. Deneb, 4. Fomalhaut\n\n(g) Identify and mark the star constellations Pegasus and Hercules.\n\n(h) Jupiter is shown in the map. Roughly find the Altitude and Azimuth coordinate of planet Jupiter.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/lk-2022-q24-1.png",
+     "paper_label": "Part B"
+    }
+   ]
+  }
+ ]
+}
