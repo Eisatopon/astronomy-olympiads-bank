@@ -705,7 +705,7 @@ dialog p { color: var(--muted); font-size: .92rem; }
 // Local copies (python -m http.server) read the files next to the page; the published site reads the raw files.
 const BASE = /^(localhost|127\.)/.test(location.hostname) ? './' : 'https://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/';
 // Bump on every data change so browsers never mix old and new files.
-const DATA_VERSION = '20261124-bolivia';
+const DATA_VERSION = '20261124-struve';
 const FIRST = 1990, LAST = 2026;
 const REGIONS = [['europe', 'Europe'], ['asia', 'Asia'], ['americas', 'Americas'], ['africa', 'Africa'], ['oceania', 'Oceania'], ['world', 'World'], ['other', 'Other']];
 const REGION_OF = {
@@ -729,6 +729,8 @@ const REGION_OF = {
     tr: 'europe',
     pl: 'europe',
     rureg: 'europe',
+    rureg910: 'europe',
+    rustruve: 'europe',
     ee: 'europe',
     spb: 'europe',
     msk: 'europe',
@@ -773,6 +775,8 @@ const COUNTRIES = [
     { key: 'tr', name: 'Turkey', flag: '🇹🇷', file: 'Turkey-astronomy-problems.json', kind: 'years', full: 'TÜBİTAK Science Olympiads, Astronomy and Astrophysics, second stage — translated from the official Turkish papers' },
     { key: 'pl', name: 'Poland', flag: '🇵🇱', file: 'Poland-astronomy-problems.json', kind: 'years', full: 'Polish Astronomy Olympiad (Olimpiada Astronomiczna) — translated from the official Polish booklets' },
     { key: 'rureg', name: 'Russia Regional', flag: '🇷🇺', file: 'Russia-astronomy-regional-problems.json', kind: 'years', full: 'All-Russian Astronomy Olympiad, regional stage, grade 11 — translated from the official Russian papers' },
+    { key: 'rureg910', name: 'Russia Regional Grades 9-10', flag: '🇷🇺', file: 'Russia-astronomy-regional-grades9-10-problems.json', kind: 'years', full: 'All-Russian Astronomy Olympiad, regional stage, grades 9 and 10 — translated from the official Russian papers' },
+    { key: 'rustruve', name: 'Russia Struve', flag: '🇷🇺', file: 'Russia-astronomy-struve-problems.json', kind: 'years', full: 'V. Ya. Struve Astronomy Olympiad (grades 7-8), regional and final stages — translated from the official Russian papers' },
     { key: 'spb', name: 'Russia St Petersburg', flag: '🇷🇺', file: 'Russia-stpetersburg-astronomy-problems.json', kind: 'years', full: 'St Petersburg Astronomy Olympiad, oldest grade — translated from the official Russian papers' },
     { key: 'msk', name: 'Russia Moscow', flag: '🇷🇺', file: 'Russia-moscow-astronomy-problems.json', kind: 'years', full: 'Moscow Astronomy Olympiad, theoretical round, grades 8-11 — translated from the official Russian papers and the 2006-2015 collection' },
     { key: 'sk', name: 'Slovakia', flag: '🇸🇰', file: 'Slovakia-astronomy-problems.json', kind: 'years', full: 'Slovak Astronomy Olympiad, upper-secondary category, regional and national rounds — translated from the official Slovak papers' },
@@ -809,6 +813,7 @@ const MERGES = {
     byall: { country: 'Belarus', sub: 'Republican Olympiad', full: 'Belarus Republican Olympiad in Astronomy, final stage and 3rd (regional) stage — translated from the official Russian papers', parts: [['by', 'Final stage'], ['by3', 'Regional stage']] },
     ruall: { country: 'Russia', sub: 'All-Russian final', full: 'All-Russian Astronomy Olympiad, final stage: grade 11 and grades 9-10 — translated from the official Russian papers', parts: [['ruao', 'Grade 11'], ['ru910', 'Grades 9-10']] },
     lkall: { country: 'Sri Lanka', sub: 'SLAAO', full: 'Sri Lankan Olympiad on Astronomy and Astrophysics (SLAAO) and Sri Lankan Junior Astronomy Olympiad (SLJAO), Institute of Physics, Sri Lanka — English text of the official bilingual papers', parts: [['lk', 'Senior (SLAAO)'], ['lkj', 'Junior (SLJAO)']] },
+    ruregall: { country: 'Russia', sub: 'All-Russian regional', full: 'All-Russian Astronomy Olympiad, regional stage: grade 11 and grades 9-10 — translated from the official Russian papers', parts: [['rureg', 'Grade 11'], ['rureg910', 'Grades 9-10']] },
     czall: { country: 'Czech Republic', sub: 'Astronomy Olympiad', full: 'Czech Astronomy Olympiad: final round of category AB translated from the official Czech papers, and the official English Problem Booklets (categories AB, CD, EF; regional and national rounds)', parts: [['cz', 'Final, category AB'], ['czb', 'English booklets']] },
     itall: { country: 'Italy', sub: 'Campionati', full: 'Campionati Italiani di Astronomia (formerly Olimpiadi Italiane di Astronomia): National Final (Senior, Master and Junior categories) and interregional round — translated from the official Italian papers', parts: [['it', 'National Final'], ['itir', 'Interregional round'], ['itj', 'National Final, Junior']] }
 };
@@ -1961,6 +1966,8 @@ const ORGANISERS = {
     ruao: {comp: 'All-Russian Astronomy Olympiad, final stage', org: 'the All-Russian Astronomy Olympiad (its central subject-methodological commission, astroolymp.ru)', rights: 'the All-Russian Astronomy Olympiad', short: 'the All-Russian Astronomy Olympiad or its commissions', lang: () => 'Russian'},
     ru910: {comp: 'All-Russian Astronomy Olympiad, final stage', org: 'the All-Russian Astronomy Olympiad (its central subject-methodological commission, astroolymp.ru)', rights: 'the All-Russian Astronomy Olympiad', short: 'the All-Russian Astronomy Olympiad or its commissions', lang: () => 'Russian'},
     rureg: {comp: 'All-Russian Astronomy Olympiad, regional stage', org: 'the All-Russian Astronomy Olympiad (its central subject-methodological commission, astroolymp.ru)', rights: 'the All-Russian Astronomy Olympiad', short: 'the All-Russian Astronomy Olympiad or its commissions', lang: () => 'Russian'},
+    rureg910: {comp: 'All-Russian Astronomy Olympiad, regional stage', org: 'the All-Russian Astronomy Olympiad (its central subject-methodological commission, astroolymp.ru)', rights: 'the All-Russian Astronomy Olympiad', short: 'the All-Russian Astronomy Olympiad or its commissions', lang: () => 'Russian'},
+    rustruve: {comp: 'V. Ya. Struve Astronomy Olympiad', org: 'the V. Ya. Struve Astronomy Olympiad (central subject-methodological commission of the All-Russian Astronomy Olympiad; olimpiada.ru)', rights: 'the V. Ya. Struve Astronomy Olympiad', short: 'the Struve Olympiad or its commission', lang: () => 'Russian'},
     spb: {comp: 'St Petersburg Astronomy Olympiad', org: 'the St Petersburg Astronomy Olympiad (St Petersburg State University, school.astro.spbu.ru)', rights: 'the St Petersburg Astronomy Olympiad', short: 'the St Petersburg Astronomy Olympiad or St Petersburg State University', lang: () => 'Russian'},
     // 2016-2017: included with the organisers' written permission (5 Nov 2026), credited as they asked.
     msk: {comp: 'Moscow Astronomy Olympiad', org: 'the Moscow Department of Education and Science, with the Centre for Pedagogical Excellence (CPM), Moscow Astronomy Olympiad (mosastro.olimpiada.ru)', rights: p => p.year === 2016 || p.year === 2017 ? 'ГАОУ ДПО ЦПМ' : 'Moscow Astronomy Olympiad', link: p => p.year === 2016 || p.year === 2017 ? 'https://mosastro.olimpiada.ru/' : '', short: 'the Moscow Astronomy Olympiad or the Moscow Department of Education and Science', lang: () => 'Russian'},

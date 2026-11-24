@@ -1,0 +1,1641 @@
+{
+ "competition": "All-Russian Astronomy Olympiad — regional stage, grades 9 and 10",
+ "years": [
+  {
+   "year": 2006,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "An observer is on the Earth at the point with coordinates $55^\\circ$ N, $83^\\circ$ E. What time will the observer's clock show at the upper culmination of the Sun on the day of the summer solstice, if this point of observation belongs to the fifth time zone?",
+     "paper_label": "Regional stage (grade 10)",
+     "problem_orig": "Наблюдатель находится на Земле в точке с координатами $55^\\circ$ с.ш., $83^\\circ$ в.д. Какое время будут показывать часы наблюдателя во время верхней кульминации Солнца в день летнего солнцестояния, если данная точка наблюдения принадлежит к пятому часовому поясу?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "An aircraft flies at an altitude of 10 km along the Earth's equator from west to east with a speed of 800 km/h. An artificial Earth satellite revolves around our planet on a circular orbit so that it is always above the aircraft. Find the distance between the satellite and the aircraft.",
+     "paper_label": "Regional stage (grade 10)",
+     "problem_orig": "Самолет летит на высоте 10 км вдоль земного экватора с запада на восток со скоростью 800 км/ч. Искусственный спутник Земли обращается вокруг нашей планеты по круговой орбите так, что все время находится над самолетом. Найти расстояние между спутником и самолетом.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 1,
+     "problem": "Can the constellation of the Southern Cross (declination about $-60^\\circ$) be observed in the northern part of the sky? If so, in which regions of the Earth?",
+     "paper_label": "Regional stage (grade 9)",
+     "problem_orig": "Может ли созвездие Южного Креста (склонение около $-60^\\circ$) наблюдаться в северной части неба? Если да, то в каких районах на Земле?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 2,
+     "problem": "A planet revolves around the Sun on a circular orbit in the plane of the ecliptic. Its synodic period is exactly 1 year. Find the radius of the planet's orbit.",
+     "paper_label": "Regional stage (grade 9)",
+     "problem_orig": "Планета обращается вокруг Солнца по круговой орбите в плоскости эклиптики. Ее синодический период составляет ровно 1 год. Найти радиус орбиты планеты.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 3,
+     "problem": "The combined brightness of a binary star is $5^m$, and the brightness of one of its components is $6^m$. By how many times is the second component brighter or fainter than the first?",
+     "paper_label": "Regional stage (grade 9)",
+     "problem_orig": "Суммарный блеск двойной звезды составляет $5^m$, а блеск одной из ее компонент равен $6^m$. Во сколько раз вторая компонента ярче или слабее первой?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 4,
+     "problem": "From 1079 until the middle of the 19th century a solar calendar designed by Omar Khayyam was used in Iran. In this calendar an ordinary year consisted of 365 days and a leap year of 366, and out of every 33 years 8 were leap years (the 3rd, 7th, 11th, 15th, 20th, 24th, 28th and 32nd). Compare this calendar with the Julian and Gregorian ones. Which of them is the more accurate? The length of the tropical year is 365.24219 days.",
+     "paper_label": "Regional stage (grade 9)",
+     "problem_orig": "С 1079 года по середину XIX века в Иране использовался солнечный календарь, разработанный Омаром Хайямом. В этом календаре обычный год состоял из 365 дней, а високосный – из 366, причем из каждых 33 лет 8 было високосных (3-й, 7-й, 11-й, 15-й, 20-й, 24-й, 28-й, 32-й). Сравните этот календарь с юлианским и григорианским. Какой из них более точный? Продолжительность тропического года составляет $365{,}24219$ суток.",
+     "orig_lang": "ru"
+    }
+   ]
+  },
+  {
+   "year": 2007,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "The figure shows one of the constellations visible from the territory of our country. Name this constellation, label on the map handed out to you the names of stars you know, draw in and label the objects you know (galaxies, nebulae, star clusters). Label on the boundaries of the constellation the names of its neighbours on the celestial sphere. Can this constellation be seen today? If so, at what time of day?\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/rureg910-2007-d1-q1-1.png",
+     "paper_label": "Regional stage (grade 10)",
+     "problem_orig": "На рисунке представлено одно из созвездий, видимых с территории нашей страны. Назовите это созвездие, подпишите на выданной карте известные вам названия звезд, дорисуйте и подпишите известные вам объекты (галактики, туманности, звездные скопления). Подпишите на границах созвездия названия его соседей по небесной сфере. Можно ли сегодня увидеть это созвездие? Если да, то в какое время суток?\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/rureg910-2007-d1-q1-1.png",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "The difference of the right ascensions of two stars is $60^\\circ$. The declinations of the stars are equal. The rising of one star is observed on 23 March at $20^\\mathrm{h}36^\\mathrm{m}12^\\mathrm{s}$ Moscow time. At what time does the second star rise on this day?",
+     "paper_label": "Regional stage (grade 10)",
+     "problem_orig": "Разность прямых восхождений двух звезд составляет $60^\\circ$. Склонения звезд одинаковы. Восход одной звезды наблюдается 23 марта в $20^\\mathrm{ч}36^\\mathrm{м}12^\\mathrm{с}$ по московскому времени. В какое время восходит в этот день вторая звезда?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "A young amateur astronomer uses a small flat square mirror to cast \"sunbeam spots\" on the wall of a house located 150 metres from the mirror. Estimate the size of the mirror, if it is known that from the centre of the \"sunbeam spot\" the mirror looks like an object of magnitude $-20^m$. The apparent magnitude of the Sun is $-26.8^m$, and the sunlight falls on the ideal mirror at an angle of $45^\\circ$ to its plane.",
+     "paper_label": "Regional stage (grade 10)",
+     "problem_orig": "Юный любитель астрономии небольшим плоским квадратным зеркальцем пускает «солнечные зайчики» на стене дома, расположенного в 150 метрах от зеркальца. Оцените размер зеркальца, если известно, что из центра «солнечного зайчика» оно выглядит как объект $-20^m$. Видимая звездная величина Солнца равна $-26.8^m$, солнечный свет падает на идеальное зеркало под углом $45^\\circ$ к его плоскости.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "How long after full Moon will the phase of the Moon first become equal to 0.90? To 0.15? Assume the Moon's orbit to be circular.",
+     "paper_label": "Regional stage (grade 10)",
+     "problem_orig": "Через какое время после полнолуния фаза Луны впервые станет равной 0.90? 0.15? Орбиту Луны считать круговой.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "Small satellites of two planets revolve on their circular orbits with the same linear speed, but the orbital period of one satellite is twice the orbital period of the other. How do the masses of the two planets compare?",
+     "paper_label": "Regional stage (grade 10)",
+     "problem_orig": "Малые спутники двух планет обращаются по своим круговым орбитам с одинаковой линейной скоростью, но период обращения одного спутника вдвое больше периода обращения другого. Как соотносятся массы двух планет?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "problem": "Observing a total lunar eclipse, an amateur astronomer found that in a telescope with an objective diameter of 5 cm at a magnification of 20 times the red colour of the Moon is seen much worse than with the naked eye. What is the reason? The diameter of the pupil of the human eye is 6 mm.",
+     "paper_label": "Regional stage (grade 10)",
+     "problem_orig": "Наблюдая полное лунное затмение, любитель астрономии обнаружил, что в телескоп с диаметром объектива 5 см с увеличением 20 крат красная окраска Луны видна значительно хуже, чем невооруженным глазом. В чем состоит причина? Диаметр зрачка человеческого глаза составляет 6 мм.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 1,
+     "problem": "The figure shows one of the constellations visible from the territory of our country. Name this constellation, label on the map handed out to you the names of stars you know, draw in and label the objects you know (galaxies, nebulae, star clusters). Label on the boundaries of the constellation the names of its neighbours on the celestial sphere. Can this constellation be seen today? If so, at what time of day?\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/rureg910-2007-d3-q1-1.png",
+     "paper_label": "Regional stage (grade 9)",
+     "problem_orig": "На рисунке представлено одно из созвездий, видимых с территории нашей страны. Назовите это созвездие, подпишите на выданной карте известные вам названия звезд, дорисуйте и подпишите известные вам объекты (галактики, туманности, звездные скопления). Подпишите на границах созвездия названия его соседей по небесной сфере. Можно ли сегодня увидеть это созвездие? Если да, то в какое время суток?\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/rureg910-2007-d3-q1-1.png",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 2,
+     "problem": "What can be the declination of stars whose azimuth, during the diurnal motion at latitude $\\varphi$, changes within limits of no more than $180^\\circ$?",
+     "paper_label": "Regional stage (grade 9)",
+     "problem_orig": "Каким может быть склонение звезд, азимут которых в течение суточного движения на широте $\\varphi$ меняется в пределах не более $180^\\circ$?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 3,
+     "problem": "Which is brighter when observed with the naked eye: one star of $1^m$, three stars of $2^m$ or five stars of $3^m$?",
+     "paper_label": "Regional stage (grade 9)",
+     "problem_orig": "Что ярче при наблюдении глазом – одна звезда $1^m$, три звезды $2^m$ или пять звезд $3^m$?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 4,
+     "problem": "Why does the day of the vernal equinox not always fall on 21 March?",
+     "paper_label": "Regional stage (grade 9)",
+     "problem_orig": "Почему день весеннего равноденствия не всегда приходится на 21 марта?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 5,
+     "problem": "At one moment the planet Venus was at greatest eastern elongation for observers on the Earth and at greatest western elongation for observers on Mars. Find the distance between the Earth and Mars at this moment. Assume the orbits of all three planets to be circular.",
+     "paper_label": "Regional stage (grade 9)",
+     "problem_orig": "В один момент времени планета Венера оказалась в наибольшей восточной элонгации для наблюдателей на Земле и в наибольшей западной элонгации для наблюдателей на Марсе. Найти расстояние между Землей и Марсом в этот момент. Орбиты всех трех планет считать круговыми.",
+     "orig_lang": "ru"
+    }
+   ]
+  },
+  {
+   "year": 2008,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "The figures show photographs of one total solar eclipse taken by different people. The photographs also show the planets Mercury (faint) and Venus (bright) near the epoch of their superior conjunction. Which of the pictures does not correspond to reality? Why did you decide so?\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/rureg910-2008-d1-q1-1.png",
+     "paper_label": "Regional stage (grade 10)",
+     "problem_orig": "На рисунках приведены фотографии одного полного солнечного затмения, полученные разными людьми. На фотографиях также видны планеты Меркурий (слабый) и Венера (яркая), вблизи эпохи их верхнего соединения. Какой из снимков не соответствует действительности? Почему вы так решили?\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/rureg910-2008-d1-q1-1.png",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "Determine the width (in km) of the belt along the Arctic Circle in which there is polar day but no polar night.",
+     "paper_label": "Regional stage (grade 10)",
+     "problem_orig": "Определите ширину (в км) полосы вдоль Северного полярного круга, в которой бывает полярный день, но не бывает полярной ночи.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "It is known that the day on the Earth lengthens by 2 ms per 100 years. How far from us is the epoch in which the Julian calendar was the most accurate (the year of the Julian calendar is close to the tropical year)? In 1900 the length of the tropical year was 31556926 seconds, or 365.242199 days.",
+     "paper_label": "Regional stage (grade 10)",
+     "problem_orig": "Известно, что сутки на Земле увеличиваются на 2 мс за 100 лет. Как далеко от нас отстоит та эпоха, в которой юлианский календарь был максимально точен (год юлианского календаря близок к тропическому году)? В 1900 году продолжительность тропического года была равна 31556926 секунд или $365{,}242199$ суток.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "Estimate the speed of a meteor whose path had an angular length of 30 degrees on the sky, if it is known that it lit up at the zenith at an altitude of 100 km above the Earth's surface and covered the whole path in 1 second.",
+     "paper_label": "Regional stage (grade 10)",
+     "problem_orig": "Оцените скорость метеора, угловая длина пути которого на небе составила 30 градусов, если известно, что он загорелся в зените на высоте 100 км над поверхностью Земли и пролетел весь путь за 1 секунду.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 1,
+     "problem": "Draw the constellation Cygnus. Indicate the objects of this constellation known to you, label the names of the stars and objects known to you. When is it more convenient to observe them at mid-latitudes?",
+     "paper_label": "Regional stage (grade 9)",
+     "problem_orig": "Нарисуйте созвездие Лебедя. Укажите известные вам объекты этого созвездия, подпишите названия известных вам звезд и объектов. Когда их удобнее наблюдать в средних широтах?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 2,
+     "problem": "The Earth makes one revolution about its axis in almost 24 hours. Estimate with what maximum and minimum speed the azimuth of stars can change at mid-latitudes. In which regions of the celestial sphere is this speed reached?",
+     "paper_label": "Regional stage (grade 9)",
+     "problem_orig": "Один оборот вокруг своей оси Земля делает почти за 24 часа. Оцените, с какой максимальной и минимальной скоростью может изменяться азимут звезд в средних широтах? В каких областях небесной сферы эта скорость достигается?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 3,
+     "problem": "Having landed on the equator of the Moon, astronauts observe the rising of the Earth above the horizon. What is the maximum possible altitude to which the Earth can rise in this region of the Moon?",
+     "paper_label": "Regional stage (grade 9)",
+     "problem_orig": "Высадившись на экватор Луны, космонавты наблюдают восход Земли над горизонтом. На какую максимально возможную высоту может подняться Земля в этом районе Луны?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 4,
+     "problem": "At the moment of the inferior conjunction of Venus, observers on the Earth made a map of the visible surface of Venus by radar methods. At the next inferior conjunction the radio astronomers again carry out a radar session. By what angle has the mapped surface (any marked point on the surface of Venus) turned relative to the position recorded at the previous conjunction?",
+     "paper_label": "Regional stage (grade 9)",
+     "problem_orig": "В момент прохождения Венерой нижнего соединения наблюдатели на Земле средствами радиолокации построили карту видимого Венеры. В следующее нижнее соединение радиоастрономы снова проводят сеанс радиолокации. На какой угол повернулась картографированная поверхность (любая отмеченная точка на поверхности Венеры) по отношению к зафиксированному в предыдущее соединение положению?",
+     "orig_lang": "ru"
+    }
+   ]
+  },
+  {
+   "year": 2009,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "In moonless nights in good weather one can observe in the sky the zodiacal light, produced by interplanetary dust located in the plane of the Solar System and illuminated by the Sun. In which season is the zodiacal light best observed in the evenings in the middle zone of Russia?",
+     "paper_label": "Regional stage (grade 10)",
+     "problem_orig": "В безлунные ночи в хорошую погоду на небе можно наблюдать зодиакальный свет, образованный межпланетной пылью, расположенной в плоскости Солнечной системы и подсвечиваемой Солнцем. В какой сезон зодиакальный свет лучше всего наблюдать по вечерам в средней полосе России?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "In the middle zone of Russia the earliest sunset is observed in December. And in which month is the earliest sunset observed at the equator?",
+     "paper_label": "Regional stage (grade 10)",
+     "problem_orig": "В средней полосе России самый ранний заход Солнца наблюдается в декабре. А в каком месяце самый ранний заход Солнца наблюдается на экваторе?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "Find the combined brightness of a triple star system consisting of stars of magnitudes 5, 6 and 8.",
+     "paper_label": "Regional stage (grade 10)",
+     "problem_orig": "Найдите суммарный блеск тройной звездной системы, состоящей из звезд 5, 6 и 8 звездной величины.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "A Martian astronomer working in the northern hemisphere of the planet recorded the days when the declination of the Sun becomes maximal and the days when the Sun crosses the Martian celestial equator, that is, the days of the solstices and equinoxes. Using these data (converted to the terrestrial calendar), determine to which astronomical season of the Martian year and to which stage of the season (beginning, end) the passages of Mars through the perihelion and aphelion points of its orbit correspond.\n$$\\begin{array}{|l|l|}\\hline \\text{Winter solstice} & \\text{1 October 2003} \\\\ \\hline \\text{Vernal equinox} & \\text{5 March 2004} \\\\ \\hline \\text{Summer solstice} & \\text{20 September 2004} \\\\ \\hline \\text{Autumnal equinox} & \\text{22 March 2005} \\\\ \\hline \\text{Winter solstice} & \\text{18 August 2005} \\\\ \\hline \\end{array}$$",
+     "paper_label": "Regional stage (grade 10)",
+     "problem_orig": "Марсианский астроном, работающий в северном полушарии планеты, зафиксировал дни, когда склонение Солнца становится максимальным, и дни, когда Солнце пересекает марсианский небесный экватор, то есть дни солнцестояний и равноденствий. Пользуясь этими данными (пересчитанными на земное летоисчисление) определите, на какой астрономический сезон марсианского года и стадию сезона (начало, конец) приходится прохождение Марсом точек перигелия и афелия своей орбиты?\n$$\\begin{array}{|l|l|}\\hline \\text{Зимнее солнцестояние} & \\text{1 октября 2003 г.} \\\\ \\hline \\text{Весеннее равноденствие} & \\text{5 марта 2004 г.} \\\\ \\hline \\text{Летнее солнцестояние} & \\text{20 сентября 2004 г.} \\\\ \\hline \\text{Осеннее равноденствие} & \\text{22 марта 2005 г.} \\\\ \\hline \\text{Зимнее солнцестояние} & \\text{18 августа 2005 г.} \\\\ \\hline \\end{array}$$",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "On 15 January 2009 the planet Venus was at greatest eastern elongation ($47^\\circ$). In which constellation was it at that time? On what day in the near future will Venus be observed near the Moon, if it is known that on 26 January 2009 an annular solar eclipse will occur on the Earth?",
+     "paper_label": "Regional stage (grade 10)",
+     "problem_orig": "15 января 2009 года планета Венера оказалась в наибольшей восточной элонгации ($47^\\circ$). В каком созвездии она при этом находилась? В какой день в ближайшее время Венера будет наблюдаться рядом с Луной, если известно, что 26 января 2009 года на Земле произойдет кольцеобразное солнечное затмение?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 1,
+     "problem": "Determine the duration of civil twilight on the day of the equinox for an observer at the Earth's equator. Neglect the apparent size of the Sun and atmospheric effects.",
+     "paper_label": "Regional stage (grade 9)",
+     "problem_orig": "Определите продолжительность гражданских сумерек в день равноденствия для наблюдателя на экваторе Земли. Видимыми размерами Солнца и атмосферными эффектами пренебречь.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 2,
+     "problem": "A certain star is visible in the sky in Moscow on the night of 22–23 December from 10 p.m. to 6 a.m. Moscow time. At what time can it be seen in Moscow on the night of 22–23 April?",
+     "paper_label": "Regional stage (grade 9)",
+     "problem_orig": "Некоторая звезда видна на небе в Москве в ночь 22-23 декабря с 10 часов вечера до 6 часов утра по московскому времени. В какое время ее можно будет увидеть в Москве в ночь 22-23 апреля?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 3,
+     "problem": "In the Islamic lunar calendar a year consists of 12 lunar months, half of which have 29 days and half 30 days. Over 30 years, 11 leap days are inserted into the calendar. Determine after what time interval an extra year will accumulate in the lunar calendar compared with the Gregorian calendar.",
+     "paper_label": "Regional stage (grade 9)",
+     "problem_orig": "В исламском лунном календаре год состоит из 12 лунных месяцев, половина из которых состоит из 29 дней, половина – из 30 дней. За 30 лет в календарь вставляется 11 високосных дней. Определить, за какой промежуток времени в лунном календаре набежит лишний год по сравнению с григорианским календарем.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 4,
+     "problem": "A small planet revolves around a central star on a circular orbit. On each revolution of the planet, at the same point of its orbit, it comes close to the same comet, which at that moment passes the apocentre of its orbit and is located in the sky of the planet $90^\\circ$ from the central star. Determine the eccentricity of the comet's orbit. The orbital periods of the planet and the comet are different; neglect the interaction of the planet and the comet.",
+     "paper_label": "Regional stage (grade 9)",
+     "problem_orig": "Небольшая планета обращается вокруг центральной звезды по круговой орбите. На каждом обороте планеты в одной и той же точке ее орбиты она тесно сближается с одной и той же кометой, которая в этот момент проходит точку апоцентра своей орбиты и располагается на небе планеты в $90^\\circ$ от центральной звезды. Определите эксцентриситет орбиты кометы. Орбитальные периоды планеты и кометы различаются, взаимодействием планеты и кометы пренебречь.",
+     "orig_lang": "ru"
+    }
+   ]
+  },
+  {
+   "year": 2010,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "A partial umbral lunar eclipse occurred on 31 December 2009 and lasted from $18^\\mathrm{h}51^\\mathrm{m}$ to $19^\\mathrm{h}54^\\mathrm{m}$ Universal Time. In which regions of the territory of Russia did the beginning of the year 2010 by mean solar time fall during the eclipse? By decree (legal) time?",
+     "paper_label": "Regional stage (grade 10)",
+     "problem_orig": "Частное теневое лунное затмение наступило 31 декабря 2009 года и продолжалось от $18^\\mathrm{ч}51^\\mathrm{м}$ до $19^\\mathrm{ч}54^\\mathrm{м}$ по Всемирному времени. В каких районах на территории России на время затмения пришлось начало 2010 года по среднему солнечному времени? По декретному времени?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "Determine the effective temperature of the thermal radiation of Venus, if its spherical albedo is 0.77. Explain the difference from the real temperature near the surface.",
+     "paper_label": "Regional stage (grade 10)",
+     "problem_orig": "Определите эффективную температуру теплового излучения Венеры, если ее сферическое альбедо равно 0.77. Объясните отличие от реальной температуры у поверхности.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "Describing the most powerful Leonid meteor shower of 1833 (activity 150 000 meteors per hour), an eyewitness says that the meteors flying across the whole sky made it as light as on a moonlit night for an hour. Is this statement true?",
+     "paper_label": "Regional stage (grade 10)",
+     "problem_orig": "Описывая мощнейший метеорный дождь Леонид в 1833 году (активность – 150 000 метеоров в час), очевидец рассказывает, что от летящих по всему небу метеоров в течение часа было светло, как в лунную ночь. Справедливо ли это утверждение?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "Measurements of the magnitude of Mercury, Venus, Mars and Jupiter were made on an artificial Earth satellite. The measurements for each planet began and ended at conjunction (for the inner planets, at superior conjunction) and were carried out over its synodic period. You are given a combined graph of the change of the magnitude of the planets. The abscissa shows fractions of the synodic period; the ordinate shows the change of magnitude compared with the value at (superior) conjunction. Determine which curve corresponds to which planet. Justify your answer.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/rureg910-2010-d1-q4-1.png",
+     "paper_label": "Regional stage (grade 10)",
+     "problem_orig": "На искусственном спутнике Земли проводились измерения звездной величины Меркурия, Венеры, Марса и Юпитера. Измерения для каждой планеты начиналось и заканчивалось в соединении (для внутренних планет – в верхнем соединении) и проводились в течение ее синодического периода. Вам предоставлен сводный график изменения звездной величины планет. По оси абсцисс откладываются доли синодического периода; по оси ординат – изменение звездной величины по сравнению со значением в (верхнем) соединении. Определите, какой планете какая кривая соответствует. Ответ обосновать.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/rureg910-2010-d1-q4-1.png",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 1,
+     "problem": "By how much does the length of daylight on 21 March change for an observer who has climbed to the top of the Ostankino TV tower (height 500 m)? Neglect atmospheric refraction.",
+     "paper_label": "Regional stage (grade 9)",
+     "problem_orig": "На сколько изменяется продолжительность светового дня 21 марта для наблюдателя, поднявшегося на вершину Останкинской телебашни (высота 500 м)? Атмосферной рефракцией пренебречь.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 2,
+     "problem": "An asteroid approaches the Earth every year, being at that time at the aphelion point of its elongated orbit. Find the distance of the asteroid from the Sun at the perihelion point of its orbit. Assume the Earth's orbit to be circular.",
+     "paper_label": "Regional stage (grade 9)",
+     "problem_orig": "Астероид ежегодно сближается с Землей, находясь в это же время в точке афелия своей вытянутой орбиты. Найти расстояние астероида от Солнца в точке перигелия его орбиты. Считать орбиту Земли круговой.",
+     "orig_lang": "ru"
+    }
+   ]
+  },
+  {
+   "year": 2011,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "What are a sidereal day, a sidereal month and a sidereal year? How many sidereal days and sidereal months are contained in one sidereal year?",
+     "paper_label": "Regional stage (grade 10)",
+     "problem_orig": "Что такое звездные сутки, звездный месяц, звездный год? Сколько звездных суток и звездных месяцев содержится в одном звездном годе?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "An observer in the northern hemisphere observed a star at upper culmination at an altitude of $80^\\circ$. Having moved $2000$ km to the south, he saw the same star at upper culmination at an altitude of $82^\\circ$. At what altitude will the observer see the same star at upper culmination after moving a further $2000$ km to the south?",
+     "paper_label": "Regional stage (grade 10)",
+     "problem_orig": "Наблюдатель в северном полушарии наблюдал звезду в верхней кульминации на высоте $80^\\circ$. Сместившись на юг на $2000$ км, он увидел ту же звезду в верхней кульминации на высоте $82^\\circ$. На какой высоте увидит наблюдатель эту же звезду в верхней кульминации после того, как сместится на юг еще на $2000$ км?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "An astronomer observes the full Moon through two telescopes with identical eyepieces of focal length 2.5 cm. The objective of the first telescope has a diameter of 5 cm and a focal length of 1 metre. The second telescope has an objective of diameter 50 cm with a focal length of 5 metres. The centre of the Moon's disc coincides with the centre of the field of view. Compare the illumination of the central part of the observer's retina in the two cases.",
+     "paper_label": "Regional stage (grade 10)",
+     "problem_orig": "Астроном наблюдает полную Луну в два телескопа с одинаковыми окулярами с фокусным расстоянием 2.5 см. Объектив первого телескопа имеет диаметр 5 см и фокусное расстояние 1 метр. Второй телескоп имеет объектив диаметром 50 см с фокусным расстоянием 5 метров. Центр диска Луны совпадает с центром поля зрения. Сравните освещенность центральной части глазного дна наблюдателя в обоих случаях.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "A star moves relative to the Sun at an angle of $45^\\circ$ to the line of sight. Its heliocentric radial velocity is 20 km/s, and its proper motion is $0.10''$ per year. What is the trigonometric parallax of the star?",
+     "paper_label": "Regional stage (grade 10)",
+     "problem_orig": "Звезда движется относительно Солнца под углом $45^\\circ$ к лучу зрения. При этом ее гелиоцентрическая лучевая скорость равна 20 км/с, а собственное движение – $0.10''$ в год. Чему равен тригонометрический параллакс звезды?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "There are about 6000 stars in the sky visible to the naked eye. Assuming that they are distributed uniformly over the sky, estimate how many of them can be covered by the Moon when observed from the Earth.",
+     "paper_label": "Regional stage (grade 10)",
+     "problem_orig": "На небе около 6000 звезд, видимых невооруженным глазом. Считая, что они распределены по небу равномерно, оцените, сколько из них могут покрываться Луной при наблюдении с Земли.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 1,
+     "problem": "On 8 December at $15^\\mathrm{h}$ Universal Time a total solar eclipse was observed on the Earth, and on 23 December at $09^\\mathrm{h}$ Universal Time a partial lunar eclipse. On what day of December of the same year (by Universal Time) was the Moon at first quarter?",
+     "paper_label": "Regional stage (grade 9)",
+     "problem_orig": "8 декабря в $15^\\mathrm{ч}$ по Всемирному времени на Земле наблюдалось полное солнечное затмение, а 23 декабря в $09^\\mathrm{ч}$ по Всемирному времени – частное лунное затмение. В какой день декабря того же года (по Всемирному времени) Луна была в фазе первой четверти?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 2,
+     "problem": "At one moment an artificial Earth satellite on a circular orbit was above the town of Bologoye, located midway between Moscow and St Petersburg. The angular distance between the two capitals as observed from the satellite was $10^\\circ$. Determine the orbital period of the satellite. The distance between Moscow and St Petersburg is 630 km.",
+     "paper_label": "Regional stage (grade 9)",
+     "problem_orig": "В один момент времени искусственный спутник Земли с круговой орбитой оказался над городом Бологое, расположенном посередине между Москвой и Санкт-Петербургом. Угловое расстояние между двумя столицами при наблюдении со спутника было равно $10^\\circ$. Определите орбитальный период спутника. Расстояние между Москвой и Санкт-Петербургом равно 630 км.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 3,
+     "problem": "On one day Venus was at greatest eastern elongation as seen from the Earth and at greatest western elongation as seen from Mars. Find the apparent angular diameter of Mars as seen from the Earth on this day. Assume the orbits of all the planets to be circular.",
+     "paper_label": "Regional stage (grade 9)",
+     "problem_orig": "В один день Венера оказалась в наибольшей восточной элонгации при наблюдении с Земли и в наибольшей западной элонгации – при наблюдении с Марса. Найдите видимый угловой диаметр Марса при наблюдении с Земли в этот день. Орбиты всех планет считать круговыми.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 4,
+     "problem": "Planetary nebula $A$ has an integrated brightness of $10^m$ and an angular radius of $2.2'$. Planetary nebula $B$ has an integrated brightness of $9^m$ and an angular radius of $4.5'$. For which of the nebulae will a shorter exposure be needed when photographing, and why? Assume that both nebulae look on the photograph like extended objects of circular shape with uniform brightness distribution.",
+     "paper_label": "Regional stage (grade 9)",
+     "problem_orig": "Планетарная туманность $A$ имеет интегральный блеск $10^m$ и угловой радиус $2.2'$. Планетарная туманность $B$ имеет интегральный блеск $9^m$ и угловой радиус $4.5'$. Для какой из туманностей при фотографировании потребуется меньшая экспозиция и почему? Считать, что обе туманности выглядят на фотографии как протяженные объекты круглой формы с равномерным распределением яркости.",
+     "orig_lang": "ru"
+    }
+   ]
+  },
+  {
+   "year": 2012,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "A satellite moving on a circular equatorial orbit in the direction of rotation of the planet passes over a tracking station 5 times per sidereal day. A satellite moving on a circular polar orbit of the same radius as the orbit of the first satellite also passes over the tracking station. How often does it pass over this station? The shape of the planet is spherical; neglect the action on the satellites of all other bodies except this planet.",
+     "paper_label": "Regional stage (grade 10)",
+     "problem_orig": "Спутник, движущийся по круговой экваториальной орбите в направлении вращения планеты, проходит над станцией слежения 5 раз в звездные сутки. Над станцией слежения проходит также спутник, движущийся по круговой полярной орбите такого же радиуса, что и орбита первого спутника. Как часто он проходит над этой станцией? Форма планеты – сферическая, действием на спутники всех других тел, кроме этой планеты, пренебречь.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "On 4 March 2012 an opposition of Mars occurs, at which it will be located in the sky $4.6^\\circ$ north of the ecliptic and have an angular diameter of $13.9''$. What will be the angular distance between the Sun and the Earth as observed from Mars on this day?",
+     "paper_label": "Regional stage (grade 10)",
+     "problem_orig": "4 марта 2012 года наступит противостояние Марса, при котором он будет располагаться на небе в $4.6^\\circ$ севернее эклиптики и иметь угловой диаметр $13.9''$. Каким будет угловое расстояние между Солнцем и Землей при наблюдении с Марса в этот день?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "In October 2007 comet Holmes, with a nucleus of radius 3.3 km and a brightness of about $16^m$, suddenly brightened to $2^m$ as a result of an explosion. Assuming that in the explosion the whole nucleus broke up into identical fragments, determine the radius of these fragments. Do not take into account the contribution of particles outside the nucleus to the brightness of the comet before the outburst.",
+     "paper_label": "Regional stage (grade 10)",
+     "problem_orig": "В октябре 2007 года комета Холмса с ядром радиусом 3.3 км, имеющая блеск около $16^m$, в результате взрыва резко разгорелась до $2^m$. Считая, что при взрыве все ядро распалось на одинаковые осколки, определите радиус этих осколков. Вклад частиц вне ядра в яркость кометы до вспышки не учитывать.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "Two spacecraft fly away from the Earth in opposite directions with equal speeds relative to the Earth. On one of them there is a source of radiation, and on the other a receiver. The receiver registers that the radiation reaches it at a different wavelength. The change of wavelength $\\Delta\\lambda$ is $0.1$ of the wavelength $\\lambda$ itself. Find the speeds of the spacecraft relative to the Earth.",
+     "paper_label": "Regional stage (grade 10)",
+     "problem_orig": "Два космических аппарата улетают от Земли в противоположных направлениях с одинаковыми скоростями относительно Земли. На одном из них расположен источник излучения, а на втором приемник. Приемник фиксирует то, что излучение до него доходит на другой длине волны. Изменение длины волны $\\Delta\\lambda$ составляет $0.1$ от самой длины волны $\\lambda$. Найдите скорости аппаратов относительно Земли.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "A light beam falls along the optical axis on a spherical mirror of diameter $d$ with radius of curvature $R$. Determine the distance of the focus of the mirror from the centre of curvature, if $d \\ll R$.",
+     "paper_label": "Regional stage (grade 10)",
+     "problem_orig": "Световой пучок падает вдоль оптической оси на сферическое зеркало диаметром $d$ с радиусом кривизны $R$. Определите расстояние фокуса зеркала от центра кривизны, если $d \\ll R$.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 1,
+     "problem": "A certain distant star rose above the horizon simultaneously in Moscow (latitude $55^\\circ45'$, longitude $37^\\circ37'$) and in Ryazan (latitude $54^\\circ37'$, longitude $39^\\circ42'$). In which of these cities will the star stay above the horizon longer, and by how much time?",
+     "paper_label": "Regional stage (grade 9)",
+     "problem_orig": "Некоторая далекая звезда одновременно взошла над горизонтом в Москве (широта $55^\\circ45'$, долгота $37^\\circ37'$) и в Рязани (широта $54^\\circ37'$, долгота $39^\\circ42'$). В каком из этих городов звезда дольше будет находиться над горизонтом и на сколько времени?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 2,
+     "problem": "The Moon is gradually receding from the Earth, and in a few billion years the period of change of its phases will increase to 54 present days. What will be the mean angular diameter of the Moon as observed from the Earth at the horizon?",
+     "paper_label": "Regional stage (grade 9)",
+     "problem_orig": "Луна постепенно удаляется от Земли, и через несколько миллиардов лет период смены ее фаз увеличится до 54 современных суток. Каков будет средний угловой диаметр Луны при наблюдении с Земли у горизонта?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 3,
+     "problem": "At what latitudes on the Earth can the altitude of the non-setting Sun change during a day by exactly a factor of two? Neglect refraction and the apparent size of the Sun.",
+     "paper_label": "Regional stage (grade 9)",
+     "problem_orig": "На каких широтах на Земле высота незаходящего Солнца в течение суток может изменяться ровно в два раза? Рефракцией и видимыми размерами Солнца пренебречь.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 4,
+     "problem": "In 2012 several interesting events connected with Venus will take place. In particular, on 3 April the planet will pass through the star cluster the Pleiades, and on 6 June across the disc of the Sun. Draw (to the same scale) how Venus will look in a telescope (with an upright image) during these events when observed from the middle latitudes of the northern hemisphere. What will be the apparent diameter and phase of Venus on these days? Assume the orbits of Venus and the Earth to be circular and lying in the same plane.",
+     "paper_label": "Regional stage (grade 9)",
+     "problem_orig": "В 2012 году произойдут несколько интересных событий, связанных с Венерой. В частности, 3 апреля планета пройдет по звездному скоплению Плеяды, а 6 июня – по диску Солнца. Нарисуйте (в одном масштабе), как будет выглядеть Венера в телескоп (с прямым изображением) во время этих событий при наблюдении из средних широт северного полушария. Каковы будут видимый диаметр и фаза Венеры в эти дни? Орбиты Венеры и Земли считать круговыми и лежащими в одной плоскости.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 5,
+     "problem": "Passing the perihelion point of its orbit, a comet is at opposition to the Sun and at the same time \"stops\" in its apparent motion among the stars. What is the eccentricity of its orbit, if at this time it is at the same distance from the Sun as Mars? Assume the orbits of the Earth and Mars to be circular; the comet moves in the plane of the ecliptic.",
+     "paper_label": "Regional stage (grade 9)",
+     "problem_orig": "Пролетая точку перигелия орбиты, комета оказывается в противостоянии с Солнцем и одновременно «останавливается» в своем видимом движении среди звезд. Каков эксцентриситет ее орбиты, если в это время она находится на том же расстоянии от Солнца, что и Марс? Орбиты Земли и Марса считать круговыми, комета движется в плоскости эклиптики.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 6,
+     "problem": "Imagine that the radius of the stellar disc of our Galaxy is represented by a size equal to the radius of the Earth. What size will the stars become on this scale?",
+     "paper_label": "Regional stage (grade 9)",
+     "problem_orig": "Представьте себе, что радиус звездного диска нашей Галактики изображен размером в радиус Земли. Какого размера станут звезды в этом масштабе?",
+     "orig_lang": "ru"
+    }
+   ]
+  },
+  {
+   "year": 2013,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "The mass of the atmosphere of Venus is $4.8\\cdot10^{20}$ kg. For every 1000 molecules in it there are 965 molecules of carbon dioxide CO$_2$ and 35 molecules of nitrogen N$_2$. 97% of the mass of the atmosphere of Titan is nitrogen and 3% is methane CH$_4$. The atmospheric pressure at the surface of Titan is one and a half times the atmospheric pressure at the surface of the Earth. In which of the atmospheres is the mass of nitrogen greater, and by how many times?",
+     "paper_label": "Regional stage (grade 10)",
+     "problem_orig": "Масса атмосферы Венеры составляет $4.8\\cdot10^{20}$ кг. В ней на каждые 1000 молекул приходится 965 молекул углекислого газа CO$_2$ и 35 молекул азота N$_2$. 97% массы атмосферы Титана приходится на долю азота и 3% – на долю метана CH$_4$. Атмосферное давление на поверхности Титана в полтора раза превышает атмосферное давление на поверхности Земли. В какой из атмосфер масса азота больше и во сколько раз?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "Future settlers of the Moon observe a meteor near the dark limb of the Earth's disc, barely distinguishable visually in a telescope with an objective diameter of 30 cm. What brightness would this meteor have on the Earth, if it is observed at the zenith? To what object of the sky is it comparable in brightness?",
+     "paper_label": "Regional stage (grade 10)",
+     "problem_orig": "Будущие поселенцы Луны наблюдают явление метеора у темного края диска Земли, с трудом различимое визуально в телескоп с диаметром объектива 30 см. Какой блеск будет иметь этот метеор на Земле, если он наблюдается в зените? С каким объектом неба он сравним по яркости?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "Describe the appearance of Phobos and Deimos from the surface of Mars for an observer at various Martian latitudes. Within what limits do their apparent diameter and phase change depending on latitude? Assume that the satellites revolve in the plane of the planet's equator.",
+     "paper_label": "Regional stage (grade 10)",
+     "problem_orig": "Опишите вид Фобоса и Деймоса с поверхности Марса для наблюдателя на различных марсианских широтах. В каких пределах изменяется их видимый диаметр и фаза в зависимости от широты? Считать, что спутники обращаются в плоскости экватора планеты.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "The mean angular distance between the two components of the star $\\alpha$ Centauri is $18''$, and the parallax of this star is $0.74''$. From what distance can the components of $\\alpha$ Centauri be resolved in a telescope with an objective diameter of 10 cm? Assume that the line between the components of the star is perpendicular to the direction to the Sun, and that the angular distance between them as observed from the Earth does not change.",
+     "paper_label": "Regional stage (grade 10)",
+     "problem_orig": "Среднее угловое расстояние между двумя компонентами звезды $\\alpha$ Центавра равно $18''$, а параллакс этой звезды – $0.74''$. С какого расстояния компоненты $\\alpha$ Центавра можно различить в телескоп с диаметром объектива 10 см? Считать, что линия между компонентами звезды перпендикулярна направлению на Солнце, а угловое расстояние между ними при наблюдении с Земли не меняется.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "The figure shows the track of a planet of the Solar System (its position among the stars at different moments of time). The positions marked with circles are 10 days apart; the dates are labelled every 30 days. What planet is this?\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/rureg910-2013-d1-q5-1.png",
+     "paper_label": "Regional stage (grade 10)",
+     "problem_orig": "На рисунке показан трек планеты Солнечной системы (положение среди звезд в разные моменты времени). Положения, отмеченные кружками, отстоят друг от друга на 10 дней, даты подписаны через 30 дней. Что это за планета?\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/rureg910-2013-d1-q5-1.png",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 1,
+     "problem": "At some point on the Earth the stars Dubhe and Merak ($\\alpha$ and $\\beta$ Ursae Majoris) appeared above the horizon simultaneously. What is (approximately) the latitude of the observation point?",
+     "paper_label": "Regional stage (grade 9)",
+     "problem_orig": "В некоторой точке Земли звезды Дубге и Мерак ($\\alpha$ и $\\beta$ Большой Медведицы) одновременно появились над горизонтом. Чему (примерно) равна широта точки наблюдения?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 2,
+     "problem": "A spacecraft starts from the Earth's surface with a speed of $0.00001$ (or $10^{-5}$) parsec per year. How much time will it need to reach the neighbourhood of the star $\\alpha$ Centauri without any subsequent engine operation? The distance to $\\alpha$ Centauri is 4.4 light years.",
+     "paper_label": "Regional stage (grade 9)",
+     "problem_orig": "Космический аппарат стартует с поверхности Земли со скоростью $0.00001$ (или $10^{-5}$) парсек в год. Сколько ему потребуется времени, чтобы без последующей работы двигателей достичь окрестностей звезды $\\alpha$ Центавра? Расстояние до $\\alpha$ Центавра составляет 4.4 световых года.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 3,
+     "problem": "A planet revolving around a distant star on a circular orbit has a satellite, whose orbit is also circular. During eclipses of the star by the satellite, as observed from the planet, the apparent sizes of the star and the satellite coincide (as for the Moon and the Sun on the Earth), and when the satellite enters the shadow of the planet, its angular size coincides with the angular size of the shadow. Find the ratio of the geometric sizes of the planet and the satellite, assuming them to be much smaller than their mutual distance, and the distance itself to be much smaller than the distance to the star.",
+     "paper_label": "Regional stage (grade 9)",
+     "problem_orig": "У некоторой планеты, обращающейся вокруг далекой звезды по круговой орбите, есть спутник, его орбита также круговая. Во время затмений звезды спутником при наблюдении с планеты видимые размеры звезды и спутника совпадают (как у Луны и Солнца на Земле), а когда спутник входит в тень планеты, его угловые размеры совпадают с угловыми размерами тени. Найдите соотношение геометрических размеров планеты и спутника, считая их существенно меньшими их взаимного расстояния, а само расстояние – существенно меньшим расстояния до звезды.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 4,
+     "problem": "At some place on the Earth, on the night of 1 January, the sidereal time coincided with Moscow summer time (in effect in 2012). What is the geographical longitude of this place? Neglect the equation of time.",
+     "paper_label": "Regional stage (grade 9)",
+     "problem_orig": "В некотором пункте Земли в ночь на 1 января звездное время совпало с московским летним временем (действовавшим в 2012 году). Какова географическая долгота этого пункта? Уравнением времени пренебречь.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 5,
+     "problem": "On 6 May 2012 the mass media reported a \"supermoon\" – a full Moon coinciding with the passage of the Moon through the perigee of its orbit. It was reported that the observed size and brightness of the Moon on this day were significantly greater than the usual values. Find how much the apparent size of the Moon and the illumination produced by it on the Earth's surface actually differed at that time from those of an average full Moon and of a full Moon at apogee.",
+     "paper_label": "Regional stage (grade 9)",
+     "problem_orig": "6 мая 2012 года средства массовой информации сообщили о «суперлунии» – полнолунии, совпавшем с прохождением Луны через перигей орбиты. Сообщалось, что наблюдаемые размеры и яркость Луны в этот день значительно больше обычных значений. Найдите, насколько в реальности отличался в это время видимый размер Луны и освещенность, создаваемая ей на поверхности Земли, от среднего полнолуния и от полнолуния в апогее.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 6,
+     "problem": "The figure shows the track of a planet of the Solar System (its position among the stars at different moments of time). The positions marked with circles are 10 days apart; the dates are labelled every 30 days. What planet is this?\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/rureg910-2013-d3-q6-1.png",
+     "paper_label": "Regional stage (grade 9)",
+     "problem_orig": "На рисунке показан трек планеты Солнечной системы (положение среди звезд в разные моменты времени). Положения, отмеченные кружками, отстоят друг от друга на 10 дней, даты подписаны через 30 дней. Что это за планета?\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/rureg910-2013-d3-q6-1.png",
+     "orig_lang": "ru"
+    }
+   ]
+  },
+  {
+   "year": 2014,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "At some point on the Earth the upper limb of the Sun is seen on the horizon at the north point. At what latitudes is this possible? Neglect the relief of the Earth at this point.",
+     "paper_label": "Regional stage (grade 10)",
+     "problem_orig": "В некотором пункте Земли верхний край Солнца виден на горизонте в точке севера. На каких широтах такое возможно? Рельефом Земли в данном пункте пренебречь.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "A telescope with an objective diameter of 6 cm and a relative aperture $F/15$ is equipped with eyepieces of focal lengths 60 mm and 24 mm. What magnification does each of the eyepieces give with this telescope? Determine the minimum angular resolution available for visual observations with these eyepieces. Can a binary system with a separation of $2''$ between the components be resolved with them? Assume that the resolving power of the eye is $1'$.",
+     "paper_label": "Regional stage (grade 10)",
+     "problem_orig": "Телескоп с диаметром объектива 6 см и относительным отверстием $F/15$ укомплектован окулярами с фокусным расстоянием 60 мм и 24 мм. Какое увеличение обеспечивает использование каждого из окуляров с этим телескопом? Определите минимальное угловое разрешение, доступное для визуальных наблюдений с данными окулярами. Можно ли с их помощью разрешить двойную систему с расстоянием между компонентами $2''$? Считать, что разрешающая способность глаза равна $1'$.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "Estimate which occurs more often, and by how many times, from one fixed point of the Earth: solar eclipses or umbral lunar eclipses (partial and total together)? Neglect weather factors.",
+     "paper_label": "Regional stage (grade 10)",
+     "problem_orig": "Оцените, что наблюдается чаще и во сколько раз с одной фиксированной точки Земли – солнечные затмения или теневые лунные затмения (частные и полные вместе)? Погодными факторами пренебречь.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "Astronomers discovered an interesting object. Its brightness changed sharply with a period of only 1 hour, and its apparent diameter was $0.001''$. Assuming the object to be homogeneous, spherical and opaque, find the maximum possible distance to it.",
+     "paper_label": "Regional stage (grade 10)",
+     "problem_orig": "Астрономы обнаружили интересный объект. Его яркость резко изменялась с периодом всего в 1 час, а видимый диаметр составлял $0.001''$. Считая объект однородным, сферическим и непрозрачным, найдите максимально возможное расстояние до него.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 1,
+     "problem": "A ship begins its voyage to the east along the equator. A chronometer is taken on board, initially set exactly but running fast with a rate error of $10^{-5}$. At what speed must the ship move so that the error in determining the coordinates of the place from the chronometer readings during a voyage of length 1000 km does not exceed 1 km?",
+     "paper_label": "Regional stage (grade 9)",
+     "problem_orig": "Корабль начинает свое плавание на восток вдоль экватора. На его борт взят хронометр, изначально установленный точно, но спешащий с ходом $10^{-5}$. С какой скоростью должен двигаться корабль, чтобы ошибка определения координат места на основе показаний хронометра в течение плавания длиной 1000 км не превышала 1 км?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 2,
+     "problem": "A protoplanet moves on a parabolic trajectory near a young star. At the pericentre point it collides with another protoplanet of the same mass moving on a circular orbit. Before the impact the velocities of both bodies were in the same direction, and after the impact the two bodies merged into one without loss of mass. Find the eccentricity of the orbit of the new body.",
+     "paper_label": "Regional stage (grade 9)",
+     "problem_orig": "Протопланета движется по параболической траектории вблизи молодой звезды. В точке перицентра она сталкивается с другой протопланетой с такой же массой, движущейся по круговой орбите. Перед ударом скорости обеих тел были сонаправлены, а после удара оба тела слились в одно без потери массы. Найти эксцентриситет орбиты нового тела.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 3,
+     "problem": "It is known that the disc of the planet Venus, when located at the minimum distance from the Earth, is at the limit of resolution for the naked eye of the keenest-sighted people. From the neighbourhood of which other large planets of the Solar System could the discs of other planets be seen with the naked eye, and which ones?",
+     "paper_label": "Regional stage (grade 9)",
+     "problem_orig": "Известно, что диск планеты Венера, расположенной на минимальном расстоянии от Земли, оказывается на пределе разрешения невооруженным глазом для наиболее зорких людей. Из окрестностей каких еще больших планет Солнечной системы можно было бы увидеть невооруженным глазом диски других планет, и каких?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 4,
+     "problem": "Which luminary reduces its brightness more: the Sun during an eclipse of phase 0.5 or the Moon during an umbral eclipse of phase 0.5?",
+     "paper_label": "Regional stage (grade 9)",
+     "problem_orig": "Какое светило уменьшает свой блеск сильнее – Солнце при затмении с фазой 0.5 или Луна при теневом затмении с фазой 0.5?",
+     "orig_lang": "ru"
+    }
+   ]
+  },
+  {
+   "year": 2015,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "In the calendar of one people a new day began with the rising of Sirius, a new month when the Moon rose for the first time later than Sirius, and a new year when Sirius appeared for the first time before sunrise (all this refers to the capital of this people's state, located in the tropical zone of the Earth). How many days (counted by this people) does one month and one year contain on average in such a calendar? Neglect the precession of the lunar orbit and of the Earth's axis and the proper motion of Sirius. Assume that the astronomers of this people were able to observe the Moon and Sirius in the daytime.",
+     "paper_label": "Regional stage (grade 10)",
+     "problem_orig": "В календаре одного народа новый день начинался с восходом Сириуса, новый месяц – когда впервые Луна восходит позже Сириуса, а новый год – когда Сириус впервые появляется перед восходом Солнца (все относится к столице государства этого народа в тропическом поясе Земли). Сколько в среднем дней (отсчитываемых этим народом) содержит один месяц и один год в таком календаре? Прецессией лунной орбиты и земной оси, собственным движением Сириуса пренебречь. Считать, что астрономы этого народа имели возможность наблюдать Луну и Сириус днем.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "An ancient civilisation built on the Earth (including the oceans) a network of signal towers 30 metres high. From the upper platform of each tower the upper platforms of at least two neighbouring towers were visible. By lighting fires of a certain colour on it, news of danger could be quickly transmitted over great distances. In what minimum time could such information be spread over the whole Earth, if the reaction time of the soldier on a tower who lights the fires is 10 seconds? Neglect atmospheric attenuation of light, refraction and the relief of the Earth.",
+     "paper_label": "Regional stage (grade 10)",
+     "problem_orig": "Древняя цивилизация построила на Земле (включая океаны) сеть сигнальных башен высотой 30 метров. С верхней площадки каждой башни были видны верхние площадки, по крайней мере, двух соседних башен. Зажигая на ней огни определенного цвета, можно было быстро передавать на большие расстояния весть об опасности. За какое минимальное время такую информацию можно было распространить по всей Земле, если время реакции солдата на башне, зажигающего огни, составляет 10 секунд? Атмосферным ослаблением света, рефракцией и рельефом Земли пренебречь.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "Astronomers observed a distant star physically similar to the Sun and recorded a drop of its brightness by 0.1% over 5 hours, caused by the passage of a planet across its disc. Find the distance between the planet and the star, assuming the planet's orbit to be circular. Determine the size of the planet, assuming that it passed across the centre of the stellar disc. To which planet of the Solar System is this distant planet similar in size?",
+     "paper_label": "Regional stage (grade 10)",
+     "problem_orig": "Астрономы наблюдали далекую звезду, физически похожую на Солнце, и зафиксировали падение ее яркости на 0.1% в течение 5 часов, вызванное прохождением по ее диску планеты. Найдите расстояние между планетой и звездой, считая орбиту планеты круговой. Определите размер планеты, считая, что она прошла по центру диска звезды. На какую планету Солнечной системы похожа эта далекая планета по размерам?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "The proper motion of a star in 1 year is equal to its annual parallax. Determine the tangential velocity of the star (in km/s) relative to the Sun.",
+     "paper_label": "Regional stage (grade 10)",
+     "problem_orig": "Собственное движение звезды за 1 год равно ее годичному параллаксу. Определите тангенциальную скорость звезды (в км/с) относительно Солнца.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "One astronomy book said that the brightness of the zodiacal light at an angular distance of $30^\\circ$–$35^\\circ$ from the Sun is equal to the total brightness of 7–8 stars of $5^m$ per square degree. Convert the brightness value into magnitudes per square degree. Compare numerically the value obtained with the mean surface brightness of the Andromeda Nebula. Assume the nebula to be rectangular with an angular size of $190'\\times60'$; its integrated magnitude is $3.4^m$.",
+     "paper_label": "Regional stage (grade 10)",
+     "problem_orig": "В одной из книг по астрономии было сказано, что яркость зодиакального света на расстоянии $30^\\circ$–$35^\\circ$ от Солнца равна суммарной яркости 7-8 звезд $5^m$ на один квадратный градус. Переведите величину яркости в звездные величины с квадратного градуса. Сравните численно полученную величину со средней поверхностной яркостью Туманности Андромеды. Считать туманность прямоугольной с угловым размером $190'\\times60'$, ее интегральная звездная величина равна $3.4^m$.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "problem": "The figure shows the trajectory of a spacecraft flying from the Earth to some object of the Solar System, relative to the Sun–Earth line (fixed in this frame of reference), as seen from the side of the north pole of the ecliptic. Determine the characteristics of the spacecraft's trajectory (semi-major axis, eccentricity) relative to the Sun and the duration of the flight along this trajectory without engine firing. Assume the Earth's orbit to be circular.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/rureg910-2015-d1-q6-1.png",
+     "paper_label": "Regional stage (grade 10)",
+     "problem_orig": "На рисунке показана траектория космического аппарата, летящего от Земли к некоторому объекту Солнечной системы относительно линии Солнце-Земля (неподвижной в данной системе отсчета) со стороны северного полюса эклиптики. Определите характеристики траектории аппарата (большая полуось, эксцентриситет) относительно Солнца и продолжительность полета по данной траектории без включения двигателей. Орбиту Земли считать круговой.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/rureg910-2015-d1-q6-1.png",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 1,
+     "problem": "Which of three bodies traverses its own diameter the fastest: the Moon (revolving around the Earth), the Earth (revolving around the Sun) or the Sun (revolving around the centre of the Galaxy)?",
+     "paper_label": "Regional stage (grade 9)",
+     "problem_orig": "Какое из трех тел быстрее пролетает свой собственный диаметр – Луна (при вращении вокруг Земли), Земля (при вращении вокруг Солнца) или Солнце (при вращении вокруг центра Галактики)?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 2,
+     "problem": "It has been decided to build a tower on Mars from which its satellites Phobos and Deimos would always be visible. What is the minimum height of such a structure? Where is it best to place it? Neglect atmospheric refraction and attenuation of light, the angular sizes of the satellites and the inclination of their orbits to the plane of the Martian equator.",
+     "paper_label": "Regional stage (grade 9)",
+     "problem_orig": "На Марсе решено построить вышку, с которой всегда были бы видны его спутники Фобос и Деймос. Какова минимальная высота такого строения? Куда его лучше всего поставить? Атмосферной рефракцией и ослаблением света, угловыми размерами и наклоном орбит спутников к плоскости экватора Марса пренебречь.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 3,
+     "problem": "The synodic period of a certain planet of the Solar System is related to one terrestrial year in the same way as one terrestrial year is related to the sidereal period of this planet. What planet is this?",
+     "paper_label": "Regional stage (grade 9)",
+     "problem_orig": "Синодический период некоторой планеты Солнечной системы относится к одному земному году так же, как один земной год – к сидерическому периоду этой планеты. Что это за планета?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 4,
+     "problem": "How many hours will pass on a pendulum clock brought from the Earth during one solar day on the Moon? On Mars?",
+     "paper_label": "Regional stage (grade 9)",
+     "problem_orig": "Сколько часов пройдет по маятниковым часам, доставленным с Земли, за одни солнечные сутки на Луне? На Марсе?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 5,
+     "problem": "The distance to the Andromeda galaxy (M31) is 770 kpc, and to the Triangulum galaxy (M33) 900 kpc. Suppose that in these two galaxies and in the Milky Way Galaxy identical Supernovae flared up simultaneously. In which of the three galaxies will it be possible to register all three flares earlier? Do not take interstellar absorption into account.",
+     "paper_label": "Regional stage (grade 9)",
+     "problem_orig": "Расстояние до галактики Андромеды (M31) – 770 кпк, до галактики Треугольника (M33) – 900 кпк. Предположим, в этих двух галактиках и Галактике Млечный Путь одновременно вспыхнули одинаковые Сверхновые звезды. В какой из трех галактик раньше удастся зарегистрировать все три вспышки? Межзвездное поглощение не учитывать.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 6,
+     "problem": "The graphs show the dependences of the apparent brightness of Venus and Jupiter as they set below the horizon. The brightness scales of the two graphs are different. Determine which graph corresponds to Venus and which to Jupiter. Explain your conclusion. Do not take atmospheric attenuation of light and the relief of the horizon into account.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/rureg910-2015-d3-q6-1.png",
+     "paper_label": "Regional stage (grade 9)",
+     "problem_orig": "На графиках приведены зависимости видимой яркости Венеры и Юпитера при их заходе за горизонт. Шкалы яркости обоих графиков отличаются. Определите, какой график соответствует Венере, а какой – Юпитеру. Объясните свой вывод. Атмосферное ослабление света и рельеф горизонта не учитывать.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/rureg910-2015-d3-q6-1.png",
+     "orig_lang": "ru"
+    }
+   ]
+  },
+  {
+   "year": 2016,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "An astronomer makes visual observations through a telescope with a magnification of 10. Determine the maximum possible magnitude of the faintest stars he can see.",
+     "paper_label": "Regional stage (grade 10)",
+     "problem_orig": "Астроном проводит визуальные наблюдения в телескоп с увеличением 10 крат. Определите максимально возможную звездную величину самых слабых звезд, которые он может увидеть.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "From what part of the Earth's surface can the International Space Station be observed, if it is known that the height of its circular orbit is 420 km and its inclination is 51.6 degrees? Neglect refraction, atmospheric disturbances and the flattening of the Earth.",
+     "paper_label": "Regional stage (grade 10)",
+     "problem_orig": "С какой части поверхности Земли можно наблюдать Международную космическую станцию, если известно, что высота ее круговой орбиты составляет 420 км, а наклонение 51.6 градуса? Рефракцией, атмосферными помехами и сжатием Земли пренебречь.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "On 14 July 2015 the spacecraft New Horizons passed close to Pluto, which at that moment had the geocentric coordinates $\\alpha=19^\\mathrm{h}00.2^\\mathrm{m}$, $\\delta=-20^\\circ45'$. At what local time could a tracking station located on the Earth's equator send a signal to the spacecraft in order to receive an answer? Assume that the spacecraft answers instantly on receiving the signal. Take the distance from the Sun to Pluto in 2015 to be 33 AU; do not take into account atmospheric disturbances and the equation of time.",
+     "paper_label": "Regional stage (grade 10)",
+     "problem_orig": "14 июля 2015 года космический аппарат New Horizons прошел рядом с Плутоном, имеющим на тот момент геоцентрические координаты $\\alpha=19^\\mathrm{h}00.2^\\mathrm{m}$, $\\delta=-20^\\circ45'$. В какое местное время станция слежения, расположенная на экваторе Земли, могла отправить сигнал на аппарат, чтобы получить ответ? Считать, что аппарат дает ответ мгновенно при получении сигнала. Расстояние от Солнца до Плутона в 2015 году считать равным 33 а.е., атмосферные помехи и уравнение времени не учитывать.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "Star A is twice as hot, twice as far away and looks $2^m$ brighter than star B. Find the ratio of the sizes of the stars. Do not take interstellar absorption into account.",
+     "paper_label": "Regional stage (grade 10)",
+     "problem_orig": "Звезда A вдвое горячее, вдвое дальше и выглядит на $2^m$ ярче, чем звезда B. Найдите соотношение размеров звезд. Межзвездное поглощение не учитывать.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "The nearest total solar eclipse will take place on 9 March 2016. The point at which the total eclipse will be seen first will be located near the equator (latitude $-3^\\circ$). At what latitude will the last point of observation of the total phase of the eclipse be located? During the eclipse the Moon will be near the descending node of its orbit.",
+     "paper_label": "Regional stage (grade 10)",
+     "problem_orig": "Ближайшее полное солнечное затмение состоится 9 марта 2016 года. Точка, в которой полное затмение будет видно раньше всего, будет располагаться вблизи экватора (широта $-3^\\circ$). На какой широте будет располагаться последняя точка наблюдения полной фазы затмения? Луна во время затмения будет около нисходящего узла своей орбиты.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "problem": "More than 20 years ago, in 1995, the first exoplanet was discovered, revolving around the star 51 Pegasi. The mass of the star is equal to the mass of the Sun. The graph shows the dependence of the heliocentric radial velocity of this star on time. Estimate the mass of the exoplanet from this graph, assuming that the line of sight lies in the plane of its orbit.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/rureg910-2016-d1-q6-1.png",
+     "paper_label": "Regional stage (grade 10)",
+     "problem_orig": "Более 20 лет назад, в 1995 году, была открыта первая экзопланета, обращающаяся вокруг звезды 51 Пегаса. Масса звезды равна массе Солнца. На графике приведена зависимость гелиоцентрической лучевой скорости этой звезды от времени. Оцените по этому графику массу экзопланеты, считая, что луч зрения лежит в плоскости ее орбиты.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/rureg910-2016-d1-q6-1.png",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 1,
+     "problem": "At what minimum speed does one have to move over the Earth's surface in order to observe the centre of the Sun's disc at the zenith at least once a day every day throughout a year? Assume the orbit and the shape of the Earth to be circular.",
+     "paper_label": "Regional stage (grade 9)",
+     "problem_orig": "С какой минимальной скоростью нужно перемещаться по поверхности Земли, чтобы ежедневно в течение года, хотя бы раз в сутки, наблюдать центр диска Солнца в зените? Орбиту и форму Земли считать круговой.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 2,
+     "problem": "An artificial Earth satellite is launched from the Vostochny cosmodrome ($52^\\circ$ N, $128^\\circ$ E). Before reaching the planned circular orbit the satellite moves strictly vertically (away from the centre of the Earth), and then it is given the required velocity in the eastern direction. What must the minimum height of the satellite's circular orbit above the Earth's surface be, so that it can be observed at least sometimes from any point of the Earth's surface? Neglect refraction and atmospheric disturbances.",
+     "paper_label": "Regional stage (grade 9)",
+     "problem_orig": "Искусственный спутник Земли запускается с космодрома Восточный ($52^\\circ$ с.ш., $128^\\circ$ в.д.). До выхода на расчетную круговую орбиту спутник движется строго вертикально (от центра Земли), а затем ему придается требуемая скорость в восточном направлении. Какой должна быть минимальная высота круговой орбиты искусственного спутника над поверхностью Земли, чтобы с любой точки земной поверхности хотя бы иногда его можно было наблюдать? Рефракцией и атмосферными помехами пренебречь.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 3,
+     "problem": "How many sidereal and solar seconds (from the observer's point of view) pass during one physical second in a train travelling along one of the northernmost railways in the world, Dudinka–Norilsk (latitude $+69.5^\\circ$), in the eastern direction at a speed of 60 km/h? Neglect the equation of time.",
+     "paper_label": "Regional stage (grade 9)",
+     "problem_orig": "Сколько звездных и солнечных секунд (с точки зрения наблюдателя) проходит за одну физическую секунду в поезде, идущем по одной из самых северных железных дорог мира Дудинка-Норильск (широта $+69.5^\\circ$) в восточном направлении со скоростью 60 км/ч? Уравнением времени пренебречь.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 4,
+     "problem": "On the evening of 9 May 2016 a rare astronomical phenomenon will take place, a transit of Mercury across the disc of the Sun, which will be well visible in the European part of Russia. For observing it a telescope was equipped with a solar screen on which the image of the Sun has a diameter of 15 cm. What will be the diameter of the spot on this screen that is the image of Mercury? Assume that during the phenomenon Mercury will be at the aphelion of its orbit, and that the Earth's orbit is circular.",
+     "paper_label": "Regional stage (grade 9)",
+     "problem_orig": "Вечером 9 мая 2016 года состоится редкое астрономическое явление – прохождение Меркурия по диску Солнца, которое будет хорошо видно в Европейской части России. Для его наблюдения телескоп оснастили солнечным экраном, на котором изображение Солнца имеет диаметр 15 см. Какого диаметра на этом экране будет пятно – изображение Меркурия? Считать, что во время явления Меркурий будет располагаться в афелии своей орбиты, а орбита Земли круговая.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 5,
+     "problem": "On 9 January 2016 Venus, overtaking the Earth in its orbital motion by exactly 90 degrees, entered a close conjunction with Saturn in the Earth's sky. Determine on which day of 2016 Saturn, as observed from the Earth, will be in opposition to the Sun. Assume the orbits of all planets to be circular.",
+     "paper_label": "Regional stage (grade 9)",
+     "problem_orig": "9 января 2016 года Венера, обгоняя Землю в своем орбитальном движении ровно на 90 градусов, вступила в небе Земли в тесное соединение с Сатурном. Определите, в какой день 2016 года Сатурн при наблюдении с Земли вступит в противостояние с Солнцем. Орбиты всех планет считать круговыми.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 6,
+     "problem": "The figure shows the motion of the brightest star of the night sky, Sirius, among the distant stars since the beginning of observations (the annual parallactic oscillations have been subtracted). The effect of the presence of a companion of this star is noticeable in the figure. Estimate the mass of this companion, assuming it to be much smaller than the mass of Sirius itself, and its orbit to lie in the plane of the figure. The mass of Sirius is equal to 2 solar masses, the distance to it is 2.64 pc.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/rureg910-2016-d3-q6-1.png",
+     "paper_label": "Regional stage (grade 9)",
+     "problem_orig": "На рисунке показано перемещение ярчайшей звезды ночного неба Сириус среди далеких звезд с момента начала наблюдений (годовые параллактические колебания вычтены). На рисунке заметен эффект наличия спутника этой звезды. Оцените массу этого спутника, считая ее существенно меньшей массы самого Сириуса, а орбиту – лежащей в плоскости рисунка. Масса Сириуса равна 2 массам Солнца, расстояние до него – 2.64 пк.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/rureg910-2016-d3-q6-1.png",
+     "orig_lang": "ru"
+    }
+   ]
+  },
+  {
+   "year": 2017,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "The primary rainbow ring is formed by water drops refracting the Sun's light through an angle of $138^\\circ$ relative to the original direction of propagation of the radiation. At what latitudes on the Earth can a primary rainbow never be seen in the sky at true solar noon? Neglect the relief of the Earth, refraction, the angular size of the Sun and the thickness of the rainbow. Assume that the climatic conditions allow a rainbow to appear at any place on the Earth in any season of the year.",
+     "paper_label": "Regional stage (grade 10)",
+     "problem_orig": "Первичное кольцо радуги образуется каплями воды, преломляющими свет Солнца под углом $138^\\circ$ по отношению к изначальному направлению распространения излучения. На каких широтах на Земле первичная радуга никогда не может быть видна на небе в истинный солнечный полдень? Рельефом Земли, рефракцией, угловыми размерами Солнца и толщиной радуги пренебречь. Считать, что климатические условия позволяют радуге появляться в любом месте Земли в любой сезон года.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "At a certain moment of time both the Earth and the Moon are at a distance of 1.0000 AU from the centre of the Sun. In which constellation is the Moon seen by an observer on the Earth?",
+     "paper_label": "Regional stage (grade 10)",
+     "problem_orig": "В некоторый момент времени и Земля, и Луна находятся на расстоянии 1.0000 а.е. от центра Солнца. В каком созвездии видна Луна земному наблюдателю?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "After processing of all the data of the space observatory GAIA, the parallaxes of objects in two satellites of our Galaxy, the Large and the Small Magellanic Clouds, will be obtained with sufficient accuracy. The expected parallax of the Large Magellanic Cloud (LMC) is 20 microarcseconds. Determine how many times farther from us the Andromeda Galaxy is, if the distance to it is of the order of 800 kpc. Will it be possible to determine the parallax of the Andromeda nebula from the GAIA data, if the parallax of the LMC is determined with an accuracy of 10%?",
+     "paper_label": "Regional stage (grade 10)",
+     "problem_orig": "После обработки всех данных космической обсерватории GAIA будут с достаточной точностью получены параллаксы объектов в двух спутниках нашей Галактики, Большом и Малом Магеллановых облаках. Предполагаемый параллакс Большого Магелланового Облака (БМО) составляет 20 микросекунд дуги. Определите, во сколько раз дальше от нас находится Галактика Андромеды, если расстояние до нее порядка 800 кпк. Возможно ли из данных GAIA определить параллакс туманности Андромеды, если параллакс БМО определен с точностью 10%?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "During a space expedition of the future a powerful lamp, powered by a stable atomic energy source, was installed on a small asteroid. The figure shows the dependence of the magnitude of the lamp on the Earth on time. Determine the semi-major axis and the eccentricity of the asteroid's orbit. Assume that the orbit lies in the plane of the ecliptic and does not go inside the Earth's orbit, that the asteroid neither reflects nor shades the light of the lamp, and that the lamp itself shines uniformly in all directions and is always much brighter than the asteroid itself. Consider the Earth's orbit circular.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/rureg910-2017-d1-q4-1.png",
+     "paper_label": "Regional stage (grade 10)",
+     "problem_orig": "В ходе космической экспедиции будущего на небольшой астероид была установлена мощная лампа, работающая от стабильного атомного источника энергии. На рисунке показана зависимость звездной величины лампы на Земле от времени. Определите большую полуось и эксцентриситет орбиты астероида. Считать, что орбита лежит в плоскости эклиптики и не заходит внутрь орбиты Земли, астероид не отражает и не затеняет свет лампы, а сама лампа равномерно светит во все стороны и всегда существенно ярче самого астероида. Орбиту Земли считать круговой.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/rureg910-2017-d1-q4-1.png",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 1,
+     "problem": "The greatest eastern elongation of Venus took place on 12 January 2017. In which constellation would Venus be seen on this day if we observed it from the immediate vicinity of the Sun? Assume the orbits of the planets to be circular and to lie in the plane of the ecliptic.",
+     "paper_label": "Regional stage (grade 9)",
+     "problem_orig": "12 января 2017 года состоялась наибольшая восточная элонгация Венеры. В каком созвездии была бы видна в этот день Венера, если бы мы наблюдали ее из ближайших окрестностей Солнца? Орбиты планет считать круговыми и лежащими в плоскости эклиптики.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 2,
+     "problem": "Which makes one revolution around the axis of Saturn faster, and by what factor: Saturn itself or its ring? Take the radius of Saturn's ring to be 112 500 km.",
+     "paper_label": "Regional stage (grade 9)",
+     "problem_orig": "Кто совершает один оборот вокруг оси Сатурна быстрее и во сколько раз – сам Сатурн или его кольцо? Радиус кольца Сатурна считать равным 112 500 км.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 3,
+     "problem": "An amateur astronomer, without moving over the Earth's surface, noticed that the setting of the Sun below the horizon lasted exactly 3 minutes. In which geographical region of Russia was he? Assume the Earth's orbit to be circular and neglect atmospheric refraction.",
+     "paper_label": "Regional stage (grade 9)",
+     "problem_orig": "Любитель астрономии, не двигаясь по поверхности Земли, заметил, что заход Солнца за горизонт продолжался ровно 3 минуты. В каком географическом районе России он находился? Орбиту Земли считать круговой, атмосферной рефракцией пренебречь.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 4,
+     "problem": "A short-period comet at the aphelion of its orbit enters opposition to the Sun, located in the plane of the ecliptic. Will it be possible to see it at local midnight at middle latitudes during the nearest passage of the perihelion of its orbit, if the semi-major axis of the orbit is 2.92 AU and the eccentricity is 0.80? What will the distance between the Earth and the comet be at the moment of perihelion passage? Assume the Earth's orbit to be circular.",
+     "paper_label": "Regional stage (grade 9)",
+     "problem_orig": "Короткопериодическая комета, находящаяся в афелии своей орбиты, вступает в противостояние с Солнцем, располагаясь в плоскости эклиптики. Возможно ли будет увидеть ее в местную полночь на средних широтах во время ближайшего прохождения перигелия орбиты, если большая полуось орбиты равна 2.92 а.е., а эксцентриситет – 0.80? Чему будет равно расстояние между Землей и кометой в момент прохождения перигелия? Орбиту Земли считать круговой.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 5,
+     "problem": "Estimate the apparent magnitude of the Milky Way as observed from the Large Magellanic Cloud, assuming that our Galaxy consists of 250 billion stars similar to the Sun. The distance to the Large Magellanic Cloud is 163 thousand light years. Take the absolute magnitude of the Sun (its magnitude from a distance of 10 pc) to be $5^m$. Neglect interstellar absorption of light.",
+     "paper_label": "Regional stage (grade 9)",
+     "problem_orig": "Оцените видимую звездную величину Млечного Пути при наблюдении из Большого Магелланова Облака, считая, что наша Галактика состоит из 250 млрд звезд, похожих на Солнце. Расстояние до Большого Магелланова Облака составляет 163 тыс. световых лет. Абсолютную звездную величину Солнца (его звездную величину с расстояния 10 пк) считать равной $5^m$. Межзвездным поглощением света пренебречь.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 6,
+     "problem": "The table gives the coordinates and the moments of upper culmination of some stars (passage through the celestial meridian of the current point of observation) in Universal Time, and their altitudes at these moments, measured by a moving observer on a certain evening. Assuming the observer's motion over the Earth's surface to be uniform and rectilinear (without turns), determine the direction and magnitude of his velocity.\n\n$$\\begin{array}{|l|c|c|c|c|}\\hline \\text{Star} & \\text{Right ascension} & \\text{Declination} & \\text{Time of culmination, UT} & \\text{Altitude (south)} \\\\ \\hline \\text{Vega (}\\alpha\\text{ Lyr)} & 18^\\mathrm{h}37^\\mathrm{m} & +38^\\circ47' & 21^\\mathrm{h}00^\\mathrm{m} & +80^\\circ17' \\\\ \\text{Altair (}\\alpha\\text{ Aql)} & 19^\\mathrm{h}51^\\mathrm{m} & +08^\\circ52' & 22^\\mathrm{h}20^\\mathrm{m} & +50^\\circ22' \\\\ \\text{Deneb (}\\alpha\\text{ Cyg)} & 20^\\mathrm{h}41^\\mathrm{m} & +45^\\circ17' & 23^\\mathrm{h}14^\\mathrm{m} & +86^\\circ47' \\\\ \\hline\\end{array}$$",
+     "paper_label": "Regional stage (grade 9)",
+     "problem_orig": "В таблице приведены координаты и моменты верхней кульминации некоторых звезд (прохода через небесный меридиан текущей точки наблюдения) по Всемирному времени и их высоты в эти моменты, измеренные двигающимся наблюдателем в некоторый вечер. Считая движение наблюдателя по поверхности Земли равномерным и прямолинейным (без поворотов), определите направление и величину его скорости.\n\n$$\\begin{array}{|l|c|c|c|c|}\\hline \\text{Звезда} & \\text{Прямое восхождение} & \\text{Склонение} & \\text{Время кульминации, UT} & \\text{Высота (юг)} \\\\ \\hline \\text{Вега (}\\alpha\\text{ Лиры)} & 18^\\mathrm{h}37^\\mathrm{m} & +38^\\circ47' & 21^\\mathrm{h}00^\\mathrm{m} & +80^\\circ17' \\\\ \\text{Альтаир (}\\alpha\\text{ Орла)} & 19^\\mathrm{h}51^\\mathrm{m} & +08^\\circ52' & 22^\\mathrm{h}20^\\mathrm{m} & +50^\\circ22' \\\\ \\text{Денеб (}\\alpha\\text{ Лебедя)} & 20^\\mathrm{h}41^\\mathrm{m} & +45^\\circ17' & 23^\\mathrm{h}14^\\mathrm{m} & +86^\\circ47' \\\\ \\hline\\end{array}$$",
+     "orig_lang": "ru"
+    }
+   ]
+  },
+  {
+   "year": 2018,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "From which regions of the Earth's surface is it possible to observe Arcturus ($\\alpha$ Boo) and Hadar ($\\beta$ Cen) simultaneously? Take the coordinates of these stars to be $\\alpha_1=14.0^\\mathrm{h}$, $\\delta_1=+19^\\circ$ and $\\alpha_2=14.0^\\mathrm{h}$, $\\delta_2=-60^\\circ$ respectively. Neglect atmospheric refraction and absorption of light.",
+     "paper_label": "Regional stage (grade 10)",
+     "problem_orig": "Из каких областей земной поверхности возможно одновременное наблюдение Арктура ($\\alpha$ Волопаса) и Хадара ($\\beta$ Центавра)? Координаты этих звезд считать равными $\\alpha_1=14.0^\\mathrm{h}$, $\\delta_1=+19^\\circ$; $\\alpha_2=14.0^\\mathrm{h}$, $\\delta_2=-60^\\circ$ соответственно. Атмосферной рефракцией и поглощением света пренебречь.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "The last opposition of Saturn took place on 15 June 2017. In which nearest calendar year will there be no opposition of this planet with the Sun? Assume the orbits of the Earth and Saturn to be circular.",
+     "paper_label": "Regional stage (grade 10)",
+     "problem_orig": "Последнее противостояние Сатурна состоялось 15 июня 2017 года. В каком ближайшем календарном году противостояния этой планеты с Солнцем не будет? Орбиты Земли и Сатурна считать круговыми.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "At western quadrature the planet Mars appeared in the sky very close to a star of spectral class G. The lines in the spectrum of Mars and of the star coincided exactly in wavelength. Find the radial velocity of the star relative to the Sun. Assume the orbits of the Earth and Mars to be circular.",
+     "paper_label": "Regional stage (grade 10)",
+     "problem_orig": "Находясь в западной квадратуре, планета Марс оказалась на небе очень близко к звезде спектрального класса G. Линии в спектре Марса и звезды точно совпали по длинам волн. Найти лучевую скорость звезды относительно Солнца. Орбиты Земли и Марса считать круговыми.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "The proper motion of Barnard's Star is $-0.8''$/yr in right ascension and $+10.3''$/yr in declination. Its radial velocity is $-111$ km/s, its parallax is $0.547''$. You are given a star chart of the neighbourhood of this star. The star itself is in the middle of the chart and is marked with a cross. Determine:\n\n1) In which constellation is Barnard's Star located?\n\n2) In which direction on the chart is the star moving?\n\n3) Into which constellation will this star move?\n\n4) When will this happen?\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/rureg910-2018-d1-q4-1.png",
+     "paper_label": "Regional stage (grade 10)",
+     "problem_orig": "Собственное движение звезды Барнарда равно $-0.8''$/год по прямому восхождению и $+10.3''$/год по склонению. Лучевая скорость равна $-111$ км/с, параллакс – $0.547''$. Вам дана звездная карта окрестностей этой звезды. Сама звезда находится в середине карты и помечена крестом. Определите:\n\n1) В каком созвездии находится звезда Барнарда?\n\n2) В каком направлении на карте движется звезда?\n\n3) В какое созвездие эта звезда переместится?\n\n4) Когда это произойдет?\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/rureg910-2018-d1-q4-1.png",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 1,
+     "problem": "A satellite revolves around a spherical planet in an elliptical orbit. At pericentre the satellite has a height of 800 km above the planet's surface and an orbital speed of 12.3 km/s, at apocentre 2300 km and 11.1 km/s. Determine the mean density of the planet.",
+     "paper_label": "Regional stage (grade 9)",
+     "problem_orig": "Спутник обращается вокруг сферической планеты по эллиптической орбите. В перицентре спутник имеет высоту над поверхностью планеты 800 км и орбитальную скорость 12.3 км/с, в апоцентре – 2300 км и 11.1 км/с. Определите среднюю плотность планеты.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 2,
+     "problem": "The thickness of the disc of our Galaxy is 800 light years. The Sun is located near the plane of the Milky Way. Estimate how many stars with a luminosity of the order of the solar one can be seen from the whole Earth with the TAL-1 telescope with a primary mirror diameter of 110 mm. Take the concentration of such stars in the disc of the Milky Way to be constant and equal to $0.01\\ \\mathrm{pc^{-3}}$. Neglect interstellar absorption of light.",
+     "paper_label": "Regional stage (grade 9)",
+     "problem_orig": "Толщина диска нашей Галактики составляет 800 световых лет. Солнце находится вблизи плоскости Млечного пути. Оцените, сколько звезд со светимостью порядка солнечной можно увидеть со всей Земли в телескоп ТАЛ-1 с диаметром главного зеркала 110 мм? Считать концентрацию таких звезд в диске Млечного пути постоянной и равной $0.01\\ \\mathrm{пк^{-3}}$. Межзвездным поглощением света пренебречь.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 3,
+     "problem": "Suppose that all the stars in the sky, as was believed in antiquity, are located on a large crystal sphere moving around the Earth and thereby creating the effect of the diurnal rotation. What must the radius of such a celestial sphere be (in astronomical units) for its linear speed at the equator to be equal to the speed of light?\n\nAnaximander of Miletus, in turn, considered the stars to be holes in the sky through which the \"celestial fire\" is seen. The angular diameter of the star Canopus is $0''.0069$. Could a person then have crawled through the \"hole\" corresponding to Canopus?\n\nSuppose further that the stars are constant sources of light, and that the sidereal day on the Earth increases by 2 ms per 100 years. What is the rate of expansion of the crystal sphere, if its linear rotation speed at the equator is constant and equal to the speed of light? By how many magnitudes would the stars have dimmed since the time of Anaximander (over 2600 years)?",
+     "paper_label": "Regional stage (grade 9)",
+     "problem_orig": "Предположим, что все звезды на небе, как и полагали в древности, расположены на большой хрустальной сфере, движущейся вокруг Земли и тем самым создающей эффект суточного вращения. Какой должен быть радиус такой небесной сферы (в астрономических единицах), чтобы ее линейная скорость на экваторе была равна скорости света?\n\nАнаксимандр из Милета при этом считал, что звезды – это дыры в небе, через которые виден \"небесный огонь\". Угловой диаметр звезды Канопус равен $0''.0069$. Мог бы человек тогда пролезть в \"дыру\", соответствующую Канопусу?\n\nПредположим далее, что звезды – это постоянные источники света, а звездные сутки на Земле увеличиваются на 2 мс за 100 лет. Какова скорость расширения хрустальной сферы, если ее линейная скорость вращения на экваторе постоянна и равна скорости света? На сколько звездных величин потускнели бы звезды со времен Анаксимандра (за 2600 лет)?",
+     "orig_lang": "ru"
+    }
+   ]
+  },
+  {
+   "year": 2019,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "Two minor planets revolve in circular orbits in the same direction as the Earth. Their synodic periods are the same, and the radii of their orbits differ by a factor of four. Find these orbital radii.",
+     "paper_label": "Regional stage (grade 10)",
+     "problem_orig": "Две малые планеты обращаются по круговым орбитам в том же направлении, что и Земля. Их синодические периоды одинаковы, а радиусы орбит отличаются вчетверо. Найти эти радиусы орбит.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "A meteor was observed on the Earth's surface over a vast region of radius 1000 km, and at the two points of this region farthest from each other it had a brightness of $0^m$. What was the maximum magnitude of the meteor seen from the Earth's surface? Neglect the length of the meteor's path, the relief of the Earth, atmospheric refraction and absorption of light.",
+     "paper_label": "Regional stage (grade 10)",
+     "problem_orig": "Метеор наблюдался на поверхности Земли в обширной области радиусом 1000 км, и в двух наиболее удаленных друг от друга точках этой области он имел блеск $0^m$. Какова была максимальная звездная величина метеора, видимая с поверхности Земли? Длиной пути метеора, рельефом Земли, атмосферной рефракцией и поглощением света пренебречь.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 1,
+     "problem": "The upper culminations of different stars 1 and 2 occur simultaneously at the same altitude above the horizon. The lower culmination of star 1 occurs above the horizon, and twice as high as that of star 2. At what latitudes is this possible? Neglect refraction.",
+     "paper_label": "Regional stage (grade 9)",
+     "problem_orig": "Верхние кульминации разных звезд 1 и 2 происходят одновременно на одинаковой высоте над горизонтом. Нижняя кульминация звезды 1 происходит над горизонтом, причем вдвое выше, чем у звезды 2. На каких широтах такое возможно? Рефракцией пренебречь.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 2,
+     "problem": "An astronomer observes the transit of a geostationary Earth satellite across the diameter of the Moon's disc. What can the duration of such a phenomenon be? Assume the Moon's orbit to be circular and lying in the plane of the Earth's equator.",
+     "paper_label": "Regional stage (grade 9)",
+     "problem_orig": "Астроном наблюдает прохождение геостационарного спутника Земли по диаметру диска Луны. Какова может быть длительность такого явления? Орбиту Луны считать круговой и лежащей в плоскости экватора Земли.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 3,
+     "problem": "During observation of the transit of Venus across the Sun's disc in June 2012 the illuminance produced by the Sun on the Earth dropped by 1/1000 of its value. By what factor is the relative drop of illuminance from the Sun during a transit of Venus larger or smaller for an observer on Mars? Assume the orbits of the planets to be circular.",
+     "paper_label": "Regional stage (grade 9)",
+     "problem_orig": "При наблюдении прохождения Венеры по диску Солнца в июне 2012 года освещенность, создаваемая Солнцем на Земле, упала на 1/1000 от своего значения. Во сколько раз больше или меньше относительное падение освещенности от Солнца во время прохождения Венеры для наблюдателя на Марсе? Орбиты планет считать круговыми.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 4,
+     "problem": "Stars A and B are observed close to each other on the ecliptic. Using the distant star B, located in the same region of the sky and for which no parallax was observed, as the comparison star, an astronomer determined from the parallactic displacement that star A is at a distance of 62.5 parsecs from the Sun. Later more accurate measurements showed that star B is located much closer than had been believed, at a distance of only 200 pc. Determine how this will affect the estimate of the distance to star A, and determine its refined value.",
+     "paper_label": "Regional stage (grade 9)",
+     "problem_orig": "Звезды A и B наблюдаются близко друг к другу на эклиптике. Используя далекую звезду B, располагающуюся в той же области неба и у которой не наблюдался параллакс, в качестве звезды сравнения, астроном определил по параллактическому смещению, что звезда A находится на расстоянии 62.5 парсек от Солнца. Позже более точные измерения показали, что звезда B располагается гораздо ближе, чем считалось, всего лишь на расстоянии 200 пк. Определите, как это повлияет на оценку расстояния до звезды A, и определите его уточненное значение.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 5,
+     "problem": "A binary system consists of identical components similar to the Sun. The graph shows the dependence on time of the angular distance between them (in arcseconds) in the sky of the Earth. Determine the eccentricity of the orbit, the inclination of the orbital plane to the line of sight and the distance to the system.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/rureg910-2019-d3-q5-1.png",
+     "paper_label": "Regional stage (grade 9)",
+     "problem_orig": "Двойная система состоит из одинаковых компонент, подобных Солнцу. На графике приведена зависимость углового расстояния между ними (в угловых секундах) в небе Земли от времени. Определите эксцентриситет орбиты, наклон плоскости орбиты к лучу зрения и расстояние до системы.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/rureg910-2019-d3-q5-1.png",
+     "orig_lang": "ru"
+    }
+   ]
+  },
+  {
+   "year": 2021,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "A variable star pulsates in such a way that its surface temperature varies inversely proportionally to the radius of the star. By what factor must the volume of the star decrease for it to become brighter by $1^m$?",
+     "paper_label": "Regional stage (grade 10)",
+     "problem_orig": "Переменная звезда пульсирует так, что температура поверхности меняется обратно пропорционально радиусу звезды. Во сколько раз должен уменьшиться объем звезды, чтобы она стала ярче на $1^m$?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "A small open cluster consists of 40 identical stars and has a total brightness of $8^m$. What must the diameter of the telescope objective be for the individual stars of the cluster to be visible in it?",
+     "paper_label": "Regional stage (grade 10)",
+     "problem_orig": "Небольшое рассеянное скопление состоит из 40 одинаковых звезд и имеет общий блеск $8^m$. Какой должен быть диаметр объектива телескопа, чтобы в него можно было увидеть отдельные звезды скопления?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 1,
+     "problem": "At what latitudes on the Earth can the upper culmination of the visible centre of the Sun occur at a zenith distance of $30^\\circ$? Do not take atmospheric refraction into account.",
+     "paper_label": "Regional stage (grade 9)",
+     "problem_orig": "На каких широтах на Земле верхняя кульминация видимого центра Солнца может происходить на зенитном расстоянии $30^\\circ$? Атмосферную рефракцию не учитывать.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 2,
+     "problem": "The inhabitants of the Earth decided to transfer part of the Earth's atmosphere to the Moon so that the atmospheric pressure at the surface of the Moon would be equal to the present value of the atmospheric pressure at sea level on the Earth. What part of the Earth's atmosphere (in percent by mass) has to be moved to the Moon for this? Assume the thickness of the atmosphere to be much smaller than the radii of the Earth and the Moon, and do not take losses of atmospheric matter on the Moon into account.",
+     "paper_label": "Regional stage (grade 9)",
+     "problem_orig": "Жители Земли решили перенести часть земной атмосферы на Луну так, чтобы атмосферное давление на поверхности Луны было равно современному значению атмосферного давления на уровне моря на Земле. Какую часть атмосферы Земли (в процентах по массе) нужно для этого переместить на Луну? Считать толщину атмосферы существенно меньшей радиусов Земли и Луны, потери атмосферного вещества на Луне не учитывать.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 3,
+     "problem": "A meteor swarm moves at a distance of 1 AU from the Sun with a heliocentric speed of 42 km/s exactly head-on towards the Earth. At some point on the Earth the radiant of the stream is at the zenith. Determine the apparent angular velocities of the meteors (in degrees per second) near the horizon and at an altitude of $45^\\circ$ above it, taking their height to be 100 km. Do not take into account atmospheric refraction or the acceleration of the meteoroids by the Earth's attraction.",
+     "paper_label": "Regional stage (grade 9)",
+     "problem_orig": "Метеорный рой движется на расстоянии 1 а.е. от Солнца с гелиоцентрической скоростью 42 км/с в точности навстречу Земле. В некоторой точке Земли радиант потока располагается в зените. Определите видимые угловые скорости метеоров (в градусах в секунду) у горизонта и на высоте $45^\\circ$ над ним, считая их высоту равной 100 км. Атмосферную рефракцию и ускорение метеорных тел притяжением Земли не учитывать.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 4,
+     "problem": "A planet revolves around a star in a circular orbit with a period of exactly 10 years; in its sky the star has an angular diameter of exactly $10'$ (ten arcminutes). Find the mean density of the star.",
+     "paper_label": "Regional stage (grade 9)",
+     "problem_orig": "Планета обращается вокруг звезды по круговой орбите с периодом ровно 10 лет, в ее небе звезда имеет угловой диаметр ровно $10'$ (десять угловых минут). Найдите среднюю плотность звезды.",
+     "orig_lang": "ru"
+    }
+   ]
+  },
+  {
+   "year": 2022,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "Places A and B are located at latitude $+60^\\circ$ in the same time zone. A certain distant star located on the celestial equator rose above the horizon at place A on a certain day at $06^\\mathrm{h}00^\\mathrm{m}$ zone time. On the same day it set below the horizon at place B at $17^\\mathrm{h}55^\\mathrm{m}$ of the same zone's time. Find the distance between places A and B along the Earth's surface. Neglect the relief of the Earth.",
+     "paper_label": "Regional stage (grade 10)",
+     "problem_orig": "Пункты A и B находятся на широте $+60^\\circ$ в одном часовом поясе. Некоторая далекая звезда, расположенная на небесном экваторе, в один день взошла над горизонтом в пункте A в $06^\\mathrm{h}00^\\mathrm{m}$ по поясному времени. Она же зашла за горизонт в этот день в пункте B в $17^\\mathrm{h}55^\\mathrm{m}$ по времени того же пояса. Найдите расстояние между пунктами A и B по поверхности Земли. Рельефом Земли пренебречь.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "An astronomical observatory of the future is built on one of the dwarf planets of the Solar System revolving in a circular orbit. Measurements of the position of a star 10 pc away from the Sun showed that its parallactic and aberrational displacements during one revolution of the planet around the Sun have equal amplitudes. Find the orbital period of the planet on which the observatory is built.",
+     "paper_label": "Regional stage (grade 10)",
+     "problem_orig": "Астрономическая обсерватория будущего построена на одной из карликовых планет Солнечной системы, обращающейся по круговой орбите. Измерения положения звезды, удаленной от Солнца на 10 пк, показали, что ее параллактическое и аберрационное смещения в течение одного оборота планеты вокруг Солнца имеют одинаковые амплитуды. Найдите орбитальный период планеты, на которой построена обсерватория.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "When observed from the vicinity of star A, stars B and C have the same magnitude $1^m$. When observed from the vicinity of star B, stars A and C have the same magnitude $2^m$. Which of the stars, A or B, looks brighter from the vicinity of star C, and by how many magnitudes? Neglect interstellar absorption.",
+     "paper_label": "Regional stage (grade 10)",
+     "problem_orig": "При наблюдении из окрестностей звезды A звезды B и C имеют одинаковую звездную величину $1^m$. При наблюдении из окрестностей звезды B звезды A и C имеют одинаковую звездную величину $2^m$. Какая из звезд – A или B – выглядит ярче из окрестностей звезды C и на сколько звездных величин? Межзвездным поглощением пренебречь.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 1,
+     "problem": "At some place on the Earth's equator a distant star 1 with right ascension $02^\\mathrm{h}00^\\mathrm{m}$ rose above the horizon at $01^\\mathrm{h}00^\\mathrm{m}$ local time. At what local time at this place on this day will a distant star 2 with right ascension $08^\\mathrm{h}00^\\mathrm{m}$ set below the horizon? Neglect atmospheric refraction.",
+     "paper_label": "Regional stage (grade 9)",
+     "problem_orig": "В некотором пункте на экваторе Земли далекая звезда 1 с прямым восхождением $02^\\mathrm{h}00^\\mathrm{m}$ взошла над горизонтом в $01^\\mathrm{h}00^\\mathrm{m}$ по местному времени. В какое местное время в этом пункте в этот день зайдет за горизонт далекая звезда 2 с прямым восхождением $08^\\mathrm{h}00^\\mathrm{m}$? Атмосферной рефракцией пренебречь.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 2,
+     "problem": "On 30 October 2021 the planet Venus was at greatest eastern elongation in the sky of the Earth, and the Earth itself was at greatest western elongation in the sky of Saturn. Determine the angular distance between Venus and Saturn as observed from the Earth on this day. Assume the orbits of all planets to be circular and lying in one plane.",
+     "paper_label": "Regional stage (grade 9)",
+     "problem_orig": "30 октября 2021 года планета Венера оказалась в наибольшей восточной элонгации в небе Земли, а сама Земля – в наибольшей западной элонгации в небе Сатурна. Определите угловое расстояние между Венерой и Сатурном при наблюдении с Земли в этот день. Орбиты всех планет считать круговыми и лежащими в одной плоскости.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 3,
+     "problem": "In Jules Verne's novel \"The Mysterious Island\" the heroes find themselves on an unknown island and call it Lincoln Island. In the course of the book they learn that the coordinates of Lincoln Island are $34^\\circ57'$ S, $150^\\circ30'$ W. Later they found maps and learned that there is no such island on them, but nearby there is Maria Theresa Reef (also known as Tabor Island, coordinates $37^\\circ11'$ S, $151^\\circ15'$ W). The heroes travelled to it and back on a small home-made ship. What distance did they cover (there and back together), assuming that they moved along the shortest path?",
+     "paper_label": "Regional stage (grade 9)",
+     "problem_orig": "В романе Жюля Верна «Таинственный остров» герои оказываются на неизвестном острове и называют его островом Линкольна. В ходе действий книги они узнают, что координаты острова Линкольна – $34^\\circ57'$ ю. ш., $150^\\circ30'$ з. д. Позже они нашли карты и узнали, что такого острова на них нет, но поблизости есть риф Марии-Терезы (он же остров Табор, координаты $37^\\circ11'$ ю. ш., $151^\\circ15'$ з. д.). Герои произведения путешествовали к нему и обратно на самодельном небольшом корабле. Какое расстояние они прошли (туда и обратно вместе), если считать, что двигались они по самому короткому пути?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 4,
+     "problem": "An astronomical observatory of the future is built on one of the dwarf bodies of the Solar System revolving around the Sun in a circular orbit. Astrometric measurements of one star showed that in its motion relative to more distant stars in this region of the sky it describes a circle of radius $0.5''$ with a period of 200 years. Determine the distance to this star. It is known that the star is not part of any binary or multiple system.",
+     "paper_label": "Regional stage (grade 9)",
+     "problem_orig": "Астрономическая обсерватория будущего построена на одном из карликовых тел Солнечной системы, обращающемся вокруг Солнца по круговой орбите. Астрометрические измерения одной звезды показали, что в своем движении относительно более далеких звезд в этой области неба она описывает окружность радиусом $0.5''$ с периодом 200 лет. Определите расстояние до этой звезды. Известно, что звезда не входит в состав какой-либо двойной или кратной системы.",
+     "orig_lang": "ru"
+    }
+   ]
+  },
+  {
+   "year": 2023,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "In the novel \"The Mysterious Island\" the travellers, in order to make sure that they were on an island, climbed a single tall mountain. Standing at the very top, the engineer Cyrus Smith noticed that at sunset, when the disc of the Sun touched the horizon, the foot of the mountain had just disappeared into shadow. Find the height of the mountain from these data. Do not take refraction into account. Accompany the solution with a drawing.",
+     "paper_label": "Regional stage (grade 10)",
+     "problem_orig": "В романе «Таинственный остров» путешественники, чтобы удостовериться, что они на острове, взобрались на одиночную высокую гору. Находясь на самой вершине, инженер Сайрус Смит заметил, что на закате, когда диск Солнца коснулся горизонта, подножие горы как раз скрылось в тени. Найдите из этих данных высоту горы. Рефракцию не учитывать. Решение сопроводите чертежом.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "Of one of the brightest globular clusters, NGC 104 or 47 Tucanae, the following is said: \"The central part (core) of the globular star cluster has a luminosity equal to $10^{4.88}\\cdot L_\\odot$ ($L_\\odot$ is the luminosity of the Sun) per cubic parsec and the angular radius of the central part of the cluster is $0.36'$.\" Determine the apparent magnitude of the core of the globular cluster, if the distance to it is $r_0 = 4.5$ kpc. Neglect interstellar absorption.",
+     "paper_label": "Regional stage (grade 10)",
+     "problem_orig": "Про одно из самых ярких шаровых скоплений NGC 104 или 47 Тукана сказано следующее: «Центральная часть (ядро) шарового звездного скопления имеет светимость, равную $10^{4.88}\\cdot L_\\odot$ ($L_\\odot$ – светимость Солнца) на кубический парсек и угловой радиус центральной части скопления $0.36'$.» Определите видимую звездную величину ядра шарового скопления, если расстояние до него $r_0 = 4.5$ кпк. Межзвездным поглощением пренебречь.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "An Earth satellite of mass 99.9 kg moved in a high circular orbit. At some moment it underwent a head-on collision with a piece of space debris of mass 0.1 kg moving in the same direction at half the speed, after which it continued to move with the debris stuck to it. By what percentage of the radius of the original orbit is the difference between the heights of the pericentre and the apocentre of the satellite's new orbit equal?",
+     "paper_label": "Regional stage (grade 10)",
+     "problem_orig": "Околоземный спутник массой 99.9 кг двигался по высокой круговой орбите. В некоторый момент времени он испытал лобовое соударение с обломком космического мусора массой 0.1 кг, двигавшимся в том же направлении с вдвое меньшей скоростью, после чего продолжил движение с застрявшим обломком. Чему в % от радиуса первоначальной орбиты равна разность высот перицентра и апоцентра новой орбиты спутника?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 1,
+     "problem": "An aeroplane flies at an altitude of 10 400 m. At local noon on 21 June the aeroplane crossed the parallel $+50^\\circ$. At that time a dense flat layer of clouds with a height of 2800 m and below lay under it. At what (linear) distance from the projection of the nadir on the clouds will the shadow of the aeroplane be seen? In what direction (north, south, west, east) relative to the nadir point on the clouds will it be? What was the angular altitude of the Sun at that moment?",
+     "paper_label": "Regional stage (grade 9)",
+     "problem_orig": "Самолёт летит на высоте 10 400 м. В местный полдень 21 июня самолёт пересёк параллель $+50^\\circ$. В это время под ним оказался плотный ровный слой облаков с высотой 2800 м и ниже. На каком расстоянии (линейном) от проекции надира на облаках будет видна тень самолета? В каком направлении (север, юг, запад, восток) относительно точки надира на облаках она будет находиться? Какова была угловая высота Солнца в этот момент?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 2,
+     "problem": "A stationary equatorial spot appeared on the surface of the Sun. To study it, a spacecraft was launched into orbit around the Sun so that it is permanently above this spot. Owing to the design of the spacecraft it can transmit data only in the direction opposite to the point of observation, and the angle of the field of view (the radiation pattern) of the antenna is $\\theta = 3^\\circ$. At what intervals of time and for how long will it be possible to receive a signal from this satellite on the Earth? Assume the orbits of the spacecraft and the Earth to be circular. Assume that the plane of the Earth's orbit coincides with the plane of the Sun's equator and with the plane of the spacecraft's orbit. The period of the Sun's axial rotation is 24.47 days.",
+     "paper_label": "Regional stage (grade 9)",
+     "problem_orig": "На поверхности Солнца появилось стационарное экваториальное пятно. Для его изучения был запущен на орбиту вокруг Солнца космический аппарат так, чтобы он находился постоянно над этим пятном. В силу конструкции аппарата передавать данные он может только в противоположную от точки наблюдения сторону, а угол поля зрения (диаграмма направленности) антенны составляет $\\theta = 3^\\circ$. С каким промежутком времени и как долго на Земле можно будет принимать сигнал от этого спутника? Орбиты аппарата и Земли считать круговыми. Плоскость орбиты Земли считать совпадающей с плоскостью экватора Солнца и плоскостью орбиты аппарата. Период осевого вращения Солнца составляет 24.47 суток.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 3,
+     "problem": "At the moment of greatest eastern quadrature, for an Earth observer the radial velocity of an asteroid was $+20$ km/s. Determine the radius of the asteroid's orbit, assuming it to be circular and to lie in the plane of the ecliptic. The directions of rotation of the Earth and of the asteroid coincide.",
+     "paper_label": "Regional stage (grade 9)",
+     "problem_orig": "В момент наибольшей восточной квадратуры для земного наблюдателя лучевая скорость астероида составила $+20$ км/с. Определите радиус орбиты астероида, считая её круговой и лежащей в плоскости эклиптики. Направления вращения Земли и астероида совпадают.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 4,
+     "problem": "A planetary system has been discovered around a star of radius $R = 2R_\\odot$, which has three planets located close to the parent star: a hot Neptune and two hot Jupiters ($R_1 = 2R_J$, $R_2 = 1.4R_J$, $R_3 = 1.5R_N$). Find the maximum drop of brightness, in magnitudes, of this system for an observer located sufficiently far from the system in the plane of the orbits of the planets of this system. Neglect the limb darkening of the stellar disc. $R_\\odot$ is the radius of the Sun, $R_J$ the radius of Jupiter and $R_N$ the radius of Neptune.",
+     "paper_label": "Regional stage (grade 9)",
+     "problem_orig": "Обнаружена планетная система у звезды радиусом $R = 2R_\\odot$, которая имеет три планеты, расположенные близко к родительской звезде: горячий нептун и два горячих юпитера ($R_1 = 2R_\\mathrm{ю}$, $R_2 = 1.4R_\\mathrm{ю}$, $R_3 = 1.5R_\\mathrm{н}$). Найдите максимальное падение блеска в звёздных величинах этой системы для наблюдателя, находящегося достаточно далеко от системы в плоскости орбит планет этой системы. Потемнением диска звезды к краю пренебречь. $R_\\odot$ – радиус Солнца, $R_\\mathrm{ю}$ – радиус Юпитера и $R_\\mathrm{н}$ – радиус Нептуна.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 5,
+     "problem": "Mars is photographed at the moment of a great opposition (the distance between Mars and the Earth is 0.38 AU) with a telescope of diameter 20 cm and focal length 1000 mm onto a CCD matrix with a pixel size of 5 $\\mu$m. How many pixels does Mars occupy? How many photons will there be in each pixel with an exposure of 1/200 second?\n\nAssume that a star of zero magnitude gives $10^6$ photons per second per 1 cm$^2$. The magnitude of Mars during great oppositions is $-2.9^m$.",
+     "paper_label": "Regional stage (grade 9)",
+     "problem_orig": "В телескоп с диаметром 20 см и фокусным расстоянием 1000 мм фотографируют Марс в момент великого противостояния (расстояние между Марсом и Землей 0.38 а.е.) на ПЗС-матрицу с размером пикселя 5 мкм. Сколько пикселей занимает Марс? Сколько фотонов будет в каждом пикселе при выдержке 1/200 секунды?\n\nСчитайте, что от звезды нулевой звёздной величины приходит $10^6$ фотонов за 1 секунду на 1 см$^2$. Звёздная величина Марса во время великих противостояний $-2.9^m$.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 6,
+     "problem": "In the book series \"Kosmooluhi\" (roughly \"Space Loafers\") a civilisation has found a way to greatly shorten the time of travel through the Universe. Spaceships can make a jump in space very quickly to any distance up to 0.5 kpc. The main characters are engaged in freight transport. At some moment they set off from the Earth and have orders to planets or asteroids near the stars Alcor, Ludwig's Star and $\\alpha$ Ursae Minoris. They want to go by the shortest route, delivering all the orders and returning to their home planet, New Boybruysk, before the New Year. Construct a route for them (the order of the stars in which they must fly) and calculate the length of this route. You are given an extract from a navigation atlas of the 25th century.\n\n$$\\begin{array}{|l|c|c|c|}\\hline \\text{Star} & \\text{Right ascension} & \\text{Declination} & \\text{Parallax} \\\\ \\hline \\text{Alcor} & 13^\\mathrm{h}25^\\mathrm{m} & +54^\\circ59' & 0.0399'' \\\\ \\text{Ludwig's Star} & 13^\\mathrm{h}25^\\mathrm{m} & +54^\\circ53' & 0.0109'' \\\\ \\alpha\\ \\text{Ursae Minoris} & 02^\\mathrm{h}31^\\mathrm{m} & +90^\\circ00' & 0.0073'' \\\\ \\text{New Boybruysk} & 01^\\mathrm{h}25^\\mathrm{m} & +73^\\circ00' & 0.0050'' \\\\ \\hline\\end{array}$$",
+     "paper_label": "Regional stage (grade 9)",
+     "problem_orig": "В серии книг «Космоолухи» цивилизация нашла способ сильно сократить время перемещения по Вселенной. Космические корабли могут совершить прыжок в пространстве очень быстро на любое расстояние до 0.5 кпк. Главные герои занимаются грузоперевозками. В какой-то момент они стартуют с Земли и имеют заказы к планетам или астероидам около звезд: Алькор, Звезды Людвига и $\\alpha$ Малой Медведицы. Они хотят пройти кратчайшим путем, завезя все заказы и вернувшись на родную планету, Новый Бойбруйск, до Нового Года. Постройте для них трассу (порядок звезд, в котором им надо лететь) и посчитайте длину этой трассы. Вам дана вырезка из навигационного атласа XXV века.\n\n$$\\begin{array}{|l|c|c|c|}\\hline \\text{Звезда} & \\text{Прямое восхождение} & \\text{Склонение} & \\text{Параллакс} \\\\ \\hline \\text{Алькор} & 13^\\mathrm{h}25^\\mathrm{m} & +54^\\circ59' & 0.0399'' \\\\ \\text{Звезда Людвига} & 13^\\mathrm{h}25^\\mathrm{m} & +54^\\circ53' & 0.0109'' \\\\ \\alpha\\ \\text{Малой Медведицы} & 02^\\mathrm{h}31^\\mathrm{m} & +90^\\circ00' & 0.0073'' \\\\ \\text{Новый Бойбруйск} & 01^\\mathrm{h}25^\\mathrm{m} & +73^\\circ00' & 0.0050'' \\\\ \\hline\\end{array}$$",
+     "orig_lang": "ru"
+    }
+   ]
+  },
+  {
+   "year": 2024,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "In three cities of the Earth's temperate zone, A, B and C, a star X was observed simultaneously at the same altitude of $87.0^\\circ$. The astronomical azimuths of star X in these cities were $144^\\circ$, $24^\\circ$ and $-96^\\circ$ respectively. Determine the horizontal coordinates of star Y in cities A and C when it is observed at the zenith in city B.",
+     "paper_label": "Regional stage (grade 10)",
+     "problem_orig": "В трех городах умеренного пояса Земли А, В и С звезда Х наблюдалась одновременно на одинаковой высоте $87.0^\\circ$ градусов. Астрономические азимуты звезды X в этих городах были равны соответственно $144^\\circ$, $24^\\circ$ и $-96^\\circ$. Определите горизонтальные координаты звезды Y в городах А и С, когда она наблюдается в зените в городе В.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "At the present moment the modulus of the difference of the heliocentric longitudes of the Earth and an asteroid is $90^\\circ$. How much time will pass until the western quadrature of the asteroid, if the present distance from the Earth to the asteroid is 1.29 times greater than the distance between them at the moment of quadrature? Assume the orbits of the Earth and the asteroid to be circular and lying in one plane, the asteroid moving in the same direction as the Earth.",
+     "paper_label": "Regional stage (grade 10)",
+     "problem_orig": "В текущий момент модуль разности гелиоцентрических долгот Земли и астероида составляет $90^\\circ$. Сколько времени пройдет до западной квадратуры астероида, если текущее расстояние от Земли до астероида в 1.29 раза превышает расстояние между ними в момент квадратуры? Орбиты Земли и астероида считать круговыми и лежащими в одной плоскости, движение астероида происходит в том же направлении, что и движение Земли.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "A cometary nucleus with a radius of 1 km and a density of $0.5\\ \\mathrm{g/cm^3}$, which moved on a parabolic trajectory relative to the Sun in the plane of the ecliptic head-on towards the Earth, fell onto the visible hemisphere of the Moon, radiating in the optical range of the spectrum 10% of the energy of its fall within one minute. By what factor did the Moon become brighter in the Earth's sky at this time? Assume the orbits of the Earth and the Moon to be circular; the fall occurred at full moon.",
+     "paper_label": "Regional stage (grade 10)",
+     "problem_orig": "Кометное ядро радиусом 1 км и плотностью $0.5\\ \\mathrm{г/см^3}$, двигавшееся по параболической траектории относительно Солнца в плоскости эклиптики навстречу Земле, упало на видимое полушарие Луны, высветив в оптическом диапазоне спектра 10% энергии своего падения в течение одной минуты. Во сколько раз стала ярче Луна в небе Земли в это время? Орбиты Земли и Луны считать круговыми, падение произошло в полнолуние.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "The Gaia spacecraft determines angular distances in the sky very accurately. It is located on the extension of the segment running from the Sun to the Earth, at a distance of 1.5 million kilometres beyond the Earth. During its operation the spacecraft measures the angular distance between a distant quasar \"Reference\" (the parallax of the object is zero) and a star \"Target\" located in the region of the north pole of the ecliptic. At two moments of the year, when the north pole of the ecliptic, the Sun, the Earth and the objects \"Reference\" and \"Target\" were in one plane, the following angular distances were obtained: $154.67854647^\\circ$ and $154.67855273^\\circ$. Find the distance to \"Target\" and its absolute magnitude, if its apparent magnitude is $14.0^m$. Neglect interstellar absorption.",
+     "paper_label": "Regional stage (grade 10)",
+     "problem_orig": "Космический аппарат Gaia очень точно определяет угловые расстояния на небе. Он находится на продолжении отрезка, идущего от Солнца к Земле, на расстоянии 1.5 миллиона километров за Землей. В ходе работы аппарат измеряет угловое расстояние между далеким квазаром «Опорный» (параллакс объекта равен нулю) и звездой «Исследуемая», которая находится в районе северного полюса эклиптики. В два момента года, когда северный полюс эклиптики, Солнце, Земля и объекты «Опорный» и «Исследуемая» находились в одной плоскости, были получены результаты угловых расстояний: $154.67854647^\\circ$ и $154.67855273^\\circ$. Найдите расстояние до «Исследуемой» и ее абсолютную звездную величину, если видимая звездная величина равна $14.0^m$. Межзвездным поглощением пренебречь.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "Determine the maximum duration of an occultation of a planet by the Moon, including the partial phases, as observed near the horizon from the pole of the Earth. For which planet and in which configuration is this maximum reached? Assume that the orbits of the planets around the Sun and of the Moon around the Earth lie in one plane. Do not take interference from the Sun during the observation into account; assume the Earth's orbit to be circular.",
+     "paper_label": "Regional stage (grade 10)",
+     "problem_orig": "Определите максимальную продолжительность покрытия Луной планеты вместе с частными фазами при наблюдении у горизонта с полюса Земли. Для какой планеты и в какой конфигурации достигается этот максимум? Считать, что орбиты планет вокруг Солнца и Луны вокруг Земли лежат в одной плоскости. Помехи от Солнца при наблюдении не учитывать, орбиту Земли считать круговой.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "problem": "In front of you is a photograph (a negative) taken from the Perseverance rover on 2 April 2022. The photograph shows an eclipse of the Sun by the Martian moon Phobos. Using this photograph, determine:\n\n1) The altitude of the Sun above the horizon at the moment of the photograph (neglect refraction);\n\n2) The local solar time (on the Martian scale, a solar day on Mars is divided into 24 hours similarly to the terrestrial one).\n\nAssume that the rover was on the equator of Mars and that the orbit of Phobos lies in the plane of the Martian equator. Assume the orbits of Mars and Phobos to be circular. Phobos has a shape close to a triaxial ellipsoid whose major axis points towards Mars. The dimensions of Phobos are $26.8\\times22.4\\times18.4$ km.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/rureg910-2024-d1-q6-1.png",
+     "paper_label": "Regional stage (grade 10)",
+     "problem_orig": "Перед вами фотография (негатив), сделанная с марсохода Perseverance 2 апреля 2022 года. На фотографии запечатлено затмение Солнца спутником Марса Фобосом. Используя данную фотографию, определите:\n\n1) Высоту Солнца над горизонтом в момент фотографии (рефракцией пренебречь);\n\n2) Местное солнечное время (по марсианской шкале, солнечные сутки на Марсе делятся на 24 часа аналогично земным).\n\nСчитайте, что марсоход находился на экваторе Марса, а орбита Фобоса лежит в плоскости экватора Марса. Орбиты Марса и Фобоса считать круговыми. Фобос имеет форму, близкую к трехосному эллипсоиду, большая ось которого направлена на Марс. Размеры Фобоса составляют $26.8\\times22.4\\times18.4$ км.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/rureg910-2024-d1-q6-1.png",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 1,
+     "problem": "In one of the episodes of the animated series \"Futurama\" the main characters found themselves in difficult circumstances during a visit to the Moon. Finding themselves on the daytime side of the Moon, they noticed the rapidly approaching terminator, the line separating day and night. Since the heroes were afraid that they would freeze on the night side of the Moon, they had no choice but to run away from the terminator. Two travellers located on the same meridian of the Moon 100 km apart run, each along his own parallel, staying on the terminator all the time. One of them runs 0.10 m/s faster than the other. Determine the latitudes of the two travellers. Neglect the relief of the Moon; the Sun is in the plane of the Moon's equator.",
+     "paper_label": "Regional stage (grade 9)",
+     "problem_orig": "В одной из серий мультсериала «Футурама» главные герои во время визита на Луну попали в сложные обстоятельства. Оказавшись на дневной стороне Луны, они заметили стремительно приближающийся терминатор – линию раздела дня и ночи. Так как герои боялись, что на ночной стороне Луны они замерзнут, то им не оставалось ничего, как убегать от терминатора. Два путешественника, расположенные на одном меридиане Луны в 100 км друг от друга, бегут каждый вдоль своей параллели, все время оставаясь на терминаторе. При этом один из них бежит на 0.10 м/с быстрее, чем другой. Определите широты двух путешественников. Рельеф Луны не учитывать, Солнце находится в плоскости экватора Луны.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 2,
+     "problem": "The star Vega ($\\alpha = 18.5^\\mathrm{h}$, $\\delta = +39^\\circ$) culminates at some place at some moment of time, and it turns out to be $10^\\circ$ higher than the star Canopus ($\\alpha = 6.5^\\mathrm{h}$, $\\delta = -53^\\circ$); both stars are above the horizon. Determine the latitude of the point of observation. Neglect refraction of light.",
+     "paper_label": "Regional stage (grade 9)",
+     "problem_orig": "Звезда Вега ($\\alpha = 18.5^\\mathrm{h}$, $\\delta = +39^\\circ$) в некотором пункте в некоторый момент времени проходит кульминацию, при этом она оказывается на $10^\\circ$ выше, чем звезда Канопус ($\\alpha = 6.5^\\mathrm{h}$, $\\delta = -53^\\circ$), обе звезды расположены над горизонтом. Определите широту точки наблюдения. Рефракцию света не учитывать.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 3,
+     "problem": "A cubic spacecraft revolves in a circular orbit of radius 0.3 AU around a star with a radius of 0.64 solar radius and a temperature of 3850 K; one face of the cube is a square solar panel with a side length of 40 cm and an efficiency of 15%. The spacecraft was supposed to move so that the panel is always perpendicular to the direction to the star, providing the maximum power output. However, at some moment the spacecraft's orientation system failed. At what maximum angle of rotation of the panel's axis relative to the correct position can the spacecraft still function, if its instruments need a power of 20 W to operate?",
+     "paper_label": "Regional stage (grade 9)",
+     "problem_orig": "Вокруг звезды с радиусом 0.64 радиуса Солнца и температурой 3850 K по круговой орбите с радиусом 0.3 а.е. обращается кубический космический аппарат, одна грань которого представляет собой квадратную солнечную батарею с длиной стороны 40 см, ее КПД равен 15%. Аппарат должен был двигаться так, чтобы батарея всегда располагалась перпендикулярно направлению на звезду, обеспечивая максимальное энерговыделение. Однако в некоторый момент времени система ориентирования аппарата сбилась. При каком максимальном угле поворота оси батареи относительно правильного положения аппарат еще сможет функционировать, если для работы его приборов необходима мощность 20 Вт?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 4,
+     "problem": "A $15^m$ star revolves around a dark object of much greater mass in a circular orbit. The heliocentric proper motion of the star changes cyclically with a period of 60 years; its minimum value in modulus is $0.030''$/yr and the maximum $0.050''$/yr, while the direction of the heliocentric proper motion remains constant. The heliocentric radial velocity oscillates from 10 km/s to 50 km/s with the same period, also without changing direction. Find the luminosity of the star and the mass of the dark object. Neglect interstellar absorption of light.",
+     "paper_label": "Regional stage (grade 9)",
+     "problem_orig": "Звезда $15^m$ обращается вокруг темного объекта значительно большей массы по круговой орбите. Гелиоцентрическое собственное движение звезды меняется циклически с периодом 60 лет, при этом его минимальное значение по модулю составляет от $0.030''$/год, а максимальное $0.050''$/год, направление гелиоцентрического собственного движения при этом остается постоянным. Гелиоцентрическая лучевая скорость колеблется от 10 км/с до 50 км/с тем же периодом, также не меняя направления. Найдите светимость звезды и массу темного объекта. Межзвездное поглощение света не учитывать.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 5,
+     "problem": "Determine the maximum duration of an occultation of a planet by the Moon, including the partial phases, as observed near the horizon from the pole of the Earth. For which planet and in which configuration is this maximum reached? Assume that the orbits of the planets around the Sun and of the Moon around the Earth are circular and all lie in one plane. Do not take interference from the Sun during the observation into account.",
+     "paper_label": "Regional stage (grade 9)",
+     "problem_orig": "Определите максимальную продолжительность покрытия Луной планеты вместе с частными фазами при наблюдении у горизонта с полюса Земли. Для какой планеты и в какой конфигурации достигается этот максимум? Считать, что орбиты планет вокруг Солнца и Луны вокруг Земли круговые и все лежат в одной плоскости. Помехи от Солнца при наблюдении не учитывать.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 6,
+     "problem": "In front of you is a star chart with the open star cluster the Pleiades in the constellation Taurus. The chart also shows a segment corresponding to a length of 1 pc at the distance of the cluster (we assume that all the stars of the cluster are at the same distance from us). On this basis, determine how many stars in the Pleiades have a luminosity greater than 550 solar luminosities. Assume that all the stars that fall on the chart belong to the Pleiades.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/rureg910-2024-d3-q6-1.png",
+     "paper_label": "Regional stage (grade 9)",
+     "problem_orig": "Перед Вами – звездная карта с рассеянным звездным скоплением Плеяды в созвездии Тельца. На карте также нанесен отрезок, соответствующий длине равно в 1 пк на расстоянии скопления (считаем, что все звезды скопления удалены от нас на одинаковое расстояние). Исходя из этого, определите, сколько звезд в Плеядах имеют светимость больше 550 солнечных. Считайте, что Плеядам принадлежат все звезды, попавшие на карту.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/rureg910-2024-d3-q6-1.png",
+     "orig_lang": "ru"
+    }
+   ]
+  },
+  {
+   "year": 2025,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "Globular cluster\n\nA globular star cluster contains 100 thousand stars with a luminosity $L = 0.5\\,L_\\odot$ each and 80 red giants with an absolute magnitude $M = -3^m$. The radius of the cluster is 10 pc. The angular size of the cluster is $20'$. Determine:\n\nA. The distance to the cluster. Is this cluster located in our Galaxy?\n\nB. The apparent magnitude of the whole cluster.\n\nNeglect interstellar absorption and absorption in the Earth's atmosphere.",
+     "paper_label": "Regional stage (grade 10)",
+     "problem_orig": "Шаровое скопление\n\nШаровое звездное скопление содержит 100 тысяч звезд светимостью $L = 0.5\\,L_\\odot$ каждая и 80 красных гигантов с абсолютной звездной величиной $M = -3^m$. Радиус скопления – 10 пк. Угловой размер скопления – $20'$. Определите:\n\nA. Расстояние до скопления. Находится ли данное скопление в нашей Галактике?\n\nB. Видимую звездную величину всего скопления.\n\nМежзвездным поглощением и поглощением в земной атмосфере пренебречь.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "Hopeless escape\n\nA star has a parallax $\\pi_0 = 0.1''$, a radial velocity $v_r = -97.8$ km/s and a total proper motion $\\mu = 1.19''$/yr. Earthlings want to launch a research probe to the star with the minimum possible speed. What minimum speed (at a great distance from the Sun) must the probe have in order to reach the star with its engines switched off? At what angle to the present direction to the star must this minimum velocity be oriented? How long will the probe's flight last?\n\nOver the time interval under consideration the motion of the star relative to the Sun can be assumed uniform and rectilinear.",
+     "paper_label": "Regional stage (grade 10)",
+     "problem_orig": "Безнадежный побег\n\nЗвезда имеет параллакс $\\pi_0 = 0.1''$, лучевую скорость $v_r = -97.8$ км/с и полное собственное движение $\\mu = 1.19''$/год. Земляне хотят запустить к звезде исследовательский зонд с минимально возможной скоростью. Какую минимальную скорость (на большом удалении от Солнца) должен иметь зонд, чтобы достичь звезды с выключенными двигателями? Под каким углом к современному направлению на звезду должна быть ориентирована такая минимальная скорость? Сколько будет длиться полёт зонда?\n\nНа рассматриваемом временном промежутке движение звезды относительно Солнца можно считать равномерным и прямолинейным.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "Tycho's daylight\n\nThe lunar crater Tycho has selenographic coordinates $43^\\circ$ S and $11^\\circ$ W. Its diameter is 85 km and the depth at the centre of the crater is 4700 metres. Determine the length of the daylight at the centre of the crater Tycho. Assume that the plane of the lunar orbit coincides with the plane of the ecliptic and with the plane of the lunar equator, and that the orbits of the Moon and the Earth can be taken to be circular. The daylight begins at the moment of sunrise of the upper limb of the Sun's disc. Neglect the relief inside the crater.\n\nHow long after new moon occurs on the Earth will sunrise begin at the centre of the crater Tycho?",
+     "paper_label": "Regional stage (grade 10)",
+     "problem_orig": "Световой день Тихо\n\nЛунный кратер Тихо имеет селенографические координаты $43^\\circ$ ю.ш. и $11^\\circ$ з.д. Его диаметр составляет 85 км, а глубина в центре кратера – 4700 метров. Определите длительность светового дня в центре кратера Тихо. Считайте, что плоскость лунной орбиты совпадает с плоскостью эклиптики и с плоскостью лунного экватора, орбиты Луны и Земли можно считать круговыми. Световой день начинается с момента восхода верхнего края диска Солнца. Рельефом внутри кратера пренебречь.\n\nЧерез какое время после того, как на Земле наступило новолуние, в центре кратера Тихо начнется восход Солнца?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "Tales of penetrating power\n\nAn observer uses a telescope and two eyepieces ($f_1 = 10$ mm, $f_2 = 40$ mm) to observe open star clusters. When observing at the higher magnification the observer noticed that the limiting magnitude was $13.6^m$, and when observing with the eyepiece of lower magnification, $13.0^m$. What are the relative aperture, the diameter and the focal length of the objective of this telescope?",
+     "paper_label": "Regional stage (grade 10)",
+     "problem_orig": "Сказания о проницающей способности\n\nНаблюдатель использует телескоп и два окуляра ($f_1 = 10$ мм, $f_2 = 40$ мм) для наблюдения рассеянных звездных скоплений. При наблюдении с большим увеличением наблюдатель заметил, что предельная звездная величина составила $13.6^m$, а при наблюдении в окуляр с меньшим увеличением – $13.0^m$. Чему равны относительное отверстие, диаметр и фокусное расстояние объектива этого телескопа?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "Triple phase\n\nA spherical object of the Solar System is observed from the Earth at an angular distance $\\gamma$ from the Sun, its phase being $\\Phi_1$. The next time, the observed object was again at an angular distance $\\gamma$ from the Sun after $\\frac14$ of a year, and its phase $\\Phi_2$ turned out to be exactly 3 times greater than $\\Phi_1$. On the basis of these data determine:\n\nA. The radius of the orbit of the observed object.\n\nB. The angular distance of the object from the Sun at the moment of the first observation, the angle $\\gamma$.\n\nC. What was the visibility of the object at the moment of the first observation, morning or evening? Give a detailed analysis.\n\nThe orbit of the object lies in the plane of the ecliptic and is circular. The object revolves around the Sun in the same direction as the Earth.",
+     "paper_label": "Regional stage (grade 10)",
+     "problem_orig": "Тройная фаза\n\nОбъект Солнечной системы сферической формы наблюдается с Земли на угловом удалении $\\gamma$ от Солнца, при этом его фаза равна $\\Phi_1$. В следующий раз наблюдаемый объект снова оказался на угловом удалении $\\gamma$ от Солнца через $\\frac14$ года, при этом его фаза $\\Phi_2$ оказалась ровно в 3 раза больше, чем $\\Phi_1$. На основании этих данных определите:\n\nA. Радиус орбиты наблюдаемого объекта.\n\nB. Угловое удаление объекта от Солнца в момент первого наблюдения – угол $\\gamma$.\n\nC. Какая была видимость у объекта в момент первого наблюдения – утренняя или вечерняя? Приведите подробный анализ.\n\nОрбита объекта лежит в плоскости эклиптики и является круговой. Объект обращается вокруг Солнца в том же направлении, что и Земля.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "problem": "Comet C/2023 A3 (Tsuchinshan-Atlas) near the horizon\n\nThe figure (next page) shows a photograph (a black-and-white negative) of the bright comet C/2023 A3 (Tsuchinshan-Atlas), obtained at the moment of the Earth's passage through the plane of its orbit on 14 October 2024 at 20 hours 00 minutes Universal Time. A grid of equatorial coordinates is superimposed on the photograph, the line of the mathematical horizon is drawn, and the three brightest stars in the neighbourhood of the point of observation are indicated (with their brightness enhanced). The table below gives the equatorial coordinates of these stars.\n\n$$\\begin{array}{|l|c|c|}\\hline \\text{Name} & \\text{Right ascension} & \\text{Declination} \\\\ \\hline \\text{Star 1: 109 Vir} & 14^\\mathrm{h}47^\\mathrm{m}29^\\mathrm{s} & 01^\\circ47'25'' \\\\ \\text{Star 2: 11 Lib} & 14^\\mathrm{h}52^\\mathrm{m}17^\\mathrm{s} & -2^\\circ24'02'' \\\\ \\text{Star 3: 110 Vir} & 15^\\mathrm{h}04^\\mathrm{m}08^\\mathrm{s} & 1^\\circ59'45'' \\\\ \\hline\\end{array}$$\n\nDetermine:\n\nA. The angular dimensions of the region of the sky captured in the photograph, and the errors of their determination.\n\nB. The time of day at which the photograph was taken.\n\nC. The geographical coordinates of the place where the comet was photographed, and the errors of their determination.\n\nThe autumnal equinox in 2024 occurred on 22 September at 12 hours 44 minutes Universal Time. The equation of time is to be neglected in the calculations.\n\nThe lower edge of the frame coincides with the mathematical horizon; the position of the celestial equator, of the head of the comet (H), of the most extended visible part (HT) of the dust tail of the comet, and of the visible part of the anti-tail of the comet (HA), directed strictly \"towards the Sun\", are indicated.\n\nWhen calculating the errors of the sought quantities, the division value of the ruler (1 mm) is to be taken as the absolute error of measuring the length of any segment in the photograph.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/rureg910-2025-d1-q6-1.png",
+     "paper_label": "Regional stage (grade 10)",
+     "problem_orig": "Комета C/2023 A3 (Tsuchinshan-Atlas) у горизонта\n\nНа рисунке (следующая страница) представлена фотография (черно-белый негатив) яркой кометы C/2023 A3 (Tsuchinshan-Atlas), полученная в момент прохождения Земли через плоскость ее орбиты 14 октября 2024 года в 20 часов 00 минут по всемирному времени. На фотографию наложена сетка экваториальных координат, проведена линия математического горизонта и указаны три наиболее ярких звезды в окрестности точки наблюдения (с усилением их яркости). В таблице ниже представлены экваториальные координаты этих звезд.\n\n$$\\begin{array}{|l|c|c|}\\hline \\text{Название} & \\text{Прямое восхождение} & \\text{Склонение} \\\\ \\hline \\text{Звезда 1: 109 Vir} & 14^\\mathrm{h}47^\\mathrm{m}29^\\mathrm{s} & 01^\\circ47'25'' \\\\ \\text{Звезда 2: 11 Lib} & 14^\\mathrm{h}52^\\mathrm{m}17^\\mathrm{s} & -2^\\circ24'02'' \\\\ \\text{Звезда 3: 110 Vir} & 15^\\mathrm{h}04^\\mathrm{m}08^\\mathrm{s} & 1^\\circ59'45'' \\\\ \\hline\\end{array}$$\n\nОпределите:\n\nA. Угловые размеры участка неба, запечатленного на фотографии, и погрешности их определения.\n\nB. Время суток, когда была выполнена фотосъемка.\n\nC. Географические координаты места фотосъемки кометы и погрешности их определения.\n\nОсеннее равноденствие в 2024 году наступило 22 сентября в 12 часов 44 минуты по всемирному времени. Уравнением времени в расчетах следует пренебречь.\n\nНижняя кромка кадра совпадает с математическим горизонтом; указано положение небесного экватора, головы кометы (H), наиболее протяженной видимой части (HT) пылевого хвоста кометы, видимой части антихвоста кометы (HA), ориентированного строго «на Солнце».\n\nПри расчете погрешностей определения искомых величин в качестве абсолютной погрешности измерения длины какого-либо отрезка на фотографии следует принимать цену деления линейки (1 мм).\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/rureg910-2025-d1-q6-1.png",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 1,
+     "problem": "Diurnal motion of stars above the horizon\n\nAt some point $O$ on the Earth's surface two stars are observed: $A$ and $B$. Star $A$ rose at $22^\\mathrm{h}30^\\mathrm{m}$ local mean solar time at $30^\\circ$ north of the east point, and star $B$ set below the horizon at $04^\\mathrm{h}10^\\mathrm{m}$ of the same time at $10^\\circ$ south of the west point. It is known that for an observer located at point $O$ the Pole Star is on the horizon every $11^\\mathrm{h}58^\\mathrm{m}$. Determine:\n\nA) the latitude of point $O$;\n\nB) the declinations of stars $A$ and $B$;\n\nC) the difference of their right ascensions (to the nearest minute);\n\nD) the ratio of the angular velocities (to hundredths) of the apparent motion of the stars across the sky from the observer's position.\n\nNeglect atmospheric refraction.",
+     "paper_label": "Regional stage (grade 9)",
+     "problem_orig": "Суточное движение звезд над горизонтом\n\nВ некоторой точке $O$ поверхности Земли наблюдаются две звезды: $A$ и $B$. Звезда $A$ взошла в $22^\\mathrm{h}30^\\mathrm{m}$ местного среднего солнечного времени в $30^\\circ$ к северу от точки востока, а звезда $B$ зашла за горизонт в $04^\\mathrm{h}10^\\mathrm{m}$ по тому же времени в $10^\\circ$ к югу от точки запада. Известно, что для наблюдателя, расположенного в точке $O$, Полярная звезда оказывается на горизонте каждые $11^\\mathrm{h}58^\\mathrm{m}$. Определите:\n\nA) широту точки $O$;\n\nB) склонения звезд $A$ и $B$;\n\nC) разность их прямых восхождений (с точностью до минуты);\n\nD) отношение угловых скоростей (до сотых долей) видимого перемещения звезд по небосводу с позиции наблюдателя.\n\nАтмосферной рефракцией следует пренебречь.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 2,
+     "problem": "Open cluster\n\nIn an open cluster only 5 stars are visible to the naked eye, and all of them are of the 5th apparent magnitude. Looking through a telescope with an objective diameter of 120 mm, one can see some more stars of this cluster, each of which is seen as a $5^m$ star without a telescope, and all such stars together deliver as much light as one $4^m$ star. The magnification of the telescope is greater than the equal-pupil one. How many stars does the cluster consist of, if all the stars are visible in the telescope? What is the absolute magnitude of the whole cluster, if the distance to it is 150 pc?",
+     "paper_label": "Regional stage (grade 9)",
+     "problem_orig": "Рассеянное скопление\n\nВ рассеянном скоплении невооруженным глазом видно всего 5 звезд, причем все они 5-ой видимой звездной величины. Глядя в телескоп с диаметром объектива 120 мм, можно увидеть еще некоторое количество звезд этого скопления, причем каждая из них видна как звезда $5^m$ без телескопа, а от всех таких звезд приходит столько же света, как и от одной звезды $4^m$. Увеличение телескопа больше равнозрачкового. Сколько звезд входит в состав скопления, если в телескоп видно все звезды? Чему равна абсолютная звездная величина всего скопления, если расстояние до него равно 150 пк?",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 3,
+     "problem": "Distant prospects\n\nOne novel describes how scientists created in the Solar System an artificial planet X with the following characteristics:\n\n1) if one sketches from planet X the mutual arrangement of the Earth, the Sun and X at a given moment and exactly one local year later, the pictures coincide;\n\n2) every time an opposition of planet X is observed from the Earth, an opposition of one and the same planet of the Solar System is observed from planet X.\n\nHow far from the Sun could planet X be? Assume the orbits of all planets to be circular and lying in one plane.",
+     "paper_label": "Regional stage (grade 9)",
+     "problem_orig": "Далекие перспективы\n\nВ одном романе описано, что ученые создали в Солнечной системе искусственную планету Х со следующими характеристиками:\n\n1) если с планеты Х зарисовать взаимное расположение Земли, Солнца и Х в данный момент и ровно через местный год, то картины совпадут;\n\n2) каждый раз, когда с Земли наблюдается противостояние планеты Х, с планеты Х наблюдается противостояние одной и той же планеты Солнечной Системы.\n\nНасколько далеко от Солнца могла бы находиться планета Х? Орбиты всех планет считать круговыми и лежащими в одной плоскости.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 4,
+     "problem": "Fisherman meets fisherman\n\nAlien astronomers living on a planet that revolves around a normal star found that a certain yellow star (known to us as the Sun), over a local year equal to 5 Earth days, makes in the sky a motion along an ellipse with a semi-major axis of $7.7\\cdot10^{-3}$ arcseconds relative to the background stars. The position of the star under study is marked on the alien astronomers' star chart. Given that the light from this star reaches the astronomers in 833 local years, determine:\n\nA) The mass of the star around which the astronomers' planet revolves, in solar masses.\n\nB) The constellation in which this star is located for observers on the Earth.\n\nC) Can this star be seen from the Earth with the naked eye?\n\nD) What do we call the brightest star located on the chart not far from the Sun?\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/rureg910-2025-d3-q4-1.png",
+     "paper_label": "Regional stage (grade 9)",
+     "problem_orig": "Рыбак рыбака\n\nИнопланетные астрономы, живущие на планете, обращающейся вокруг нормальной звезды, обнаружили, что некоторая желтая звезда (нам известная как Солнце) за местный год, равный 5 земным суткам, совершает на небе движение по эллипсу с величиной большой полуоси $7.7\\cdot10^{-3}$ угловой секунды относительно звезд фона. На звездной карте инопланетных астрономов отмечено положение исследуемой звезды. Учитывая, что свет от этой звезды достигает астрономов за 833 местных года, определите:\n\nA) Массу звезды, вокруг которой вращается планета астрономов в массах Солнца.\n\nB) Созвездие, в котором находится эта звезда для наблюдателей на Земле.\n\nC) Можно ли увидеть эту звезду с Земли невооруженным глазом?\n\nD) Как мы называем самую яркую звезду, расположенную на карте недалеко от Солнца?\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/rureg910-2025-d3-q4-1.png",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 5,
+     "problem": "Two satellites\n\nTwo Earth satellites, \"Meteor\" and \"Oblako\" (\"Cloud\"), move in circular orbits in perpendicular planes. At some moment \"Meteor\" flew over \"Oblako\". A quarter of a revolution later \"Meteor\" could see \"Oblako\" at the edge of the Earth's disc. The angular diameter of the Earth as observed from \"Oblako\" is $\\beta = 93^\\circ$.\n\nA) At what angular distance from the edge of the Earth's disc will \"Oblako\" be seen from \"Meteor\" half a period of \"Meteor\" after one satellite flew over the other?\n\nB) How many full revolutions will \"Meteor\" make before it, having returned to the initial point, can no longer see \"Oblako\"?\n\nNeglect atmospheric refraction.",
+     "paper_label": "Regional stage (grade 9)",
+     "problem_orig": "Два спутника\n\nДва спутника Земли — «Метеор» и «Облако» — движутся по круговым орбитам в перпендикулярных плоскостях. В некоторый момент времени «Метеор» пролетел над «Облаком». Спустя четверть оборота «Метеор» мог видеть «Облако» на краю диска Земли. Угловой диаметр Земли при наблюдении с «Облака» равен $\\beta = 93^\\circ$.\n\nA) На каком угловом расстоянии от края диска Земли будет видно «Облако» с «Метеора» через половину периода «Метеора» после пролета одного спутника над другим?\n\nB) Сколько полных оборотов совершит «Метеор», прежде чем, вернувшись в исходную точку, он не сможет увидеть «Облако»?\n\nАтмосферной рефракцией пренебречь.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 6,
+     "problem": "Galactic flyby\n\nIn the plane of the Galaxy, far from gravitating bodies, two stars $S_1$ and $S_2$ are moving. One may assume that the stars move uniformly and rectilinearly, and that the gravitational influence of each on the other can be neglected. The length of the velocity vector shows the distance travelled by the star in 10 000 years. Determine the following quantities:\n\nA) The minimum possible distance between the two stars, in parsecs.\n\nB) After what time, in the past or in the future, this will occur. Give the answer in years.\n\nC) The relative velocity of star $S_1$ for an observer in the neighbourhood of star $S_2$, in kilometres per second.\n\nD) The proper motion of star $S_1$ as seen from star $S_2$ at the initial moment and at the moment of minimum approach, expressed in arcseconds per year.\n\nThe figure shows the view from the north pole of the Galaxy.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/rureg910-2025-d3-q6-1.png",
+     "paper_label": "Regional stage (grade 9)",
+     "problem_orig": "Галактический пролет\n\nВ плоскости Галактики вдали от тяготеющих тел двигаются две звезды $S_1$ и $S_2$. Можно считать, что звезды двигаются равномерно и прямолинейно, гравитационным влиянием друг на друга можно пренебречь. Длина вектора скорости показывает расстояние, пройденное звездой за 10 000 лет. Определите следующие величины:\n\nA) Минимально возможное расстояние между двумя звездами в парсеках.\n\nB) Через какое время в прошлом или в будущем это произойдет? Ответ дайте в годах.\n\nC) Относительную скорость звезды $S_1$ для наблюдателя из окрестностей звезды $S_2$ в километрах в секунду.\n\nD) Собственное движение звезды $S_1$ со звезды $S_2$ в начальный момент времени и в момент минимального пролета, выраженное в угловых секундах в год.\n\nНа рисунке изображен вид из северного полюса Галактики.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/rureg910-2025-d3-q6-1.png",
+     "orig_lang": "ru"
+    }
+   ]
+  },
+  {
+   "year": 2026,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "Rainbow\n\nAn observer on the Earth's surface sees on 1 October a rainbow crossing the horizon at points with azimuths $51^\\circ$ and $129^\\circ$. Determine the observer's latitude and the mean solar time at the moment of observation. The primary (brightest) ring of the rainbow is at a distance of $138^\\circ$ from the Sun, whose light is refracted in the water droplets.\n\nNeglect the equation of time and refraction. The autumnal equinox this year occurred on 23 September.",
+     "paper_label": "Regional stage – day 1 (grade 10)",
+     "problem_orig": "Радуга\n\nНаблюдатель на поверхности Земли 1 октября видит радугу, пересекающую горизонт в точках с азимутами $51^\\circ$ и $129^\\circ$. Определите широту наблюдателя и среднее солнечное время в момент наблюдения. Первичное (наиболее яркое) кольцо радуги находится на удалении $138^\\circ$ от Солнца, свет от которого преломляется в капельках воды.\n\nУравнением времени и рефракцией пренебречь. Осеннее равноденствие в этом году наступило 23 сентября.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "Main asteroid belt\n\nThe total mass of the main asteroid belt is 4% of the mass of the Moon. The ten most massive bodies of the main belt (MAB) make up about 55% of the total mass of the belt. Assume that practically all the remaining mass is contained in asteroids whose size exceeds 1 km. Take the mean radius of such asteroids to be 5 km. Assuming that all the asteroids revolve around the Sun in one plane and are uniformly distributed inside a ring with an inner radius of 2.1 AU and an outer radius of 3.3 AU, determine the characteristic distance between such asteroids.\n\nThe asteroids may be considered spherical. The mean density of the asteroids in the main belt is $\\rho = 2\\,500\\ \\mathrm{kg/m^3}$.",
+     "paper_label": "Regional stage – day 1 (grade 10)",
+     "problem_orig": "Главный пояс астероидов\n\nОбщая масса главного пояса астероидов составляет 4% массы Луны. При этом десять самых массивных тел ГПА составляют около 55% от всей массы пояса. Предположим, что практически вся оставшаяся масса находится в астероидах, размер которых превышает 1 км. Средний радиус таких астероидов примем за 5 км. Считая, что все астероиды обращаются вокруг Солнца в одной плоскости и равномерно распределены внутри кольца с внутренним радиусом 2.1 а.е и внешним радиусом 3.3 а.е., определите характерное расстояние между такими астероидами.\n\nАстероиды можно считать сферическими. Средняя плотность астероидов в главном поясе $\\rho = 2\\,500\\ \\mathrm{кг/м^3}$.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "Multiple orbits\n\nAn asteroid moves in a circular orbit around the Sun. At some point of the orbit, as a result of an explosion, it splits into two fragments, one of which continues to move in the same direction as the original asteroid. The orbital period of the first fragment becomes twice the orbital period of the original asteroid, and the second fragment goes into an orbit with a period of revolution half the period of the original asteroid.\n\nDetermine the ratio of the masses of the fragments.",
+     "paper_label": "Regional stage – day 1 (grade 10)",
+     "problem_orig": "Кратные орбиты\n\nАстероид двигается по круговой орбите вокруг Солнца. В некоторой точке орбиты вследствие взрыва он разделяется на два осколка, один из которых продолжает двигаться в том же направлении, что и исходный астероид. При этом орбитальный период первого осколка становится в два раза больше орбитального периода исходного астероида, а второй осколок переходит на орбиту с периодом обращения, в два раза меньшим периода исходного астероида.\n\nОпределите отношение масс осколков.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "Choosing an eyepiece\n\nA binary system consisting of identical stars has a total brightness of $13.5^m$ and an angular separation of the components of $1.0''$. Visual observations of this system are made with a telescope with a diameter $D = 20$ centimetres and a relative aperture of 1/5. Determine the range of magnifications at which the star can be seen by the eye through the telescope eyepiece.\n\nThe resolving power of the eye is $1'$. The limiting magnitude for the eye is $6^m$. Neglect the influence of the atmosphere.",
+     "paper_label": "Regional stage – day 1 (grade 10)",
+     "problem_orig": "Подобрать окуляр\n\nУ двойной системы, состоящей из одинаковых звезд, суммарный блеск равен $13.5^m$, а угловое расстояние между компонентами $1.0''$. Проводятся визуальные наблюдения этой системы в телескоп с диаметром $D = 20$ сантиметров и относительным отверстием 1/5. Определите диапазон увеличений, при которых звезду видно глазом в окуляр телескопа.\n\nРазрешающая способность глаза $1'$. Предельная звездная величина для глаза $6^m$. Влиянием атмосферы пренебречь.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "Far from the Sun\n\nYou are given a negative of a drawn artistic image of the dwarf planet Eris. At what distance from Eris would a spacecraft be if it could see the same picture?\n\nThe radius of Eris is 1150 km.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/rureg910-2026-d1-q5-1.png",
+     "paper_label": "Regional stage – day 1 (grade 10)",
+     "problem_orig": "Вдали от Солнца\n\nВам предоставлен негатив нарисованного художественного изображения карликовой планеты — Эриды. На каком расстоянии от Эриды находился бы космический аппарат, если бы он мог видеть такую же картину?\n\nРадиус Эриды — 1150 км.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/rureg910-2026-d1-q5-1.png",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 2,
+     "number": 1,
+     "problem": "A Five\n\nThe zenith distance of a star changes during a day by a factor of 5. Determine the latitude of the place of observation if the north polar distance of the star is also 5 times greater than its declination.",
+     "paper_label": "Regional stage – day 2 (grade 10)",
+     "problem_orig": "Пятерка\n\nЗенитное расстояние звезды в течение суток изменяется в 5 раз. Определите широту места наблюдения, если северное полярное расстояние звезды больше ее склонения тоже в 5 раз.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 2,
+     "number": 2,
+     "problem": "Home galaxy\n\nDistant alien astronomers observe our Milky Way galaxy ($M = -21^m$, $R = 16$ kpc) as an ellipse whose minor semi-axis is half the major semi-axis. What will the surface magnitude $m_{\\square''}$ (the magnitude per square arcsecond) of the galaxy observed by them be? Neglect absorption of light.",
+     "paper_label": "Regional stage – day 2 (grade 10)",
+     "problem_orig": "Родная Галактика\n\nДалекие инопланетные астрономы наблюдают нашу галактику Млечный путь ($M = -21^m$, $R = 16$ кпк) в виде эллипса, у которого малая полуось в два раза меньше, чем большая полуось. Чему будет равна поверхностная звездная величина $m_{\\square''}$ (звездная величина на квадратную секунду) наблюдаемой ими галактики? Поглощением света пренебречь.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 2,
+     "number": 3,
+     "problem": "Hide and seek\n\nTwice in 12 years an opportunity arises in the system of the Galilean satellites of Jupiter for an eclipse of one satellite by another. Determine the maximum possible change of the brightness of Callisto due to this effect. Use the approximation of geometric optics.\n\nThe influence of the satellites' atmospheres can be neglected. Assume that the reflectivity does not depend on the angle of incidence. Because of Jupiter's large distance from the Sun, the phases of the planet and of the satellites may be taken to be equal to 1. Take the orbits of the Earth, Jupiter and all the satellites to be circular. The equatorial radius of Jupiter is 71.5 thousand km.\n\n$$\\begin{array}{|l|c|c|}\\hline \\text{Satellite} & \\text{Semi-major axis of orbit} & \\text{Diameter of satellite} \\\\ \\hline \\text{Io} & 421\\,800\\ \\text{km} & 3\\,640\\ \\text{km} \\\\ \\text{Europa} & 671\\,100\\ \\text{km} & 3\\,120\\ \\text{km} \\\\ \\text{Ganymede} & 1\\,070\\,400\\ \\text{km} & 5\\,270\\ \\text{km} \\\\ \\text{Callisto} & 1\\,882\\,700\\ \\text{km} & 4\\,820\\ \\text{km} \\\\ \\hline\\end{array}$$",
+     "paper_label": "Regional stage – day 2 (grade 10)",
+     "problem_orig": "Игра в прятки\n\nДва раза за 12 лет в системе галилеевых спутников Юпитера появляется возможность затмения одного спутника другим. Определите максимально возможное изменение блеска Каллисто из-за этого эффекта. Воспользуйтесь приближением геометрической оптики.\n\nВлиянием атмосфер спутников можно пренебречь. Считайте, что отражательная способность не зависит от угла падения. Из-за большого удаления Юпитера от Солнца фазы планеты и спутников можно считать равными 1. Орбиты Земли, Юпитера и всех спутников считайте круговыми. Экваториальный радиус Юпитера равен 71.5 тыс. км.\n\n$$\\begin{array}{|l|c|c|}\\hline \\text{Спутник} & \\text{Полуось орбиты} & \\text{Диаметр спутника} \\\\ \\hline \\text{Ио} & 421\\,800\\ \\text{км} & 3\\,640\\ \\text{км} \\\\ \\text{Европа} & 671\\,100\\ \\text{км} & 3\\,120\\ \\text{км} \\\\ \\text{Ганимед} & 1\\,070\\,400\\ \\text{км} & 5\\,270\\ \\text{км} \\\\ \\text{Каллисто} & 1\\,882\\,700\\ \\text{км} & 4\\,820\\ \\text{км} \\\\ \\hline\\end{array}$$",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 2,
+     "number": 4,
+     "problem": "Half of the ecliptic\n\nAstronomers observed a star located on the ecliptic. At the moments of culmination of the star its radial velocity was measured. The results of the observations, half a year apart, are given in the table.\n\n$$\\begin{array}{|c|c|}\\hline \\text{Date} & \\text{Radial velocity} \\\\ \\hline 21.03 & -35\\ \\text{km/s} \\\\ 23.09 & 5\\ \\text{km/s} \\\\ \\hline\\end{array}$$\n\nDuring both observing sessions the equatorial coordinates of the star were the same. Assuming the Earth's orbit to be circular, determine:\n\nA. The ecliptic coordinates of the star\n\nB. The total heliocentric velocity of the star",
+     "paper_label": "Regional stage – day 2 (grade 10)",
+     "problem_orig": "Половина эклиптики\n\nАстрономы проводили наблюдения за звездой, находящейся на эклиптике. В моменты кульминации звезды была измерена ее лучевая скорость. Результаты наблюдений с разницей в полгода приведены в таблице.\n\n$$\\begin{array}{|c|c|}\\hline \\text{Дата} & \\text{Лучевая скорость} \\\\ \\hline 21.03 & -35\\ \\text{км/с} \\\\ 23.09 & 5\\ \\text{км/с} \\\\ \\hline\\end{array}$$\n\nВо время обоих сеансов наблюдений экваториальные координаты звезды были одинаковыми. Считая орбиту Земли круговой, определите:\n\nA. Эклиптические координаты звезды\n\nB. Полную гелиоцентрическую скорость звезды",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 2,
+     "number": 5,
+     "problem": "Capella\n\nCapella (Alpha Aurigae) is one of the brightest stars of the night sky. At the same time it is located quite close to us; its parallax is $0.076''$. With the appearance of the possibility of obtaining stellar spectra and measuring their velocities it became known that Capella is a binary star with a period of revolution of the components around each other equal to 104 days. The eccentricity of the orbits is zero, and the inclination, the angle between the plane of the sky and the plane of the orbit, is $43^\\circ$.\n\nYou are given a graph of the radial velocities of the components of the system, in kilometres per second, against the phase, the fraction of the period. Determine what maximum angular distance there can be between these stars, and its error. Can they be distinguished in a telescope with a diameter of 2.5 m at an atmospheric seeing of $0.7''$?\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/rureg910-2026-d2-q5-1.png",
+     "paper_label": "Regional stage – day 2 (grade 10)",
+     "problem_orig": "Капелла\n\nКапелла (Альфа Возничего) — одна из самых ярких звезд ночного неба. При этом она расположена достаточно близко к нам, ее параллакс равен $0.076''$. С появлением возможности получать спектры звезд и измерять их скорости стало известно, что Капелла — двойная звезда с периодом обращения компонент друг относительно друга, равным 104 дня. При этом эксцентриситет орбит равен нулю, а наклонение, угол между картинной плоскостью и плоскостью орбиты, составляет $43^\\circ$.\n\nВам дан график зависимости лучевых скоростей компонент системы в километрах в секунду от зависимости от фазы, доли периода. Определите, какое максимальное угловое расстояние может быть между этими звездами и его погрешность. Можно ли их различить в телескоп с диаметром 2.5 м при качестве атмосферы в $0.7''$?\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/rureg910-2026-d2-q5-1.png",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 1,
+     "problem": "Between today and tomorrow\n\nFor an observer located at a point with longitude $\\lambda = 54^\\circ15'$ on the territory of Russia, on 27 July 2018 the Moon rose at $23^\\mathrm{h}19^\\mathrm{m}$ and set at $23^\\mathrm{h}25^\\mathrm{m}$ Moscow time, which is adopted in that locality. On the same night a total lunar eclipse took place, whose maximum phase fell at $20^\\mathrm{h}23^\\mathrm{m}$ Universal Time on 27 July. Find the observer's latitude. Assume the eclipse to be central.",
+     "paper_label": "Regional stage – day 1 (grade 9)",
+     "problem_orig": "Между сегодня и завтра\n\nДля наблюдателя, находящегося в точке с долготой $\\lambda = 54^\\circ15'$ на территории России, Луна 27 июля 2018 года взошла в $23^\\mathrm{h}19^\\mathrm{m}$, а зашла в $23^\\mathrm{h}25^\\mathrm{m}$ по московскому времени, принятому в той местности. В эту же ночь произошло полное лунное затмение, максимальная фаза которого пришлась на $20^\\mathrm{h}23^\\mathrm{m}$ всемирного времени 27 июля. Найдите широту наблюдателя. Затмение считать центральным.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 2,
+     "problem": "School of navigators\n\nIn a school of young navigators two friends were discussing their examination space flights. Each of them had to start from the Earth, visit two stars in turn and return to the Earth. Vasya chose two stars of apparent magnitude $4^m$, and Petya chose stars of $3^m$ and $5^m$. It is known that the angular distance between each pair of stars on the celestial sphere is $90^\\circ$. All four stars have the same luminosity, and the training spaceships have the same speed. Determine whose route will turn out to be shorter and by what factor. Neglect interstellar absorption of light.",
+     "paper_label": "Regional stage – day 1 (grade 9)",
+     "problem_orig": "Школа навигаторов\n\nВ школе юных навигаторов два друга обсуждали свои экзаменационные космические полеты. Каждый из них должен стартовать с Земли, посетить поочередно две звезды и вернуться на Землю. Вася выбрал две звезды видимой звездной величины $4^m$, а Петя — звезды $3^m$ и $5^m$. Известно, что угловое расстояние между каждой парой звезд на небесной сфере составляет $90^\\circ$. Все четыре звезды имеют одинаковую светимость, а тренировочные космолеты — одинаковую скорость. Определите, чей маршрут окажется короче и во сколько раз. Межзвездным поглощением света пренебречь.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 3,
+     "problem": "A problem about maxima\n\nAn asteroid moves around the Sun in a circular orbit lying in the plane of the Earth's orbit. The maximum distance between the Earth and the asteroid is 3.5 times the minimum distance between them. Determine the maximum possible time (in years or fractions of a year) during which the asteroid is continuously closer to the Earth than to the Sun. Take the Earth's orbit to be circular.",
+     "paper_label": "Regional stage – day 1 (grade 9)",
+     "problem_orig": "Задача о максимумах\n\nАстероид движется вокруг Солнца по круговой орбите, лежащей в плоскости орбиты Земли. Максимальное расстояние между Землей и астероидом в 3.5 раза больше минимального расстояния между ними. Определите максимально возможное время (в годах или долях года), в течение которого астероид непрерывно находится ближе к Земле, чем к Солнцу. Орбиту Земли считайте круговой.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 4,
+     "problem": "Two in one\n\nOn careful study of an open cluster it turned out that it contains two groups of stars. Both groups have the same mean radial velocity and the same mean proper motion, but the apex of the first group is at $40^\\circ$ from the cluster, and the apex of the second group at $60^\\circ$. By what factor do the distances from the observer to these groups of stars and their space velocities differ? Be sure to state which of the groups of stars is farther away and which is faster.",
+     "paper_label": "Regional stage – day 1 (grade 9)",
+     "problem_orig": "Два в одном\n\nПри внимательном изучении рассеянного скопления оказалось, что оно содержит две группы звезд. Обе группы имеют одинаковую среднюю лучевую скорость и одинаковое среднее собственное движение, но апекс первой группы находится в $40^\\circ$ от скопления, а апекс второй группы — в $60^\\circ$. Во сколько раз отличаются расстояния от наблюдателя до этих групп звезд и их пространственные скорости? Обязательно отметьте какая из групп звезд дальше и какая быстрее.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 3,
+     "number": 5,
+     "problem": "Believe the corrected\n\nA beginner astronomer is studying a blank map of the starry sky compiled for a certain locality and moment of time. Great circles of the celestial sphere are drawn on the map. The astronomer has to label these circles, mark the cardinal directions and the four brightest astronomical objects. While doing the task he made mistakes. Correct these mistakes in the labels, explain your decision and answer the following questions (with explanations):\n\nA. In which phase (qualitatively) is the Moon?\n\nB. Which culmination of the Moon will occur earlier: the upper or the lower?\n\nC. Determine the current local sidereal time to within 1 hour.\n\nD. Determine the latitude of the place of observation to within $1^\\circ$.\n\nThe field of view of the map horizontally is $180^\\circ$. All the labels on the map were put there by the beginner astronomer.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/rureg910-2026-d3-q5-1.png",
+     "paper_label": "Regional stage – day 1 (grade 9)",
+     "problem_orig": "Исправленному верить\n\nНачинающий астроном изучает немую карту звездного неба, составленную для некоторой местности и момента времени. На карту нанесены большие круги небесной сферы. Астроному необходимо подписать эти круги, обозначить стороны света и четыре самых ярких астрономических объекта. Выполняя задание, он допустил ошибки. Исправьте эти ошибки в подписях, объясните свое решение и ответьте на следующие вопросы (с пояснениями):\n\nA. В какой фазе (качественно) находится Луна?\n\nB. Какая кульминация Луны наступит раньше: верхняя или нижняя?\n\nC. Определите текущее местное звездное время с точностью до 1 часа.\n\nD. Определите широту места наблюдения с точностью до $1^\\circ$.\n\nПоле зрения карты по горизонтали — $180^\\circ$. Все подписи на карту нанес начинающий астроном.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/rureg910-2026-d3-q5-1.png",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 4,
+     "number": 1,
+     "problem": "Transit zone\n\nAstronomers on the Galilean satellites of Jupiter observe transits of other Galilean satellites across the disc of Jupiter. On which of the satellites is the astronomer who observes the longest transit located? Which satellite does he see? Determine the maximum duration of the transit. The mass and radius of Jupiter are $1.9\\cdot10^{27}$ kg and 71 500 km respectively. All the listed satellites move in one plane in one direction.\n\n$$\\begin{array}{|l|c|c|c|}\\hline \\text{Name} & \\text{Diameter, km} & \\text{Mass, kg} & \\text{Orbital radius, km} \\\\ \\hline \\text{Amalthea} & 250 & 2.1\\times10^{18} & 181\\,400 \\\\ \\text{Thebe} & 100 & 4.3\\times10^{17} & 221\\,900 \\\\ \\text{Io} & 3643 & 8.9\\times10^{22} & 421\\,800 \\\\ \\text{Europa} & 3122 & 4.8\\times10^{22} & 671\\,100 \\\\ \\text{Ganymede} & 5268 & 1.5\\times10^{23} & 1\\,070\\,400 \\\\ \\text{Callisto} & 4821 & 1.1\\times10^{23} & 1\\,882\\,700 \\\\ \\text{Themisto} & 9 & 6.9\\times10^{14} & 7\\,393\\,216 \\\\ \\text{Himalia} & 160 & 4.2\\times10^{18} & 11\\,450\\,000 \\\\ \\hline\\end{array}$$",
+     "paper_label": "Regional stage – day 2 (grade 9)",
+     "problem_orig": "Транзитная зона\n\nАстрономы на галилеевых спутниках Юпитера наблюдают прохождения других галилеевых спутников по диску Юпитера. На каком из спутников находится астроном, наблюдающий самое длительное прохождение? Какой спутник он при этом видит? Определите максимальное время прохождения. Масса и радиус Юпитера равны соответственно $1.9\\cdot10^{27}$ кг и 71 500 км. Все указанные спутники движутся в одной плоскости в одном направлении.\n\n$$\\begin{array}{|l|c|c|c|}\\hline \\text{Название} & \\text{Диаметр, км} & \\text{Масса, кг} & \\text{Радиус орбиты, км} \\\\ \\hline \\text{Амальтея} & 250 & 2.1\\times10^{18} & 181\\,400 \\\\ \\text{Фива} & 100 & 4.3\\times10^{17} & 221\\,900 \\\\ \\text{Ио} & 3643 & 8.9\\times10^{22} & 421\\,800 \\\\ \\text{Европа} & 3122 & 4.8\\times10^{22} & 671\\,100 \\\\ \\text{Ганимед} & 5268 & 1.5\\times10^{23} & 1\\,070\\,400 \\\\ \\text{Каллисто} & 4821 & 1.1\\times10^{23} & 1\\,882\\,700 \\\\ \\text{Фемисто} & 9 & 6.9\\times10^{14} & 7\\,393\\,216 \\\\ \\text{Гималия} & 160 & 4.2\\times10^{18} & 11\\,450\\,000 \\\\ \\hline\\end{array}$$",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 4,
+     "number": 2,
+     "problem": "Laser in pursuit\n\nSuppose that a laser ranging device is installed at the pole of the Earth, and a telescope is mounted coaxially with the direction of its beam for pointing. When ranging a satellite with a circular polar orbit of height 400 km, the laser is aimed exactly at the position of the satellite seen in the telescope. Determine the minimum diameter of the laser beam at the distance of the satellite at which a reflected signal can be obtained for a measurement at the zenith and near the horizon.",
+     "paper_label": "Regional stage – day 2 (grade 9)",
+     "problem_orig": "Лазер вдогонку\n\nПредположим, что на полюсе Земли установлен лазерный локатор, для наведения которого соосно с направлением луча установлен телескоп. При проведении локации спутника с высотой круговой полярной орбиты 400 км лазер наводится точно на видимое в телескоп положение спутника. Определите минимальный диаметр лазерного луча на расстоянии спутника, при котором можно получить отраженный сигнал при измерении в зените и вблизи горизонта.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 4,
+     "number": 3,
+     "problem": "A pair of stars\n\nThe two components of a physical binary star have the same effective temperatures, and their absolute magnitudes differ by $10^m$. It is known that the gravitational acceleration in the photosphere of the less bright star is 500 times greater than that of the brighter one. Determine the ratio of the masses of the stars.",
+     "paper_label": "Regional stage – day 2 (grade 9)",
+     "problem_orig": "Пара звезд\n\nДва компонента физически двойной звезды имеют одинаковые эффективные температуры, а их абсолютные звездные величины отличаются на $10^m$. Известно, что ускорение свободного падения в фотосфере менее яркой звезды в 500 раз больше, чем у более яркой. Определите отношение масс звезд.",
+     "orig_lang": "ru"
+    },
+    {
+     "day": 4,
+     "number": 4,
+     "problem": "Sun in a can\n\nThis picture was obtained by the solargraphy method. A sheet of photographic paper measuring $13\\times18$ cm was placed along the perimeter inside a pinhole camera made of a cylindrical aluminium can. The hole of the camera, made in the side surface of the can, was directed to the south. The camera was installed at the astronomical site in the city of Omsk ($55^\\circ$ N, $73^\\circ$ E), the exposure continued without interruption from 4 March to 23 June 2025, and the daily paths of the Sun are recorded on the photographic paper. Determine the diameter of the aluminium can from which the pinhole camera was made. Accompany the solution with a drawing.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/rureg910-2026-d4-q4-1.png",
+     "paper_label": "Regional stage – day 2 (grade 9)",
+     "problem_orig": "Солнце в банке\n\nДанный снимок получен методом соларографии. В камеру-обскуру, сделанную из цилиндрической алюминиевой банки, по периметру был помещен лист фотобумаги размером $13\\times18$ см. Отверстие камеры, проделанное в боковой поверхности банки, было направлено на юг. Камера была установлена на астрономической площадке в городе Омске ($55^\\circ$ с. ш., $73^\\circ$ в. д.), съемка велась непрерывно с 4 марта по 23 июня 2025 года, на фотобумаге зафиксированы суточные пути Солнца. Определите диаметр алюминиевой банки, из которой изготовили камеру-обскуру. Решение сопроводите чертежом.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/rureg910-2026-d4-q4-1.png",
+     "orig_lang": "ru"
+    }
+   ]
+  }
+ ]
+}
