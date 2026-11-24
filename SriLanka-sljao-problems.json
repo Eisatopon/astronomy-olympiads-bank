@@ -1,0 +1,1778 @@
+{
+ "competition": "Sri Lankan Junior Astronomy Olympiad (SLJAO), Institute of Physics, Sri Lanka",
+ "years": [
+  {
+   "year": 2011,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "How many stars can you see with your naked eye on a clear, moonless night from a dark location?\n\nUseful information given with the paper:\n- Speed of light $c = 3\\times10^{5}\\ \\mathrm{km\\,s^{-1}}$\n- Universal gravitational constant $G = 6.67\\times10^{-11}\\ \\mathrm{m^{3}\\,kg^{-1}\\,s^{-2}}$\n\n(a) 6000-10000\n(b) less than a thousand\n(c) 15000-100000\n(d) more than you could count in your lifetime",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "Which scientists played a major role in overturning the ancient idea of an Earth-centered universe, and about when?\n\n(a) Aristotle and Copernicus; about 400 years ago\n(b) Copernicus, Kepler, and Galileo; about 400 years ago\n(c) Aristotle and Plato; about 2,000 years ago\n(d) Newton and Einstein; about 100 years ago",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "How many arcseconds are in $1^\\circ$?\n\n(a) 360\n(b) 60\n(c) 3,600\n(d) 10,000",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "In what part of the electromagnetic spectrum do the biggest telescopes on Earth operate?\n\n(a) infrared\n(b) visible\n(c) radio\n(d) X-ray",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "How does the Sun's mass compare with that of the planets?\n\n(a) 1000 times more massive than Earth.\n(b) 100 times more massive than all the planets combined.\n(c) It is about as massive as all the planets combined.\n(d) 1000 times more massive than all the planets combined.",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "problem": "Which of the following is furthest from the Sun?\n\n(a) Pluto\n(b) a comet in the Kuiper belt\n(c) a comet in the Oort cloud\n(d) an asteroid in the asteroid belt",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 7,
+     "problem": "Which planet, other than Earth, has visible water ice on it?\n\n(a) Jupiter\n(b) Mars\n(c) Venus\n(d) Mercury",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 8,
+     "problem": "Which is the densest planet in the solar system?\n\n(a) Earth\n(b) Venus\n(c) Jupiter\n(d) Mercury",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 9,
+     "problem": "The planet closest in size to Earth is\n\n(a) Venus\n(b) Pluto\n(c) Mars\n(d) Neptune",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 10,
+     "problem": "Rank the five celestial worlds in order of size from smallest to largest:\n\n(a) Mercury, Moon, Venus, Earth, Mars.\n(b) Moon, Mercury, Venus, Earth, Mars.\n(c) Mercury, Moon, Mars, Earth, Venus.\n(d) Moon, Mercury, Mars, Venus, Earth.",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 11,
+     "problem": "Which moon has the most substantial atmosphere?\n\n(a) Titan\n(b) Europa\n(c) Mimas\n(e) Io",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 12,
+     "problem": "What do we call a small piece of solar system debris (came from space) found on Earth?\n\n(a) asteroid\n(b) solar system debris\n(d) meteorite\n(e) meteor",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 13,
+     "problem": "The tail of a comet\n\n(a) always points toward the Sun\n(b) always points perpendicular to the Sun\n(c) always points away from the Sun\n(d) they do not have tails near the Sun",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 14,
+     "problem": "The weight of a man on Earth's surface is $60\\ \\mathrm{kg}$. If he goes to the moon, his weight at the lunar surface would be\n\n(a) $10\\ \\mathrm{kg}$\n(b) $20\\ \\mathrm{kg}$\n(c) $60\\ \\mathrm{kg}$\n(d) $120\\ \\mathrm{kg}$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 15,
+     "problem": "If the focal length of the objective of a telescope is $1\\ \\mathrm{m}$ and the focal length of its eye piece is $20\\ \\mathrm{mm}$, the magnification of the telescope is\n\n(a) $10$\n(b) $50$\n(c) $100$\n(d) $200$.",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 16,
+     "problem": "The reason that we see the same side of the moon always is\n\n(a) $5$ degrees angle between the planes of the moon and earth.\n(b) Moon does not rotate at all .\n(c) Moon's rotational speed is equal to the moon's speed of revolution.\n(d) Tidal effect of the moon on the earth.",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 17,
+     "problem": "A Sun-orbiting periodic comet is the farthest at $31.5\\ \\mathrm{A.U.}$ and the closest at $0.5\\ \\mathrm{A.U.}$ The orbital period of this comet (in earth years) is\n\n(a) $8$\n(b) $16$\n(c) $64$\n(d) $76$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 18,
+     "problem": "Solar atmosphere can be divided into three major parts based on temperature. They are photosphere, chromosphere and corona. The average temperature of the photosphere is\n\n(a) $4500\\ \\mathrm{K}$\n(b) $6000\\ \\mathrm{K}$\n(c) $10000\\ \\mathrm{K}$\n(d) $100000\\ \\mathrm{K}$.",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 19,
+     "problem": "The orbital period of a dwarf planet is found to be $560$ years. The length of the semi-major axis of its elliptical orbit around the sun is.\n\n(a) $3.8$\n(b) $22.8$\n(c) $67.9$\n(d) $131.2$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 20,
+     "problem": "The brightest star in the night sky is\n\n(a) Sirius\n(b) the North Star\n(c) Betelgeuse\n(d) Venus",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 21,
+     "problem": "The brightest star of the Leo constellation is\n\n(a) Sirius\n(b) Regulus\n(c) Antares\n(d) Algieba",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 22,
+     "problem": "The name for the pattern of stars below is\n\n(a) Ursa major\n(b) Scorpius\n(c) Orion\n(d) Taurus\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/lkj-2011-q22-1.png",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 23,
+     "problem": "The type of telescope shown by a ray diagram in this figure is\n\n(a) Newtonian\n(b) Cassegrain\n(c) Coude\n(d) Maksukov\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/lkj-2011-q23-1.png",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 24,
+     "problem": "What name is given to the Sun's visible 'surface'?\n\n(a) corona\n(b) chromosphere\n(c) limb\n(d) photosphere",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 25,
+     "problem": "When a solar eclipse occurs, the people who are able to witness the event are\n\n(a) at any place on the daylight side of the Earth\n(b) in the eclipse path only\n(c) on the night time side of the Earth\n(d) near Sunset",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 26,
+     "problem": "Mars is nicknamed the 'red planet' because\n\n(a) it is hot\n(b) it is covered with a rusty, red dust\n(c) it has a red atmosphere\n(d) all of the above",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 27,
+     "problem": "Which chemical element is the most abundant inside the Sun?\n\n(a) carbon\n(b) oxygen\n(c) helium\n(d) hydrogen",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 28,
+     "problem": "Only one planet in the solar system has a day which lasts longer than its year. Name of this planet is\n\n(a) Venus\n(b) Mercury\n(c) Uranus\n(d) Jupiter",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 29,
+     "problem": "If the Moon is setting at 6 A.M., the phase of the Moon must be\n\n(a) full\n(b) third quarter\n(c) first quarter\n(d) waning crescent.",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 30,
+     "problem": "If you could see stars during the day, this is what the sky would look like at noon on a given day. The Sun is in the constellation Gemini.\n\nWhen the sun sets, you will find it in the constellation\n\n(a) Leo\n(b) Canis Major\n(c) Gemini\n(d) Taurus\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/lkj-2011-q30-1.png",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 2,
+     "number": 31,
+     "problem": "Sketch the geocentric model of the Universe as explained by Ptolemy.",
+     "paper_label": "Part B"
+    },
+    {
+     "day": 2,
+     "number": 32,
+     "problem": "Describe the Titius Bode law and estimate the distance to planet Saturn from the Sun in Astronomical Units (AU).",
+     "paper_label": "Part B"
+    }
+   ]
+  },
+  {
+   "year": 2012,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "Which of the following phenomena is not useful in estimating the distance between two celestial bodies?\n\n(a) Venus transits over the disk of the sun\n(b) Stars with no proper motion appear to change their position in the sky when viewed six months apart.\n(c) Doppler shift exhibited by stars\n(d) A Total Solar Eclipse.",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "What is the f-number of a telescope?\n\n(a) The ratio between focal length and diameter of primary mirror/lens\n(b) The ratio between diameter and focal length of primary mirror/lens\n(c) The ratio between focal length and diameter of the eyepiece\n(d) The ratio between diameter and focal length of the eyepiece",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "One way to increase the resolving power of a telescope is to\n\n(a) Make its mirror bigger.\n(b) Replace its mirror with a lens of the same diameter.\n(c) Make its mirror smaller.\n(d) Observe objects using longer wavelengths.",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "What is the period of the sunspot cycle ?\n\n(a) $365$ days\n(b) $11$ years\n(c) $28$ days\n(d) $22$ years",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "Which of these constellations, what is the odd one?\n\n(The constellations A, B, C and D are shown in the figure.)\n\n(a) A\n(b) B\n(c) C\n(d) D\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/lkj-2012-q5-1.png",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "problem": "From the observations of the Moon and lunar eclipses and subsequent calculations performed by Aristarchus, which of the following can NOT be determined?\n\n(a) The radius of the Moon\n(b) The radius of the Sun\n(c) The distance between Earth and Moon\n(d) The mass of the Moon",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 7,
+     "problem": "Answer to the questions 7-9 using the following map. Letters A to E represent different locations on the globe.\n\nAt which location could an observer not see the Polaris in the night sky at any time during the year?\n\n(a) A\n(b) B\n(c) C\n(d) D\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/lkj-2012-q7-1.png",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 8,
+     "problem": "Answer to the questions 7-9 using the map of question 7 (letters A to E represent different locations on the globe).\n\nWhich location receives 12 hours of daylight and 12 hours of darkness on March $21^{\\mathrm{st}}$?\n\n(a) A\n(b) B\n(c) C\n(d) All of the above",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 9,
+     "problem": "Answer to the questions 7-9 using the map of question 7 (letters A to E represent different locations on the globe).\n\nAt which location on June $21^{\\mathrm{st}}$ is the Sun directly overhead at solar noon. ?\n\n(a) A\n(b) B\n(c) C\n(d) All of the above",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 10,
+     "problem": "What is the second brightest star in the night sky ?\n\n(a) Proxima Centauri\n(b) Canopus\n(c) Regulus\n(d) Pollux",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 11,
+     "problem": "What is the name of the orbit which enables a spacecraft to reach a certain planet with a minimum effort?\n\n(a) Ziolkowski orbit\n(b) Hoffman orbit\n(c) Braun orbit\n(d) Goddard orbit",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 12,
+     "problem": "Which group of asteroids stays steady relative to Jupiter in its orbit?\n\n(a) Apollo asteroids\n(b) Kuiper asteroids\n(c) Trojan asteroids\n(d) Oort asteroids",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 13,
+     "problem": "Which planet has the strongest magnetic field relative to the size of the planet?\n\n(a) Earth\n(b) Jupiter\n(c) Mercury\n(d) Venus",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 14,
+     "problem": "Suppose that you are observing the planet Mercury just after sunset. What is the maximum angle that can be observed between the sun and Mercury?\n\n(a) $42^\\circ$\n(b) $11^\\circ$\n(c) $28^\\circ$\n(d) $23.5^\\circ$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 15,
+     "problem": "If Leo is setting at this moment, what is the constellation of the zodiac that is rising from the eastern horizon?\n\n(a) Sagittarius\n(b) Libra\n(c) Aquarius\n(d) Cancer",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 16,
+     "problem": "Why Pluto was removed from the solar system since 2006?\n\n(a) It was not geometrically spherical.\n(b) Its orbit is not clean.\n(c) It orbits around the sun.\n(d) It has satellites orbiting around itself.",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 17,
+     "problem": "Which of the following is not true?\n\n(a) Solar System has eight planets.\n(b) Solar System was formed as an effect of a supernova explosion.\n(c) Solar System was formed before the formation of Sun.\n(d) Atmosphere of Venus is mainly made out of Carbon dioxide.",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 18,
+     "problem": "Consider the following two statements describing a celestial body\n\n- It goes in an elliptical orbit.\n- It comes near Sun in specific periodic time periods.\n\nWhich of the following is best matched with the above?\n\n(a) Meteor\n(b) Comet\n(c) Asteroid\n(d) Meteorite",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 19,
+     "problem": "Which of the following years that one could not have observed a Venus transit?\n\n(a) $2004$\n(b) $1874$\n(c) $1882$\n(d) $1760$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 20,
+     "problem": "If the focal length of the objective of a telescope is $1\\ \\mathrm{m}$ and the focal length of its eye piece is $20\\ \\mathrm{mm}$, the magnification power of the telescope is?\n\n(a) $10$\n(b) $20$\n(c) $50$\n(d) $200$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 21,
+     "problem": "What is the closest star among the following, seen from Earth?\n\n(a) Bernard's Star\n(b) Proxima Centauri\n(c) Sirius A\n(d) Sun",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 22,
+     "problem": "Choose the answer containing the types of reflecting telescopes shown in the following order.\n\n(a) 1- Prime focus, 2- Newton focus, 3- Cassegrain focus, 4- Coude' focus\n(b) 1-Newton focus, 2- Prime focus, 3- Cassegrain focus, 4- Coude' focus\n(c) 1-Newton focus, 2- Prime focus, 3- Coude' focus, 4- Cassegrain focus\n(d) 1- Prime focus, 2- Newton focus, 3- Coude' focus, 4- Cassegrain focus\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/lkj-2012-q22-1.png",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 23,
+     "problem": "What is the largest natural satellite in the Solar System?\n\n(a) Ganymede\n(b) Titan\n(c) Europa\n(d) Callisto",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 24,
+     "problem": "Consider the following three stages in formation of a star.\n\n1. The gas molecule solidifies due to high pressure. As a result the temperature as well as the pressure inside increases.\n2. A magnanimous cloud is formed by a huge mass of gases and dust revolving as a greater speed in the space.\n3. The gas molecules explode and release energy.\n\nWhich of the following represents the correct order of the above stages?\n\n(a) $1,2,3$\n(b) $2,3,1$\n(c) $2,1,3$\n(d) $1,3,2$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 25,
+     "problem": "Consider the following three statements about the explosion of stars\n\n1. If the exploding star has a mass exceeding roughly more than three times of our Sun ($3M_\\odot$), the explosion is known as a \"Super Nova\" explosion.\n2. If the exploding star has a less mass than our Sun ($M_\\odot$), the explosion is known as a \"Nova\" explosion.\n3. Uranium and Gold are formed as a result of a Super nova explosion.\n\nCorrect statements among the above are,\n\n(a) 1 Only\n(b) 2 & 3 Only\n(c) 1 & 3 Only\n(d) All 1, 2 & 3",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 26,
+     "problem": "Which one of the following is not correct about the ecliptic of the Sun?\n\n(a) Apparent path of the Sun is known as ecliptic.\n(b) On March $21^{\\mathrm{st}}$ the Sun moves to the South of the Celestial equator.\n(c) Twelve constellations are located in the ecliptic.\n(d) On September $23^{\\mathrm{rd}}$ Sun's apparent path intercepts the celestial equator.",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 27,
+     "problem": "The relative velocity of a certain galaxy at a distance of $7\\ \\mathrm{Mpc}$ away would be (use the value of Hubble's constant as $70\\ \\mathrm{km\\,s^{-1}}$ per Mpc).\n\n(a) $7\\ \\mathrm{km\\,s^{-1}}$\n(b) $10\\ \\mathrm{km\\,s^{-1}}$\n(c) $70\\ \\mathrm{km\\,s^{-1}}$\n(d) $490\\ \\mathrm{km\\,s^{-1}}$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 28,
+     "problem": "Hertzprung- Russell diagram (HR diagram) is a tool used in Astronomy in common. Which one of the following represents a usage of HR diagram?\n\n(a) Measuring the age of the universe.\n(b) Finding the mass of a star.\n(c) Finding the constituents of the star.\n(d) Finding the apparent magnitude of a star.",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 29,
+     "problem": "Which of the following two coordinates are used to locate a celestial object in the sky?\n\n(a) Declination and Right ascension\n(b) Latitude and longitude\n(c) Equatorial diameter and radius\n(d) Declination and altitude",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 30,
+     "problem": "By July $14^{\\mathrm{th}}$ 2015, the \"New Horizons\", which is the fastest man made spacecraft ever launched, will arrive to study a celestial object. What is the name of that celestial object?\n\n(a) Halley's comet\n(b) Pluto\n(c) Sedna\n(d) Eris",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 2,
+     "number": 31,
+     "problem": "Draw a picture of the Hubble's Tuning fork classification of galaxies in the box given bellow naming the basic types of galaxies.",
+     "paper_label": "Part B"
+    },
+    {
+     "day": 2,
+     "number": 32,
+     "problem": "Following is a picture showing Sun and a certain position of moon during its orbit around the Earth. Draw the phases of the moon at given positions in the orbit on the spaces provided under No.32 in the answer sheet. (1st one is done for you).\n\nConsider the upper side of answer script as the direction of North.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/lkj-2012-q32-1.png",
+     "paper_label": "Part B"
+    }
+   ]
+  },
+  {
+   "year": 2013,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "The apparent path of the sun around the celestial sphere against the background of the stars during the year is the\n\n(A) celestial meridian\n(B) sun's diurnal circle\n(C) ecliptic\n(D) celestial equator\n\nUseful information given with the paper:\n- Speed of light $c = 3\\times10^{5}\\ \\mathrm{km\\,s^{-1}}$\n- Universal gravitational constant $G = 6.67\\times10^{-11}\\ \\mathrm{m^{3}\\,kg^{-1}\\,s^{-2}}$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "If a star rises at 8:30 p.m. tonight, it will rise two months from now at,\n\n(A) 8:30 p.m.\n(B) 10:30 p.m.\n(C) 12:30 p.m.\n(D) 4:30 p.m.",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "Which of the following stars has a highest luminosity and a lower temperature than the Sun?\n\n(A) Regal\n(B) Bernard's Star\n(C) Alpha Centauri\n(D) Aldebaran",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "\"If the Earth were a flat disk, there would be some eclipses in which the Earth would cast a linear shadow on the Moon.\"\n\nThis was a very famous saying which changed the view of the ancient time on the Earth's shape. By whom it was said?\n\n(A) Aristotle\n(B) Nicolas Copernicus\n(C) Issac Newton\n(D) Tyco Brahe",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "Which arrangement of the Sun (S), the Moon (M), and the Earth (E) results in the highest high tides, and the lowest low tides on Earth? (Diagrams are not drawn to scale)\n\n(The choices (A)-(D) are shown in the figures.)\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/lkj-2013-q5-1.png\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/lkj-2013-q5-2.png",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "problem": "Which of the following is used by navigators to find their location on Earth by using the stars?\n\n(A) Circle of least confusion\n(B) Diurnal Circle\n(C) circle of position\n(D) zero hour circle",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 7,
+     "problem": "What is the altitude of the zenith at 9:00 p.m. on December 21 at a latitude of $40^\\circ$ N?\n\n(A) $0$ deg\n(B) $40$ deg\n(C) $50$ deg\n(D) $90$ deg",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 8,
+     "problem": "If the focal length of the objective of a telescope is $1\\ \\mathrm{m}$ and the focal length of its eye piece is $25\\ \\mathrm{mm}$, the magnification power of the telescope is?\n\n(A) $20$\n(B) $40$\n(C) $50$\n(D) $400$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 9,
+     "problem": "The diagram below shows Earth's orbit around the Sun and different positions of the Moon as it travels around Earth. Letters A through D represent four different positions of the Moon.\n\nAn eclipse of the Moon is most likely to occur when the Moon is at position\n\n(A) A\n(B) B\n(C) C\n(D) D\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/lkj-2013-q9-1.png",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 10,
+     "problem": "An celestial object with a declination of $+40$ deg is observed at a meridian zenith distance of $10$ deg N. what is the latitude of the observer?\n\n(A) $+50$ deg\n(B) $+30$ deg\n(C) $-50$ deg\n(D) $-30$ deg",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 11,
+     "problem": "Which of the following never goes in retrograde motion?\n\n(A) Jupiter\n(B) The Sun\n(C) Venus\n(D) Mars",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 12,
+     "problem": "An object observed at latitude $40$ deg N, has a meridian zenith distance of $10$ deg S. what is the declination?\n\n(A) $+50$ deg\n(B) $+30$ deg\n(C) $-50$ deg\n(D) $-30$ deg",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 13,
+     "problem": "Colombo has a latitude of about $7^\\circ$ N. Which of the following statements is TRUE for an observer located in Colombo?\n\n(A) The south celestial pole is always visible right on the southern horizon.\n(B) All stars rise due East and set due West.\n(C) The north celestial pole is always located about 7derees above the northern horizon.\n(D) The north circumpolar zone includes all stars located within 83 of the north celestial pole.",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 14,
+     "problem": "The star serius lies around $8$ light-years away from Earth would, if moved to a distance of $16$ light-years, appear to be,\n\n(A) $2$ times brighter than before.\n(B) $2$ times fainter than before.\n(C) $4$ times fainter than before.\n(D) $8$ times fainter than before.",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 15,
+     "problem": "When does the new moon set?\n\n(A) At Sun Rise\n(B) It Never Rises\n(C) At Midnight\n(D) At Sunset",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 16,
+     "problem": "The angular sizes of the Moon and Sun as seen from Earth are both about $0.5$ degrees. The Sun is about $400$ times farther away than the Moon. From this we can conclude that the Moon's diameter is ...............the Sun's diameter.\n\n(A) nearly the same as\n(B) about $2$ times smaller than\n(C) about $400$ times smaller than\n(D) about $2$ times larger than",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 17,
+     "problem": "Which of the following features determines the resolving power of a telescope?\n\n(A) The diameter of the objective.\n(B) The focal length of the objective\n(C) The focal length of the eyepiece.\n(D) B and C",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 18,
+     "problem": "Olympus Mons is a\n\n(A) Large lava plane on the Moon\n(B) Shield volcano on Mars.\n(C) Strato volcano on Mercury.\n(D) Shield volcano on Venus.",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 19,
+     "problem": "Question No 19 & 20 are based on the following diagram, which shows a sunlight entering a room in Colombo in the month of November through the same window at three different times on the same day\n\nThe apparent change in the Sun's position shown in the diagram best explained by,\n\n(A) The Sun is rotating and its axis is tilted\n(B) The Earth is rotating and its axis is tilted\n(C) The Sun is stationary and its axis is tilted\n(D) The Earth's axis is tilted and it orbits around the Sun\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/lkj-2013-q19-1.png",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 20,
+     "problem": "Question No 19 & 20 are based on the diagram of question 19 (sunlight entering a room in Colombo in the month of November through the same window at sunrise, noon and sunset).\n\nIf the room is located in a building in Colombo, on which side of the building is the window located?\n\n(A) North\n(B) South\n(C) East\n(D) West",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 21,
+     "problem": "Approximately how many degrees per day Earth does revolve around the Sun?\n\n(A) $23.5^\\circ$\n(B) $15^\\circ$\n(C) $1^\\circ$\n(D) $13^\\circ$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 22,
+     "problem": "The Andromeda Galaxy is which of the following types of galaxies?\n\n(A) Elliptical\n(B) Irregular\n(C) Bared Spiral\n(D) Spiral",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 23,
+     "problem": "The tail of a usual comet,\n\n(A) Always points toward the Sun\n(B) Always points perpendicular to the Sun\n(C) Always points away from the Sun\n(D) They do not have tails near the Sun",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 24,
+     "problem": "Which of the following recent missions conducted by NASA concluded that the moon's gravity is not even?\n\n(A) ARTEMIS\n(B) CALIPSO\n(C) CINDI\n(D) GRAIL",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 25,
+     "problem": "The Moon's period of rotation is,\n\n(A) $24$ hours\n(B) $7$ days\n(C) $29.5$ days\n(D) $27.3$ days",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 26,
+     "problem": "Which of the following star constellation (rotated in different directions) does not belong to the zodiac?\n\n(The constellations (A)-(D) are shown in the figure.)\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/lkj-2013-q26-1.png",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 27,
+     "problem": "Answer to the following questions (27-29) using the star constellation given below.\n\nThe Orion nebula is located at,\n\n(A) A\n(B) B\n(C) C\n(D) D\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/lkj-2013-q27-1.png",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 28,
+     "problem": "Answer to the following questions (27-29) using the star constellation of question 27.\n\nThe star that would appear in Sri Lanka overhead is,\n\n(A) A\n(B) B\n(C) C\n(D) D",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 29,
+     "problem": "Answer to the following questions (27-29) using the star constellation of question 27.\n\nThe name of the star at (A) is,\n\n(A) Betelgeuse\n(B) Rigel\n(C) Sirius\n(D) Regulus",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 30,
+     "problem": "Choose the correct expression(s)\n\nA. Small aperture telescopes at low power are good for observing big, bright objects, such as the Sun, the Moon, and terrestrial objects.\n\nB. Small aperture telescopes at high power are good for observing small, bright objects, such as planets and binary stars.\n\nC. Large aperture telescopes at low power are good for observing big, faint objects, such as large nebulae and nearby galaxies.\n\nD. Large aperture telescopes at high power are good for observing small, faint objects, such as small nebulae and distant galaxies.\n\n(A) A only\n(B) B only\n(C) B & C only\n(D) A, B, C, & D (ALL)",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 2,
+     "number": 31,
+     "problem": "On the following diagram, there are several parts of the Celestial Sphere labeled with numbers. Write the relevant number in front of each term in the table in the answer script. The first one is done for you.\n\n$$\\begin{array}{|l|c|} \\hline \\textbf{Term} & \\textbf{Number} \\\\ \\hline \\text{Sun} & 1 \\\\ \\hline \\text{North Celestial Pole} & \\\\ \\hline \\text{South Celestial Pole} & \\\\ \\hline \\text{Ecliptic} & \\\\ \\hline \\text{Celestial Equator} & \\\\ \\hline \\text{Declination of the Star on the Celestial Sphere} & \\\\ \\hline \\text{Right Ascension of the Star on the Celestial Sphere} & \\\\ \\hline \\end{array}$$\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/lkj-2013-q31-1.png",
+     "paper_label": "Part B"
+    },
+    {
+     "day": 2,
+     "number": 32,
+     "problem": "(i) Why is the sky blue?\n\n(ii) Why does the setting (or rising) Sun (or Moon) look reddish?\n\nYou may use a ray diagram to explain your answer. Provide your answer in the space provided in the answer sheet.",
+     "paper_label": "Part B"
+    }
+   ]
+  },
+  {
+   "year": 2014,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "The apparent path of the sun around the celestial sphere against the background of the stars during the year is the\n\n(A) celestial meridian\n(B) sun's diurnal circle\n(C) ecliptic\n(D) celestial equator\n\nUseful information given with the paper:\n- Speed of light $c = 3\\times10^{5}\\ \\mathrm{km\\,s^{-1}}$\n- Universal gravitational constant $G = 6.67\\times10^{-11}\\ \\mathrm{m^{3}\\,kg^{-1}\\,s^{-2}}$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "Which of the following stars has a highest luminosity and a lower temperature than the Sun?\n\n(A) Regal\n(B) Bernard's Star\n(C) Alpha Centauri\n(D) Aldebaran",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "A star lies $15$ degrees due east of zenith at $10.00$ pm when will it transit?\n\n(A) $11.00$\n(B) $12.00$\n(C) $12.30$\n(D) $6.00$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "If the focal length of the objective of a telescope is $1.5\\ \\mathrm{m}$ and the focal length of its eye piece is $12.5\\ \\mathrm{mm}$, the magnification power of the telescope is?\n\n(A) $20$\n(B) $60$\n(C) $120$\n(D) $400$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "A celestial object with a declination of $+60$ deg is observed at a meridian zenith distance of $15$ deg N. what is the latitude of the observer?\n\n(A) $+75$ deg\n(B) $+45$ deg\n(C) $-45$ deg\n(D) $-30$ deg",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "problem": "Which of the following never goes in retrograde motion?\n\n(A) Jupiter\n(B) The Sun\n(C) Venus\n(D) Mars",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 7,
+     "problem": "An object observed at latitude $40$ deg N, has a meridian zenith distance of $10$ deg S. what is the declination?\n\n(A) $+50$ deg\n(B) $+30$ deg\n(C) $-50$ deg\n(D) $-30$ deg",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 8,
+     "problem": "The star Serius lies around $8$ light-years away from Earth would, if moved to a distance of $16$ light-years, appear to be,\n\n(A) $2$ times brighter than before.\n(B) $2$ times fainter than before.\n(C) $4$ times fainter than before.\n(D) $8$ times fainter than before.",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 9,
+     "problem": "What is the source of most short-period comets?\n\n(A) Goldilocks Zone\n(B) Kuiper Belt\n(C) Oort Cloud\n(D) Zodiacal Band",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 10,
+     "problem": "The tail of a usual comet,\n\n(A) Always points toward the Sun\n(B) Always points perpendicular to the Sun\n(C) Always points away from the Sun\n(D) They do not have tails near the Sun",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 11,
+     "problem": "The Moon's period of rotation around its own axis is,\n\n(A) $24$ hours\n(B) $7$ days\n(C) $29.5$ days\n(D) $27.3$ days",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 12,
+     "problem": "Which of the following features determines the magnifying power of a telescope?\n\n(A) The diameter of the objective.\n(B) The focal length of the objective\n(C) The focal length of the eyepiece.\n(D) B and C",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 13,
+     "problem": "Consider the following three stages in formation of a star.\n\n1. The gas molecule solidifies due to high pressure. As a result the temperature as well as the pressure inside increases.\n2. A magnanimous cloud is formed by a huge mass of gases and dust revolving as a greater speed in the space.\n3. The gas molecules explode and release energy.\n\nWhich of following represents the correct order of the above stages?\n\n(A) $1,2,3$\n(B) $2,3,1$\n(C) $2,1,3$\n(D) $1,3,2$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 14,
+     "problem": "Hertzprung- Russell diagram (HR diagram) is a tool used in Astronomy in common. Which one of the following represents a usage of HR diagram?\n\n(A) Measuring the age of the universe.\n(B) Finding the mass of a star.\n(C) Finding the constituents of the star.\n(D) Finding the apparent magnitude of a star.",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 15,
+     "problem": "The relative velocity of a certain galaxy at a distance of $7\\ \\mathrm{Mpc}$ away would be; (use the value of Hubble's constant as $70\\ \\mathrm{km\\,s^{-1}}$ per Mpc).\n\n(A) $7\\ \\mathrm{km\\,s^{-1}}$\n(B) $10\\ \\mathrm{km\\,s^{-1}}$\n(C) $70\\ \\mathrm{km\\,s^{-1}}$\n(D) $490\\ \\mathrm{km\\,s^{-1}}$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 16,
+     "problem": "Light gathering power of a telescope directly related to,\n\n(A) Diameter of the eyepiece\n(B) Focal length of the objective\n(C) Focal length of the eye piece\n(D) Diameter of the objective",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 17,
+     "problem": "What is the concept for seen the sun in red at the sun set?\n\n(A) Diffraction\n(B) Scattering\n(C) Interference\n(D) Reflection",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 18,
+     "problem": "The first step of the CNO cycle in the evolution of a star is the combination of $^{12}_{6}\\mathrm{C}$ nuclei and $^{1}_{1}\\mathrm{H}$ nuclei. What could be the product of this step?\n\n(A) N\n(B) C\n(C) O\n(D) None of the above",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 19,
+     "problem": "What is the phase of the moon if it rises at midnight?\n\n(A) New moon\n(B) Full moon\n(C) First quarter\n(D) Last quarter",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 20,
+     "problem": "End of its life time a \"White dwarf\" star becomes,\n\n(A) A black dwarf\n(B) A black Hole\n(C) A brown dwarf\n(D) A red giant",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 21,
+     "problem": "What is the effect that can be observed during the total solar eclipse?\n\n(A) Zeeman effect\n(B) Diamond ring effect\n(C) Dopler effect\n(D) Evershed effect",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 22,
+     "problem": "What is the most common element in the universe?\n\n(A) Hydrogen (H)\n(B) Carbon (C)\n(C) Oxygen (O)\n(D) Iron (Fe)",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 23,
+     "problem": "What is the part of this telescope pointed by an arrow?\n\n(A) Objective lens\n(B) Eye Piece\n(C) Mount\n(D) Finder scope\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/lkj-2014-q23-1.png",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 24,
+     "problem": "Which position of the earth represent the first day in summer in Northern hemisphere?\n\n(A) A\n(B) B\n(C) C\n(D) D\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/lkj-2014-q24-1.png",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 25,
+     "problem": "The figure shows the values of an experiment which is similar to the experiment of Eratosthenes's circumference of the earth. According to the given values what is the circumference of earth\n\n(A) $6207\\ \\mathrm{km}$\n(B) $3900\\ \\mathrm{km}$\n(C) $650\\ \\mathrm{km}$\n(D) $6500\\ \\mathrm{km}$\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/lkj-2014-q25-1.png",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 26,
+     "problem": "What is the Sidereal Time at noon, December 21?\n\n(A) $18{:}00$\n(B) $12{:}00$\n(C) $12{:}04$\n(D) $11{:}56$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 27,
+     "problem": "Which is the constellation that would not be able to observe by a person who lives in Milan (Northern latitude $45^\\circ$)?\n\n(A) Orion\n(B) Scorpio\n(C) Auriga\n(D) Crux",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 28,
+     "problem": "Which of the following two coordinates cannot be used to locate a celestial object in the sky?\n\n(A) Declination and Right ascension\n(B) Altitude and Azimuth\n(C) Declination and Hour angle\n(D) Declination and altitude",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 29,
+     "problem": "The following shows a diagram of the constellation Pegasus and its nearby celestial objects. Answer the questions (29 and 30) with regard to the diagram.\n\nWhat is the celestial object labeled by the letter A?\n\n(A) Alpheratz\n(B) Andromeda Galaxy\n(C) Mirach\n(D) Almach\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/lkj-2014-q29-1.png",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 30,
+     "problem": "Answer with regard to the diagram of the constellation Pegasus given with question 29 (directions 1 to 4).\n\nIn which direction should an observer gaze his eye towards Formalhuat (Brightest star in Pisces)\n\n(A) $1$\n(B) $2$\n(C) $3$\n(D) $4$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 2,
+     "number": 31,
+     "problem": "Following figure shows the orbits of Earth and Saturn around the Sun (not to scale). The position of the Earth is labeled E.\n\n(a) On Figure, show:\n\n(i) The position of Saturn when it is at conjunction (label it C).\n\n(ii) The position of Saturn where it is best placed for viewing from Earth (label it V).\n\n(b) On Figure:\n\n(i) Draw the orbit of a typical short-period comet.\n\n(ii) Show on the orbit the comet at perihelion (label it P).\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/lkj-2014-q31-1.png",
+     "paper_label": "Part B"
+    },
+    {
+     "day": 2,
+     "number": 32,
+     "problem": "The following figure shows an observer's view of the sky looking south. The observer's meridian is shown.\n\n(a) By thow many degrees does the Earth spin in one hour?\n\n(b) At $19.00$ GMT ON December $15^{\\mathrm{th}}$, star A is crossing the observer's meridian indicate on the above figure the position of the star one hour later. Use the letter B.\n\n(c) On the above figure indicate the position of Star \"A\" at $19.00$ GMT one month later. Use the letter \"C\".\n\n(d) The longitude of the observer is $3^\\circ$ East. At what time GMT would an observer at a longitude of $1^\\circ$ West observe star \"A\" crossing his/her meridian on December $15^{\\mathrm{th}}$. ?\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/lkj-2014-q32-1.png",
+     "paper_label": "Part B"
+    }
+   ]
+  },
+  {
+   "year": 2015,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "What is the Sidereal Time at 12 noon, December 21?\n\n(A) $18{:}00$\n(B) $12{:}00$\n(C) $12{:}04$\n(D) $11{:}56$\n\nUseful information given with the paper:\n- Speed of light $c = 3\\times10^{5}\\ \\mathrm{km\\,s^{-1}}$\n- Universal gravitational constant $G = 6.67\\times10^{-11}\\ \\mathrm{m^{3}\\,kg^{-1}\\,s^{-2}}$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "\"Olympus Mons\" is\n\n(A) A large lava plain on the Moon.\n(B) The tallest mountain on a planet in the solar system\n(C) A volcano on Mercury.\n(D) A volcano on Venus.",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "Consider the following three stages in formation of a star\n\n(i) The gas condenses due to high pressure. As a result the temperature as well as the pressure inside increases.\n\n(ii) A magnanimous cloud is formed by a huge mass of gases and dust revolving at a greater speed in the space.\n\n(iii) The nuclear fusion reaction starts and release energy.\n\nWhich of following represents the correct order of the above stages?\n\n(A) (i), (ii), (iii)\n(B) (ii), (iii), (i)\n(C) (ii), (i), (iii)\n(D) (i), (iii), (ii)",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "What is the most abundant element in the universe?\n\n(A) Fe\n(B) C\n(C) O\n(D) H",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "Which planet has the strongest magnetic field relative to the size of the planet?\n\n(A) Earth\n(B) Jupiter\n(C) Mercury\n(D) Venus",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "problem": "The largest natural satellite of the solar sytem is ?\n\n(A) Ganymede\n(B) Europa\n(C) Titan\n(D) Dymos",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 7,
+     "problem": "Following is a group of stars frequently seen in the night sky. The questions 7, 8 & 9 are based on this diagram.\n\nTo which bright star do Z and Y point?\n\n(A) Arcturus\n(B) Formalhaut\n(C) Polaris\n(D) Sirius\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/lkj-2015-q7-1.png",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 8,
+     "problem": "Through a small pair of binoculars star X actually seen as two stars that appear very close together. What is the name of this type of a star?\n\n(Refers to the star X in the diagram of question 7.)\n\n(A) Binary Star\n(B) Double Star\n(C) Eclipsing Star\n(D) Neutron Star",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 9,
+     "problem": "Which of the following is closest distance from the Sun?\n\n(A) Pluto\n(B) a comet in the Kuiper belt\n(C) a comet in the Oort cloud\n(D) an asteroid in the asteroid belt",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 10,
+     "problem": "Which of the following is equal to the mean distance between Earth and the Sun?\n\n(A) $1\\ \\mathrm{AU}$\n(B) $1\\ \\mathrm{Ly}$\n(C) $1\\ \\mathrm{Pc}$\n(D) $1\\ \\mathrm{MPc}$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 11,
+     "problem": "Which dwarf planet is closest to the Sun?\n\n(A) Makemake\n(B) Eris\n(C) Ceres\n(D) Pluto",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 12,
+     "problem": "What is the most likely origin of short-period comets?\n\n(A) Asteroid Belt\n(B) Kuiper Belt\n(C) Oort Cloud\n(D) Zodiacal Band",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 13,
+     "problem": "In which region of the sky may an astronomer possibly observe a planet?\n\n(A) Asteroid Belt\n(B) Milky Way\n(C) Oort Cloud\n(D) Zodiacal Band",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 14,
+     "problem": "What type of galaxy is the Milky Way?\n\n(A) Elliptical\n(B) Irregular\n(C) Lenticular\n(D) Spiral",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 15,
+     "problem": "Which of the following does not belong to our Local Group of galaxies?\n\n(A) M31, the Andromeda Galaxy\n(B) The Large Magellanic Cloud\n(C) The Small Magellanic Cloud\n(D) NGC 4151, a Seyfert galaxy",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 16,
+     "problem": "Which is the planet with least density in the solar system?\n\n(A) Earth\n(B) Saturn\n(C) Mercury\n(D) Jupiter",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 17,
+     "problem": "Most cosmologists believe that the Universe began as an 'event' termed the Big Bang. Which one of the following do cosmologists believe provides the best evidence for the Big Bang?\n\n(A) CMB (Cosmic Microwave Background) radiation\n(B) Hubble's Law\n(C) H-R Diagram\n(D) Red shift of distant galaxies.",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 18,
+     "problem": "The quasar 3C 273 has a recession velocity of $48000\\ \\mathrm{km\\,s^{-1}}$. If the value of the Hubble constant is $77\\ \\mathrm{km\\,s^{-1}\\,Mpc^{-1}}$, how far away is 3C 273?\n\n(A) $623\\ \\mathrm{pc}$\n(B) $623\\ \\mathrm{Mpc}$\n(C) $1600\\ \\mathrm{pc}$\n(D) $1600\\ \\mathrm{Mpc}$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 19,
+     "problem": "Which line in the following table correctly lists convincing evidence for the expanding Universe and existence of the Big Bang?\n\n(Each choice gives the evidence for the Expanding Universe and the evidence for the Big Bang.)\n\n(A) Expanding Universe: CMB radiation; Big Bang: CMB radiation\n(B) Expanding Universe: CMB radiation; Big Bang: red shift of galaxies\n(C) Expanding Universe: red shift of galaxies; Big Bang: CMB radiation\n(D) Expanding Universe: red shift of galaxies; Big Bang: red shift of galaxies",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 20,
+     "problem": "Which European Space Agency space probe carried out a close-up scientific study of Halley's Comet in 1986?\n\n(A) Apollo 11\n(B) Giotto\n(C) Magellan\n(D) Rosetta",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 21,
+     "problem": "The weight of a child on Earth's surface is $30\\ \\mathrm{kg}$. If the child goes to the moon, child's weight at the lunar surface would be\n\n(A) $5\\ \\mathrm{kg}$\n(B) $10\\ \\mathrm{kg}$\n(C) $60\\ \\mathrm{kg}$\n(D) $3\\ \\mathrm{kg}$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 22,
+     "problem": "Which of the following is not a factor in the Drake Equation which is being used to estimate the number of communicable civilizations in the universe?\n\n(A) Fraction of stars with planetary systems\n(B) Number of stars in our Galaxy\n(C) Number of planets capable of sustaining life\n(D) Whether there are life-forms that are intelligent",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 23,
+     "problem": "The diagram below shows part of the celestial sphere. The Sun and a star S are labelled. The central dashed line is the ecliptic. Use the diagram to answer the questions from 23 to 25.\n\nWhat are the celestial co-ordinates of star S? (right ascension RA; declination in degrees)\n\n(A) RA $0\\ \\mathrm{h}\\ 30\\ \\mathrm{min}$, declination $-25^\\circ$\n(B) RA $0\\ \\mathrm{h}\\ 50\\ \\mathrm{min}$, declination $-25^\\circ$\n(C) RA $23\\ \\mathrm{h}\\ 30\\ \\mathrm{min}$, declination $-15^\\circ$\n(D) RA $23\\ \\mathrm{h}\\ 50\\ \\mathrm{min}$, declination $-15^\\circ$\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/lkj-2015-q22-1.png",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 24,
+     "problem": "What is the name of the region in between the two dashed lines either side of the ecliptic? (Diagram of question 23.)\n\n(A) Goldilocks Zone\n(B) Van Allen Belt\n(C) Zodiacal Band\n(D) Zoological Band",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 25,
+     "problem": "In which season of the year would the Sun lie on the celestial sphere at the position shown? (Diagram of question 23.)\n\n(A) Spring\n(B) Summer\n(C) Autumn\n(D) Winter",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 26,
+     "problem": "An astronomer observes that Polaris is $52^\\circ$ above her horizon. What is the latitude of the astronomer?\n\n(A) $38^\\circ$ N\n(B) $52^\\circ$ N\n(C) $38^\\circ$ S\n(D) $52^\\circ$ S",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 27,
+     "problem": "A student sketched the Plough at 8:00 p.m. in the night. Questions 27 & 28 are based on the following sketch.\n\nIn which direction was the student looking when she made the sketch?\n\n(A) North\n(B) South\n(C) East\n(D) West\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/lkj-2015-q27-1.png",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 28,
+     "problem": "How would the Plough appear in the night sky 6 hours later? (Sketch of question 27.)\n\n(The choices (A)-(D) are shown in the figure.)\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/lkj-2015-q28-1.png",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 29,
+     "problem": "Questions 29 & 30 are based on the following photograph of the Moon's visible side.\n\nWhat is the name of the feature labelled Y?\n\n(A) Bay of Rainbows\n(B) Ocean of Storms\n(C) Sea of Crises\n(D) Sea of Tranquility\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/lkj-2015-q29-1.png",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 30,
+     "problem": "What is the name of the large crater labelled X? (Photograph of question 29.)\n\n(A) Copernicus\n(B) Kepler\n(C) Newton\n(D) Tycho",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 2,
+     "number": 31,
+     "problem": "Asiri carried out a simple experiment in which he noted the length of the shadow cast by a small vertical stick at different times. Following table gives his results\n\n$$\\begin{array}{|c|c|} \\hline \\textbf{Local Time} & \\textbf{Shadow length / mm} \\\\ \\hline 11.52 & 110 \\\\ \\hline 11.56 & 90 \\\\ \\hline 12.00 & 80 \\\\ \\hline 12.04 & 75 \\\\ \\hline 12.08 & 80 \\\\ \\hline 12.12 & 93 \\\\ \\hline \\end{array}$$\n\ni. Use Asiri's data to plot a suitable graph of shadow length against time. Label the axes and draw a smooth line for the data. (Use the graph sheet provided in the answer sheet)\n\nii. Use the graph to determine the time of local noon to the nearest minute. Show clearly on the graph how you determined the time of local noon. (Write the answer in the answer sheet)",
+     "paper_label": "Part B"
+    },
+    {
+     "day": 2,
+     "number": 32,
+     "problem": "The star chart given in the answer scheme shows a night sky that can be observed from Sri Lanka in the month of June. (Circles given represent stars and/or planets)\n\nIdentify each of the following and mark the relevant letters on the star chart. You may draw the constellations using lines and label them\n\nHint: - Colour (Darkness) and size represents the actual brightness magnitude as seen in the night sky.\n\n$$\\begin{array}{|l|c|} \\hline \\textbf{Item} & \\textbf{Letter} \\\\ \\hline \\text{South Direction} & \\text{S} \\\\ \\hline \\text{West Direction} & \\text{W} \\\\ \\hline \\text{East Direction} & \\text{E} \\\\ \\hline \\text{North Direction} & \\text{N} \\\\ \\hline \\text{Scorpius Constellation} & \\text{A} \\\\ \\hline \\text{Big Dipper Constellation} & \\text{B} \\\\ \\hline \\text{Southern Cross Constellation} & \\text{C} \\\\ \\hline \\text{Bootes Constellation} & \\text{D} \\\\ \\hline \\text{Planet Saturn} & \\text{E} \\\\ \\hline \\text{Leo Constellation} & \\text{F} \\\\ \\hline \\text{Planet Jupiter} & \\text{G} \\\\ \\hline \\text{Planet Venus} & \\text{H} \\\\ \\hline \\text{Moon} & \\text{I} \\\\ \\hline \\text{Antares (Brightest Star on Scorpius)} & \\text{J} \\\\ \\hline \\end{array}$$\n\nOn the same diagram draw the ecliptic (apparent path of the Sun) with a line.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/lkj-2015-q32-1.png",
+     "paper_label": "Part B"
+    }
+   ]
+  },
+  {
+   "year": 2016,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "The maximum distance to a star that can be measured accurately using trigonometric parallax method is\n\n(A) $3.26$ parsecs.\n(B) $50$ parsecs.\n(C) $150$ parsecs.\n(D) $2600$ parsecs.\n\nUseful information given with the paper:\n- Speed of light $c = 3\\times10^{5}\\ \\mathrm{km\\,s^{-1}}$\n- Universal gravitational constant $G = 6.67\\times10^{-11}\\ \\mathrm{m^{3}\\,kg^{-1}\\,s^{-2}}$\n- Solar mass $M_\\odot = 1.99\\times10^{30}\\ \\mathrm{kg}$\n- Hubble constant $H = 75\\ \\mathrm{km\\,s^{-1}\\,Mpc^{-1}}$\n- Mass of electron $m_e = 9.11\\times10^{-31}\\ \\mathrm{kg}$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "The heliocentric parallax of a star is $0.05$ arc seconds. What is the distance of this star in parsec?\n\n(A) $20\\ \\mathrm{pc}$\n(B) $25\\ \\mathrm{pc}$\n(C) $30\\ \\mathrm{pc}$\n(D) $35\\ \\mathrm{pc}$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "Number of stars in a typical galaxy such as our Milky Way galaxy is approximately $10^{11}$. The approximate number of stars in the night sky that is visible to the naked eye of an averagely aged person is\n\n(A) $10$ billion\n(B) $6000$\n(C) $200$ billion\n(D) infinite",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "In the following figure, points $A$ through $E$ are locations on Earth's surface. The dashed line represents Earth's axis. On this day, which location has the greatest number of hours of daylight?\n\n(A) $E$\n(B) $B$\n(C) $D$\n(D) $C$\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/lkj-2016-q4-1.png",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "When a star has consumed its all Hydrogen fuel, it will start to die. The core of a dying star consists of\n\n(A) Carbon\n(B) Silicon\n(C) Iron\n(D) Heavy water",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "problem": "The Chandrasekhar limit, which decides whether a star would die as a white dwarf or a supernova explosion and neutron star/black hole (in solar masses), is\n\n(A) $1.4$\n(B) $3.2$\n(C) $10$\n(D) $2.88$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 7,
+     "problem": "Which of the following is furthest distance from the Sun?\n\n(A) Pluto\n(B) a comet in the Kuiper belt\n(C) a comet in the Oort cloud\n(D) an asteroid in the asteroid belt",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 8,
+     "problem": "What is the most likely origin of long-period comets?\n\n(A) Asteroid Belt\n(B) Kuiper Belt\n(C) Oort Cloud\n(D) Zodiacal Band",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 9,
+     "problem": "Which is the planet with highest density in the solar system?\n\n(A) Earth\n(B) Saturn\n(C) Mercury\n(D) Jupiter",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 10,
+     "problem": "Which moon has the substantial number of volcanos?\n\n(A) Titan\n(B) Europa\n(C) Mimas\n(D) Io",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 11,
+     "problem": "If the focal length of the objective of a telescope is $2\\ \\mathrm{m}$ and the focal length of its eye piece is $10\\ \\mathrm{mm}$, the magnification power of the telescope is?\n\n(A) $20$\n(B) $40$\n(C) $50$\n(D) $400$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 12,
+     "problem": "If a star rises at 8:00 p.m. tonight, it will rise one month from now at,\n\n(A) 8:00 p.m.\n(B) 10:00 p.m.\n(C) 12:00 p.m.\n(D) 4:30 p.m.",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 13,
+     "problem": "A star lies around $4.2$ light-years away from Earth would, if moved to a distance of $8.4$ light-years, appear to be,\n\n(A) $2$ times brighter than before.\n(B) $2$ times fainter than before.\n(C) $4$ times fainter than before.\n(D) $8$ times fainter than before.",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 14,
+     "problem": "An object observed at latitude $50$ deg N, has a meridian zenith distance of $20$ deg S. what is the declination?\n\n(A) $+50$ deg\n(B) $+30$ deg\n(C) $-50$ deg\n(D) $-30$ deg",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 15,
+     "problem": "What is the part of this telescope pointed by an arrow?\n\n(A) Objective lens\n(B) Eye Piece\n(C) Mount\n(D) Finder scope\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/lkj-2016-q15-1.png",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 16,
+     "problem": "End of its life time the Sun will become,\n\n(A) A black dwarf\n(B) A black Hole\n(C) A white dwarf\n(D) A red giant",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 17,
+     "problem": "What is the phase of the moon if it rises at midnight?\n\n(A) Last quarter\n(B) Full moon\n(C) First quarter\n(D) New moon",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 18,
+     "problem": "The Moon's period of rotation around the Earth is\n\n(A) $24$ hours\n(B) $7$ days\n(C) $29.5$ days\n(D) $27.3$ days",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 19,
+     "problem": "With respect to the background constellations, the Moon's motion in each day in degrees will be\n\n(A) $13.20$ to East\n(B) $13.20$ to West\n(C) $15.4$ to East\n(D) $15.4$ to West",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 20,
+     "problem": "The following planets that have no natural satellites are\n\n(A) Pluto and Mercury\n(B) Uranus and Pluto\n(C) Venus and Pluto\n(D) Mercury and Venus",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 21,
+     "problem": "If you could see stars during the day, this is what the sky would look like at mid noon on a given day. The Sun is in the constellation Gemini.\n\nWhen the sun sets, you will find it in the constellation\n\n(A) Leo\n(B) Canis major\n(C) Taurus\n(D) Gemini\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/lkj-2016-q21-1.png",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 22,
+     "problem": "The brightest star in this constellation is Aldebaran. In which constellation can this star be found?\n\n(A) Leo\n(B) Orion\n(C) Gemini\n(D) Taurus",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 23,
+     "problem": "What part of a comet points most directly away from the Sun?\n\n(A) the jets of gas\n(B) the coma\n(C) the dust tail\n(D) the plasma tail",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 24,
+     "problem": "In order to have a solar eclipse, you need to have\n\n(A) a full moon.\n(B) a new moon.\n(C) the moon on or close to the ecliptic.\n(D) above (B) and (C).",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 25,
+     "problem": "The type of telescope shown by a ray diagram in this figure is\n\n(A) Newtonian\n(B) Cassegrain\n(C) Coude\n(D) Maksukov\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/lkj-2016-q25-1.png",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 26,
+     "problem": "When viewed from earth a distant galaxy shows a red shift, this is evidence that these distance galaxies are.\n\n(A) Revolving around the sun\n(B) Revolving around the milky way\n(B) Moving away from earth\n(D) Moving towards Earth",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 27,
+     "problem": "The object that seems to stay fixed in the sky all the time is\n\n(A) Pluto\n(B) Sirius\n(C) The Sun\n(D) Polaris",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 28,
+     "problem": "The apparent path of the sun around the celestial sphere against the background of the stars during the year is the\n\n(A) celestial meridian\n(B) ecliptic\n(C) sun's diurnal circle\n(D) celestial equator",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 29,
+     "problem": "How many hours of right ascension correspond to one-fourth of a circle?\n\n(A) $3\\ \\mathrm{h}$\n(B) $6$\n(C) $12\\ \\mathrm{h}$\n(D) None of the above",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 30,
+     "problem": "Celestial coordinates of the Sun at Vernal equinox (March 20/21) is\n\n(A) RA $= 0\\ \\mathrm{h}$, Dec $= 0^\\circ$\n(B) RA $= 12\\ \\mathrm{h}$, Dec $= 10^\\circ$\n(C) RA $= 0\\ \\mathrm{h}$, Dec $= +90^\\circ$\n(D) RA $= 7\\ \\mathrm{h}$, Dec $= 23.5^\\circ$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 2,
+     "number": 31,
+     "problem": "Following figure shows the orbits of Earth and Jupiter around the Sun (not to scale). The position of the Earth is labeled E.\n\n(a) On the Figure draw the following:\n\ni. Mars's Orbit\n\nii. Asteroid belt\n\niii. The orbit of a typical short-period comet\n\n(b) On the Figure, show:\n\ni. The position of Jupiter when it is at conjunction (label it C)\n\nii. The position of Saturn where it is best placed for viewing from Earth (label it as V).\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/lkj-2016-q31-1.png",
+     "paper_label": "Part B"
+    },
+    {
+     "day": 2,
+     "number": 32,
+     "problem": "(a) The largest angular separation between Venus and the Sun, when viewed from the Earth, is $46^\\circ$. Calculate the radius of Venus's circular orbit in Astronomical Units.\n\n(b) Write down the Kepler's Laws on Planetary motion.",
+     "paper_label": "Part B"
+    }
+   ]
+  },
+  {
+   "year": 2017,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "What is the most likely origin of long-period comets?\n\n(A) Asteroid Belt\n(B) Kuiper Belt\n(C) Oort Cloud\n(D) Zodiacal Band\n\nUseful information given with the paper:\n- Speed of light $c = 3\\times10^{5}\\ \\mathrm{km\\,s^{-1}}$\n- Universal gravitational constant $G = 6.67\\times10^{-11}\\ \\mathrm{m^{3}\\,kg^{-1}\\,s^{-2}}$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "For an observer in Jaffna (Latitude $10^\\circ$ N), the elevation of the Polaris above the horizon, in degrees, is\n\n(A) $7$\n(B) $10$\n(C) $80$\n(D) $90$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "Which is the planet in the solar system with highest density ?\n\n(A) Earth\n(B) Saturn\n(C) Mercury\n(D) Jupiter",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "The diagram below shows part of the celestial sphere. The Sun and a planet P are labelled. The central dashed line is the ecliptic. Use the diagram to answer the questions from 4 to 6.\n\n(The diagram is attached to question 4; the first question about it is question 5.)\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/lkj-2017-q4-1.png",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "What are the celestial co-ordinates of the planet P? (diagram of question 4; right ascension RA, declination in degrees)\n\n(A) RA $0\\ \\mathrm{h}\\ 30\\ \\mathrm{min}$, declination $-05^\\circ$\n(B) RA $0\\ \\mathrm{h}\\ 50\\ \\mathrm{min}$, declination $-15^\\circ$\n(C) RA $1\\ \\mathrm{h}\\ 30\\ \\mathrm{min}$, declination $-05^\\circ$\n(D) RA $1\\ \\mathrm{h}\\ 50\\ \\mathrm{min}$, declination $-15^\\circ$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "problem": "What is the name of the region in between the two dashed lines either side of the ecliptic? (diagram of question 4)\n\n(A) Goldilocks Zone\n(B) Van Allen Belt\n(C) Zodiacal Band\n(D) Zoological Band",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 7,
+     "problem": "In which season of the year would the Sun lie on the celestial sphere at the position shown? (diagram of question 4)\n\n(A) Spring\n(B) Summer\n(C) Autumn\n(D) Winter",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 8,
+     "problem": "Which position of the earth represent the first day in winter in Northern hemisphere?\n\n(A) A\n(B) B\n(C) C\n(D) D\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/lkj-2017-q8-1.png",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 9,
+     "problem": "According to the Geocentric theory put forwarded by Ptolemy\n\n(A) Sun is the centre of the Solar system, but not the center of the Universe.\n(B) Sun rotates around the earth as the 3rd celestial object from the Earth.\n(C) Sun rotates around the earth as the 4th celestial object from the Earth\n(D) Sun is at the centre of the Universe.",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 10,
+     "problem": "Which of the following is not a Galilean moon discovered by Galileo in 1610?\n\n(A) Europa\n(B) Io\n(C) Ganymede\n(D) Deimos",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 11,
+     "problem": "When the planets Mars, Jupiter, and Saturn appears to move backward (west ward) in the sky relative to the stars, it is known as the retrograde motion. In the geocentric model of the Universe (by Ptolemy) this retrograde motion of planets was explained using\n\n(A) epicycles\n(B) equatorial motion\n(C) friction force\n(D) pressure gradient force",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 12,
+     "problem": "Galileo found that the Ptolemaic system can not explain.\n\n(A) lunar phases.\n(B) the retrograde motions of the planets.\n(C) his observations of parallax.\n(D) his observation of the phases of the planet Venus.",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 13,
+     "problem": "Consider the following three statements given on \"Kepler's Laws\" of elliptical motion.\n\n1) All planets move in elliptical orbits, with the sun at one focus.\n\n2) A line that connects a planet to the sun sweeps out equal areas in equal times.\n\n3) The square of the period of any planet is proportional to the cube of the semi major axis of its orbit.\n\nIncorrect Statement/s is/are?\n\n(A) (1) only\n(B) (3) only\n(C) (2) and (3) only\n(D) No incorrect statement",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 14,
+     "problem": "The solar day is longer than the sidereal day by\n\n(A) $4$ minutes\n(B) $88$ days\n(C) $24$ hours\n(D) $1$ second",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 15,
+     "problem": "An astronaut in planet Earth goes to Jupiter. If the distance to Jupiter from the Sun is about $5\\ \\mathrm{A.U.}$, the reduction of brightness of Sun as seen from Jupiter would be.\n\n(A) $0.01$\n(B) $0.04$\n(C) $0.5$\n(D) no reduction",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 16,
+     "problem": "Celestial coordinates of a star at Vernal equinox is\n\n(A) RA $= 0\\ \\mathrm{h}$, Dec $= 0^\\circ$\n(B) RA $= 12\\ \\mathrm{h}$, Dec $= 10^\\circ$\n(C) RA $= 0\\ \\mathrm{h}$, Dec $= +90^\\circ$\n(D) RA $= 7\\ \\mathrm{h}$, Dec $= 23.5^\\circ$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 17,
+     "problem": "Which planet can never be seen on the meridian at midnight?\n\n(A) Jupiter\n(B) Mercury\n(C) Saturn\n(D) Mars",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 18,
+     "problem": "Using the Kepler's third law find the orbital period of an asteroid with semi major axis $4\\ \\mathrm{AU}$\n\n(A) $1$\n(B) $4$\n(C) $8$\n(D) $64$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 19,
+     "problem": "The name of the famous nebula in this star constellation shown in the following figure is\n\n(A) Cats eye nebula\n(B) Orion nebula\n(C) Eagle nebula\n(D) Crab Nebula\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/lkj-2017-q19-1.png",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 20,
+     "problem": "The instrument use in astronomy to find the elements presence in a distant star is\n\n(A) spectrometer\n(B) CCD camera\n(C) photometer\n(D) binocular",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 21,
+     "problem": "The type of telescope shown by a ray diagram in this figure is\n\n(A) Newtonian\n(B) Cassegrain\n(C) Coude\n(D) Maksukov\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/lkj-2017-q21-1.png",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 22,
+     "problem": "The lunar cycle of phases and the Moon's orbital period around the Earth differ slightly. Which line in the table is correct?\n\n(Each choice gives the orbital period (days) and the lunar cycle (days).)\n\n(A) orbital period $27.3$ days; lunar cycle $28.0$ days\n(B) orbital period $27.3$ days; lunar cycle $29.5$ days\n(C) orbital period $28.0$ days; lunar cycle $29.5$ days\n(D) orbital period $29.5$ days; lunar cycle $27.3$ days",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 23,
+     "problem": "A student sees a thin, crescent Moon. At what time of day, and whereabouts in the sky, would this be visible?\n\n(A) due south at midnight\n(B) in the east at dawn\n(C) in the north near Polaris\n(D) in the west at sunset.",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 24,
+     "problem": "The second brightest star in the constellation Canis Major is\n\n(A) Sirius\n(B) Beta Canis Major\n(C) Polaris\n(D) Rigel",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 25,
+     "problem": "At which lunar phase(s) are tides most pronounced (very high tides)?\n\n(A) only at first quarter\n(B) only at full Moon\n(C) only at new Moon\n(D) both new and full Moons",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 26,
+     "problem": "Which planet has the highest average surface temperature, and why?\n\n(A) Jupiter, because it is so big\n(B) Mercury, because it is closest to the Sun\n(C) Venus, because of its dense carbon dioxide atmosphere\n(D) No correct statement",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 27,
+     "problem": "Which of the following satellite(s) are larger than the planet Mercury?\n\n(A) Ganymede and Titan\n(B) Moon and Ganymede\n(C) Europa and Callisto\n(D) none of the above answers are correct.",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 28,
+     "problem": "Which layer of the Sun do we normally see?\n\n(A) photosphere\n(B) radiation zone\n(C) convection zone\n(D) chromosphere",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 29,
+     "problem": "What part of a comet points most directly away from the Sun?\n\n(A) Plasma tail\n(B) Dust tail\n(C) Coma\n(D) Head",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 30,
+     "problem": "In the equatorial coordinate system how many of Right Ascension corresponds to one-fourth of the sky circle?\n\n(A) $3\\ \\mathrm{h}$\n(b) $6\\ \\mathrm{h}$\n(C) $12\\ \\mathrm{h}$\n(D) $90\\ \\mathrm{h}$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 2,
+     "number": 31,
+     "problem": "Study the following image of the night sky at 9.00 p.m. on a certain day at a certain place and answer the following questions.\n\n(A) Mark all the four directions North, South East, West on the map.\n\n(B) Is this place in North of Colombo or South? (Answer:..................)\n\n(C) Mark and name 10 constellations on the given map.\n\n(D) Sketch rough band of ecliptic i.e. apparent path of the Sun, the Moon and all the planets in the sky.\n\n(E) In which month the sky will appear like this at this time? (Answer:..................)\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/lkj-2017-q31-1.png",
+     "paper_label": "Part B"
+    },
+    {
+     "day": 2,
+     "number": 32,
+     "problem": "(A) Draw a ray diagram in the following space to explain the occurrence of a solar eclipse.\n\n(B) Describe the circumstances under which lunar and solar eclipses occur.\n\n(C) Why don't we see eclipses every month?\n\n(D) Fill up the following table on number of eclipses\n\n$$\\begin{array}{|l|c|c|} \\hline & \\textbf{Solar Eclipses} & \\textbf{Lunar Eclipses} \\\\ \\hline \\text{Maximum per year} & & \\\\ \\hline \\text{Minimum per year} & & \\\\ \\hline \\end{array}$$",
+     "paper_label": "Part B"
+    }
+   ]
+  },
+  {
+   "year": 2018,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "A celestial object with a declination of $+60$ deg is observed at a meridian zenith distance of $15$ deg N. what is the latitude of the observer?\n\n(A) $+75$ deg\n(B) $+45$ deg\n(C) $-45$ deg\n(D) $-30$ deg\n\nUseful information given with the paper:\n- Speed of light $c = 3\\times10^{5}\\ \\mathrm{km\\,s^{-1}}$\n- Universal gravitational constant $G = 6.67\\times10^{-11}\\ \\mathrm{m^{3}\\,kg^{-1}\\,s^{-2}}$\n- Solar mass $M_\\odot = 1.99\\times10^{30}\\ \\mathrm{kg}$\n- Hubble constant $H = 75\\ \\mathrm{km\\,s^{-1}\\,Mpc^{-1}}$\n- Mass of electron $m_e = 9.11\\times10^{-31}\\ \\mathrm{kg}$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "Which of the following never goes in retrograde motion?\n\n(A) Jupiter\n(B) The Sun\n(C) Venus\n(D) Mars",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "The star Serius lies around $8$ light-years away from Earth. If it moved to a distance of $16$ light-years, it would appear to be,\n\n(A) $2$ times brighter than before.\n(B) $2$ times fainter than before.\n(C) $4$ times fainter than before.\n(D) $8$ times fainter than before.",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "What is the source of most short-period comets?\n\n(A) Goldilocks Zone\n(B) Kuiper Belt\n(C) Oort Cloud\n(D) Zodiacal Band",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "The tail of a usual comet,\n\n(A) Always points toward the Sun.\n(B) Always points perpendicular to the Sun.\n(C) Always points away from the Sun.\n(D) They do not have tails near the Sun.",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "problem": "The Moon's period of rotation around its own axis is,\n\n(A) $24$ hours\n(B) $7$ days\n(C) $29.5$ days\n(D) $27.3$ days",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 7,
+     "problem": "An object observed at latitude $40$ deg N, has a meridian zenith distance of $10$ deg S. what is the declination?\n\n(A) $+50$ deg\n(B) $+30$ deg\n(C) $-50$ deg\n(D) $-30$ deg",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 8,
+     "problem": "What is the Sidereal Time at noon, December 21?\n\n(A) $18{:}00$\n(B) $12{:}00$\n(C) $12{:}04$\n(D) $11{:}56$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 9,
+     "problem": "Which is the constellation that would not be able to observe by a person who lives in Milan (Northern latitude $45^\\circ$)?\n\n(A) Orion\n(B) Scorpio\n(C) Auriga\n(D) Crux",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 10,
+     "problem": "Which of the following two coordinates cannot be used to locate a celestial object in the sky?\n\n(A) Declination and Right ascension.\n(B) Altitude and Azimuth.\n(C) Declination and Hour angle.\n(D) Declination and altitude",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 11,
+     "problem": "The following planets that have no natural satellites are\n\n(A) Pluto and Mercury\n(B) Uranus and Pluto\n(C) Venus and Pluto\n(D) Mercury and Venus",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 12,
+     "problem": "If you could see stars during the day, this is what the sky would look like at mid noon on a given day. The Sun is in the constellation Gemini.\n\nWhen the sun sets, you will find it in the constellation\n\n(A) Leo\n(B) Canis major\n(C) Taurus\n(D) Gemini\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/lkj-2018-q12-1.png",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 13,
+     "problem": "The brightest star in this constellation is Aldebaran. In which constellation can this star be found?\n\n(A) Leo\n(B) Orion\n(C) Gemini\n(D) Taurus",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 14,
+     "problem": "What part of a comet points most directly away from the Sun?\n\n(A) the jets of gas\n(B) the coma\n(C) the dust tail\n(D) the plasma tail",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 15,
+     "problem": "In order to have a solar eclipse, you need to have\n\n(A) a full moon.\n(B) a new moon.\n(C) the moon on or close to the ecliptic.\n(D) above (B) and (C).",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 16,
+     "problem": "The type of telescope shown by a ray diagram in this figure is\n\n(A) Newtonian\n(B) Cassegrain\n(C) Coude\n(D) Maksukov\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/lkj-2018-q16-1.png",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 17,
+     "problem": "The Chandrasekhar limit, which decides whether a star would die as a white dwarf or a supernova explosion and neutron star/black hole (in solar masses), is\n\n(A) $1.4$\n(B) $3.2$\n(C) $10$\n(D) $2.88$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 18,
+     "problem": "Which of the following is furthest distance from the Sun?\n\n(A) Pluto\n(B) a comet in the Kuiper belt\n(C) a comet in the Oort cloud\n(D) an asteroid in the asteroid belt",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 19,
+     "problem": "What is the most likely origin of long-period comets?\n\n(A) Asteroid Belt\n(B) Kuiper Belt\n(C) Oort Cloud\n(D) Zodiacal Band",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 20,
+     "problem": "A student sees a thin, crescent Moon. At what time of day, and whereabouts in the sky, would this be visible?\n\n(A) due south at midnight\n(B) in the east at dawn\n(C) in the north near Polaris\n(D) in the west at sunset.",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 21,
+     "problem": "The second brightest star in the constellation Canis Major is\n\n(A) Sirius\n(B) Beta Canis Major\n(C) Polaris\n(D) Rigel",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 22,
+     "problem": "At which lunar phase(s) are tides most pronounced (very high tides)?\n\n(A) only at first quarter\n(B) only at full Moon\n(C) only at new Moon\n(D) both new and full Moons",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 23,
+     "problem": "Which planet has the highest average surface temperature, and why?\n\n(A) Jupiter, because it is so big\n(B) Mercury, because it is closest to the Sun\n(C) Venus, because of its dense carbon dioxide atmosphere\n(D) Mars, because of its red color.",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 24,
+     "problem": "Which of the following satellite(s) are larger than the planet Mercury?\n\n(A) Ganymede and Titan\n(B) Moon and Ganymede\n(C) Europa and Callisto\n(D) None of the above answers are correct.",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 25,
+     "problem": "Which layer of the Sun do we normally see?\n\n(A) photosphere\n(B) radiation zone\n(C) convection zone\n(D) chromosphere",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 26,
+     "problem": "What part of a comet points most directly away from the Sun?\n\n(A) Plasma tail\n(B) Dust tail\n(C) Coma\n(D) Head",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 27,
+     "problem": "In the equatorial coordinate system how many of Right Ascension corresponds to one-fourth of the sky circle?\n\n(A) $3\\ \\mathrm{h}$\n(B) $6\\ \\mathrm{h}$\n(C) $12\\ \\mathrm{h}$\n(D) $90\\ \\mathrm{h}$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 28,
+     "problem": "Which of the following is not a Galilean moon discovered by Galileo in 1610?\n\n(A) Europa\n(B) Io\n(C) Ganymede\n(D) Deimos",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 29,
+     "problem": "When the planets Mars, Jupiter, and Saturn appears to move backward (west ward) in the sky relative to the stars, it is known as the retrograde motion. In the geocentric model of the Universe (by Ptolemy) this retrograde motion of planets was explained using\n\n(A) epicycles\n(B) equatorial motion\n(C) friction force\n(D) pressure gradient force",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 30,
+     "problem": "Galileo found that the Ptolemaic system cannot explain.\n\n(A) lunar phases.\n(B) the retrograde motions of the planets.\n(C) his observations of parallax.\n(D) his observation of the phases of the planet Venus.",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 2,
+     "number": 31,
+     "problem": "Following figure shows the orbits of Earth and Jupiter around the Sun (not to scale). The position of the Earth is labeled E.\n\n(a) On the Figure draw the following:\n\ni. Mars's Orbit\n\nii. Asteroid belt\n\niii. The orbit of a typical short-period comet\n\n(b) On the Figure, show:\n\ni. The position of Jupiter when it is at conjunction (label it C)\n\nii. The position of Saturn where it is best placed for viewing from Earth (label it as V).\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/lkj-2018-q31-1.png",
+     "paper_label": "Part B"
+    },
+    {
+     "day": 2,
+     "number": 32,
+     "problem": "(a) The largest angular separation between Venus and the Sun, when viewed from the Earth, is $46^\\circ$. Calculate the radius of Venus's circular orbit in Astronomical Units.\n\n(b) Write down the Kepler's Laws on Planetary motion.",
+     "paper_label": "Part B"
+    }
+   ]
+  },
+  {
+   "year": 2019,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "Which of the following planets have ring systems?\n\n(A) Saturn\n(B) Jupiter\n(C) Neptune\n(D) All of the above\n\nUseful information given with the paper:\n- Speed of light $c = 3\\times10^{5}\\ \\mathrm{km\\,s^{-1}}$\n- Universal gravitational constant $G = 6.67\\times10^{-11}\\ \\mathrm{m^{3}\\,kg^{-1}\\,s^{-2}}$\n- Solar mass $M_\\odot = 1.99\\times10^{30}\\ \\mathrm{kg}$\n- Hubble constant $H = 75\\ \\mathrm{km\\,s^{-1}\\,Mpc^{-1}}$\n- Mass of electron $m_e = 9.11\\times10^{-31}\\ \\mathrm{kg}$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "Mars has seasons twice as long as Earth's seasons because\n\n(A) Mars's axis is tilted twice as much as Earth's axis.\n(B) Mars's atmosphere is thinner than Earth's atmosphere.\n(C) Mars's year is twice as long as Earth's year.\n(D) Mars's gravity is two fifths of Earth's gravity.",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "Kepler's equal area law (Second Law) implies that when a planet gets close to the sun, it\n\n(A) slows down\n(B) speeds up\n(C) keeps the same speed\n(D) moves backward",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "Which is the planet with highest density in the solar system?\n\n(A) Earth\n(B) Saturn\n(C) Mercury\n(D) Jupiter",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "Which moon has the substantial number of volcanos?\n\n(A) Titan\n(B) Europa\n(C) Mimas\n(D) Io",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "problem": "Which of the following statements about Mercury, Venus, Earth, and Mars, is FALSE?\n\n(A) they are all inner planets.\n(B) they are all terrestrial planets.\n(C) they are all Jovian planets.\n(D) they are the four planets closest to the sun.",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 7,
+     "problem": "Which of the following diagram most accurately depicts the shape of Earth's orbit around the Sun?\n\n(The choices A.-D. are shown in the figure.)\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/lkj-2019-q7-1.png",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 8,
+     "problem": "Mercury's surface is difficult to observe from the earth because Mercury\n\n(A) has almost no atmosphere.\n(B) has a weak magnetic field.\n(C) is so near the sun.\n(D) is covered with impact craters",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 9,
+     "problem": "Which of the following is furthest distance from the Sun?\n\n(A) Pluto\n(B) a comet in the Kuiper belt\n(C) a comet in the Oort cloud\n(D) an asteroid in the asteroid belt",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 10,
+     "problem": "What is the most likely origin of long-period comets?\n\n(A) Asteroid Belt\n(B) Kuiper Belt\n(C) Oort Cloud\n(D) Zodiacal Band",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 11,
+     "problem": "Earth and Mars have similar\n\n(A) diameters.\n(B) gravity fields.\n(C) tilts of their axes.\n(D) atmospheres.",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 12,
+     "problem": "Which feature on Mars's surface leads some scientists to hypothesize that water was once abundant?\n\n(A) Olympus Mons\n(B) Valles Maineris\n(C) craters\n(D) polar ice caps",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 13,
+     "problem": "Jovian planets are\n\n(A) much larger than terrestrial planets.\n(B) composed mainly of hydrogen and helium.\n(C) gas planets.\n(D) all of the above.",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 14,
+     "problem": "If the focal length of the objective of a telescope is $2\\ \\mathrm{m}$ and the focal length of its eye piece is $10\\ \\mathrm{mm}$, the magnification power of the telescope is?\n\n(A) $200$\n(B) $40$\n(C) $50$\n(D) $400$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 15,
+     "problem": "If a star rises at 10.00 p.m. tonight, it will rise one month from now at,\n\n(The comet diagram printed below this question belongs to questions 16 to 18.)\n\n(A) 8:00 p.m.\n(B) 10:00 p.m.\n(C) 12:00 p.m.\n(D) 4:30 p.m.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/lkj-2019-q15-1.png",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 16,
+     "problem": "In the above Comet diagram, where is the sun relative to the comet?\n\n(A) to the right\n(B) to the left\n(C) above it\n(D) below it",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 17,
+     "problem": "Astronomers studying the comet in the diagram would know that it has come close to the sun because\n\n(A) it has a coma.\n(B) it explodes.\n(C) the nucleus is small.\n(D) a hydrogen cloud surrounds it.",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 18,
+     "problem": "In the diagram, the densest part of the comet is labeled\n\n(A) A\n(B) B\n(C) C\n(D) D",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 19,
+     "problem": "The lunar cycle of phases and the Moon's orbital period around the Earth differ slightly. Which line in the table is correct?\n\n(Each choice gives the orbital period (days) and the lunar cycle (days).)\n\n(A) orbital period $27.3$ days; lunar cycle $28.0$ days\n(B) orbital period $27.3$ days; lunar cycle $29.5$ days\n(C) orbital period $28.0$ days; lunar cycle $29.5$ days\n(D) orbital period $29.5$ days; lunar cycle $27.3$ days",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 20,
+     "problem": "A student sees a thin, crescent Moon. At what time of day, and whereabouts in the sky, would this be visible?\n\n(A) due south at midnight\n(B) in the east at dawn\n(C) in the north near Polaris\n(D) in the west at sunset",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 21,
+     "problem": "Which of the following statements about the two moons of Mars is FALSE?\n\n(A) they are called Phobos and Deimos.\n(B) they are approximately one-fourth the size of Mars.\n(C) they are irregularly shaped.\n(D) they are marked with impact craters.",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 22,
+     "problem": "A chunk of rock on Earth that has come from space has gone through several stages. What is the correct order of the stages?\n\n(A) meteor, meteoroid, meteorite\n(B) meteorite, meteoroid, meteor\n(C) meteoroid, meteor, meteorite\n(D) meteor, meteorite, meteoroid",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 23,
+     "problem": "Out of the $88$ constellations in the celestial sphere how many constellations are required to describe the apparent motion (as seen from the Earth) of the Sun and the $8$ planets?\n\n(A) $44$\n(B) $12$\n(C) $13$\n(D) $22$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 24,
+     "problem": "From Colombo, Sri Lanka, how any degrees above the northern horizon that one could see the Polar star ?\n\n(A) $3$\n(B) $7$\n(C) $83$\n(D) $90$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 25,
+     "problem": "At which lunar phase(s) are tides most pronounced (very high tides)?\n\n(A) only at first quarter\n(B) only at full Moon\n(C) only at new Moon\n(D) both new and full Moons",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 26,
+     "problem": "Which of the following satellite(s) are larger than the planet Mercury?\n\n(A) Ganymede and Titan\n(B) Moon and Ganymede\n(C) Europa and Callisto\n(D) none of the above answers are correct.",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 27,
+     "problem": "Given that the distance to Saturn from Sun is $10\\ \\mathrm{AU}$, the brightness of Sun as seen from Saturn compared to that of Earth would be\n\n(A) $10$\n(B) $0.1$\n(C) $0.01$\n(D) $0.25$",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 28,
+     "problem": "Right Ascension is measured in\n\n(A) degrees, arc minutes and arc seconds\n(B) hours, minutes and seconds\n(C) meters\n(D) using the fist of right hand.",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 29,
+     "problem": "Angular measurement in the sky can be obtained using our stretched hand. The angular separation between two celestial objects seen along the thumb and the small finger (as shown in the figure) is\n\n(A) $5$ degrees\n(B) $10$ degrees\n(C) $15$ degrees\n(D) $25$ degrees\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/lkj-2019-q29-1.png",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 1,
+     "number": 30,
+     "problem": "The circle that passes through the south point, north point and the point directly overhead (zenith) of the celestial sphere is called\n\n(A) meridian\n(B) nadir\n(C) celestial equator\n(D) great circle",
+     "paper_label": "Part A"
+    },
+    {
+     "day": 2,
+     "number": 31,
+     "problem": "(A) Draw a ray diagram in the following space to explain the occurrence of a lunar eclipse.\n\n(B) Draw a ray diagram in the following space to explain the occurrence of a solar eclipse.\n\n(C) Describe the circumstances under which lunar and solar eclipses occur\n\n(D) Why don't we see eclipses every month?\n\n(E) An annular solar eclipse is visible to Sri Lanka on December $26^{\\mathrm{th}}$, 2019. Draw a ray diagram in the following space to explain the occurrence of an annular solar eclipse.",
+     "paper_label": "Part B"
+    },
+    {
+     "day": 2,
+     "number": 32,
+     "problem": "(A) Identify the following constellations by writing the name inside each box. (The six boxes are labelled A to F in the figure.)\n\n(B) Match the phrase in column A with the planet it describes in column B.\n\nColumn A (six phrases):\n\n- has no moons\n- ice caps and dust storms\n- most similar to Earth in diameter, gravity, and surface\n- largest, spinning most rapidly\n- only planet where sun rises in west and sets in east\n- could float in an ocean if the ocean were big enough\n- every $248$ years it changes its place from the sun compared to the other planets\n\nColumn B: a. Jupiter, b. Mars, c. Saturn, d. Venus, e. Neptune\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/lkj-2019-q32-1.png",
+     "paper_label": "Part B"
+    }
+   ]
+  }
+ ]
+}
