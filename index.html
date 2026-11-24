@@ -699,7 +699,7 @@ dialog p { color: var(--muted); font-size: .92rem; }
 // Local copies (python -m http.server) read the files next to the page; the published site reads the raw files.
 const BASE = /^(localhost|127\.)/.test(location.hostname) ? './' : 'https://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/';
 // Bump on every data change so browsers never mix old and new files.
-const DATA_VERSION = '20261124-czb';
+const DATA_VERSION = '20261124-bolivia';
 const FIRST = 1990, LAST = 2026;
 const REGIONS = [['europe', 'Europe'], ['asia', 'Asia'], ['americas', 'Americas'], ['africa', 'Africa'], ['oceania', 'Oceania'], ['world', 'World'], ['other', 'Other']];
 const REGION_OF = {
@@ -732,6 +732,7 @@ const REGION_OF = {
     czb: 'europe',
     gr: 'europe',
     br: 'americas',
+    bo: 'americas',
     br3: 'americas',
     by: 'europe',
     by3: 'europe',
@@ -774,6 +775,7 @@ const COUNTRIES = [
     { key: 'cz', name: 'Czech Republic', flag: '🇨🇿', file: 'Czech-astronomy-problems.json', kind: 'years', full: 'Czech Astronomical Olympiad, final round, top category — translated from the official Czech papers' },
     { key: 'czb', name: 'Czech Republic Booklets', flag: '🇨🇿', file: 'Czech-astronomy-booklets-problems.json', kind: 'years', full: 'Czech Astronomy Olympiad, official English Problem Booklets (Czech Astronomical Society, CC BY 4.0): categories AB, CD and EF, regional and national rounds' },
     { key: 'gr', name: 'Greece', flag: '🇬🇷', file: 'Greece-astronomy-problems.json', kind: 'years', full: 'Panhellenic Astronomy and Space Competition (Hellenic Astronomy and Space Society), Lyceum — 3rd round Hipparchos and final Ptolemaios, translated from the official Greek papers' },
+    { key: 'bo', name: 'Bolivia', flag: '🇧🇴', file: 'Bolivia-obaa-problems.json', kind: 'years', full: 'Bolivian Astronomy and Astrophysics Olympiad (OBAA), district, departmental and national stages — translated from the official Spanish exams published in the Revista Boliviana de Fisica' },
     { key: 'br', name: 'Brazil', flag: '🇧🇷', file: 'Brazil-oba-problems.json', kind: 'years', full: 'Brazilian Astronomy and Astronautics Olympiad (OBA), level 4 paper (secondary school) — translated from the official Portuguese papers' },
     { key: 'br3', name: 'Brazil Level 3', flag: '🇧🇷', file: 'Brazil-oba-level3-problems.json', kind: 'years', full: 'Brazilian Astronomy and Astronautics Olympiad (OBA), level 3 paper (grades 6-9) — translated from the official Portuguese papers' },
     { key: 'by', name: 'Belarus', flag: '🇧🇾', file: 'Belarus-astronomy-problems.json', kind: 'years', full: 'Belarus Republican Olympiad in Astronomy, final stage — translated from the official Russian papers' },
@@ -1924,6 +1926,7 @@ const ORGANISERS = {
     ioaada: {comp: 'IOAA', org: 'the International Olympiad on Astronomy and Astrophysics (IOAA) and the host organising committee of each year', rights: 'IOAA', short: 'the IOAA or its host organising committees'},
     jioaa: {comp: 'Junior IOAA', org: 'the International Olympiad on Astronomy and Astrophysics (IOAA), which runs the Junior IOAA, and the host organising committee of each year', rights: 'IOAA', short: 'the IOAA or its host organising committees'},
     gecaa: {comp: 'GeCAA', org: 'the organisers of the Global e-Competition on Astronomy and Astrophysics (GeCAA 2020; papers in the IOAA archive)', rights: 'the GeCAA organisers', short: 'the GeCAA organisers or the IOAA'},
+    bo: {comp: 'Bolivian Astronomy and Astrophysics Olympiad (OBAA)', org: 'the Bolivian olympic committees for Physics and for Astronomy and Astrophysics and the Bolivian Physical Society (SOBOFI, UMSA, La Paz); exams published in the Revista Boliviana de Fisica under CC BY-NC 4.0', rights: 'Revista Boliviana de Fisica (CC BY-NC 4.0)', short: 'the Bolivian Astronomy and Astrophysics Olympiad', lang: () => 'Spanish'},
     br: {comp: 'Brazilian Astronomy and Astronautics Olympiad (OBA)', org: 'the Brazilian Astronomy and Astronautics Olympiad (OBA, oba.org.br), run by the Brazilian Astronomical Society (SAB) with the Brazilian Space Agency (AEB)', rights: 'OBA', short: 'the OBA', lang: () => 'Portuguese',
         note: p => p.year === 2026 || p.year === 2021 ? 'Statement taken from the official answer-key edition of the paper, the only publication found (answers not copied).' : ''},
     br3: {comp: 'Brazilian Astronomy and Astronautics Olympiad (OBA)', org: 'the Brazilian Astronomy and Astronautics Olympiad (OBA, oba.org.br), run by the Brazilian Astronomical Society (SAB) with the Brazilian Space Agency (AEB)', rights: 'OBA', short: 'the OBA', lang: () => 'Portuguese',
