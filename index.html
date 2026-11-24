@@ -699,7 +699,7 @@ dialog p { color: var(--muted); font-size: .92rem; }
 // Local copies (python -m http.server) read the files next to the page; the published site reads the raw files.
 const BASE = /^(localhost|127\.)/.test(location.hostname) ? './' : 'https://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/';
 // Bump on every data change so browsers never mix old and new files.
-const DATA_VERSION = '20261124-srilanka-junior';
+const DATA_VERSION = '20261124-nepal';
 const FIRST = 1990, LAST = 2026;
 const REGIONS = [['europe', 'Europe'], ['asia', 'Asia'], ['americas', 'Americas'], ['africa', 'Africa'], ['oceania', 'Oceania'], ['world', 'World'], ['other', 'Other']];
 const REGION_OF = {
@@ -712,6 +712,7 @@ const REGION_OF = {
     inao: 'asia',
     lk: 'asia',
     lkj: 'asia',
+    np: 'asia',
     usaaao: 'americas',
     usaaao1: 'americas',
     iao: 'world',
@@ -751,6 +752,7 @@ const COUNTRIES = [
     { key: 'baao', name: 'UK BAAO', flag: '🇬🇧', file: 'UK-baao-problems.json', kind: 'years', full: 'British Astronomy and Astrophysics Olympiad, Competition Paper (final round)' },
     { key: 'lk', name: 'Sri Lanka', flag: '🇱🇰', file: 'SriLanka-slaao-problems.json', kind: 'years', full: 'Sri Lankan Olympiad on Astronomy and Astrophysics (SLAAO), Institute of Physics, Sri Lanka — English text of the official bilingual papers' },
     { key: 'lkj', name: 'Sri Lanka Junior', flag: '🇱🇰', file: 'SriLanka-sljao-problems.json', kind: 'years', full: 'Sri Lankan Junior Astronomy Olympiad (SLJAO), Institute of Physics, Sri Lanka — English text of the official bilingual papers' },
+    { key: 'np', name: 'Nepal', flag: '🇳🇵', file: 'Nepal-nao-problems.json', kind: 'years', full: 'National Astronomy Olympiad of Nepal (NAO), Nepal Astronomical Society — Senior and Junior categories, official English papers' },
     { key: 'inao', name: 'India INAO', flag: '🇮🇳', file: 'India-inao-problems.json', kind: 'years', full: 'Indian National Astronomy Olympiad (INAO), Senior level' },
     { key: 'usaaao', name: 'USA USAAAO', flag: '🇺🇸', file: 'USA-usaaao-problems.json', kind: 'years', full: 'USA Astronomy and Astrophysics Olympiad (USAAAO): National Astronomy Competition (NAC) and later selection exams' },
     { key: 'usaaao1', name: 'USA USAAAO First Round', flag: '🇺🇸', file: 'USA-usaaao-first-round-problems.json', kind: 'years', full: 'USA Astronomy and Astrophysics Olympiad (USAAAO), First Round' },
@@ -1940,6 +1942,7 @@ const ORGANISERS = {
     baao1: {comp: 'British Astronomy and Astrophysics Olympiad', org: 'the British Physics Olympiad (BPhO), which runs the British Astronomy and Astrophysics Olympiad', rights: 'BPhO', short: 'the BPhO'},
     lk: {comp: 'Sri Lankan Olympiad on Astronomy and Astrophysics', org: 'the Institute of Physics, Sri Lanka (IPSL, ipsl.lk), with the Arthur C. Clarke Institute for Modern Technologies in the early years', rights: 'IPSL', short: 'the Institute of Physics, Sri Lanka'},
     lkj: {comp: 'Sri Lankan Junior Astronomy Olympiad', org: 'the Institute of Physics, Sri Lanka (IPSL, ipsl.lk)', rights: 'IPSL', short: 'the Institute of Physics, Sri Lanka'},
+    np: {comp: 'National Astronomy Olympiad of Nepal', org: 'the Nepal Astronomical Society (NASO, nepalastronomicalsociety.org)', rights: 'Nepal Astronomical Society', short: 'the Nepal Astronomical Society'},
     inao: {comp: 'Indian National Astronomy Olympiad', org: 'the Homi Bhabha Centre for Science Education (HBCSE-TIFR), Indian olympiad programme', rights: 'HBCSE-TIFR', short: 'HBCSE-TIFR'},
     usaaao: {comp: 'USAAAO', org: 'the USA Astronomy and Astrophysics Organization (USAAAO)', rights: 'USAAAO', short: 'the USAAAO'},
     usaaao1: {comp: 'USAAAO First Round', org: 'the USA Astronomy and Astrophysics Organization (USAAAO)', rights: 'USAAAO', short: 'the USAAAO'},

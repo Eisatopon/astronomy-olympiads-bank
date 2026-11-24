@@ -1,0 +1,406 @@
+{
+ "competition": "National Astronomy Olympiad of Nepal (NAO), Nepal Astronomical Society — Senior and Junior categories",
+ "years": [
+  {
+   "year": 2019,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "What is the approximate time of sunrise for an observer located in Indonesia (close to the Equator) on March 21st?\n\n(a) 7 am\n(b) 6 am\n(c) 5 am\n(d) 8 am",
+     "paper_label": "Senior"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "The current flowing through a wire is $3\\ \\mathrm{A}$. Find the number of electrons that pass through the wire in $3$ seconds.\n\n(a) $5.625\\times10^{19}$ electrons\n(b) $1.875\\times10^{19}$ electrons\n(c) $6.25\\times10^{18}$ electrons\n(d) $6.25\\times10^{19}$ electrons",
+     "paper_label": "Senior"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "A car moves from Pokhara to Kathmandu with an average speed of $40\\ \\mathrm{km/hr}$. It then moves back from Pokhara to Kathmandu at an average speed of $60\\ \\mathrm{km/hr}$. What is the average speed of the car for the entirety of its trip?\n\n(a) $47\\ \\mathrm{km/hr}$\n(b) $48\\ \\mathrm{km/hr}$\n(c) $49\\ \\mathrm{km/hr}$\n(d) $50\\ \\mathrm{km/hr}$",
+     "paper_label": "Senior"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "The Moon rises almost 2 hours before the Sun has set on a particular day. Estimate the Moon's phase.\n\n(a) Full Moon\n(b) Waxing Gibbous\n(c) Waning Crescent\n(d) First Quarter",
+     "paper_label": "Senior"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "If the Sun is located in the constellation of Capricorn, determine the season in the Southern Hemisphere.\n\n(a) Autumn\n(b) Winter\n(c) Summer\n(d) Spring",
+     "paper_label": "Senior"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "problem": "The focal length as measured using monochromatic red light of a convex lens is denoted A. The focal length as measured using monochromatic blue light of a convex lens is denoted B. Then\n\n(a) $B<A$\n(b) $B=A$\n(c) $B>A$\n(d) $B+A=\\mathrm{constant}$ for all lenses",
+     "paper_label": "Senior"
+    },
+    {
+     "day": 1,
+     "number": 7,
+     "problem": "Hubble-Lemaitre's law is universally known. What is one consequence of this law?\n\n(a) The existence of Dark Matter\n(b) The existence of Dark Energy\n(c) Most galaxies are receding away from the Milky Way, with increased speed of recession for galaxies further away\n(d) Distant galaxies have red-shifts",
+     "paper_label": "Senior"
+    },
+    {
+     "day": 1,
+     "number": 8,
+     "problem": "Estimate the orbital period of a hypothetical planet that is in a circular orbit $50$ times as distant from the Sun than the Earth.\n\n(a) $360$ days\n(b) $360$ years\n(c) $354$ years\n(d) $354$ days",
+     "paper_label": "Senior"
+    },
+    {
+     "day": 1,
+     "number": 9,
+     "problem": "An Olympiad student fails to get a medal. The angry team leader launches him into a rocket far into space and then throws him out. The student just grazes the upper edge of the atmosphere during his trajectory back towards the Earth. He will:\n\n(a) go around the Earth\n(b) crash on the Moon\n(c) be lost in space\n(d) return to Olympiad venue",
+     "paper_label": "Senior"
+    },
+    {
+     "day": 1,
+     "number": 10,
+     "problem": "If $v$ is the escape velocity of a given satellite, then its orbital velocity will be:\n\n(a) $v^{1/2}$\n(b) $2^{1/2}\\,v$\n(c) $v$\n(d) $v/2^{1/2}$",
+     "paper_label": "Senior"
+    },
+    {
+     "day": 1,
+     "number": 11,
+     "problem": "If the Earth is assumed to be a homogeneous sphere and its radius is doubled, the time of rotation of the Earth will:\n\n(a) remain unchanged\n(b) double\n(c) halve\n(d) increase four-fold",
+     "paper_label": "Senior"
+    },
+    {
+     "day": 1,
+     "number": 12,
+     "problem": "The perihelion of a comet in orbit around the Sun is $0.1\\ \\mathrm{AU}$ and the aphelion of the same comet is $1.9\\ \\mathrm{AU}$. What is the time of revolution for this comet?\n\n(a) $11.5$ days\n(b) $2.62$ years\n(c) $1$ year\n(d) $2.83$ years",
+     "paper_label": "Senior"
+    },
+    {
+     "day": 1,
+     "number": 13,
+     "problem": "The star Sirius is the brightest star in the constellation of Canis Major. It has a surface temperature of $9940\\ \\mathrm{K}$ and a radius that is $1.7$ times that of the Sun. If the surface temperature of the Sun is $6000\\ \\mathrm{K}$, estimate the ratio of the Luminosity of Sirius to the Luminosity of the Sun.\n\n(a) $0.046$\n(b) $21.8$\n(c) $2.82$\n(d) $4.81$",
+     "paper_label": "Senior"
+    },
+    {
+     "day": 1,
+     "number": 14,
+     "problem": "The orbit of a planet can be generalized by the equation $x^2/25 + y^2/16 = 1$, where $25$ and $16$ are in units of $\\mathrm{AU}^2$. What is the eccentricity of the planet's orbit?\n\n(a) $0.8$\n(b) $0.2$\n(c) $0.6$\n(d) $0.4$",
+     "paper_label": "Senior"
+    },
+    {
+     "day": 1,
+     "number": 15,
+     "problem": "Polaris has an altitude of $60$ degrees in the sky. What is the latitude of the observer's location?\n\n(a) $30$ N\n(b) $60$ S\n(c) $30$ S\n(d) $60$ N",
+     "paper_label": "Senior"
+    },
+    {
+     "day": 1,
+     "number": 16,
+     "problem": "Find the redshift of a galaxy which emits in the Hydrogen-alpha line at $700\\ \\mathrm{nm}$. (The H-alpha line in a laboratory is $656.28\\ \\mathrm{nm}$)\n\n(a) $0.067$\n(b) $0.938$\n(c) $0.063$\n(d) $0$",
+     "paper_label": "Senior"
+    },
+    {
+     "day": 1,
+     "number": 17,
+     "problem": "Let us imagine a situation where the maximum angular size of the full moon is $0.5$ degrees and the minimum angular size of the sun is $0.6$ degrees. Which of these phenomena would cease to occur?\n\n(a) Total Solar eclipses\n(b) Lunar Eclipses\n(c) Solar eclipses\n(d) Aurorae",
+     "paper_label": "Senior"
+    },
+    {
+     "day": 1,
+     "number": 18,
+     "problem": "In the Hertzsprung-Russell diagram, what stars occupy the top right-hand corner?\n\n(a) Main Sequence stars\n(b) Red Dwarfs\n(c) White Dwarfs\n(d) Red Giants",
+     "paper_label": "Senior"
+    },
+    {
+     "day": 1,
+     "number": 19,
+     "problem": "The magnitude scale for stars in astronomy is a logarithmic scale: $m_1 - m_2 = -2.5\\log(F_1/F_2)$ where $F_1$ is the flux of star 1, $F_2$ is the flux of star 2, whereas $m_1$ is the magnitude of star 1 and $m_2$ is the magnitude of star 2. If star 1 has a magnitude of $1$, and star 2 has a magnitude of $2$, which star has greater flux and by what factor?\n\n(a) Star 1 by a factor of $10$\n(b) Star 1 by a factor of $2.51$\n(c) Star 2 by a factor of $10$\n(d) Star 2 by a factor of $2.51$",
+     "paper_label": "Senior"
+    },
+    {
+     "day": 1,
+     "number": 20,
+     "problem": "In a survey of the properties of galaxies, a total of $30$ galaxies were sampled and their distances were noted. It was found that most of the galaxies occupied the same cluster, but a small number were found to be farther away than the cluster by a significant amount. Which of these quantities would give us a reasonable estimate for the distance to the cluster?\n\n(a) Median\n(b) Mean\n(c) Mode\n(d) Standard deviation",
+     "paper_label": "Senior"
+    },
+    {
+     "day": 1,
+     "number": 21,
+     "problem": "The Voyager 1 spacecraft is in a trajectory that will allow it to escape the gravitational attraction of the sun. It is known that the speed at which Voyager 1 is currently receding from the Sun is greater than the escape velocity at that point. Which conic section does the path of Voyager 1 sketch?\n\n(a) Ellipse\n(b) Parabola\n(c) Circle\n(d) Hyperbola",
+     "paper_label": "Senior"
+    },
+    {
+     "day": 1,
+     "number": 22,
+     "problem": "Which of the following is a consequence of the particulate nature of light?\n\n(a) Interference\n(b) Diffraction\n(c) Reflection\n(d) Photoelectric effect",
+     "paper_label": "Senior"
+    },
+    {
+     "day": 1,
+     "number": 23,
+     "problem": "The acceleration due to gravity on the surface of a planet is denoted by $g$. If the density of the planet is doubled, what is the new acceleration due to gravity?\n\n(a) $0.5g$\n(b) $g$\n(c) $2g$\n(d) $4g$",
+     "paper_label": "Senior"
+    },
+    {
+     "day": 1,
+     "number": 24,
+     "problem": "If the sun rises at $6$ am on a given day in Dhulikhel ($27.6$ degrees North, $85.5$ degrees East), what is a reasonable estimate for the time of sunrise in Dhangadhi ($28.7$ degrees North, $80.6$ degrees East)?\n\n(a) $5{:}40$ am\n(b) $6{:}20$ am\n(c) $6{:}05$ am\n(d) $5{:}55$ am",
+     "paper_label": "Senior"
+    },
+    {
+     "day": 1,
+     "number": 25,
+     "problem": "What is the angular velocity of the Earth's rotation?\n\n(a) $7.3\\times10^{-5}\\ \\mathrm{rad\\,s^{-1}}$\n(b) $3.6\\times10^{-5}\\ \\mathrm{rad\\,s^{-1}}$\n(c) $3.6\\ \\mathrm{arcsecs\\,s^{-1}}$\n(d) $3.6\\ \\mathrm{degrees\\,s^{-1}}$",
+     "paper_label": "Senior"
+    },
+    {
+     "day": 1,
+     "number": 26,
+     "problem": "Which is the most distant object that can be seen with the naked eye?\n\n(a) Orion Nebula\n(b) Small Magellanic Cloud\n(c) Large Magellanic Cloud\n(d) Andromeda Galaxy",
+     "paper_label": "Senior"
+    },
+    {
+     "day": 1,
+     "number": 27,
+     "problem": "If a blue star replaced the Sun, which of the following is a likely consequence?\n\n(a) The Earth becomes far too cold to support life\n(b) Mercury is in the habitable zone\n(c) There is no change on the Earth\n(d) The Earth becomes far too hot to support life",
+     "paper_label": "Senior"
+    },
+    {
+     "day": 1,
+     "number": 28,
+     "problem": "Which of the following statements is false?\n\n(a) Jupiter is about $300$ times more massive than the Earth.\n(b) The center of mass of the Solar System always lies inside the Sun.\n(c) Ganymede is the largest moon in our Solar System.\n(d) Titan is a moon of Saturn.",
+     "paper_label": "Senior"
+    },
+    {
+     "day": 1,
+     "number": 29,
+     "problem": "Which country recently landed a probe on the far side of the moon?\n\n(a) Russia\n(b) China\n(c) India\n(d) USA",
+     "paper_label": "Senior"
+    },
+    {
+     "day": 1,
+     "number": 30,
+     "problem": "What is the focal length of the objective of a telescope if its magnification is $20\\mathrm{X}$ when fitted with a lens having focal length $2\\ \\mathrm{mm}$?\n\n(a) $40\\ \\mathrm{mm}$\n(b) $10\\ \\mathrm{mm}$\n(c) $20\\ \\mathrm{mm}$\n(d) $0.1\\ \\mathrm{mm}$",
+     "paper_label": "Senior"
+    },
+    {
+     "day": 1,
+     "number": 31,
+     "problem": "Answer the following questions: [10 marks]\n\na. The crater Copernicus is about $93\\ \\mathrm{km}$ in diameter and is located on the surface of the Moon. What is the minimum diameter of the objective lens of a telescope required to resolve this crater in the visible spectrum? (Earth-Moon distance is $3.84\\times10^{5}\\ \\mathrm{km}$) (5)\n\nb. State Newton's Third Law of Motion in its complete form. (2)\n\nc. Derive the expression for escape velocity. (3)",
+     "paper_label": "Senior"
+    },
+    {
+     "day": 1,
+     "number": 32,
+     "problem": "The values of distance to a galaxy are determined using several different methods. [10 marks]\n\n$$\\begin{array}{|c|c|} \\hline \\text{Method} & \\text{Distance / kpc} \\\\ \\hline 1 & 21.2 \\\\ \\hline 2 & 20.5 \\\\ \\hline 3 & 23.4 \\\\ \\hline 4 & 22.0 \\\\ \\hline 5 & 21.5 \\\\ \\hline 6 & 24.2 \\\\ \\hline 7 & 21.3 \\\\ \\hline 8 & 20.1 \\\\ \\hline \\end{array}$$\n\na. Which method appears to be the least accurate? (1)\n\nb. Obtain an estimate for the actual distance to the galaxy. (3)\n\nc. Obtain an estimate for the uncertainty in the distance to the galaxy by calculating the standard deviation of the observations. (4)\n\nd. Quote your final answer for the distance to the galaxy in an appropriate form with units. (2)",
+     "paper_label": "Senior"
+    },
+    {
+     "day": 1,
+     "number": 33,
+     "problem": "Synodic periods are important in astronomy. One of the reasons why is because they allow us to determine the times of oppositions for various planets. In this question, we shall be deriving a time for the next opposition of Mars. We shall assume the orbits of Mars and Earth to be circular. Time period of Mars' orbit $= 687$ days, time period of Earth's orbit $= 365$ days. [10 marks]\n\na. Derive an expression for the synodic time of Mars as seen from the surface of the Earth. Hint: Synodic time is defined as the time taken for an object to return to the same position in the sky. The difference in angle subtended at the centre of orbit by the two objects will be $360$ degrees for the synodic period. (6)\n\nb. If an opposition of Mars occurred on $21^{\\mathrm{st}}$ August $1991$, determine when the next opposition occurred. (4)",
+     "paper_label": "Senior"
+    },
+    {
+     "day": 2,
+     "number": 1,
+     "problem": "Which of the following is not a fundamental unit?\n\n(a) Second\n(b) Coulomb\n(c) Ampere\n(d) Candela",
+     "paper_label": "Junior"
+    },
+    {
+     "day": 2,
+     "number": 2,
+     "problem": "A car moves from Pokhara to Kathmandu with an average speed of $40\\ \\mathrm{km/hr}$. It then moves back from Pokhara to Kathmandu at an average speed of $60\\ \\mathrm{km/hr}$. What is the average speed of the car for the entirety of its trip?\n\n(a) $47\\ \\mathrm{km/hr}$\n(b) $48\\ \\mathrm{km/hr}$\n(c) $49\\ \\mathrm{km/hr}$\n(d) $50\\ \\mathrm{km/hr}$",
+     "paper_label": "Junior"
+    },
+    {
+     "day": 2,
+     "number": 3,
+     "problem": "The mean number of moons orbiting a planet in the solar system is $23.125$ (this mean is defined as the total number of moons orbiting planets divided by total number of planets). If over the next $10$ years $30$ additional moons are discovered, what is the new mean?\n\n(a) $26.875$ moons per planet\n(b) $26$ moons per planet\n(c) $26.458$ moons per planet\n(d) $25$ moons per planet",
+     "paper_label": "Junior"
+    },
+    {
+     "day": 2,
+     "number": 4,
+     "problem": "A person weighs $500\\ \\mathrm{N}$ on Earth. What is this person's mass on Mars? (Assume Mars' acceleration due to gravity on its surface is half that of Earth's, and use $g=10\\ \\mathrm{m/s^2}$)\n\n(a) $250\\ \\mathrm{N}$\n(b) $25\\ \\mathrm{kg}$\n(c) $500\\ \\mathrm{kg}$\n(d) $50\\ \\mathrm{kg}$",
+     "paper_label": "Junior"
+    },
+    {
+     "day": 2,
+     "number": 5,
+     "problem": "The Moon rises almost 2 hours before the Sun has set on a particular day. Estimate the Moon's phase.\n\n(a) Full Moon\n(b) Waxing Gibbous\n(c) Waning Crescent\n(d) First Quarter",
+     "paper_label": "Junior"
+    },
+    {
+     "day": 2,
+     "number": 6,
+     "problem": "What is the name of the rocket that carried the Apollo 11 module into space?\n\n(a) Saturn IV\n(b) Saturn V\n(c) Titan V\n(d) Titan IV",
+     "paper_label": "Junior"
+    },
+    {
+     "day": 2,
+     "number": 7,
+     "problem": "The current flowing through a wire is $3\\ \\mathrm{A}$. Find the number of electrons that pass through the wire in $3$ seconds. (the charge on one electron is approximately $1.6\\times10^{-19}\\ \\mathrm{C}$).\n\n(a) $5.625\\times10^{19}$ electrons\n(b) $1.875\\times10^{19}$ electrons\n(c) $6.25\\times10^{18}$ electrons\n(d) $6.25\\times10^{19}$ electrons",
+     "paper_label": "Junior"
+    },
+    {
+     "day": 2,
+     "number": 8,
+     "problem": "Kepler's third law states that the square of the time period of revolution of a planet around the Sun is directly proportional to the cube of the orbital radius of the planet. Using this law as fact, estimate a time period for the revolution of a hypothetical planet in orbit around the Sun which orbits the Sun in a nearly circular orbit at $100$ times the Earth-Sun distance.\n\n(a) $100$ years\n(b) $1{,}000$ years\n(c) $10{,}000$ years\n(d) $100{,}000$ years",
+     "paper_label": "Junior"
+    },
+    {
+     "day": 2,
+     "number": 9,
+     "problem": "The sine of an angle $A$ is $6/10$. Find the value of $\\sec A + \\tan A$.\n\n(a) $2$\n(b) $10/8$\n(c) $6/8$\n(d) $1$",
+     "paper_label": "Junior"
+    },
+    {
+     "day": 2,
+     "number": 10,
+     "problem": "Which is the second brightest star in the night sky?\n\n(a) Sirius\n(b) Alpha Centauri\n(c) Canopus\n(d) Vega",
+     "paper_label": "Junior"
+    },
+    {
+     "day": 2,
+     "number": 11,
+     "problem": "How many light years are there in a parsec?\n\n(a) $2.3$ light years\n(b) $3.26$ light years\n(c) $4.2$ light years\n(d) $2.6$ light years",
+     "paper_label": "Junior"
+    },
+    {
+     "day": 2,
+     "number": 12,
+     "problem": "Which is the most massive object in our solar system?\n\n(a) Earth\n(b) Jupiter\n(c) Saturn\n(d) Sun",
+     "paper_label": "Junior"
+    },
+    {
+     "day": 2,
+     "number": 13,
+     "problem": "The famous cluster of stars, the Pleiades, lies in which constellation?\n\n(a) Taurus\n(b) Orion\n(c) Ursa Major\n(d) Centaurus",
+     "paper_label": "Junior"
+    },
+    {
+     "day": 2,
+     "number": 14,
+     "problem": "Which was the first spacecraft to visit the planet Uranus?\n\n(a) Voyager 1\n(b) Voyager 2\n(c) Pioneer 10\n(d) New Horizons",
+     "paper_label": "Junior"
+    },
+    {
+     "day": 2,
+     "number": 15,
+     "problem": "Which phenomena led to the discovery of Helium?\n\n(a) The absorption spectrum of the Sun\n(b) Nuclear fusion of Hydrogen atoms\n(c) Nuclear fission\n(d) X-ray diffusion",
+     "paper_label": "Junior"
+    },
+    {
+     "day": 2,
+     "number": 16,
+     "problem": "In astronomy, we are very interested in compounds that have an organic origin, because it has the potential to indicate life on other worlds. What compounds are considered organic compounds?\n\n(a) Compounds made up of predominantly heavy metals like Iron\n(b) Compounds made up of predominantly radioactive substances like Uranium\n(c) Compounds made up of predominantly non-metals like Oxygen\n(d) Compounds made up of predominantly Carbon",
+     "paper_label": "Junior"
+    },
+    {
+     "day": 2,
+     "number": 17,
+     "problem": "It is well known that combustive phenomena, particularly in the presence of sulfur compounds, have the ability to release Sulfur Dioxide gas as a by-product. During the course of scientific inquiry, it was found that large amounts of Sulfur Dioxide was detected near the moon Io. Using your knowledge of contemporary scientific fact, suggest the most suitable reason as to why the Sulfur Dioxide was found there.\n\n(a) The presence of micro-organisms which release Sulfur Dioxide as a respiratory gas\n(b) The presence of an alien species which burns Sulfur compounds as a fuel source\n(c) The presence of volcanoes which release plumes of Sulfur Dioxide gas into the atmosphere\n(d) The gravitational interactions between Io and the Sun",
+     "paper_label": "Junior"
+    },
+    {
+     "day": 2,
+     "number": 18,
+     "problem": "Who is credited with the invention of the reflector telescope?\n\n(a) Galileo Galilei\n(b) Robert Hooke\n(c) Nicholas Copernicus\n(d) Sir Isaac Newton",
+     "paper_label": "Junior"
+    },
+    {
+     "day": 2,
+     "number": 19,
+     "problem": "The Sun is defined as the origin in a coordinate system. If the Earth has coordinates $(3,6,10)$ in this coordinate system, find the Earth-Sun distance in terms of these arbitrary units. Hint: Distance in 3D is calculated in a similar way to that in 2D.\n\n(a) $11.89$\n(b) $13.12$\n(c) $12.04$\n(d) $12.56$",
+     "paper_label": "Junior"
+    },
+    {
+     "day": 2,
+     "number": 20,
+     "problem": "What is the approximate time of sunrise for an observer located in Indonesia (close to the Equator) on March 21st?\n\n(a) 7 am\n(b) 6 am\n(c) 5 am\n(d) 8 am",
+     "paper_label": "Junior"
+    },
+    {
+     "day": 2,
+     "number": 21,
+     "problem": "Which famous star is used as a reference to determine directions in the Northern Hemisphere?\n\n(a) Polaris\n(b) Vega\n(c) Arcturus\n(d) Sirius",
+     "paper_label": "Junior"
+    },
+    {
+     "day": 2,
+     "number": 22,
+     "problem": "How many planets in our solar system do not have moons?\n\n(a) $1$\n(b) $2$\n(c) $3$\n(d) $4$",
+     "paper_label": "Junior"
+    },
+    {
+     "day": 2,
+     "number": 23,
+     "problem": "How many planets in our solar system have rings?\n\n(a) $1$\n(b) $2$\n(c) $3$\n(d) $4$",
+     "paper_label": "Junior"
+    },
+    {
+     "day": 2,
+     "number": 24,
+     "problem": "Calculate the distance travelled by light in half a year. You are given the fact that the speed of light is approximately $3\\times10^{8}\\ \\mathrm{m/s}$.\n\n(a) $9.46\\times10^{15}\\ \\mathrm{m}$\n(b) $9.46\\times10^{15}\\ \\mathrm{km}$\n(c) $4.73\\times10^{15}\\ \\mathrm{m}$\n(d) $4.73\\times10^{15}\\ \\mathrm{km}$",
+     "paper_label": "Junior"
+    },
+    {
+     "day": 2,
+     "number": 25,
+     "problem": "If the Sun is located in the constellation of Capricorn, determine the season in the Northern Hemisphere.\n\n(a) Autumn\n(b) Winter\n(c) Summer\n(d) Spring",
+     "paper_label": "Junior"
+    },
+    {
+     "day": 2,
+     "number": 26,
+     "problem": "Which country recently landed a probe on the far-side of the Moon?\n\n(a) India\n(b) USA\n(c) Russia\n(d) China",
+     "paper_label": "Junior"
+    },
+    {
+     "day": 2,
+     "number": 27,
+     "problem": "A bronze statue casts a shadow of $30\\ \\mathrm{m}$ when the Sun subtends an angle of elevation of $45$ degrees. What is the height of the statue?\n\n(a) $15\\ \\mathrm{m}$\n(b) $21.21\\ \\mathrm{m}$\n(c) $30\\ \\mathrm{m}$\n(d) $42.42\\ \\mathrm{m}$",
+     "paper_label": "Junior"
+    },
+    {
+     "day": 2,
+     "number": 28,
+     "problem": "What is the highest point in the sky called?\n\n(a) Nadir\n(b) Zenith\n(c) Meridian\n(d) Culmination",
+     "paper_label": "Junior"
+    },
+    {
+     "day": 2,
+     "number": 29,
+     "problem": "Which colours corresponding to the different wavelengths of light suffers from most atmospheric scattering?\n\n(a) Blue\n(b) Red\n(c) Orange\n(d) Yellow",
+     "paper_label": "Junior"
+    },
+    {
+     "day": 2,
+     "number": 30,
+     "problem": "The focal length as measured using monochromatic red light of a convex lens is denoted A. The focal length as measured using monochromatic blue light of a convex lens is denoted B. Then\n\n(a) $B>A$\n(b) $B=A$\n(c) $B<A$\n(d) $B+A=\\mathrm{constant}$ for all lenses",
+     "paper_label": "Junior"
+    },
+    {
+     "day": 2,
+     "number": 31,
+     "problem": "An unbalanced force of $20\\ \\mathrm{N}$ acts on a body of $40\\ \\mathrm{kg}$, initially at rest on a surface, for $30$ seconds. We assume that the surface is smooth. [10 marks]\n\na. Calculate the velocity of the object after $30$ seconds. (4)\n\nb. Calculate the kinetic energy of the object after $30$ seconds. (2)\n\nWe conduct the same experiment on a rough surface. We determine that the kinetic energy of the body after $30$ seconds in such a setting is $4000\\ \\mathrm{J}$.\n\nc. Determine the work done against friction. (2)\n\nd. The surface is completely flat. Explain why we do not consider change in gravitational potential energy in these situations. (2)",
+     "paper_label": "Junior"
+    },
+    {
+     "day": 2,
+     "number": 32,
+     "problem": "Astronomers recently discovered a new star system in the constellation of Centaurus that has one star and one planet. Using accurate measurements, the scientists determined that the mass of the star is $1.5\\times10^{29}\\ \\mathrm{kg}$ and the mass of the planet is $1.3\\times10^{23}\\ \\mathrm{kg}$. [10 marks]\n\na. Determine an expression for the gravitational force between these two heavenly bodies in terms of $r$. (3)\n\nWe know that the gravitational force provides (i.e. is equal to) the centripetal force that is needed for the planet to maintain an orbit around its star. We also know that the expression for the centripetal force of an object is $mv^2/r$ where $m$ is the mass of the object, $v$ is its velocity of revolution and $r$ is the orbit distance of the object from the central object. This can be summarized by this equation: $mv^2/r = GMm/r^2$\n\nb. Using this expression for centripetal force, and assuming that the orbit is circular, determine the orbital radius of the planet if its time period of revolution is $700$ days. (7)",
+     "paper_label": "Junior"
+    },
+    {
+     "day": 2,
+     "number": 33,
+     "problem": "The magnification of a particular telescope is given by the expression: focal length of objective/focal length of magnifying lens. In this question, we shall be calculating the magnification of this telescope. [10 marks]\n\na. In an experiment with the objective lens, an image was formed $25\\ \\mathrm{cm}$ away when an object was placed $25\\ \\mathrm{cm}$ from the lens. Find the focal length of the objective. (4)\n\nb. In an experiment with the magnifying lens, an image was formed $20\\ \\mathrm{cm}$ away when the object was placed $5\\ \\mathrm{cm}$ from the lens. Find the focal length of the magnifying lens. (4)\n\nc. Determine the magnification of the telescope. (2)",
+     "paper_label": "Junior"
+    }
+   ]
+  }
+ ]
+}
