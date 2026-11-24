@@ -12,3 +12,6 @@ Without written permission from eisatopon.gr you may not download the collection
 
 The problems themselves remain the work and property of their authors and organising committees. Full terms: https://hipparchus.eisatopon.gr/terms.html
 
+## Support
+
+This is a free project. If you find it useful, you can support it at [ko-fi.com/olympiadproblems](https://ko-fi.com/olympiadproblems).
