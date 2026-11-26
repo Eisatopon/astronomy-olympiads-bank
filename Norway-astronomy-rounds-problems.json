@@ -1,0 +1,1188 @@
+{
+ "competition": "Norwegian Olympiad on Astronomy and Astrophysics — rounds 1 and 2 (multiple choice)",
+ "years": [
+  {
+   "year": 2022,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "The Hulse-Taylor binary system consists of a pulsar and a neutron star, and has an orbital period of 7.75 hours. The orbital period is observed to decrease by 70 nanoseconds per orbit. What is the cause?\n\n(A) Systematic errors caused by the instrumentation.\n(B) The time is observed as shorter due to relativistic time dilation.\n(C) The binary system loses energy by emitting gravitational waves.\n(D) There is an unobserved third perturbing body in the system.",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "What is the local sidereal time at the moment when the point of vernal equinox disappears below the horizon?\n\n(A) 0 hours\n(B) 6 hours\n(C) 12 hours\n(D) This cannot be determined from the available information",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "Two stars, A and B, of equal physical size have apparent magnitudes of $-4.5$ and $1.5$, and absolute magnitudes of $1.5$ and $-4.5$, respectively. We can conclude that:\n\n(A) A is much warmer and closer to the Earth than B\n(B) B is much warmer and closer to the Earth than A\n(C) A is much warmer than B and B is much closer to the Earth than A\n(D) B is much warmer than A and A is much closer to the Earth than B",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "The expansion of the universe makes distant objects move away from us at a velocity called the Hubble velocity. This velocity can be calculated from Hubble's law, $v = H_0D$, where $H_0 \\sim 70$ km/s/Mpc is the Hubble constant and $D$ is the distance from us. What is the Hubble velocity of galaxies observed at a distance of 100 kpc from us? (Mpc = Megaparsec)\n\n(A) 70 km/s\n(B) 7 km/s\n(C) 700 km/s\n(D) 0.7 km/s",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "The figure shows a telescope on an equatorial mount. What type of telescope is it, and what is measured by the setting circles A and B?\n\n(A) Reflector. A measures hour angle. B measures declination.\n(B) Refractor. A measures hour angle. B measures declination.\n(C) Refractor. A measures declination. B measures hour angle.\n(D) Reflector. A measures declination. B measures hour angle.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/norway12-2022-d1-q5-1.png",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "problem": "The thermal pressure of an (ideal) gas depends on\n\n(A) Density only\n(B) Pressure only\n(C) Both density and pressure\n(D) Gravity",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 7,
+     "problem": "The Pole Star has a fixed position in the night sky because...\n\n(A) the Earth has zero velocity relative to the Pole Star\n(B) the Earth lies on the rotation axis of the Pole Star\n(C) the Earth and the Pole Star both have the same velocity inside the Mily Way galaxy\n(D) None of the alternatives above",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 8,
+     "problem": "Uranus and Neptun both have methane clouds, but Jupiter and Saturn don't. What is the reason for this?\n\n(A) The rapid rotation of Jupiter and Saturn prevents the formation of methane clouds.\n(B) The stronger gravity on Jupiter and Saturn drags the methane down such that clouds cannot form.\n(C) Methane cannot condense into clouds at the higher temperatures of Jupiter and Saturn.\n(D) Jupiter and Saturn have no methane gas.",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 9,
+     "problem": "The main reason for the presence of volcanic activity on Io is:\n\n(A) Io's magnetic field\n(B) Internal heat preserved from the formation of the Solar System\n(C) The eccentricity of Io's orbit\n(D) Tidal forces from Jupiter",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 10,
+     "problem": "How can the existence of dark matter solve the problem of galactic rotation curves?\n\n(A) By exerting friction on the visible matter, the dark matter decreases the rotation velocity in the center of the galaxy.\n(B) The dark matter produces a mass profile which decreases slower with increasing radius, resulting in a flatter rotation curve.\n(C) Interactions between dark and visible matter establishes thermodynamic equilibrium at a quicker rate.\n(D) The dark matter obscures the light from the visible matter, causing us to underestimate the total mass content.",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 11,
+     "problem": "Star A has a temperature of 4000 degrees Kelvin and star B has a temperature of 40 000 K. If these stars have approximately the same radius, which of the following statements will not be true?\n\n(A) B is more luminous than A\n(B) A emits more infrared light than ultraviolet light\n(C) B emits more ultraviolet light than infrared light\n(D) A emits more infrared light than B",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 12,
+     "problem": "When using equatorial coordinates the vernal equinox is used as a reference point for:\n\n(A) Right Ascension\n(B) Azimuth\n(C) The Earth's position\n(D) Declination",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 13,
+     "problem": "A star which is located in the outskirts of a galaxy of radius $R = 10$ kpc moves in an orbit around the galaxy at an orbital velocity of $v = 250$ km/s. The mass of the galaxy can be approximated by which of these values?\n\n(A) $10^{25}$ kg\n(B) $10^{51}$ kg\n(C) $10^{36}$ kg\n(D) $10^{41}$ kg",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 14,
+     "problem": "The spectrum of a blackbody peaks at a wavelength inversely proportional to its temperature. This is known as Wien's law and is used to estimate stellar temperatures. The Sun can be approximated as a blackbody with its peak wavelength in the visible portion of the spectrum and a surface temperature of 6000K. Given this information, estimate the peak wavelength of a human being, assuming it to be a black body.\n\n(A) 10 nm\n(B) 10 µm\n(C) 10 mm\n(D) 10 m",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 15,
+     "problem": "Which of the following has the longest wavelength?\n\n(A) UV\n(B) Visible light\n(C) Radio waves\n(D) X-rays",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 16,
+     "problem": "A space telescope with an aperture diameter of 1.5m observes light with a wavelength of 500nm. What is the angular resolution?\n\n(A) $8.4 \\cdot 10^{-2}$ arcseconds\n(B) $4.0 \\cdot 10^{-2}$ arcseconds\n(C) $1.95 \\cdot 10^{-1}$ arcseconds\n(D) 8.4 arcseconds",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 17,
+     "problem": "The 21cm absorption line is a tracer for what type of gas?\n\n(A) Cold neutral atomic hydrogen\n(B) Cold molecular hydrogen\n(C) Warm neutral hydrogen\n(D) HII regions",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 18,
+     "problem": "If we assume that the Hulse-Taylor binary has a circular orbit, that both components have a mass of 1.4 solar masses, and that they orbit at a distance of 3 solar radii. Which of these numbers do most closely match the loss of energy per orbit?\n\n(A) 0 J\n(B) $1\\times10^{30}$ J\n(C) $1\\times10^{25}$ J\n(D) $1\\times10^{20}$ J",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 19,
+     "problem": "On which date does the Sun reach its highest declination?\n\n(A) December 21st\n(B) September 21st\n(C) June 21st\n(D) March 21st",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 20,
+     "problem": "An interesting phenomenon in our Solar System is the capture of comets from the interstellar medium. Assume that a comet with a mass of $7.15 \\times 10^{16}$ kg is captured by the Solar System. The perihelion of this comet's orbit after it is captured is equal to 4.64 AU, and its velocity with respect to the Sun before being captured by the Solar System is very small. Calculate the velocity of the comet at this position.\n\n(A) 7.1 km/s\n(B) 45.9 km/s\n(C) 19.6 km/s\n(D) 105.4 km/s",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 21,
+     "problem": "Galaxies have a peculiar motion velocity with respect to each other (separate from the Hubble expansion velocity) of approximately $v \\approx 100$ km/s. At what distance from us can we expect the peculiar velocity of a galaxy to be approximately the same as its Hubble velocity $v = H_0D$?\n\n(A) 1.5 Mpc\n(B) 10 Mpc\n(C) 100 kpc\n(D) 10 kpc",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 22,
+     "problem": "Which of the following statements is wrong?\n\n(A) According to our theories for the origin of the elements, the elements which are heavier than iron are mostly produced by supernova explosions.\n(B) Stars are kept stable by hydrostatic equilibrium between pressure forces and gravity.\n(C) The granulation of the Sun (the bright spots) is generated in the Sun's corona.\n(D) Main sequence stars are progressively more massive at an earlier spectral class (OBAFGKM).",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 23,
+     "problem": "Which statement about the Universe is correct?\n\n(A) The size of the observable universe is approximately 1000 kpc\n(B) The energy budget of the present-day universe is dominated by matter\n(C) The age of the universe is approximately 14 billion years\n(D) The epoch during which the energy budget of the universe was dominated by radiation occurred before the epoch of inflation",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 24,
+     "problem": "Which of the following type of planet was first observed around a solar-type star?\n\n(A) Earthlike planet\n(B) Super-earth\n(C) Hot neptune\n(D) Hot jupiter",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 25,
+     "problem": "Which astronomical event occurs when the Earth's axis is perpendicular to a line between the Sun and the centre of the Earth?\n\n(A) Solstice\n(B) Eclipse\n(C) Equinox\n(D) Full moon",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 26,
+     "problem": "Which point marks the approximate location of the Sun in the Hertzsprung-Russell diagram? (See the figure)\n\n(A) a\n(B) b\n(C) c\n(D) d\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/norway12-2022-d1-q26-1.png",
+     "paper_label": "Round 1 (multiple choice)"
+    }
+   ]
+  },
+  {
+   "year": 2023,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "Who made the first use of a telescope for astronomical discoveries?\n\n(A) Nicolaus Copernicus.\n(B) Galileo Galilei.\n(C) Tycho Brahe.\n(D) Isaac Newton.",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "What is a planetary nebula?\n\n(A) A shell of gas which is formed when a red giant star sheds its outer layers as it turns into a white dwarf.\n(B) Fog on planets (e.g. morning fog observed along the limb of Mars).\n(C) A cloud of gas and dust where planets form.\n(D) The remnant of a supernova explosion.",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "Which number is closest to the age of the Universe?\n\n(A) 1.3 million years.\n(B) 13 million years.\n(C) 1.3 billion years.\n(D) 13 billion years.",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "Which process occurs inside the cores of all main sequence stars?\n\n(A) Fission of uranium into krypton and barium.\n(B) Fusion of carbon into nitrogen and oxygen.\n(C) Fusion of helium into carbon.\n(D) Fusion of hydrogen into helium.",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "Which of the following is $\\underline{\\text{not}}$ a reason for using space telescopes?\n\n(A) Telescopes in space produce sharper images by not being affected by the turbulence in the Earth's atmosphere.\n(B) Telescopes in space can measure radiation at wavelengths which are blocked by the Earth's atmosphere.\n(C) The weightlessness in orbit makes space telescopes more sensitive than telescopes on the ground.\n(D) Telescopes in space can observe objects continuously for months or years.",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "problem": "Which theory is strongly supported by observations of galaxy redshifts and the cosmic background radiation?\n\n(A) The theory of planetary formation.\n(B) The theory of stellar evolution.\n(C) The Big Bang theory about the evolution of the Universe.\n(D) The theory used to explain the generation of gravitational waves observed by LIGO.",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 7,
+     "problem": "What constellation is depicted in the image below?\n\n(A) Cassiopeia.\n(B) Perseus.\n(C) Hydra.\n(D) Cepheus.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/norway12-2023-d1-q7-1.png",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 8,
+     "problem": "Which of the following objects/phenomena will $\\underline{\\text{certainly not}}$ be observed in the 21st century?\n\n(A) Signs of biological activity on a planet other than the Earth.\n(B) Gravitational waves generated by the collision of two neutron stars.\n(C) A 0.10 solar mass red dwarf star which has left the main sequence.\n(D) A star being ripped apart by tidal forces from a supermassive black hole.",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 9,
+     "problem": "For the Earth, if the perihelion were 147 million km, approximately what will be the aphelion for the Earth?\n\n(Note: Aphelion: Point farthest from the Sun in the orbit of a body about the Sun. Perihelion: Point nearest from the Sun in the orbit of a body about the Sun).\n\n(A) About 2 times the Perihelion, 300 million km.\n(B) About 3 times the Perihelion, 450 million km.\n(C) Slightly more than the perihelion, about 152 million km.\n(D) Exactly the same as the perihelion, 147 million km.",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 10,
+     "problem": "Which of the following developments in astronomy was only made possible by the invention of the telescope?\n\n(A) The formulation of Kepler's laws of planetary motion.\n(B) The discovery of sunspots.\n(C) The discovery of Saturn's rings.\n(D) The prediction of solar eclipses.",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 11,
+     "problem": "At noon on March 21$^{\\text{st}}$, an astronomer sticks a pole into the ground and measures the shadow to be the exact same length as the pole itself. Which of these latitudes must this have happened at?\n\n(A) $0^\\circ$\n(B) $-90^\\circ$\n(C) $-60^\\circ$\n(D) $45^\\circ$",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 12,
+     "problem": "Why do planets have an approximately spherical shape, while asteroids have much more irregular shapes?\n\n(A) Planets got their regular shapes right after they were formed, while asteroids are just lots of irregular rocks put together.\n(B) Planets have gravity that's strong enough to force them into a spherical shape. This is not the case with asteroids.\n(C) Asteroids move much faster than planets, not allowing them to stabilize their shapes.\n(D) Asteroids are actually spherically shaped as well - it's the meteorites that fall to the Earth that are irregular in shape.",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 13,
+     "problem": "Two stars are seen close to each other in the sky. Star A appears brighter than Star B. Which of the following statements could help explain the difference in their observed brightness? Assume both the stars to be perfect black bodies.\n\n(A) Both the stars are identical except for the fact that star B is closer to us than star A.\n(B) Both the stars are at same distance, but star A appears yellow, while star B appears orange.\n(C) Both the stars are identical except for the fact that star A has smaller radius than star B.\n(D) Both the stars are identical except for the fact that star A is less massive than star B.",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 14,
+     "problem": "Based solely on color, which of the following stars is likely the hottest in terms of its surface temperature\n\n(A) A yellow dwarf.\n(B) A red dwarf.\n(C) A blue giant.\n(D) All of them are approximately the same temperature.",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 15,
+     "problem": "If we ever make contact with aliens, which of our fundamental units is likely to match theirs? (In other words, which of these units is universally fundamental?)\n\n(A) Kelvin.\n(B) Light year.\n(C) Astronomical Unit (A.U.).\n(D) None of these.",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 16,
+     "problem": "An observer on Earth measures a planet's elongation (angular separation from the Sun) to be $100^\\circ$. Which of the following planets is not a possible candidate?\n\n(A) Saturn.\n(B) Venus.\n(C) Jupiter.\n(D) Neptune.",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 17,
+     "problem": "According to the standard model of cosmology, the three major components of the Universe are: dark energy, dark matter and ordinary matter. How did cosmologists come up with the idea of dark energy (a strange form of energy which has a negative pressure and has an anti-gravity behaviour)?\n\n(A) Due to the fact that at large distances the objects recede from each other with the Hubble velocity which is against the nature of gravity.\n(B) Because of the stability of large scale structures in the Universe which is not obtained using only normal form of matter.\n(C) Because of the observations indicating that the Universe has entered an accelerating expansion phase which demands us having an energy acting opposite to gravity.\n(D) Because many gravitational effects cannot be explained by currently accepted theories of gravity unless more matter is present than can be seen.",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 18,
+     "problem": "An astronomer is observing the moon through a refracting telescope. How will the observed image change if the right half of the lens is covered and blocked?\n\n(A) It won't change at all.\n(B) We will still see the entirety of the Moon, but it will shine half as bright.\n(C) We will only see the left half of The Moon.\n(D) We will only see the right half of The Moon.",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 19,
+     "problem": "Assume that Earth and the Moon have circular orbits with radii $D_\\odot = 150 \\times 10^6$ km and $D_M = 384 \\times 10^3$ km in the same plane. Take the Sun's radius to be $R_\\odot = 696\\,000$ km, and the Moon's radius to be $R_M = 1\\,700$ km. During a solar eclipse, what is the maximum fraction of the Sun's area that the Moon can cover?\n\n(A) 50 %\n(B) 100 %\n(C) 150 %\n(D) 200 %",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 20,
+     "problem": "You transmit a photon to your friend located in a galaxy far away through empty space. How does the photon's energy upon arrival compare to its value at departure?\n\n(A) The photon's energy has increased upon arrival.\n(B) The photon's energy is conserved and does not change.\n(C) The photon's energy has decreased upon arrival.\n(D) The photon is a quantum particle and as such has no energy.",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 21,
+     "problem": "You are sunbathing on a beach on Earth on a beautiful sunny day, feeling the intensity $I_1$ from the radiation of the Sun a distance $d_1$ away. Your friend is freezing to death on Uranus, feeling only the intensity $I_2 = I_1/400$. Her last wish is to know how far away she is from the Sun. Assuming that the Sun radiates uniformly in all directions, what is the distance $d_2$ between your friend on Uranus and the Sun?\n\n(A) $d_2 = 20\\, d_1$\n(B) $d_2 = 400\\, d_1$\n(C) $d_2 = 600\\, d_1$\n(D) $d_2 = 8000\\, d_1$",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 22,
+     "problem": "Neutron stars are the densest stellar objects we have observed in the Universe. They can have masses $M \\leq 2\\, M_\\odot$ compressed down to radiuses $R \\geq 10$ km, where $M_\\odot \\approx 300\\,000\\, M_E$ is the Sun's mass and $M_E$ is Earth's mass. Take Earth's radius to be $R_E \\approx 6000$ km, and denote its surface gravitational acceleration by $g_E$. According to Newtonian theory, what is the gravitational acceleration on the surface of the most compact neutron stars?\n\n(A) $2 \\cdot 10^{2}\\, g_E$\n(B) $2 \\cdot 10^{5}\\, g_E$\n(C) $2 \\cdot 10^{8}\\, g_E$\n(D) $2 \\cdot 10^{11}\\, g_E$",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 23,
+     "problem": "Consider a small mass $m$ located near a spherical cluster of masses. There is a gravitational force from the cluster on the mass $m$. Assume that the mass and the cluster are fixed and do not move due to the gravitational force. Imagine we slowly increase the radius of the cluster, while the mass $m$ is always outside of the cluster. As a result of the expansion how does the gravitational force on mass $m$ change?\n\n(A) It increases.\n(B) It decreases.\n(C) It does not change.\n(D) It depends on the rate of expansion.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/norway12-2023-d1-q23-1.png",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 24,
+     "problem": "Today, the mass of the Sun is $M = 2 \\cdot 10^{30}$ kg, and it radiates away energy at a rate luminosity $L = 4 \\cdot 10^{26}$ W. Mass and energy are related through Einstein's famous formula $E = M c^2$, where $c = 3 \\cdot 10^8$ m/s is the speed of light. If the Sun kept radiating at its current rate until all its mass is depleted, how long would it take for it to lose all its mass?\n\n(A) $14 \\cdot 10^{8}$ years.\n(B) $14 \\cdot 10^{10}$ years.\n(C) $14 \\cdot 10^{12}$ years.\n(D) $14 \\cdot 10^{14}$ years.",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 25,
+     "problem": "The expansion of the universe makes distant objects move away from us with certain velocity which is called Hubble velocity. The Hubble velocity can be calculated from the Hubble's law, $v = H_0D$, where $H_0 \\cong 70$ (km/s) / Mpc is the Hubble constant and $D$ is the distance of the object from us. What is the distance which the Hubble velocity of objects is larger than the speed of light ($c = 3 \\cdot 10^5$ km/s)?\n\n(A) $10^{4}$ Mpc.\n(B) $10^{3}$ Mpc.\n(C) $10^{2}$ Mpc.\n(D) $10$ Mpc.",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 2,
+     "number": 1,
+     "problem": "The Andromeda galaxy is also known as M31. What does the \"M\" stand for in this case?\n\n(A) Méchain\n(B) Messier\n(C) Minkowski\n(D) Melotte",
+     "paper_label": "Round 2 (multiple choice)"
+    },
+    {
+     "day": 2,
+     "number": 2,
+     "problem": "Your friend Sophie is on a backpacking trip around the world and sends you a message about the wonderful objects she is seeing in the night sky, including the Magellanic Clouds, the Coalsack and the Carina Nebula. Which of the following destinations in her itinerary could the message be sent from?\n\n[The picture is not reproduced here (its author is not credited in the paper). It is on page 2 of the official paper: https://www.mn.uio.no/astro/tjenester/publikum/ol-astronomi-og-astrofysikk/ressurser/norwegian-olympiad-on-astronomy-and-astrophysics_round2.pdf]\n\n(A) California\n(B) Japan\n(C) Chile\n(D) Morocco",
+     "paper_label": "Round 2 (multiple choice)"
+    },
+    {
+     "day": 2,
+     "number": 3,
+     "problem": "Which constellation is shown below:\n\n(A) Leo (the lion)\n(B) Boötes (the bear keeper)\n(C) Auriga (the charioteer)\n(D) Cetus (the sea monster)\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/norway12-2023-d2-q3-1.png",
+     "paper_label": "Round 2 (multiple choice)"
+    },
+    {
+     "day": 2,
+     "number": 4,
+     "problem": "Recently, a gigantic sunspot four times our planet's size could be observed with the naked eye from Earth (with proper eye-protection, of course). How do sunspots occur?\n\n(A) The spots form because of the light from those areas of the Sun being completely absorbed before coming to Earth.\n(B) Celestial objects pass between the Sun and Earth such that the parts of the Sun where we notice the sunspots are occluded.\n(C) The Sun's strong magnetic field causes there to be areas that are colder than their surroundings and appear black.\n(D) The Sun is a yellow dwarf and is already halfway into its lifecycle, the sunspots being proof of its reduced hydrogen supply.",
+     "paper_label": "Round 2 (multiple choice)"
+    },
+    {
+     "day": 2,
+     "number": 5,
+     "problem": "Given a measurement of the $\\textit{irradiance}$ (radiated power per area) of a star, which two laws can you use to most accurately determine the wavelength that contributes the most to the star's intensity spectrum?\n\n(A) The Rayleigh-Jeans law and the Stefan-Boltzmann law\n(B) The Stefan-Boltzmann law and Wien's displacement law\n(C) Kepler's third law and Fourier's law of heat conduction\n(D) Wien's displacement law and Newton's law of cooling",
+     "paper_label": "Round 2 (multiple choice)"
+    },
+    {
+     "day": 2,
+     "number": 6,
+     "problem": "What is the Hertzsprung-Russell diagram?\n\n(A) A graph that illustrates the relationship between a star's mass and temperature.\n(B) A graph that illustrates the relationship between a star's luminosity and distance from Earth.\n(C) A graph that illustrates the relationship between a star's mass and luminosity.\n(D) A graph that illustrates the relationship between a star's luminosity and temperature.",
+     "paper_label": "Round 2 (multiple choice)"
+    },
+    {
+     "day": 2,
+     "number": 7,
+     "problem": "Transit photometry is a method of detecting an exoplanet by means of analysing dips in its parent star's observed brightness when the planet passes in front of the star. What can this method tell us about the exoplanet?\n\n(A) Its radius.\n(B) Its mass.\n(C) Its temperature.\n(D) Its albedo.",
+     "paper_label": "Round 2 (multiple choice)"
+    },
+    {
+     "day": 2,
+     "number": 8,
+     "problem": "The cosmic microwave background radiation (CMBR), discovered by accident in 1965, is remnants of the radiation from:\n\n(A) The first moments after the Big Bang originating from the rapid expansion of the universe.\n(B) The formation of electrons, protons and neutrons.\n(C) The formation of the very first atoms, about 400 000 years after the Big Bang.\n(D) The formation of the very first stars, about 100 000 000 years after the Big Bang.",
+     "paper_label": "Round 2 (multiple choice)"
+    },
+    {
+     "day": 2,
+     "number": 9,
+     "problem": "Alpha Persei's parallax is measured to be 6.4mas (milliarcseconds). Approximately how many times is the distance to Alpha Persei from Earth larger than from the Earth to the Sun?\n\n(A) 32 000 000\n(B) 1 320 000\n(C) 132 000 000\n(D) 280 000 000",
+     "paper_label": "Round 2 (multiple choice)"
+    },
+    {
+     "day": 2,
+     "number": 10,
+     "problem": "An astronaut is flying from the Sun to Sirius. Given that Sirius' luminosity is 22 times that of the Sun, and that Sirius' parallax is $0.373''$, how many light years will the astronaut have traveled before he notices the Sun and Sirius have the same brightness?\n\n(A) 1.53 ly\n(B) 2.38ly\n(C) 0.47ly\n(D) 0.73ly",
+     "paper_label": "Round 2 (multiple choice)"
+    },
+    {
+     "day": 2,
+     "number": 11,
+     "problem": "The Earth's orbital velocity around the sun is 30 km/s. What is approximately the highest velocity a meteor can have relative to us as it encounters the Earth's atmosphere? You can assume that the meteor has been in a highly elliptical orbit around the sun, such that it started from a velocity close to zero at a distance much larger than the distance between the Earth and the sun.\n\n(A) 12 km/s\n(B) 30 km/s\n(C) 60 km/s\n(D) 72 km/s",
+     "paper_label": "Round 2 (multiple choice)"
+    },
+    {
+     "day": 2,
+     "number": 12,
+     "problem": "In an artificially made Solar System, a new planet is put into place to orbit around the Sun with the same orbital radius as Earth. This planet is then painted completely black and moved to orbit with the orbital radius of Mars. Given that the planet's temperature hasn't changed in this process, and that the orbital radius of Mars is 1.5 that of the Earth, what was the planet's albedo, i.e. how much light did it reflect before we painted it black?\n\n(A) 0.67\n(B) 0.56\n(C) 0.44\n(D) 0.81",
+     "paper_label": "Round 2 (multiple choice)"
+    },
+    {
+     "day": 2,
+     "number": 13,
+     "problem": "The Subaru telescope in Hawaii has a primary mirror which is 8.2m in diameter, making it the largest optical telescope on Earth to use a non-segmented mirror. Assuming an average wavelength of light of 550nm, what is the smallest possible angle between two barely-resolvable point light sources?\n\n(A) $8.18 \\cdot 10^{-8}$ rad\n(B) $6.7 \\cdot 10^{-8}$ rad\n(C) $3.0 \\cdot 10^{-8}$ rad\n(D) $1.5 \\cdot 10^{-8}$ rad",
+     "paper_label": "Round 2 (multiple choice)"
+    },
+    {
+     "day": 2,
+     "number": 14,
+     "problem": "According to the Kepler's 3rd law of planetary motion, the square of the orbital period of a planet is proportional to the cube of the semi-major axis of its orbit. How long does it take for Jupiter to complete one orbit around the Sun, in Earth years, given that it is approximately 5.2 astronomical units away from the Sun?\n\n(A) 11.86 years\n(B) 2.28 years\n(C) 4.56 year\n(D) 140.60 years",
+     "paper_label": "Round 2 (multiple choice)"
+    },
+    {
+     "day": 2,
+     "number": 15,
+     "problem": "Low Earth Orbit (LEO) satellites are typically between 160 to 2000 kilometers above the Earth's surface. These satellites are used for a variety of applications, such as Earth observation, weather forecasting, and telecommunications. What is the orbital velocity in km/s of a satellite placed in a Low Earth Orbit (LEO) at an altitude of 1600 km above the Earth's surface?\n\n(A) 0.7 km/s\n(B) 7.0 km/s\n(C) 70.0 km/s\n(D) 700.0 km/s",
+     "paper_label": "Round 2 (multiple choice)"
+    },
+    {
+     "day": 2,
+     "number": 16,
+     "problem": "The Hubble's law states that the velocity at which a galaxy is receding from an observer increases proportionally with the distance of the galaxy from the observer. Additionally, galaxies are affected by the local gravity, which causes them to fall towards the center of their local group. This motion, as observed by a local observer, is known as the \"peculiar velocity\". What is the velocity of a galaxy, as observed from Earth, located 1 Mpc away and moving towards the Earth with a peculiar velocity of 73 km/s?\n\n(A) The object appears to have 0 velocity relative to an observer on Earth\n(B) The object appears to be moving away from Earth at a velocity of 76 Km/s\n(C) The object appears to be moving towards Earth at a velocity of 76 Km/s\n(D) The object appears to be moving away from Earth at a velocity of 146 Km/s",
+     "paper_label": "Round 2 (multiple choice)"
+    },
+    {
+     "day": 2,
+     "number": 17,
+     "problem": "Hydrogen is an element used a lot in spectroscopy because of its abundance in the universe combined with its particular emission spectrum. A spectral line used a lot is Hydrogen-$\\alpha$ with a wavelength of 656 nm. We look at the emission spectrum of a galaxy and find the emission line to be at 670 nm. What can be the reason for this?\n\n(A) This is due to a measurement error - the instruments that recorded the 670 nm most probably weren't calibrated properly.\n(B) This is due to movement of the galaxy away from us at a velocity of about 6400 km/s.\n(C) This is due to movement of the galaxy towards us at a velocity of about 6270 km/s.\n(D) This is due to the galaxy's rotation around its own centre of mass at a velocity of about 6000 km/s.",
+     "paper_label": "Round 2 (multiple choice)"
+    },
+    {
+     "day": 2,
+     "number": 18,
+     "problem": "$N$-body simulations are a popular method for investigating the effects of gravity on computers. In its simplest form, $N$ particles are placed in an initial configuration, and the gravitational forces between all pairs of particles are computed and used to update the particle positions over a certain number of time steps. If a computer uses the time $T_1 = 1$ hour to simulate $N_1 = 1\\,000$ particles, roughly how much time $T_2$ would it spend simulating $N_2 = 1\\,000\\,000$ particles?\n\n(A) $T_2 = 3$ hours\n(B) $T_2 = 1\\,000$ hours = 41 days\n(C) $T_2 = 1\\,000\\,000$ hours = 114 years\n(D) $T_2 = 1\\,000\\,000\\,000$ hours = 114 millennia",
+     "paper_label": "Round 2 (multiple choice)"
+    },
+    {
+     "day": 2,
+     "number": 19,
+     "problem": "In cosmology, the scale factor $a(t)$ accounts for the expansion of space: any distance $L(t_0)$ at the current time $t_0$ becomes $L(t) = a(t)L(t_0)$ at some other time $t$.\n\n(Part I) How does the energy density $\\epsilon = NE/V$ of a box with volume $V = L^3$ containing $N$ $\\underline{\\text{matter particles}}$ with mass $m$ and energy $E = mc^2$ depend on time?\n\n(A) $\\epsilon(t) = \\epsilon(t_0)$\n(B) $\\epsilon(t) = \\epsilon(t_0) / a(t)^1$\n(C) $\\epsilon(t) = \\epsilon(t_0) / a(t)^3$\n(D) $\\epsilon(t) = \\epsilon(t_0) / a(t)^4$",
+     "paper_label": "Round 2 (multiple choice)"
+    },
+    {
+     "day": 2,
+     "number": 20,
+     "problem": "(Part II) How would the energy density of the box from the previous task depend on time if the box instead contained $N$ $\\underline{\\text{photons}}$ with wavelength $\\lambda$ and energy $E = hc/\\lambda$?\n\n(A) $\\epsilon(t) = \\epsilon(t_0)$\n(B) $\\epsilon(t) = \\epsilon(t_0) / a(t)^1$\n(C) $\\epsilon(t) = \\epsilon(t_0) / a(t)^3$\n(D) $\\epsilon(t) = \\epsilon(t_0) / a(t)^4$",
+     "paper_label": "Round 2 (multiple choice)"
+    }
+   ]
+  },
+  {
+   "year": 2024,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "If you go outside on a very clear night with otherwise ideal viewing conditions, approximately how many stars would you be able to see with the naked eye?\n\n(A) 2000-3000\n(B) 10 000-12 000\n(C) 30 000-40 000\n(D) uncountably many",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "In August 2023, we could experience something called the \"Blue Moon\" that happens once every two or three years. What is this phenomenon?\n\n(A) The Moon appears to have a blue tint as a result of light scattering differently due to atmospheric changes\n(B) A colloquial name for a partial lunar eclipse, when the Moon moves into Earth's shadow.\n(C) A thirteenth full moon in a single year that happens because of the Moon actually taking less than a month to complete a cycle.\n(D) An astrological term signifying the beginning of the Aquarius part of the Zodiac.",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "Given that the last appearance of Halley's comet in our sky was recorded in 1986, when can we expect to experience this rare occurrence again?\n\n(A) 2041\n(B) 2061\n(C) 2081\n(D) 2101",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "In July this year, NASA lost contact with Voyager 2 when a mistake in commands made the spacecraft point away from our planet by a mere 2 degrees. To try and regain contact with it, NASA had to \"shout\" commands into space and hope they were received. How much time did they approximately have to wait for confirmation that the command was received by the spacecraft, i.e. sending the signal and getting the response back? At the time of communication loss, Voyager 2 was 135AU away from Earth.\n\n(A) 48 minutes\n(B) 19 hours\n(C) 37 hours\n(D) 3 days",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "What is the Great Red Spot?\n\n(A) The biggest crater on Mars' surface.\n(B) The area in the Milky Way with the highest concentration of Red Dwarves.\n(C) A reddish storm on Jupiter, three times the size of our planet.\n(D) The largest change in wavelength a photon can exhibit as a result of gravitational redshift.",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "problem": "Given that the cosmic microwave background radiation has a wavelength of 1.9mm at its peak, and it behaves like a black body, approximately what temperature (in Kelvin) does this correspond to?\n\n(A) 0.002K\n(B) 2.73K\n(C) 30K\n(D) 273.15K",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 7,
+     "problem": "About 4.5 billion years from now, our Sun will approach the end of its lifetime. Where on the HR diagram will it ultimately end up when that time comes?\n\n(A) A - Main Sequence\n(B) B - Giants\n(C) C - Super Giants\n(D) D - White Dwarfs\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/norway12-2024-d1-q7-1.png",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 8,
+     "problem": "If Kepler's Third Law that describes the revolution period of a planet around a star is given by the equation $T^2 = Kr^3$, where $K$ is a constant, and the inverse square law of gravitation is $F = G \\cdot (M \\cdot m) / r^2$, which of the following represents the relationship between the constants $K$ and $G$? You may assume that the planet orbits the star in a perfect circle.\n\n(A) $K = G$\n(B) $K = G^{-1}$\n(C) $K = (4\\pi^2) / (GM)$\n(D) $K = (G \\cdot 4\\pi^2) / M$",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 9,
+     "problem": "It is a nice sunny day where you are in Norway, but there is some haze along the horizon. Around noon you look up at the blue daytime sky and notice a waning (third quarter) half moon. What time of the year is it?\n\n(A) Fall (around fall equinox)\n(B) Winter (around winter solstice)\n(C) Spring (around spring equinox)\n(D) Summer (around summer equinox)",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 10,
+     "problem": "What happened when the cosmic microwave background radiation was released?\n\n(A) Ignition of the first stars ~50-100 million years after the Big Bang.\n(B) Combination of nuclei and electrons into neutral atoms, dramatically reducing the number of free electrons, 400,000 years after the Big Bang.\n(C) The first gamma-ray bursts occurred ~50-100 million years after the Big Bang.\n(D) Transmission of radio signals from artificial satellites in orbit around the earth (1957– )",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 11,
+     "problem": "If a star with a parallax angle of $1/3600$ degree is at a distance of 1 parsec, how far away is a star with a parallax angle of $1/7200$ degree?\n\n(A) 0.5 parsec\n(B) 1 parsec\n(C) 2 parsec\n(D) 5 parsec",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 12,
+     "problem": "If we shrink the earth while keeping the earth's mass unchanged, what will happen to the length of the day?\n\n(A) The length of the day does not change, but the year becomes shorter\n(B) The length of the day increases\n(C) The length of the day decreases\n(D) The length of the day does not change, but the year becomes longer",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 13,
+     "problem": "Two light sources, A og B, emit light in all directions. They are placed at distances $r$ and $2r$, respectively, from a detector that measures the same flux from both sources ($F_A/F_B = 1$). If A is moved to a distance $2r$ and B is moved to a distance $3r$, what is the new relationship between $F_A$ and $F_B$?\n\n(A) $F_A/F_B = 2/3$\n(B) $F_A/F_B = 9/16$\n(C) $F_A/F_B = 4/9$\n(D) $F_A/F_B = 3/4$",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 14,
+     "problem": "A galaxy is moving away from us at a velocity of 3000 km/s. Approximately how far away is the galaxy? (Mpc = Megaparsec)\n\n(A) 7 Mpc\n(B) 22 Mpc\n(C) 41 Mpc\n(D) 730 Mpc",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 15,
+     "problem": "There is a point between the earth and the moon where the gravitational forces from both bodies are the same, but pointing in opposite directions. Where is this point located, given that the mass of the earth is about 81 times the mass of the moon?\n\n(A) 1/10 of the way from the earth towards the moon\n(B) 1/9 of the way from the earth towards the moon\n(C) 1/9 of the way from the moon towards the earth\n(D) 1/10 of the way from the moon towards the earth",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 16,
+     "problem": "The angular resolution of a telescope is given by $\\sim \\frac{\\lambda}{D}$, where $D$ is the diameter of the telescope and $\\lambda$ is the observed wavelength. How will change the resolution if we observe with a fixed lambda, varying the diameter?\n\n(A) The resolution will not change if we vary the diameter.\n(B) A smaller diameter telescope has worse resolution than a larger diameter telescope.\n(C) A smaller diameter telescope has better resolution than a larger diameter telescope.\n(D) The resolution of a telescope only changes if we vary the observed wavelength ($\\lambda$).",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 17,
+     "problem": "Which process occurs inside the cores of all main sequence stars?\n\n(A) Fusion of helium into carbon\n(B) Fission of uranium into iron and oxygen.\n(C) Fusion of carbon into nitrogen and oxygen.\n(D) Fusion of hydrogen into helium.",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 18,
+     "problem": "What star is aligned with the rotation axis of the Earth, i.e, indicates the North?\n\n(A) Polaris\n(B) Betelgeuse\n(C) Rigel\n(D) Vega",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 19,
+     "problem": "What constellation is depicted in the images below?\n\n(A) Cassiopeia\n(B) Ursa Major\n(C) Ursa Minor\n(D) Orion\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/norway12-2024-d1-q19-1.png",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 20,
+     "problem": "What constellation is depicted in the images below?\n\n(A) Cassiopeia\n(B) Ursa Major\n(C) Ursa Minor\n(D) Orion\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/norway12-2024-d1-q20-1.png",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 21,
+     "problem": "Where do you have to point your camera to obtain an image as the one below in the north hemisphere? (it is a composed image).\n\n[The picture is not reproduced here (its author is not credited in the paper). It is on page 9 of the official paper: https://www.mn.uio.no/astro/tjenester/publikum/ol-astronomi-og-astrofysikk/ressurser/astronomiolympiade_problemset_round1_2023-24_engelsk.pdf]\n\n(A) Polaris\n(B) Antares\n(C) Vega\n(D) Sirius",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 22,
+     "problem": "What produces the Northern Lights?\n\n(A) Gamma ray bursts from Black Holes\n(B) Cosmic rays\n(C) Solar wind\n(D) Asteroids disintegration",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 2,
+     "number": 1,
+     "problem": "What is this?\n\n(A) An exoplanet with a dusty trail orbiting a distant star in another solar system.\n(B) The asteroid belt in the Solar System, viewed from the far-away Voyager spacecraft.\n(C) A foreground galaxy bending and focusing the light of a background galaxy.\n(D) A supermassive black hole surrounded by its event horizon.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/norway12-2024-d2-q1-1.png",
+     "paper_label": "Round 2 (multiple choice)"
+    },
+    {
+     "day": 2,
+     "number": 2,
+     "problem": "The Pole Star has a fixed position in the night because...\n\n(A) the Earth has zero velocity relative to the Pole Star.\n(B) the Earth lies on the rotation axis of the Pole Star.\n(C) the Earth and the Pole Star both have the same velocity inside the Milky Way.\n(D) the Pole Star lies on the rotation axis of the Earth.",
+     "paper_label": "Round 2 (multiple choice)"
+    },
+    {
+     "day": 2,
+     "number": 3,
+     "problem": "What is the Doppler effect useful for?\n\n(A) Measure the radial velocity of a star or astronomical object.\n(B) Measure the dust content of a galaxy.\n(C) Find water on Mars.\n(D) Predict solar eclipses.",
+     "paper_label": "Round 2 (multiple choice)"
+    },
+    {
+     "day": 2,
+     "number": 4,
+     "problem": "In the Moon's elliptical orbit around the Earth, where is its velocity smallest?\n\n(A) Apogee (furthest from the Earth)\n(B) Perigee (closest to the Earth)\n(C) Focus point\n(D) Lagrange point L3",
+     "paper_label": "Round 2 (multiple choice)"
+    },
+    {
+     "day": 2,
+     "number": 5,
+     "problem": "In the Sun-Earth system, we have five different so-called \"Lagrange points\". What are they?\n\n(A) Regions in space between the Sun and the Earth where most space dust is accumulated.\n(B) Possible locations of the Moon in space during a total solar eclipse.\n(C) Equilibrium points where the gravitational pulls of the Sun and the Earth together make any small object's orbit around those points stable or quasi-stable.\n(D) The five points needed to describe Earth's elliptical orbit around the Sun.",
+     "paper_label": "Round 2 (multiple choice)"
+    },
+    {
+     "day": 2,
+     "number": 6,
+     "problem": "Planets further away from the Sun are on almost circular orbits with ...\n\n(A) higher orbital velocities than those closer to the Sun.\n(B) lower orbital velocities than those closer to the Sun.\n(C) the same orbital velocities as those closer to the Sun.\n(D) orbital velocities that follow no clear pattern.",
+     "paper_label": "Round 2 (multiple choice)"
+    },
+    {
+     "day": 2,
+     "number": 7,
+     "problem": "On the following depiction of the Orion constellation, which of the marked stars represent Betelgeuse and Rigel?\n\n(A) B is Rigel, C is Betelgeuse\n(B) A is Rigel, D is Betelgeuse\n(C) C is Rigel, A is Betelgeuse\n(D) D is Rigel, B is Betelgeuse\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/norway12-2024-d2-q7-1.png",
+     "paper_label": "Round 2 (multiple choice)"
+    },
+    {
+     "day": 2,
+     "number": 8,
+     "problem": "Given the HR diagram below, where would we find Betelgeuse?\n\n(A) A - the main series\n(B) B - red giants\n(C) C – supergiants\n(D) D - white dwarves\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/norway12-2024-d2-q8-1.png",
+     "paper_label": "Round 2 (multiple choice)"
+    },
+    {
+     "day": 2,
+     "number": 9,
+     "problem": "It's estimated that Betelgeuse's radius is 900 times that of our Sun's, and its luminosity is 126000 times larger. Determine Betelgeuse's surface temperature, given the Sun's to be 5778K.\n\n(A) ~1500 K\n(B) ~3700 K\n(C) ~5778 K\n(D) ~9200 K",
+     "paper_label": "Round 2 (multiple choice)"
+    },
+    {
+     "day": 2,
+     "number": 10,
+     "problem": "Which of these can be considered to be a \"standard candle\", i.e. an object whose brightness is known and can therefore be used to calculate cosmic distances?\n\n(A) Cepheid stars\n(B) Spiral galaxies\n(C) Black holes\n(D) Comets",
+     "paper_label": "Round 2 (multiple choice)"
+    },
+    {
+     "day": 2,
+     "number": 11,
+     "problem": "If light from a hot, opaque body passes through a cooler, thin gas, the observed spectrum will show\n\n(A) narrow, dark lines on a bright background\n(B) narrow, bright lines on a dark background\n(C) total darkness, since the gas absorbs all of the light of the source.\n(D) broad emission lines.",
+     "paper_label": "Round 2 (multiple choice)"
+    },
+    {
+     "day": 2,
+     "number": 12,
+     "problem": "Below is a simulated image of a newly discovered supernova in one of the spiral arms of the galaxy Messier 81. The supernova is visible in the top right image; the top left image is a reference image without the supernova. Your task is to identify the supernova and estimate its apparent brightness (visual magnitude). You should use the set of comparison stars which are labeled by letters in the map below and have their magnitudes listed below (A=brightest; G=faintest).\n\n$$\\begin{array}{l} A = 9.16 \\\\ B = 10.08 \\\\ C = 10.20 \\\\ D = 11.07 \\\\ E = 11.45 \\\\ F = 12.04 \\\\ G = 12.73 \\\\ \\end{array}$$\n\nWhat is the visual magnitude of the supernova?\n\n(A) 9.20\n(B) 10.20\n(C) 12.20\n(D) 13.20\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/norway12-2024-d2-q12-1.png",
+     "paper_label": "Round 2 (multiple choice)"
+    },
+    {
+     "day": 2,
+     "number": 13,
+     "problem": "As an exoplanet passes directly between its host star and us, the brightness observed from the star (relative to its value before and after transit) falls as shown. What is the exoplanet's radius $r$ in terms of the star's radius $R$?\n\n(A) $r = 0.00004\\, R$\n(B) $r = 0.006\\, R$\n(C) $r = 0.08\\, R$\n(D) $r = 0.3\\, R$\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/norway12-2024-d2-q13-1.png",
+     "paper_label": "Round 2 (multiple choice)"
+    },
+    {
+     "day": 2,
+     "number": 14,
+     "problem": "PSR B1913+16 is a binary system consisting of two neutron stars, each with a mass of approximately $1.4\\, M_{\\text{sun}}$. Each component is orbiting a common centre of gravity with an orbital period of 7.75 hours. One of the neutron stars is a pulsar, and by measuring the systematic shifts of the arrival times of its pulses over the orbital period it is possible to make extremely precise measurements of its orbital motion. The red points in the plot below illustrate the measured change in orbital period across a time span of nearly 30 years. What causes this change?\n\n(A) Starquakes on the neutron stars decrease their moment of inertia which increases their rotational spin frequency, which in turn slows down the orbital speeds due to preservation of total angular momentum in the system.\n(B) The orbital period decreases as energy is emitted from the binary system in the form of gravitational waves with a total power of $7.35 * 10^{24}$ Watt, as predicted by Einstein's theory of general relativity.\n(C) A planet orbiting one of the neutron stars is perturbing the orbital movements of both neutron stars.\n(D) The mass of one of the neutron stars is decreasing due to mass ejection in strong stellar winds\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/norway12-2024-d2-q14-1.png",
+     "paper_label": "Round 2 (multiple choice)"
+    },
+    {
+     "day": 2,
+     "number": 15,
+     "problem": "How far away (in Mpc) is a galaxy whose radiation peak is at 650 nm that has the same radiation spectrum as a galaxy with 0 velocity relative to the Earth and whose radiation peak is at 550 nm?\n\nNote: you might find the formula for the relativistic redshift useful: $z = \\sqrt{\\frac{c+v}{c-v}} - 1$.\n\n(A) ~70 Mpc\n(B) ~350 Mpc\n(C) ~700 Mpc\n(D) ~7000 Mpc",
+     "paper_label": "Round 2 (multiple choice)"
+    },
+    {
+     "day": 2,
+     "number": 16,
+     "problem": "As illustrated in the figure, the Earth's axial precession results in a cyclical shift (P) of the orientation of the Earth's axis of rotation (R) with a period of approximately 26,000 years. The star map below shows both the ecliptic (curved black line) and the celestial equator (horizontal black line through the middle), illustrating the present location of the constellations with respect to the celestial equator.\nYou build a time machine and set it to 13,000 years before the present epoch. When you arrive at this time in the past you notice that the night sky is rather different from what you are used to, even though your geographical latitude and longitude is still within present-day Norway. Over the next year you keep looking for some recognizable star patterns and constellations, particularly Orion's belt and Scorpius.\n\nWhich of these would you be able to see?\n\n(A) Both Orion's belt and Scorpius\n(B) Neither Orion's belt nor Scorpius\n(C) Orion's belt, but not Scorpius\n(D) Scorpius, but not Orion's belt\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/norway12-2024-d2-q16-1.png\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/norway12-2024-d2-q16-2.png",
+     "paper_label": "Round 2 (multiple choice)"
+    },
+    {
+     "day": 2,
+     "number": 17,
+     "problem": "Listed in order of brightness below are the 22 brightest stars, with stellar designations, proper names and their celestial coordinates (\"RA\" = Right Ascension in hours and minutes, \"Dec\" = declination in degrees). The figure below may be helpful to illustrate the concept of declination. How many of these stars are visible from the latitude of Mandal (58 degrees north)?\n\n$$\\begin{array}{llcc} & & \\text{RA} & \\text{Dec} \\\\ \\hline\n\\text{Alpha Canis Majoris} & \\text{Sirius} & \\text{06 45} & -16.7 \\\\\n\\text{Alpha Carinae} & \\text{Canopus} & \\text{06 24} & -52.7 \\\\\n\\text{Alpha Centauri} & \\text{Rigil Kentaurus} & \\text{14 40} & -60.8 \\\\\n\\text{Alpha Boötis} & \\text{Arcturus} & \\text{14 16} & +19.2 \\\\\n\\text{Alpha Lyrae} & \\text{Vega} & \\text{18 37} & +38.8 \\\\\n\\text{Alpha Aurigae} & \\text{Capella} & \\text{05 17} & +46.0 \\\\\n\\text{Beta Orionis} & \\text{Rigel} & \\text{05 15} & -8.2 \\\\\n\\text{Alpha Canis Minoris} & \\text{Procyon} & \\text{07 39} & +5.2 \\\\\n\\text{Alpha Eridani} & \\text{Achernar} & \\text{01 38} & -57.2 \\\\\n\\text{Alpha Orionis} & \\text{Betelgeuse} & \\text{05 55} & +7.4 \\\\\n\\text{Beta Centauri} & \\text{Hadar} & \\text{14 04} & -60.4 \\\\\n\\text{Alpha Aquilae} & \\text{Altair} & \\text{19 51} & +8.9 \\\\\n\\text{Alpha Crucis} & \\text{Acrux} & \\text{12 27} & -63.1 \\\\\n\\text{Alpha Tauri} & \\text{Aldebaran} & \\text{04 36} & +16.5 \\\\\n\\text{Alpha Virginis} & \\text{Spica} & \\text{13 25} & -11.2 \\\\\n\\text{Alpha Scorpii} & \\text{Antares} & \\text{16 29} & -26.4 \\\\\n\\text{Beta Geminorum} & \\text{Pollux} & \\text{07 45} & +28.0 \\\\\n\\text{Alpha Piscis Austrini} & \\text{Fomalhaut} & \\text{22 58} & -29.6 \\\\\n\\text{Beta Crucis} & \\text{Mimosa} & \\text{12 48} & -59.7 \\\\\n\\text{Alpha Cygni} & \\text{Deneb} & \\text{20 41} & +45.3 \\\\\n\\text{Alpha Leonis} & \\text{Regulus} & \\text{10 08} & +12.0 \\\\\n\\text{Epsilon Canis Majoris} & \\text{Adhara} & \\text{06 59} & -29.0 \\\\\n\\end{array}$$\n\n(A) 11 stars\n(B) 6 stars\n(C) 16 stars\n(D) 14 stars\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/norway12-2024-d2-q17-1.png",
+     "paper_label": "Round 2 (multiple choice)"
+    },
+    {
+     "day": 2,
+     "number": 18,
+     "problem": "By studying absorption lines in a spectrum of the Andromeda galaxy you measure a blueshift corresponding to a radial velocity of -300 km/s, indicating that the Andromeda galaxy is moving towards us at this velocity. What is the origin of this phenomenon ?\n\n(A) The Andromeda galaxy is actually moving away from us due to the expansion of the Universe, but this velocity measurement has not been corrected for the Earth's movement around the sun and the solar system's movement around the Milky Way center.\n(B) The universe has stopped expanding and is now contracting towards a future \"Big Crunch\"\n(C) The absorption lines in the spectrum are produced by high-velocity gas outflow from the Andromeda galaxy, and these blueshifted lines do not reliably measure the velocity of the galaxy itself, only the outflowing gas.\n(D) The gravitational attraction between galaxies belonging to the Local Group, such as the Andromeda galaxy and the Milky Way galaxy, is strong enough to overcome the expansion of the universe. The two galaxies are currently moving towards each other and will eventually merge.",
+     "paper_label": "Round 2 (multiple choice)"
+    },
+    {
+     "day": 2,
+     "number": 19,
+     "problem": "A satellite orbits Jupiter in a perfectly circular orbit the same direction as Jupiter orbits itself (this is also called prograde motion). What is the maximum radius of this satellite's orbit so that an observer located at the Sun can see apparent retrograde motion at some point in time, i.e. that the satellite is moving in the opposite direction of Jupiter's rotation? Jupiter's mass is $1.9 \\cdot 10^{27}$kg, the radius of its orbit around the Sun is 5.2AU, and the period it takes to do a full revolution around the Sun is approximately 12 years.\n\n(A) ~$3.14 \\cdot 10^{6}$m\n(B) ~$7.50 \\cdot 10^{8}$m\n(C) ~$1.50 \\cdot 10^{11}$m\n(D) ~$6.25 \\cdot 10^{15}$m",
+     "paper_label": "Round 2 (multiple choice)"
+    },
+    {
+     "day": 2,
+     "number": 20,
+     "problem": "Given that the black line in the image corresponds to the spectrum of a black body at $5250^\\circ$C, what do the yellow and the red spectra represent and why do we see them like this?\n\n(A) Earth's orbit around the Sun is not perfectly circular, so the spectra differ based on how close the sun is. The yellow spectrum is therefore when the Sun is closest to the Earth, and the red spectrum is observed at its furthest point.\n(B) Our atmosphere consists of gasses which absorb some of the light, leading to there being a difference in the spectra on top of the atmosphere and at sea level. The yellow spectrum is therefore what is observed in space before our atmosphere, and the red one is when the light passes completely through our atmosphere.\n(C) A total solar eclipse causes changes in the light observed, so the yellow spectrum is the non-eclipsed Sun, while the red spectrum is eclipsed.\n(D) The spectra are dependent on the solar activity that is approximately periodic with a period of 11 years. The yellow spectrum is therefore the spectrum at the peak in activity during these 11 years, and the red one is at the lowest of activities.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/norway12-2024-d2-q20-1.png",
+     "paper_label": "Round 2 (multiple choice)"
+    }
+   ]
+  },
+  {
+   "year": 2025,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "What astronomical phenomenon can we see on the picture below, taken on Svalbard in March 2015?\n\n[The picture is not reproduced here (its author is not credited in the paper). It is on page 2 of the official paper: https://www.mn.uio.no/astro/tjenester/publikum/ol-astronomi-og-astrofysikk/ressurser/oppgavesett_engelsk_runde_1_2024-25.pdf]\n\n(A) Total solar eclipse\n(B) Total lunar eclipse\n(C) Peak of sun spot activity, where so many sun spots are active that they cover most of the sun, also called Black Hole Sun\n(D) Camera artifact from pointing straight at the sun",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "On average, the Moon and the Sun are 380.000 km and 150.000.000 km away from Earth. The radius of the Sun is around 700.000 km. What is the radius of the Moon?\n\n(A) 800 km\n(B) 1700 km\n(C) 2500 km\n(D) 3400 km",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "What is the name of the highest point in the sky directly above the observer?\n\n(A) Ecliptic\n(B) Zenith\n(C) Nadir\n(D) Horizon",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "Astronomers Giovanni Cassini and Jean Richer are credited with finding the distance between Earth and Mars in the late 1600s. They both observed Mars in opposition and recorded simultaneous data, one in France, and one in French Guiana (located in South America), after which they met up and compared their sky maps. Measuring the difference between the positions of Mars in the sky they plotted enabled them to approximate the distance between Mars and Earth. What is the name of the effect that makes it so that Mars's location in the sky is just a bit different in these two places on Earth?\n\n(A) Precession\n(B) Parallax\n(C) Analemma\n(D) Apogee",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "The asteroid belt in our Solar System has several regions that contain much fewer asteroids than any other region, marked by the dashed lines. We call these the \"Kirkwood gaps\", and they are the regions from which the majority of near-Earth asteroids come. What celestial body is responsible for this gap?\n\n(A) Mars\n(B) Jupiter\n(C) Sagittarius A*\n(D) Sun\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/norway12-2025-d1-q5-1.png",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "problem": "In this problem, we will look at two different spectra. For purposes of this task, we have only presented the hydrogen lines. The spectrum above is from observing hydrogen in a laboratory setting here on Earth. The spectrum below is from observing a far-away star. What conclusion can we draw from these?\n\n(A) This is an emission spectrum and the star is moving towards us.\n(B) This is an absorption spectrum and the star is moving towards us.\n(C) This is an emission spectrum and the star is moving away from us.\n(D) This is an absorption spectrum and the star is moving away from us.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/norway12-2025-d1-q6-1.png",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 7,
+     "problem": "So far in physics, you have mostly assumed that orbits of celestial bodies are perfectly circular. In reality, they are more elliptical and can be described by a parameter we call \"eccentricity\", i.e. how \"stretched out\" an ellipse is in comparison to a perfect circle (e.g. eccentricity 0 means we have a perfect circle). Mathematically, the eccentricity of an orbit is given by the ratio of the distance from the ellipse centre to the body that is being orbited around (i.e. the Sun) and the ellipse's longer radius (the \"semi-major axis\"). The famous Halley's comet orbits our Sun with an eccentricity of 0.967. Knowing this, approximately how many times further away is Halley's comet when it is at its furthest from the Sun, compared to when it is at its closest?\n\n(A) 20\n(B) 40\n(C) 60\n(D) 80\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/norway12-2025-d1-q7-1.png",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 8,
+     "problem": "Most planets outside the Solar System (exoplanets) are discovered through ...\n\n(A) reflections of gravitational waves emitted by black holes.\n(B) direct observations with modern high-resolution telescopes.\n(C) eclipses when they transit between us and their host stars.\n(D) focusing of light bent by their gravitational fields.",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 9,
+     "problem": "What is this?\n\n(A) A donut-shaped exoplanet\n(B) A direct image of a black hole\n(C) Radiation from the cosmic microwave background\n(D) A partial solar eclipse\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/norway12-2025-d1-q9-1.png",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 10,
+     "problem": "Which of these definitions corresponds best to a $\\textit{solar day}$ (24 hours; \"a day\" in everyday language)?\n\n(A) Exactly 1/30 of a month.\n(B) Exactly 1/365 of a year.\n(C) The time it takes for Earth to rotate 360 degrees around its own axis.\n(D) The time it takes for the Sun to reappear in the same position on the sky.",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 11,
+     "problem": "The Sun ejects charged particles called \"solar wind\" that interact with Earth's magnetic field to produce aurorae. What determines the colors of the aurora?\n\n[The picture is not reproduced here (its author is not credited in the paper). It is on page 6 of the official paper: https://www.mn.uio.no/astro/tjenester/publikum/ol-astronomi-og-astrofysikk/ressurser/oppgavesett_engelsk_runde_1_2024-25.pdf]\n\n(A) The composition of the Sun's atmosphere.\n(B) The latitude at which solar wind hits Earth.\n(C) The composition of Earth's atmosphere.\n(D) The local orientation of Earth's magnetic field.",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 12,
+     "problem": "This is a conversation between the question author and ChatGPT. How would you evaluate the response provided by the AI model?\n\nQuestion to ChatGPT: What times of the year can we not see Cassiopeia in the sky from the northern hemisphere? Give a concise answer.\n\nResponse of ChatGPT: Cassiopeia is not visible in the northern hemisphere during the summer months, roughly from June to August. During this period, the constellation is positioned below the horizon due to the tilt of the Earth's axis and its orbital position. As a result, it is not possible to observe Cassiopeia in the night sky during these months.\n\n(A) The answer is correct.\n(B) Wrong - Cassiopeia can be seen in the summer months, but not in the winter months, e.g. December.\n(C) Wrong - Cassiopeia can never be seen in the northern hemisphere.\n(D) Wrong - Cassiopeia can be seen throughout the year in the northern hemisphere.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/norway12-2025-d1-q12-1.png",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 13,
+     "problem": "What are the four axes present on an HR-diagram, a diagram where stars are placed based on some of their properties?\n\n(A) Spectral Class, Distance from Sun (in AU), Effective Temperature (in K), Absolute Magnitude\n(B) Spectral Class, Luminosity (in Sun luminosities), Effective Temperature (in K), Absolute Magnitude\n(C) Spectral Class, Luminosity (in Sun luminosities), Effective Temperature (in °C), Apparent Magnitude\n(D) Spectral Class, Luminosity (in Sun luminosities), Effective Temperature (in K), Angular separation from Sun in night sky (in degrees)\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/norway12-2025-d1-q13-1.png",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 14,
+     "problem": "Which of the following can be concluded about stars A and B from reading the star chart of the constellation Auriga provided below?\n\n(A) The numerical value of the absolute magnitude of A is higher than the numerical value of the absolute magnitude of B\n(B) The numerical value of the absolute magnitude of A is lower than the numerical value of the absolute magnitude of B\n(C) The numerical value of the apparent magnitude of A is higher than the numerical value of the apparent magnitude of B\n(D) The numerical value of the apparent magnitude of A is lower than the numerical value of the apparent magnitude of B.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/norway12-2025-d1-q14-1.png",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 15,
+     "problem": "Approximately what is the lowest temperature (in degrees Celsius) a black body can have so that its spectrum peaks at a wavelength we are able to see? Assume that the visible spectrum spans frequencies 400 THz - 800 THz.\n\n(A) 3600°C\n(B) 3870°C\n(C) 7470°C\n(D) 7740°C",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 16,
+     "problem": "The two stars in the binary system Gamma Leonis are 3 arcsec apart from each other at a certain point in time. Can we use an amateur telescope with an aperture diameter of 50mm to see them as two distinct stars, and why? Assume that the wavelength of light is 550nm on average, and that observing conditions are otherwise ideal. (1 deg = 3600 arcsec)\n\n(A) Yes - the Rayleigh criterion gives an angle $\\underline{\\text{smaller}}$ than the separation, which means we $\\underline{\\text{can}}$ resolve the two stars.\n(B) No - the Rayleigh criterion gives an angle $\\underline{\\text{smaller}}$ than the separation, which means that we $\\underline{\\text{cannot}}$ resolve the two stars.\n(C) Yes - the Rayleigh criterion gives an angle $\\underline{\\text{greater}}$ than the separation, which means we $\\underline{\\text{can}}$ resolve the two stars.\n(D) No - the Rayleigh criterion gives an angle $\\underline{\\text{greater}}$ than the separation, which means we $\\underline{\\text{cannot}}$ resolve the two stars.",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 17,
+     "problem": "You are looking at the night sky. In one direction you can see Ursa Major and Polaris. In the opposite direction you can see the Southern Cross. What is your approximate location on Earth?\n\n(A) In the Arctic region\n(B) In the Antarctic region\n(C) In the tropical region and north of the equator\n(D) In the tropical region and south of the equator",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 18,
+     "problem": "In the 1920s both Georges Lemaître and Edwin Hubble found observational evidence that galaxies move away from each other proportional to their distance. At what distance will objects recede faster than the speed of light as observed from Earth?\n\n(A) 1 Mpc\n(B) 20 Mpc\n(C) 300 Mpc\n(D) 4000 Mpc",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 19,
+     "problem": "Cosmology is the study of the universe as a whole. To understand our universe, it is necessary to define some attributes of it. Isotropy means that the universe looks the same in every direction. Homogeneity means that the universe looks the same in every point. Which statement is consistent with observations regarding our universe?\n\n(A) The universe is both isotropic and homogeneous at large scales\n(B) The universe is isotropic only at large scales, but always inhomogeneous\n(C) The universe is anisotropic and inhomogeneous at every scale\n(D) The universe is isotropic and homogeneous at every scale",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 20,
+     "problem": "The Sun has a surface temperature of 5800K. Imagine that the Sun is replaced by a star with the same mass (such that the orbit of the Earth is unchanged); however the star has a surface temperature of 2900K and has a radius four times the radius of the Sun. How would the total amount of energy received by the Earth change in this scenario?\n\n(A) The Earth would still receive the same total amount of energy.\n(B) The Earth would receive four times as much energy\n(C) The Earth would receive half as much energy\n(D) The Earth would receive twice as much energy",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 2,
+     "number": 1,
+     "problem": "The Nobel Prize in physics in 1974 went to Sir Martin Ryle and Anthony Hewish for a very important astronomical discovery made in 1967. Not long after, it came out that the idea and first observations came from Dame Jocelyn Bell Burnell, who was a student of Hewish's at the time, but wasn't credited in the prize awarding. The observations in question were made using radio-telescopes pointed at the sky whose signals revealed extremely regular and periodic bursts. What had they discovered?\n\n(A) Pulsars\n(B) Black Holes\n(C) Supernovae\n(D) Gravitational Lensing",
+     "paper_label": "Round 2 (multiple choice)"
+    },
+    {
+     "day": 2,
+     "number": 2,
+     "problem": "Declination and hour angle are coordinates in what system we use in astronomy?\n\n(A) Horizontal\n(B) Equatorial\n(C) Ecliptic\n(D) Galactic",
+     "paper_label": "Round 2 (multiple choice)"
+    },
+    {
+     "day": 2,
+     "number": 3,
+     "problem": "In cosmology, an extremely important aspect is measuring distances to far-away galaxies. A cornerstone of distance calculations are so-called \"standard candles\", and the foundation for these was laid by Henrietta Swan Leavitt back in 1912, enabling Edwin Hubble to use it in 1924. She observed a certain type of star and saw a direct correlation between the period of the variability of this type of star's luminosity with how bright these stars were. What stars had she observed?\n\n(A) Main sequence stars\n(B) Pulsars\n(C) Eclipsing binaries\n(D) Cepheids",
+     "paper_label": "Round 2 (multiple choice)"
+    },
+    {
+     "day": 2,
+     "number": 4,
+     "problem": "What is chromatic aberration, shown on the image below?\n\n(A) An artefact due to atmospheric turbulence when observing on particularly humid nights.\n(B) An artefact inherent to refracting telescopes, because different wavelengths of light will be refracted by the lenses at different angles.\n(C) An artefact inherent to reflecting telescopes, because different wavelengths of light will be reflected off the mirrors at different angles.\n(D) An artefact due to not using a suitable blue-light filter in front of the telescope when observing from the Earth.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/norway12-2025-d2-q4-1.png",
+     "paper_label": "Round 2 (multiple choice)"
+    },
+    {
+     "day": 2,
+     "number": 5,
+     "problem": "Why do we always see the same side of the Moon from Earth?\n\n(A) The Moon's rotation and orbit are synchronized\n(B) The Moon's rotation and Earth's rotation are synchronized\n(C) The Moon's orbit and Earth's orbit are synchronized\n(D) The Moon's orbit and Earth's rotation are synchronized",
+     "paper_label": "Round 2 (multiple choice)"
+    },
+    {
+     "day": 2,
+     "number": 6,
+     "problem": "The black line on the image below shows a discrepancy in time that we call \"equation of time\". It represents the time difference between apparent solar time (following the actual Sun) and mean solar time (following an \"average\" Sun) which our timekeeping is based upon. The equation of time has two components, shown in red and blue. What are those components due to?\n\n(A) Solar storms and shifts in Earth's magnetic field\n(B) Rotation of the Moon and shift in Sun's galactic coordinates\n(C) Earth's orbital obliquity and orbital eccentricity\n(D) The non-perfect spherical shapes of the Earth and Sun\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/norway12-2025-d2-q6-1.png",
+     "paper_label": "Round 2 (multiple choice)"
+    },
+    {
+     "day": 2,
+     "number": 7,
+     "problem": "Much like stars gather into galaxies, galaxies gather into galaxy clusters on larger distance scales. How do some galaxy clusters suggest the existence of dark matter?\n\n(A) Their visible mass is not sufficient to keep the galaxies bound by gravity.\n(B) The expanding universe makes their galaxies drift apart at an accelerating rate.\n(C) The material between their galaxies is darker than the intergalactic medium.\n(D) They eject dark matter particles through energetic jets that have recently been detected in gravitational wave observatories.",
+     "paper_label": "Round 2 (multiple choice)"
+    },
+    {
+     "day": 2,
+     "number": 8,
+     "problem": "If we were to dig a tunnel halfway down to the centre of our planet, what would be the gravitational force we would feel exerted on us compared to on the surface? Assume that the Earth is a uniformly dense sphere.\n\n(A) Double what we feel on the surface\n(B) Half of what we feel on the surface\n(C) An eighth of what we feel on the surface\n(D) Eight times as much as what we feel on the surface",
+     "paper_label": "Round 2 (multiple choice)"
+    },
+    {
+     "day": 2,
+     "number": 9,
+     "problem": "Why is it incorrect to say that Earth rotates 360 degrees around its own axis in exactly 24 hours?\n\n(A) Trick question; Earth does rotate 360 degrees in exactly 24 hours.\n(B) 24 hours is the time it takes for a point on Earth to directly re-face the Sun, and Earth must rotate more than 360 degrees to compensate for movement in its orbit around the Sun in this time interval.\n(C) Earth's rotation velocity fluctuates significantly, and the statement is only true when averaged over one year.\n(D) Earth's orbit is not a perfect circle, but an ellipse, and effects from Einstein's theory of relativity means that time passes differently when Earth is at different distances from the Sun.",
+     "paper_label": "Round 2 (multiple choice)"
+    },
+    {
+     "day": 2,
+     "number": 10,
+     "problem": "Over one year, the position of a distant star on the sky changes by 0.00002 degrees relative to the background stars. Roughly how far away is the star?\n\n(A) 500 000 AU\n(B) 6 000 000 AU\n(C) 70 000 000 AU\n(D) 800 000 000 AU",
+     "paper_label": "Round 2 (multiple choice)"
+    },
+    {
+     "day": 2,
+     "number": 11,
+     "problem": "Match the numbers to the cardinal directions on the sky chart:\n\n(A) 1-North, 2-South, 3-West, 4-East\n(B) 1-North, 2-South, 3-East, 4-West\n(C) 1-South, 2-North, 3-West, 4-East\n(D) 1-South, 2-North, 3-East, 4-West\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/norway12-2025-d2-q11-1.png",
+     "paper_label": "Round 2 (multiple choice)"
+    },
+    {
+     "day": 2,
+     "number": 12,
+     "problem": "Using the same star chart above, we can determine that the latitude of the observer that sees this sky is approximately\n\n(A) $0^\\circ$\n(B) $30^\\circ$ N\n(C) $60^\\circ$ N\n(D) $90^\\circ$ N\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/norway12-2025-d2-q12-1.png",
+     "paper_label": "Round 2 (multiple choice)"
+    },
+    {
+     "day": 2,
+     "number": 13,
+     "problem": "Which of the following is a list of bright stars which can be occulted by the moon, as seen from the surface of the Earth?\n\n(A) Rigel (Alpha Orionis), Sirius (Alpha Canis Majoris), Toliman (Alpha Centauri) and Achernar (Alpha Eridani)\n(B) Antares (Alpha Scorpii), Aldebaran (Alpha Tauri), Regulus (Alpha Leonis) and Spica (Alpha Virginis)\n(C) Fomalhaut (Alpha Piscis Austrinus), Procyon (Alpha Canis Minoris), Capella (Alpha Aurigae) and Vega (Alpha Lyrae)\n(D) Arcturus (Alpha Boötis), Adhara (Epsilon Canis Majoris), Deneb (Alpha Cygni) and Altair (Alpha Aquilae)",
+     "paper_label": "Round 2 (multiple choice)"
+    },
+    {
+     "day": 2,
+     "number": 14,
+     "problem": "What are the best conditions for producing planets with thick atmospheres?\n\n(A) Strong gravitational field and high temperature at the surface\n(B) Strong gravitational field and low temperature at the surface\n(C) Weak gravitational field and high temperature at the surface\n(D) Weak gravitational field and low temperature at the surface",
+     "paper_label": "Round 2 (multiple choice)"
+    },
+    {
+     "day": 2,
+     "number": 15,
+     "problem": "A main sequence star which is more massive than the Sun ...\n\n(A) is less luminous than the Sun.\n(B) is smaller than the Sun.\n(C) is cooler (lower temperature) than the Sun.\n(D) lives a shorter life than the Sun.",
+     "paper_label": "Round 2 (multiple choice)"
+    },
+    {
+     "day": 2,
+     "number": 16,
+     "problem": "Sirius B is a white dwarf. Which of the following numbers can approximately represent the ratio between its luminosity and that of our Sun? Use the HR-diagram provided below to help you.\n\n(A) 0.01\n(B) 1\n(C) 100\n(D) 100 000\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/norway12-2025-d2-q16-1.png",
+     "paper_label": "Round 2 (multiple choice)"
+    },
+    {
+     "day": 2,
+     "number": 17,
+     "problem": "The two spectra below are sketches of observing two different stars of the same composition. What is different between the two stars that leads to the difference we see in the spectra?\n\n(A) The star with the wider absorption lines is rotating about its own axis at a greater velocity than the one with the narrower absorption lines.\n(B) The star with the wider absorption lines is moving away from us at a greater velocity than the one with the narrower absorption lines.\n(C) The star with the wider absorption lines is moving away from us at a lower velocity than the one with the narrower absorption lines.\n(D) The spectral line broadening is due to the spectroscopic version of chromatic aberration, better illustrated in Problem 3.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/norway12-2025-d2-q17-1.png",
+     "paper_label": "Round 2 (multiple choice)"
+    },
+    {
+     "day": 2,
+     "number": 18,
+     "problem": "From Earth, Mars is sometimes seen moving in a backwards loop on the sky relative to the background stars. This is called retrograde motion. Why is this?\n\n(A) Mars and Earth follow non-negligible elliptical orbits with varying velocities, and their relative velocity changes direction when one planet attains its maximum velocity while the other attains its minimum velocity.\n(B) Mars' orbit is susceptible to very massive asteroids, and regularly slings around them due to gravity.\n(C) It is a natural feature of two circular orbits around the same point that is seen when the inner planet overtakes the outer planet.\n(D) Mars does not orbit the Sun directly, but really orbits a point that orbits the Sun (deferent and epicycle), and retrograde motion occurs when these move in opposite directions.",
+     "paper_label": "Round 2 (multiple choice)"
+    },
+    {
+     "day": 2,
+     "number": 19,
+     "problem": "The Sun's temperature is ...\n\n(A) Hottest in the center and coldest in the outer atmosphere\n(B) Hottest in the center and coldest near the surface\n(C) Coldest in the center and hottest in the outer atmosphere\n(D) Coldest in the center and hottest near the surface",
+     "paper_label": "Round 2 (multiple choice)"
+    },
+    {
+     "day": 2,
+     "number": 20,
+     "problem": "Lagrange Points are 5 positions in space where a small object could remain \"stationary\" in a two-body system (i.e. rotating with the same period as Earth in the Sun-Earth system). Which statement about the Lagrange Points is incorrect?\n\n(A) The downside of having JWST at L2 is that there are parts of the sky which are inaccessible.\n(B) L1 provides a good spot for space based solar observatories.\n(C) Only L4 and L5 are stable. The remaining points require fuel for orbital corrections.\n(D) There are no spacecraft in L3, as it is always behind the Sun and therefore difficult to communicate with.",
+     "paper_label": "Round 2 (multiple choice)"
+    }
+   ]
+  },
+  {
+   "year": 2026,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "problem": "As shown on the sketch below, a Full Moon happens when the Moon is behind the Earth as seen from the Sun. We also know that lunar eclipses occur when the Sun, the Earth and the Moon are in line with each other, so why isn't every Full Moon also a lunar eclipse?\n\n(A) The Moon's orbit is inclined (tilted) in relation to the Earth's orbit around the Sun, and an eclipse can only happen when Earth's shadow is cast on the Moon, which only happens when conditions align.\n(B) Every Full Moon $\\underline{\\textit{is}}$ a lunar eclipse, but the characteristic red colour can only be observed when the Sun is about to set.\n(C) Because lunar eclipses happen at New Moon, when the Moon is between the Sun and Earth.\n(D) Because the distance between the Earth and the Sun changes throughout the year, so the shadow that Earth casts isn't always big enough to cover the Moon.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/norway12-2026-d1-q1-1.png",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "problem": "A total lunar eclipse, also called a \"blood moon\", occurred in the beginning of September 2025, but the Moon was red also a couple of days after. One possible explanation was that this is due to the Moon being low on the horizon. Is this a valid explanation and why?\n\n(A) It isn't - the observed effect was a tidal lock when the Sun, the Moon and Earth move in synchrony in the period after an eclipse, so that it lasts longer.\n(B) It is - the light reflected off the Moon needs to travel longer through the atmosphere when the Moon is low on the horizon, and the blue light is scattered more, leading to a redder appearance.\n(C) It isn't - the reddening is a consequence of the Doppler shift in the light reflected off of the Moon; when an eclipse is over, the Moon tends to move away from the Earth, leading to a redshift.\n(D) It is - Mars is always very low on the horizon, so when the Moon is as well, the light from the Sun reflects off of Mars and gives the Moon a red tint, which is amplified by smoke from forest fires accumulated low on the horizon.",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "problem": "The small angle approximation is a useful trick when having to use trigonometric functions on angles significantly smaller than 1 (measured in radians). It states that for $\\theta \\ll 1$, you can simplify the trig functions as following: $\\sin\\theta \\approx \\tan\\theta \\approx \\theta$ and $\\cos\\theta \\approx 1$.\n\nA galaxy has a radius of 25 000 light years and is 10 million light years away from Earth. Using the small angle approximation, calculate its angular radius in arcminutes ($60\\ \\text{arcminutes} = 60' = 1^\\circ$).\n\n(A) $40.5'$\n(B) $0.1'$\n(C) $2.2''$\n(D) $8.6'$",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "problem": "Transit photometry is a way of detecting exoplanets based on finding a dip in the star's brightness when the planet passes between the observer and the star (a transit event). Which one of the following is $\\underline{\\text{not}}$ true about transit photometry?\n\nImage credit: PhysicsFeed. (2020).\n\n(A) Transit photometry is biased towards detecting planets with short orbital periods because one faster observes several transits at regular intervals, establishing the presence of a planet.\n(B) It helps determine the star-planet radius ratio using the transit depth.\n(C) An advantage of the method is its low rate of false positives compared to other methods, because any transiting object will lead to a brightness dip, not just planets.\n(D) Water vapor in a planet's atmosphere may be detected by comparing the star's spectrum during the transit to the spectrum otherwise.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/norway12-2026-d1-q4-1.png",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "problem": "When an exoplanet happens to move between us and its parent star, the brightness of the star will appear to dim, which is reflected as a dip in the flux curve as can be seen on the image below. We can notice that the bottom of the curve is not completely flat, but has a downwards curvature - based on this curve, what statement can we make about the star?\n\n(A) The disk of the star is uniform in brightness\n(B) There is a disk of dust surrounding the star\n(C) The star appears darker at the limb than at its center\n(D) The star appears darker at the center than at its limb\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/norway12-2026-d1-q5-1.png",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "problem": "Assuming you have a star observed at the Balmer line H$\\alpha$ (H-alpha) at a wavelength of 656.28 nm. When you look at the star, it appears darker at the limb of the disk than at its center, just like in the image below. What does that tell us about the layer of the stellar atmosphere we are observing with the H$\\alpha$ wavelength?\n\nImage credit: Photo J Wolters & N-O Stutzer (as printed on the image).\n\n(A) The temperature is increasing outwards from the center of the star\n(B) The temperature is increasing towards the center of the star\n(C) The temperature is increasing sideways along the star's surface\n(D) There is no change in the temperature across the atmosphere\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/norway12-2026-d1-q6-1.png",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 7,
+     "problem": "Assume you are looking at a distant star. The star is observed edge on, and the rotational axis of the star itself perpendicular to our line-of-sight. Because the star is rotating, the side of the star that is moving towards us will appear doppler shifted into the blue, while the other half of the star moving away from us will experience a redshift. Assume we observe the distant star using the H$\\alpha$ emission line. What statement is true about the observed H$\\alpha$ emission line of the rotating star:\n\n(A) The line will be infinitely narrow\n(B) The line will appear narrower than in a lab measurement\n(C) The line appear at a different wavelength redwards of a lab measurement\n(D) The line will be broader than in a lab measurement\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/norway12-2026-d1-q7-1.png",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 8,
+     "problem": "Hubble-Lemaitre's law states that for (low redshift galaxies) we have a simple linear relationship between the speed at which galaxies move away from us (in the Milky Way) and the distance to them: $v = H_0 d$ where $v$, $H_0$ and $d$ are respectively the speed of the galaxy, the Hubble constant $H_0 \\approx 73$ km/s/Mpc, and the distance to the galaxy. Cosmologist Marie is looking at a distant galaxy and observes that the H$\\alpha$ emission line of hydrogen appears at 662.84 nm instead of the usual 656.28 nm measured in a lab. Using the doppler formula (see provided formulae) and Hubble-Lemaitre's law, Marie finds that the distance between her and the galaxy is approximately\n\n(A) 1530.7 lyr\n(B) 41.6 Mpc\n(C) 107 Gpc\n(D) 3141 AU",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 9,
+     "problem": "The Kuiper belt stretches from roughly 30 to 55 AU from $\\underline{\\text{the Sun}}$. You are observing Kuiper's belt $\\underline{\\text{from Earth}}$ with an amazing telescope, with a one degree field of view, that can clearly see Kuiper's belt.\n\nApproximating the Kuiper belt as a flat disk, what area of the Kuiper's belt can the telescope observe?\n\n(A) 18 AU$^2$\n(B) 19 AU$^2$\n(C) 21 AU$^2$\n(D) 22 AU$^2$\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/norway12-2026-d1-q9-1.png",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 10,
+     "problem": "Knowing that the Cosmic Microwave Background radiation (CMB) has a temperature of approximately -270.42 degrees Celsius, at what wavelength is the peak of its radiation?\n\n(A) 1.06 mm\n(B) 1.06 cm\n(C) 106 µm\n(D) 1006 nm",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 11,
+     "problem": "Escape velocity is the minimum speed needed for an object to escape a planet's gravity and never fall back. Both the kinetic energy and gravitational potential energy are zero when an object has escaped its gravitational pull. Using conservation of energy, what is the formula for escape velocity?\n\n(A) $v_e = \\sqrt{\\dfrac{2GM}{R}}$\n(B) $v_e = \\sqrt{\\dfrac{2GM}{R^2}}$\n(C) $v_e = \\sqrt{\\dfrac{2gM}{R}}$\n(D) $v_e = \\dfrac{2GM}{R}$",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 12,
+     "problem": "Imagine you wake up one morning to discover that Earth's magnetic field has begun one of its periodic reversals - something that happens roughly every 200,000-300,000 years. Over the next several thousand years, the fields will change and fracture into multiple magnetic poles. What would happen to compass navigation and auroras?\n\n(A) Compasses would become dangerously unreliable - your compass needle might point toward another pole. Auroras would dance across unusual latitudes.\n(B) Compasses would actually improve since there'd always be a closer magnetic pole to guide you. However, auroras would vanish completely.\n(C) Compasses would spin uselessly as competing magnetic poles cancel each other out across most of the planet. Auroras would remain only at the original north and south polar regions.\n(D) Compasses would still generally point north-south, just with reduced precision. Auroras would intensify dramatically.",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 13,
+     "problem": "Pluto is located approximately 40 AU (astronomical units) away from the Sun. How much more light from the Sun do we get at the Earth compared to Pluto?\n\n(A) 20 times more\n(B) 40 times more\n(C) 400 times more\n(D) 1600 times more",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 14,
+     "problem": "Using the same information from question 14, and assuming circular orbits, what is the orbital period of Pluto around the Sun in Earth years? You can use Kepler's Third Law which when written out says that $T^2 \\propto a^3$ (the square of the orbital period is proportional to the cube of the semi-major axis of the orbit).\n\n(A) 0.004 years\n(B) 40 years\n(C) 253 years\n(D) 64 031 years",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 15,
+     "problem": "The constellation shown below was already known in Mesopotamia 5200 years ago. At that time, it had particular significance by marking the summer solstice point. Which constellation is this?\n\n(A) Leo\n(B) Ursa Major\n(C) Canis Major\n(D) Andromeda\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/norway12-2026-d1-q15-1.png",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 16,
+     "problem": "Knowing that our Sun can be found on the main sequence in an HR diagram, what is its spectral class as read off from the provided plot?\n\n(A) O\n(B) B\n(C) G\n(D) M\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/norway12-2026-d1-q16-1.png",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 17,
+     "problem": "The two stars in the binary system Gamma Leonis are 3 arcsec apart from each other at a certain point in time. Can we use an amateur telescope with an aperture diameter of 25mm to see them as two distinct stars, and why? Assume that the wavelength of light is 550nm on average, and that observing conditions are otherwise ideal. (1 deg = 3600 arcsec)\n\n(A) Yes - the Rayleigh criterion gives an angle $\\underline{\\textit{smaller}}$ than the separation, which means we $\\underline{\\textit{can}}$ resolve the two stars.\n(B) No - the Rayleigh criterion gives an angle $\\underline{\\textit{smaller}}$ than the separation, which means that we $\\underline{\\textit{cannot}}$ resolve the two stars.\n(C) Yes - the Rayleigh criterion gives an angle $\\underline{\\textit{greater}}$ than the separation, which means we $\\underline{\\textit{can}}$ resolve the two stars.\n(D) No - the Rayleigh criterion gives an angle $\\underline{\\textit{greater}}$ than the separation, which means we $\\underline{\\textit{cannot}}$ resolve the two stars.\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/norway12-2026-d1-q17-1.png",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 18,
+     "problem": "The space probe Juno has been orbiting Jupiter since 2016 and has given us a unique insight into Jupiter's composition, magnetic field, and the potential presence of a rocky core among many other topics. Jupiter's average distance to the sun is 5,20AU. Assume that the Earth and Jupiter are at their closest, and Juno's distance from Jupiter is 2,700,000 km directly towards the Earth. When sending a signal from earth, what is the earliest reply we can receive from Juno?\n\n(A) Impossible to know\n(B) 34,8 minutes\n(C) 1 hour and 9,7 minutes\n(D) 1 hour and 19 minutes",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 19,
+     "problem": "The Earth's escape velocity is around 11 km/s. Your friend is worried that because of global warming, we will lose a significant fraction of our atmosphere. The typical velocity of gas molecules is given by $v = \\sqrt{3kT/m}$, where $k$ is Boltzmann's constant ($1.38 \\times 10^{-23}$ J/K), $T$ is temperature in Kelvin, and $m$ is the molecular mass. Using this formula, which response best addresses your friend's concern?\n\n(A) Even with significant temperature increases from global warming, atmospheric molecules like nitrogen ($m = 4.65 \\times 10^{-26}$ kg) and oxygen ($m = 5.31 \\times 10^{-26}$ kg) have a typical velocity far below 11 km/s, so atmospheric loss is negligible.\n(B) The relationship between velocity and molecular mass shows that lighter molecules escape more easily, so we'll lose oxygen before nitrogen due to global warming.\n(C) Since $v$ is proportional to $\\sqrt{T}$, a modest rise in temperature increases the molecular speed to escape velocity.\n(D) Global warming increases $T$ immensely, which decreases the ratio $v_{\\text{escape}}/v$ so much that molecules easily escape Earth's atmosphere.",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 1,
+     "number": 20,
+     "problem": "One of Mars's moons, Phobos, has an orbital diameter that is 41 times smaller than our Moon's, and an orbital period that is 86 times shorter than our Moon's around Earth. Also knowing that Mars's radius is approximately 53% that of Earth's, which of these values corresponds most closely to the strength of Mars's gravitational field?\n\n(A) $0.13\\ \\dfrac{\\text{N}}{\\text{kg}}$\n(B) $3.75\\ \\dfrac{\\text{N}}{\\text{kg}}$\n(C) $9.81\\ \\dfrac{\\text{N}}{\\text{kg}}$\n(D) $25.86\\ \\dfrac{\\text{N}}{\\text{kg}}$",
+     "paper_label": "Round 1 (multiple choice)"
+    },
+    {
+     "day": 2,
+     "number": 1,
+     "problem": "Gravitational waves are often described as ripples in spacetime and are generated by the relative motion of gravitational masses, requiring presence of mass asymmetry in the system.\n\nImage credit: LIGO\nWhich of the following celestial bodies/systems does $\\textbf{not}$ produce detectable gravitational waves?\n\n(A) A binary system of black holes\n(B) An asymmetric pulsar, which is a highly-magnetised spinning neutron star\n(C) A white dwarf\n(D) A supernova, exhibiting a non-uniform distribution of matter during an explosion\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/norway12-2026-d2-q1-1.png",
+     "paper_label": "Round 2 (multiple choice)"
+    },
+    {
+     "day": 2,
+     "number": 2,
+     "problem": "Assume you are looking at a distant star with an exoplanet in orbit around it. The star and exoplanet orbit are observed edge-on, and the rotational axis of the star and exoplanet orbit are perpendicular to our line-of-sight. Because the star is rotating, the side of the star that is moving towards us will appear doppler shifted into the blue, while the other half of the star moving away from us will experience a redshift. Assume we observe the distant star using the H$\\alpha$ emission line. The exoplanet starts a transit in front of the star's disk on the blueshifted side of the star (see illustration). What statement is true about the observed H$\\alpha$ emission line of the rotating star when the planet starts its transit:\n\nImage credit: Nils-Ole Stutzer\n\n(A) The line will be infinitely narrow\n(B) The line will appear significantly narrower than in a lab measurement\n(C) The line appears at a slightly different wavelength redwards of a lab measurement\n(D) The line appears at a slightly different wavelength bluewards of a lab measurement\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/norway12-2026-d2-q2-1.png",
+     "paper_label": "Round 2 (multiple choice)"
+    },
+    {
+     "day": 2,
+     "number": 3,
+     "problem": "Your friend, who was born at the exact same time as you, was recently in Ecuador for a month and argues that due to the higher rotational velocity at the equator, they are now the younger person. Are they right?\n\n(A) No, time dilation only occurs when objects move close to the speed of light. Earth's rotational velocity is far too slow for any relativistic effects to occur.\n(B) Yes, they are correct. Time dilation from the higher velocity at the equator means they aged slightly less, though the difference would be only a few nanoseconds over a month.\n(C) No, they would actually be older because moving faster causes time to speed up for the moving observer, not slow down.\n(D) Yes, and the effect would be significant. The equator's rotational velocity of 465 m/s would cause a noticeable age difference of several seconds over a month.",
+     "paper_label": "Round 2 (multiple choice)"
+    },
+    {
+     "day": 2,
+     "number": 4,
+     "problem": "In an infinite static universe, you should see a star in every direction. But when we look up at night, we see mostly darkness. This is known as Olbers' Paradox. Your friend Isak Nytun suggests: \"The dark sky proves the universe must be finite and static - there simply aren't enough stars to fill every direction.\" Which of the following observations proves that your friend is wrong and definitively shows the universe is actually not static, but expanding?\n\n(A) Telescopes reveal billions of galaxies beyond our own, proving there are far more stars than visible to the naked eye\n(B) The matter in the universe is mostly dark matter\n(C) We observe that galaxies are distributed uniformly in all directions on large scales, showing the universe has no edge or center\n(D) Light from distant galaxies is redshifted, with more distant galaxies showing greater redshift",
+     "paper_label": "Round 2 (multiple choice)"
+    },
+    {
+     "day": 2,
+     "number": 5,
+     "problem": "In the 1600s, Isaac Newton discovered the law of universal gravitation. In 1916, Albert Einstein's theory of general relativity (GR) was proposed, which accounts for observations that Newton's theory could not explain. While GR reduces to Newtonian gravity in systems with low potential and velocity, the formula for GR is fundamentally not similar to Newton's. Which statement about this is true?\n\n(A) GR includes all particles in the system simultaneously, and can therefore simulate n-body simulations much faster than Newton's theory. This is because Newton's theory calculates forces on each 2-body pair separately.\n(B) In GR, gravity is not a force, but rather the result of mass bending spacetime. Objects in free fall follow the shortest path (geodesic) in curved spacetime, and from our perspective, this curved motion appears as gravitational attraction.\n(C) Newton's theory is a classical deterministic theory and is incompatible with modern quantum mechanics. GR, on the other hand, has Heisenberg's uncertainty principle baked into its theory, and is compatible with quantum mechanics.\n(D) In GR, gravity is actually a complex wave that needs to be described using a combination of sines and cosines, while Newton's theory regards is as a simple force.",
+     "paper_label": "Round 2 (multiple choice)"
+    },
+    {
+     "day": 2,
+     "number": 6,
+     "problem": "The Sun has an effective temperature of about $T_{eff} = 5777$ K and a radius of $R_\\odot = 6.96 \\cdot 10^{8}$ m. If we happened to be building a telescope located 10.0 pc away from the Sun, what would the minimal diameter of the aperture (approximately) need to be so we can resolve the Sun? Assume the conditions are completely ideal. Furthermore, base this on the blackbody simplification; using only the wavelength $\\lambda_{max}$ where blackbody radiation per unit wavelength peaks.\n\n(A) $1.36$ m\n(B) $1.36 \\cdot 10^{2}$ m\n(C) $1.36 \\cdot 10^{5}$ m\n(D) $1.36 \\cdot 10^{7}$ m",
+     "paper_label": "Round 2 (multiple choice)"
+    },
+    {
+     "day": 2,
+     "number": 7,
+     "problem": "The image below shows an asterism we refer to as the \"Summer Triangle\", containing the stars Vega, Deneb and Altair. It is most prominent on the night sky in summer, but can be seen almost throughout the year in the Northern Hemisphere. Which of these constellations does $\\underline{\\textbf{\\textit{not}}}$ contain a star that makes up the Summer Triangle?\n\n(A) Lyra\n(B) Andromeda\n(C) Cygnus\n(D) Aquila\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/norway12-2026-d2-q7-1.png",
+     "paper_label": "Round 2 (multiple choice)"
+    },
+    {
+     "day": 2,
+     "number": 8,
+     "problem": "Altitude and azimuth are coordinates in the following coordinate system:\n\n(A) Horizontal\n(B) Equatorial\n(C) Galactic\n(D) Cartesian",
+     "paper_label": "Round 2 (multiple choice)"
+    },
+    {
+     "day": 2,
+     "number": 9,
+     "problem": "We observe a star rise on January 12th at 03:32 mean solar time. Which of these times is closest to when the star will rise on February 12th? Hint: a sidereal day is approximately 4 min shorter than a solar day.\n\n(A) 22:00\n(B) 01:00\n(C) 06:00\n(D) 13:00",
+     "paper_label": "Round 2 (multiple choice)"
+    },
+    {
+     "day": 2,
+     "number": 10,
+     "problem": "Which of these takes the longest time to happen?\n\n(A) A photon from the Sun's core propagates to the Sun's surface through absorption and reemission\n(B) A photon from the Sun's surface reaches Earth\n(C) This exam runs its full duration\n(D) The International Space Station makes an orbit around Earth",
+     "paper_label": "Round 2 (multiple choice)"
+    },
+    {
+     "day": 2,
+     "number": 11,
+     "problem": "A very ambitious railway engineer has managed to make train tracks that run exactly along the 30th parallel (i.e. 30 degrees north). You are sitting on a train moving eastwards along this track with a velocity of 120km/h. Approximately how long will daylight last for you on the 21st of March? Take Earth's radius to be 6400km.\n\n(A) 3h\n(B) 11.0h\n(C) 13h\n(D) 15.5h",
+     "paper_label": "Round 2 (multiple choice)"
+    },
+    {
+     "day": 2,
+     "number": 12,
+     "problem": "There are several empirical relationships widely used in astronomy, one of them being the famous Tully-Fisher relation that connects a spiral galaxy's rotational velocity in $\\frac{\\text{km}}{\\text{s}}$ to its luminosity in solar luminosities with the expression $L \\propto v^4$. One such galaxy is M101, or the Pinwheel Galaxy, whose hydrogen-alpha line ($\\lambda_0 = 656$ nm) you observe to have width $\\Delta\\lambda = 0.45$ nm. Which of the following values is closest to the luminosity of the Pinwheel Galaxy given these data, and assuming that the proportionality constant is $25\\, L_\\odot \\left(\\frac{\\text{km}}{\\text{s}}\\right)^{-4}$?\n\n$\\textit{Hint}$: From the previous round, you might recall that we see spectral line broadening due to the Doppler effect when the object we are observing is rotating about its own axis.\n\nImage caption: M101, inclined at 30 degrees to us, imaged by Erik Sundheim, using the 35cm Deberitz telescope at Harestua Solar Observatory.\n\n(A) $1 \\cdot L_\\odot$\n(B) $3.14 \\cdot 10^{6}\\, L_\\odot$\n(C) $4.5 \\cdot 10^{10}\\, L_\\odot$\n(D) $7 \\cdot 10^{13}\\, L_\\odot$\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/norway12-2026-d2-q12-1.png",
+     "paper_label": "Round 2 (multiple choice)"
+    },
+    {
+     "day": 2,
+     "number": 13,
+     "problem": "In reality, we are not observing M101 head on. It has an inclination of approximately 30 degrees, where 0 degrees means we are observing the galaxy head on, and 90 degrees means we are observing the galaxy directly from the side. Does this change the above result, and if so, how and why?\n\n(A) No, because Doppler broadening is completely independent of the direction from which we observe the galaxy in question.\n(B) Yes, because the velocity we observe via the broadening is not the actual velocity of rotation, merely one of its components, so the actual rotational velocity is the observed one $\\underline{\\text{multiplied}}$ by a factor of $\\sin(30^\\circ)$, making the actual luminosity 1/16 times as $\\underline{\\text{small}}$.\n(C) No, because although the observed velocity and actual rotational velocity are different due to the inclination, this factor is $2 \\cdot \\sin(i)$ due to geometric considerations, with $i$ being the inclination, which turns out to be 1 in our scenario, i.e. no actual practical difference.\n(D) Yes, because the velocity we observe via the broadening is not the actual velocity of rotation, merely one of its components, so the actual rotational velocity is the observed one $\\underline{\\text{divided}}$ by a factor of $\\sin(30^\\circ)$, making the actual luminosity 16 times as big.",
+     "paper_label": "Round 2 (multiple choice)"
+    },
+    {
+     "day": 2,
+     "number": 14,
+     "problem": "You observe a planet in an elliptical orbit around its host star, marked as the yellow dot in one of the ellipse's foci. You find that the planet takes the same amount of time to span the areas 1, 2 and 3. Using this knowledge, which of the areas is largest?\nFigure description: An ellipse with one of its focus points clearly marked. From the focus points, six lines originate, with each pair of the lines defining an area of the ellipse. The area where the ellipse line is closest to the focus point is marked \"1\". The area where the ellipse line is furthest from the focus point is marked \"2\". The area that is some distance from the focus point (not closest, not furthest) is marked \"3\". All areas are marked with \"delta t\", denoting the fact that the planet takes the same amount of time to cover the areas.\n\n(A) 1, as it is the closest to the host star\n(B) 2, as it is the furthest from the host star\n(C) 3, as it is located where the derivative of the ellipse area function is zero\n(D) All of them are the same\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/norway12-2026-d2-q14-1.png",
+     "paper_label": "Round 2 (multiple choice)"
+    },
+    {
+     "day": 2,
+     "number": 15,
+     "problem": "In star clusters, we assume that all stars are \"born\" approximately at the same time, so when we find stars that start straying away from the main sequence (meaning that they have burnt up the hydrogen in their core), those stars must be as old as the cluster itself.\n\nThe age of a star on the main sequence can be approximately determined from just its luminosity by the empirical proportionality $t \\propto L^{\\frac{1}{\\alpha} - 1}$, where we take $\\alpha = 3.5$ for upper main sequence stars. Knowing this and the fact that the Sun's age is $t_\\odot = 10$ Gyr (giga-years), which of these is a good estimate of the age of the open cluster M45, otherwise known as the Pleiades, from the HR diagram of the cluster, given below?\nFigure description: A scatterplot representing stars in the M45 cluster. The y-axis is logarithmic, going from 0.0001 at the bottom to 10 000 at the top, with the unit being solar luminosities. The x-axis goes from 30 000 to 3000 (decreasing) and represents the surface temperature in Kelvin. The points are mostly scattered across a line going from approximately (10 000 K, 100 solar luminosities) to approximately (3000 K, 0.01 solar luminosities). At the former point, instead of continuing on the line, the points become scattered upwards, almost directly vertically.\n\n(A) 0.4 Gyr\n(B) 2 Gyr\n(C) 10 Gyr\n(D) 20 Gyr\n\nhttps://raw.githubusercontent.com/Eisatopon/astronomy-olympiads-bank/main/images/norway12-2026-d2-q15-1.png",
+     "paper_label": "Round 2 (multiple choice)"
+    },
+    {
+     "day": 2,
+     "number": 16,
+     "problem": "A satellite in elliptical orbit around Earth has its closest approach at $8.37 \\cdot 10^{6}$ m from Earth's center and its greatest distance at $25.1 \\cdot 10^{6}$ m from Earth's center. The speed of the satellite at perigee is $8450\\ \\frac{\\text{m}}{\\text{s}}$ Which of these is closest to the speed at apogee? Take Earth's mass to be $5.97 \\cdot 10^{24}$ kg.\n\n(A) $2820\\ \\frac{\\text{m}}{\\text{s}}$\n(B) $8450\\ \\frac{\\text{m}}{\\text{s}}$\n(C) $25{,}350\\ \\frac{\\text{m}}{\\text{s}}$\n(D) $4635\\ \\frac{\\text{m}}{\\text{s}}$",
+     "paper_label": "Round 2 (multiple choice)"
+    },
+    {
+     "day": 2,
+     "number": 17,
+     "problem": "Interstellar extinction is when electromagnetic radiation gets absorbed and scattered, causing an attenuation of background light. Extinction is more pronounced at shorter wavelengths, thereby also causing a reddening of light (infrared radiation would get attenuated less than ultraviolet). A patch of the sky may seem dark because of this phenomenon. What is the main cause of interstellar extinction?\n\n(A) Interstellar dust\n(B) Dark matter\n(C) Black holes\n(D) Meteoroids",
+     "paper_label": "Round 2 (multiple choice)"
+    },
+    {
+     "day": 2,
+     "number": 18,
+     "problem": "The star Alpha Canis Majoris ($\\alpha$CMa), also known as Sirius, has an apparent magnitude of $m_S = -1.46$ with a parallax of $p_S = 0.380$ arcsec. The binary star system Epsilon Boötis ($\\varepsilon$Boo), better known as Izar, has an apparent magnitude of $m_I = 2.7$ with a parallax of $p_I = 0.014$ arcsec. Which of the celestial objects has more total luminosity (power) and by how many times more? Take Pogson's formula to be $m_1 - m_2 = -2.5\\log_{10}\\left(\\frac{F_2}{F_1}\\right)$.\n\n(A) Izar, 16 times more\n(B) Sirius, 16 times more\n(C) Izar, 256 times more\n(D) Sirius, 256 times more",
+     "paper_label": "Round 2 (multiple choice)"
+    },
+    {
+     "day": 2,
+     "number": 19,
+     "problem": "Which of the following constellations will a planet $\\underline{\\text{not}}$ go through as seen from Earth (at least in the foreseeable future)?\n\n(A) Gemini (Gem)\n(B) Aquarius (Aqr)\n(C) Ophiuchus (Oph)\n(D) Ursa Major (UMa)",
+     "paper_label": "Round 2 (multiple choice)"
+    },
+    {
+     "day": 2,
+     "number": 20,
+     "problem": "Saturn has approximately the same gravitational force on its \"surface\" as on Earth's surface. What's the ratio of the escape velocity ($v_e$) between the surfaces? The mass and radius of Saturn is $5.6 \\cdot 10^{26}$ kg, and $5.8 \\cdot 10^{4}$ km, while Earth's mass and radius are $6.0 \\cdot 10^{24}$ kg, and $6.4 \\cdot 10^{3}$ km.\n\n(A) 1.0\n(B) 2.9\n(C) 9.6\n(D) 25",
+     "paper_label": "Round 2 (multiple choice)"
+    }
+   ]
+  }
+ ]
+}
